@@ -14,3 +14,8 @@ List of podcasts which are helpful for software engineers
 - [Paul's Security Weekly](https://securityweekly.com/)
 - [Haskell Cast](https://www.haskellcast.com/)
 - [The Changelog](https://changelog.com/)
+- [The Bike Shed](http://bikeshed.fm/)
+- [Front End Happy Hour](http://frontendhappyhour.com/)
+- [Coding Blocks](https://www.codingblocks.net/)
+- [Developer Tea](https://spec.fm/podcasts/developer-tea)
+- [Arrested DevOps](https://www.arresteddevops.com/)
