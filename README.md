@@ -19,3 +19,8 @@ List of podcasts which are helpful for software engineers
 - [Podcast.__init__](https://pythonpodcast.com/)
 - [Python Bytes](https://pythonbytes.fm/)
 - [Syntax](https://syntax.fm/)
+- [The Bike Shed](http://bikeshed.fm/)
+- [Front End Happy Hour](http://frontendhappyhour.com/)
+- [Coding Blocks](https://www.codingblocks.net/)
+- [Developer Tea](https://spec.fm/podcasts/developer-tea)
+- [Arrested DevOps](https://www.arresteddevops.com/)
