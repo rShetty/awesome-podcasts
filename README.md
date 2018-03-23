@@ -24,3 +24,4 @@ List of podcasts which are helpful for software engineers
 - [Coding Blocks](https://www.codingblocks.net/)
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 - [Arrested DevOps](https://www.arresteddevops.com/)
+- [The New Stack](https://thenewstack.io/podcasts/)
