@@ -14,3 +14,8 @@ List of podcasts which are helpful for software engineers
 - [Paul's Security Weekly](https://securityweekly.com/)
 - [Haskell Cast](https://www.haskellcast.com/)
 - [The Changelog](https://changelog.com/)
+- [Risky Business](https://risky.biz/netcasts/risky-business/)
+- [Talk Python To Me](https://talkpython.fm/)
+- [Podcast.__init__](https://pythonpodcast.com/)
+- [Python Bytes](https://pythonbytes.fm/)
+- [Syntax](https://syntax.fm/)
