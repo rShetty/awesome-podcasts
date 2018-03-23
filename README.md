@@ -1,6 +1,6 @@
-## Collection of Important Podcasts
+## Collection of Important Podcasts for software engineers
 
-List of podcasts which I listen to regularly in no particular order
+List of podcasts which are helpful for software engineers
 
 - [GoTime](https://changelog.com/gotime)
 - [Security Now](https://twit.tv/shows/security-now)
