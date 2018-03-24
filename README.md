@@ -87,6 +87,12 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Talk Python To Me](https://talkpython.fm/)
 
+## ReasonML
+
+- [Reason Town](https://reason.town/)
+  - <b>Description</b>: A podcast about the ReasonML language
+  - <b>Frequency</b>  : Approximately once a month
+
 
 ## Ruby/Rails
 
