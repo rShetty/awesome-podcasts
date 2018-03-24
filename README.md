@@ -24,14 +24,15 @@ Read the contribution guidelines [here](https://github.com/rShetty/podcasts/blob
 
 ### General software
 
-- [The Bike Shed](http://bikeshed.fm/)
 - [Coding Blocks](https://www.codingblocks.net/)
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 - [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
 - [HAK5](https://www.hak5.org/)
 - [HanselMinutes](https://hanselminutes.com/)
+- [Programming and Performance with Cliff Click](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [Software Engineering Radio](http://www.se-radio.net/)
+- [The Bike Shed](http://bikeshed.fm/)
 - [The Changelog](https://changelog.com/)
 - [The New Stack](https://thenewstack.io/podcasts/)
 
@@ -52,6 +53,7 @@ Read the contribution guidelines [here](https://github.com/rShetty/podcasts/blob
 ### Rust programming language
 
 - [New Rustacean](https://newrustacean.com/)
+- [The Rusty Spike](https://rusty-spike.blubrry.net/)
 
 ### Security
 
@@ -65,5 +67,6 @@ Read the contribution guidelines [here](https://github.com/rShetty/podcasts/blob
 
 - [Front End Happy Hour](http://frontendhappyhour.com/)
 - [Full Stack Radio](http://www.fullstackradio.com/)
+- [Javascript Jabber](https://devchat.tv/js-jabber)
 - [NodeUp](http://nodeup.com/)
 - [Syntax](https://syntax.fm/)
