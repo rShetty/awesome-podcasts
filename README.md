@@ -5,6 +5,7 @@ List of podcasts which are helpful for software engineers/programmers.
 ## Android
 
 - [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
+
   - <b>Description</b>: Podcast interviewing Google engineers about the latest Android APIs
   - <b>Frequency</b>  : Monthly once
 
@@ -12,6 +13,7 @@ List of podcasts which are helpful for software engineers/programmers.
 ## C++
 
 - [CppCast](http://cppcast.com/)
+
   - <b>Description</b>: All about C++ and many great interviews with prominent library and tool authors.
   - <b>Frequency</b>  : Weekly
 
