@@ -28,6 +28,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
+- [Talking Machines](https://www.thetalkingmachines.com)
+
+  - <b>Description</b>: Conversations with experts in the field, discussions of industry news, and answers to questions.
+
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
 
 
