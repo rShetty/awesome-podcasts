@@ -1,6 +1,6 @@
 ## Collection of Important Podcasts for software engineers
 
-List of podcasts which are helpful for software engineers
+List of podcasts which are helpful for software engineers/programmers
 
 ### Data/MachineLearning
 
