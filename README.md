@@ -1,4 +1,4 @@
-## Collection of Important Podcasts for software engineers
+## Awesome list of Important Podcasts for software engineers
 
 List of podcasts which are helpful for software engineers/programmers.
 
