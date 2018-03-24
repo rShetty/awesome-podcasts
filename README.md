@@ -22,6 +22,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
 
+  - <b>Description</b>: Interviews with the world’s leading experts in
+                        artificial intelligence, deep learning, and machine
+                        learning to explain how it works, how it’s
+                        evolving, and how it intersects with every facet of
+                        human endeavor, from art to science.
+  - <b>Frequency</b>  : Weekly
+
 - [Data Driven](http://datadriven.tv/)
 
 - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
@@ -30,7 +37,9 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Talking Machines](https://www.thetalkingmachines.com)
 
-  - <b>Description</b>: Conversations with experts in the field, discussions of industry news, and answers to questions.
+  - <b>Description</b>: Conversations with experts in the field, discussions
+                        of industry news, and answers to questions.
+  - <b>Frequency</b>  : Every other week
 
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
 
