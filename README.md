@@ -2,6 +2,13 @@
 
 List of podcasts which are helpful for software engineers/programmers.
 
+## C++
+
+- [CppCast](http://cppcast.com/)
+  - <b>Description</b>: All about C++ and many great interviews with prominent library and tool authors.
+  - <b>Frequency</b>  : Weekly
+
+
 ## Data/MachineLearning
 
 - [Data Driven](http://datadriven.tv/)
@@ -24,7 +31,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [FunctionalGeekery](https://www.functionalgeekery.com/)
   - <b>Description</b>: All functional programming languages
-  - <b>Frequency</b>  : Monthly once 
+  - <b>Frequency</b>  : Monthly once
 
 - [Haskell Cast](https://www.haskellcast.com/)
   - <b>Description</b>: Core haskell concepts
@@ -42,13 +49,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
   - <b>Description</b>: Anything and everything related to software
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 - [HAK5](https://www.hak5.org/)
 
 - [HanselMinutes](https://hanselminutes.com/)
   - <b>Description</b>: Anything and everything related to software
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 - [Programming and Performance with Cliff Click](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 
@@ -58,15 +65,15 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Software Engineering Radio](http://www.se-radio.net/)
   - <b>Description</b>: Anything and everything related to software
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 - [The Bike Shed](http://bikeshed.fm/)
   - <b>Description</b>: Ruby, Rails, Javascript
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 - [The Changelog](https://changelog.com/)
   - <b>Description</b>: Anything and everything related to software
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 - [The New Stack](https://thenewstack.io/podcasts/)
 
@@ -76,7 +83,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [GoTime](https://changelog.com/gotime)
 
   - <b>Description</b>: Everything connected with Go Programming language
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 
 ## Python
@@ -99,7 +106,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Ruby Rogues](https://devchat.tv/ruby-rogues)
 
   - <b>Description</b>: Ruby and Rails
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 
 ## Rust programming language
@@ -107,7 +114,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - [New Rustacean](https://newrustacean.com/)
 
 - [The Rusty Spike](https://rusty-spike.blubrry.net/)
-
 
 ## Security
 
@@ -117,13 +123,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Paul's Security Weekly](https://securityweekly.com/)
   - <b>Description</b>: All news on Security
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 - [Risky Business](https://risky.biz/netcasts/risky-business/)
 
 - [Security Now](https://twit.tv/shows/security-now)
   - <b>Description</b>: Deep dive into Security concepts and news
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 
 ## Web development
