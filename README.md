@@ -20,6 +20,8 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Data/MachineLearning
 
+- [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
+
 - [Data Driven](http://datadriven.tv/)
 
 - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
