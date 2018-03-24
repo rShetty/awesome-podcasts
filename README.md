@@ -15,7 +15,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [CppCast](http://cppcast.com/)
 
   - <b>Description</b>: All about C++ and many great interviews with prominent library and tool authors.
-  - <b>Frequency</b>  : Weekly
+  - <b>Frequency</b>  : Once every week
 
 
 ## Data/MachineLearning
@@ -32,11 +32,15 @@ List of podcasts which are helpful for software engineers/programmers.
 ## Devops
 
 - [Arrested DevOps](https://www.arresteddevops.com/)
+  - <b>Description</b>: ADO helps you understand and develop good DevOps practices. 
+  - <b>Frequency</b>  : Varies
 
 
 ## Functional Programming
 
 - [Elm Town](https://elmtown.audio/)
+  - <b>Description</b>: About the people making and using the Elm language.
+  - <b>Frequency</b>  : Varies
 
 - [FunctionalGeekery](https://www.functionalgeekery.com/)
   - <b>Description</b>: All functional programming languages
