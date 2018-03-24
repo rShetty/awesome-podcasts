@@ -34,10 +34,9 @@ Read the contribution guidelines [here](https://github.com/rShetty/podcasts/blob
 - [HAK5](https://www.hak5.org/)
 - [HanselMinutes](https://hanselminutes.com/)
 - [Programming and Performance with Cliff Click](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
-
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
-  Description:  Podcasts on technical software topics
-  Frequency: Multiple episodes every week
+  - <b>Description</b>:  Podcasts on technical software topics
+  - <b>Frequency</b>  :  Multiple episodes every week
 
 - [Software Engineering Radio](http://www.se-radio.net/)
 - [The Bike Shed](http://bikeshed.fm/)
