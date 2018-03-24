@@ -33,8 +33,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
 
 
-
-
 ## Devops
 
 - [Arrested DevOps](https://www.arresteddevops.com/)
