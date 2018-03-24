@@ -77,6 +77,7 @@ List of podcasts which are helpful for software engineers/programmers.
 ### Go Programming Language
 
 - [GoTime](https://changelog.com/gotime)
+
   - <b>Description</b>: Everything connected with Go Programming language
   - <b>Frequency</b>  : Once every week 
 
@@ -93,6 +94,7 @@ List of podcasts which are helpful for software engineers/programmers.
 ### Ruby/Rails
 
 - [Ruby Rogues](https://devchat.tv/ruby-rogues)
+
   - <b>Description</b>: Ruby and Rails
   - <b>Frequency</b>  : Once every week 
 
