@@ -1,6 +1,7 @@
 ## Collection of Important Podcasts for software engineers
 
-List of podcasts which are helpful for software engineers/programmers
+List of podcasts which are helpful for software engineers/programmers.
+
 Read the contribution guidelines [here](https://github.com/rShetty/podcasts/blob/master/guidelines.md)
 
 ### Data/MachineLearning
