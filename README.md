@@ -19,6 +19,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
 
+- [Data Skeptic](https://dataskeptic.com/podcast)
+
+- [Linear Digressions](http://lineardigressions.com/)
+
 
 ## Devops
 
