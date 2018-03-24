@@ -2,9 +2,6 @@
 
 List of podcasts which are helpful for software engineers/programmers.
 
-### Note: Read the contribution guidelines [here](https://github.com/rShetty/podcasts/blob/master/guidelines.md)
-
-
 ## Data/MachineLearning
 
 - [Data Driven](http://datadriven.tv/)
