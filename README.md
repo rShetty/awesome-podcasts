@@ -1,11 +1,11 @@
-## Awesome list of Important Podcasts for software engineers
+# Awesome list of Important Podcasts for software engineers
 
 List of podcasts which are helpful for software engineers/programmers.
 
 ### Note: Read the contribution guidelines [here](https://github.com/rShetty/podcasts/blob/master/guidelines.md)
 
 
-### Data/MachineLearning
+## Data/MachineLearning
 
 - [Data Driven](http://datadriven.tv/)
 
@@ -16,12 +16,12 @@ List of podcasts which are helpful for software engineers/programmers.
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
 
 
-### Devops
+## Devops
 
 - [Arrested DevOps](https://www.arresteddevops.com/)
 
 
-### Functional Programming
+## Functional Programming
 
 - [Elm Town](https://elmtown.audio/)
 
@@ -37,7 +37,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Functional programming core concepts
   - <b>Frequency</b>  : Once in 2 months
 
-### General software
+## General software
 
 - [Coding Blocks](https://www.codingblocks.net/)
 
@@ -74,7 +74,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [The New Stack](https://thenewstack.io/podcasts/)
 
 
-### Go Programming Language
+## Go Programming Language
 
 - [GoTime](https://changelog.com/gotime)
 
@@ -82,7 +82,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week 
 
 
-### Python
+## Python
 
 - [Podcast.__init__](https://pythonpodcast.com/)
 
@@ -91,7 +91,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Talk Python To Me](https://talkpython.fm/)
 
 
-### Ruby/Rails
+## Ruby/Rails
 
 - [Ruby Rogues](https://devchat.tv/ruby-rogues)
 
@@ -99,14 +99,14 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week 
 
 
-### Rust programming language
+## Rust programming language
 
 - [New Rustacean](https://newrustacean.com/)
 
 - [The Rusty Spike](https://rusty-spike.blubrry.net/)
 
 
-### Security
+## Security
 
 - [Defensive Security Podcast](https://defensivesecurity.org/)
 
@@ -123,7 +123,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week 
 
 
-### Web development
+## Web development
 
 - [Front End Happy Hour](http://frontendhappyhour.com/)
 - [Full Stack Radio](http://www.fullstackradio.com/)
