@@ -2,6 +2,13 @@
 
 List of podcasts which are helpful for software engineers/programmers.
 
+## .NET
+
+- [.NET Rocks](https://www.dotnetrocks.com/)
+
+  - <b>description</b>: Show about all things related to programming in .NET.
+  - <b>Frequency</b>: Once every week
+
 ## Android
 
 - [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
