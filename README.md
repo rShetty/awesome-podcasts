@@ -130,7 +130,19 @@ List of podcasts which are helpful for software engineers/programmers.
 - [The Changelog](https://changelog.com/)
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
-
+  
+- [The raywenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
+  - <b>Description</b>: discuss every aspect of app development.Primarily focusing on Apple technology.  
+  - <b>Frequency</b>  : Once per month
+  
+- Toolsday ([By Spec](https://spec.fm/podcasts/toolsday) | [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
+  - <b>Description</b>:the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong).  
+  - <b>Frequency</b>  : Once every week
+  
+- [Developer On Fire](http://developeronfire.com/episodes)
+  - <b>Description</b>: Inspiring software developers tell their stories.  
+  - <b>Frequency</b>  : Once or twice every week
+  
 - [The New Stack](https://thenewstack.io/podcasts/)
 
 
@@ -165,10 +177,17 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week
 
 ## Kotlin
+
 - [Talking kotlin](http://talkingkotlin.com)
 
   - <b>Description</b>: Kotlin and more
   - <b>Frequency</b>  : Approximately once a month
+  
+## Swift
+
+- Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2)
+  - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.  
+  - <b>Frequency</b>  : Once every week
 
 ## Rust programming language
 
@@ -194,6 +213,9 @@ List of podcasts which are helpful for software engineers/programmers.
 
 
 ## Web development
+- Does Not Compute ([By Spec](https://spec.fm/podcasts/does-not-compute) | [iTunes](https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2))
+  - <b>Description</b>: A weekly chat about the lives and workflows of modern web developers.  
+  - <b>Frequency</b>  : Once every week
 
 - [Front End Happy Hour](http://frontendhappyhour.com/)
 
