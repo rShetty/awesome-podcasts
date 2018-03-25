@@ -75,6 +75,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## General software
 
+- [Code](https://codepodcast.com/)
+  - <b>Description</b>: Code Podcast is about ideas that shape the way we build software
+  - <b>Frequency</b>  : Monthly once
+
 - [Coding Blocks](https://www.codingblocks.net/)
 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
