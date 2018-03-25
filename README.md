@@ -17,8 +17,8 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b> : Weekly
   
 - [Linear Digressions](http://lineardigressions.com/)
-- <b>Description</b>: Data science, machine learning, artificial intelligence
-- <b>Frequency</b>: Weekly
+  - <b>Description</b>: Data science, machine learning, artificial intelligence
+  - <b>Frequency</b>: Weekly
 
 - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
