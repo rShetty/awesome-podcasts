@@ -8,7 +8,16 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: Podcast interviewing Google engineers about the latest Android APIs
   - <b>Frequency</b>  : Monthly once
+  
+- [Android Snacks](http://androidsnacks.com)
 
+  - <b>Description</b>: The TL;DR of last weeks Android developer news
+  - <b>Frequency</b>  : Weekly once
+  
+- [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/)
+
+  - <b>Description</b>: An Android Developer Podcast
+  - <b>Frequency</b>  : Weekly once or twice 
 
 ## C++
 
@@ -144,6 +153,11 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Ruby and Rails
   - <b>Frequency</b>  : Once every week
 
+## Kotlin
+- [Talking kotlin](http://talkingkotlin.com)
+
+  - <b>Description</b>: Kotlin and more
+  - <b>Frequency</b>  : Approximately once a month
 
 ## Rust programming language
 
