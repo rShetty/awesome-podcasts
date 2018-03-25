@@ -6,7 +6,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [.NET Rocks](https://www.dotnetrocks.com/)
 
-  - <b>description</b>: Show about all things related to programming in .NET.
+  - <b>Description</b>: Show about all things related to programming in .NET.
   - <b>Frequency</b>: Once every week
 
 ## Android
@@ -34,7 +34,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week
 
 
-## Data/MachineLearning
+## Data Science/Machine Learning
 
 - [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
 
@@ -54,6 +54,10 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
 - [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
+
+- [Super DataScience](https://www.superdatascience.com/podcast/)
+  - <b>Description</b>: Podcast that interviews various people in the data science industry.
+  - <b>Frequency</b>: Once every week
 
 - [Talking Machines](https://www.thetalkingmachines.com)
 
