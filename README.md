@@ -185,7 +185,7 @@ List of podcasts which are helpful for software engineers/programmers.
   
 ## Swift
 
-- Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2)
+- Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
   - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.  
   - <b>Frequency</b>  : Once every week
 
@@ -213,6 +213,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 
 ## Web development
+
 - Does Not Compute ([By Spec](https://spec.fm/podcasts/does-not-compute) | [iTunes](https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2))
   - <b>Description</b>: A weekly chat about the lives and workflows of modern web developers.  
   - <b>Frequency</b>  : Once every week
