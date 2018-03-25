@@ -71,6 +71,7 @@ List of podcasts which are helpful for software engineers/programmers.
 ## Devops
 
 - [Arrested DevOps](https://www.arresteddevops.com/)
+
   - <b>Description</b>: ADO helps you understand and develop good DevOps practices. 
   - <b>Frequency</b>  : Varies
 
@@ -169,6 +170,7 @@ List of podcasts which are helpful for software engineers/programmers.
 ## ReasonML
 
 - [Reason Town](https://reason.town/)
+
   - <b>Description</b>: A podcast about the ReasonML language
   - <b>Frequency</b>  : Approximately once a month
 
@@ -190,6 +192,7 @@ List of podcasts which are helpful for software engineers/programmers.
 ## Swift
 
 - Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
+
   - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.  
   - <b>Frequency</b>  : Once every week
 
