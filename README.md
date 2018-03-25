@@ -22,6 +22,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Data Driven](http://datadriven.tv/)
 
+- [Data Skeptic](https://dataskeptic.com/podcast)
+  - <b>Description</b>: Podcast explaining high level concepts in data science, and longer interview segments with researchers and practitioners.
+  - <b>Frequency</b>  : Once every week
+
 - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
 - [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
