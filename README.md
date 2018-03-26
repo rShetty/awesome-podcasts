@@ -120,6 +120,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Programming and Performance with Cliff Click](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 
+- [Programming Throwdown](http://www.programmingthrowdown.com/)
+  - <b>Description</b>: Anything and everything related to software
+  - <b>Frequency</b>: Once per month
+
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
   - <b>Description</b>: Podcasts on technical software topics
   - <b>Frequency</b>  : Multiple episodes every week
