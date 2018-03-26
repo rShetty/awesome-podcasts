@@ -104,8 +104,16 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Code Podcast is about ideas that shape the way we build software
   - <b>Frequency</b>  : Monthly once
 
+- [Code Newbie](https://www.codenewbie.org/podcast)
+  - <b>Description</b>: Stories from people on their coding journey.  
+  - <b>Frequency</b>  : every Monday
+  
 - [Coding Blocks](https://www.codingblocks.net/)
 
+- [Developer On Fire](http://developeronfire.com/episodes)
+  - <b>Description</b>: Inspiring software developers tell their stories.  
+  - <b>Frequency</b>  : Once or twice every week
+ 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
 - [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
@@ -147,15 +155,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - Toolsday ([By Spec](https://spec.fm/podcasts/toolsday) | [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
   - <b>Description</b>:the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong).  
   - <b>Frequency</b>  : Once every week
-  
-- [Developer On Fire](http://developeronfire.com/episodes)
-  - <b>Description</b>: Inspiring software developers tell their stories.  
-  - <b>Frequency</b>  : Once or twice every week
- 
- 
-- [Code Newbie](https://www.codenewbie.org/podcast)
-  - <b>Description</b>: Stories from people on their coding journey.  
-  - <b>Frequency</b>  : every Monday
   
 - [The New Stack](https://thenewstack.io/podcasts/)
 
