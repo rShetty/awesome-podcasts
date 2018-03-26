@@ -250,6 +250,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Front End Happy Hour](http://frontendhappyhour.com/)
 
+- [Frontend Weekend](https://soundcloud.com/frontend-weekend)
+  - <b>Description</b>: An interview podcast with famous Russian web developers.  
+  - <b>Frequency</b>  : Once every week
+
 - [Full Stack Radio](http://www.fullstackradio.com/)
 
 - [Javascript Jabber](https://devchat.tv/js-jabber)
