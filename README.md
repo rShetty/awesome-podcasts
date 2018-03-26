@@ -151,6 +151,11 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Developer On Fire](http://developeronfire.com/episodes)
   - <b>Description</b>: Inspiring software developers tell their stories.  
   - <b>Frequency</b>  : Once or twice every week
+ 
+ 
+- [Code Newbie](https://www.codenewbie.org/podcast)
+  - <b>Description</b>: Stories from people on their coding journey.  
+  - <b>Frequency</b>  : every Monday
   
 - [The New Stack](https://thenewstack.io/podcasts/)
 
