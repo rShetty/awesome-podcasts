@@ -193,6 +193,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week.
 
 - My Ruby Story ([By devchat](https://devchat.tv/my-ruby-story) | [iTunes](https://itunes.apple.com/us/podcast/my-ruby-story/id1237404328?mt=2))
+
   - <b>Description</b>: A weekly exploration into the people who make Ruby what it is.
   - <b>Frequency</b>  : Once every week
   
