@@ -182,6 +182,20 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Ruby and Rails
   - <b>Frequency</b>  : Once every week
 
+- [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
+
+  - <b>Description</b>: conversation about Ruby on Rails,open source software, and the programming profession.
+  - <b>Frequency</b>  : Once every month.
+  
+- [RubyTapas](https://www.rubytapas.com)
+
+  - <b>Description</b>: for the busy Ruby or Rails developer who is ready to reach the next level of code mastery.
+  - <b>Frequency</b>  : Once every week.
+
+- My Ruby Story ([By devchat](https://devchat.tv/my-ruby-story) | [iTunes](https://itunes.apple.com/us/podcast/my-ruby-story/id1237404328?mt=2))
+  - <b>Description</b>: A weekly exploration into the people who make Ruby what it is.
+  - <b>Frequency</b>  : Once every week
+  
 ## Kotlin
 
 - [Talking kotlin](http://talkingkotlin.com)
