@@ -211,6 +211,19 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: Kotlin and more
   - <b>Frequency</b>  : Approximately once a month
+
+## Java
+
+- [Enterprise Java Newscast](http://www.enterprisejavanews.com)
+
+  - <b>Description</b>: covers the latest headlines in the world of enterprise software development.
+  - <b>Frequency</b>  : Approximately once a month
+  
+- [Java Pub House](http://www.javapubhouse.com)
+
+  - <b>Description</b>: podcast talks about how to program in Java.
+  - <b>Frequency</b>  : Approximately once a month
+  
   
 ## Swift
 
@@ -218,6 +231,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.  
   - <b>Frequency</b>  : Once every week
+
 
 ## Rust programming language
 
