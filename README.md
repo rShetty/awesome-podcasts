@@ -162,6 +162,10 @@ List of podcasts which are helpful for software engineers/programmers.
 - [The Changelog](https://changelog.com/)
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
+
+- [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast)
+  - <b>Description</b>: Podcasts on technical software topics, interviewes with some of the top                           CTOs, engineers and technology directors.
+  - <b>Frequency</b>  : Once every week
   
 - [The raywenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
   - <b>Description</b>: discuss every aspect of app development.Primarily focusing on Apple technology.  
