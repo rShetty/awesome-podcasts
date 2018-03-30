@@ -13,6 +13,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: show covering a broad range of .NET-related topics in considerable technical depth.
   - <b>Frequency</b>: Monthly once 
+  
+## Agile
+- [Agile For Humans](https://ryanripley.com/agile-for-humans/)
+  -<b>Description</b>: Interviews people about Agile and becoming better at Agile
+  - <b>Frequency</b>: Once a week
 
 ## Android
 
