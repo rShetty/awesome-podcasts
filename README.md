@@ -298,6 +298,11 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>: Approximately once a month
 
 - [Javascript Jabber](https://devchat.tv/js-jabber)
+  
+- [Multiplex](https://www.multiplexpodcast.com/)
+
+  - <b>Description</b>: General software development and devops discussion.
+  - <b>Frequency</b>: Every other week 
 
 - [NodeUp](http://nodeup.com/)
 
