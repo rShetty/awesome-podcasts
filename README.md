@@ -140,6 +140,10 @@ List of podcasts which are helpful for software engineers/programmers.
 - [HanselMinutes](https://hanselminutes.com/)
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
+  
+- [MS Dev Show](https://msdevshow.com/)
+  - <b>Description</b>: A podcast for developers covering topics such as Azure/cloud, .NET, Visual Studio, Node.js, ML/AI and more! Hosted by Jason Young and Carl Schweitzer.
+  - <b>Frequency</b>  : Once every week
 
 - [Programming and Performance with Cliff Click](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 
