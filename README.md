@@ -155,6 +155,10 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
 
+- [The Accidental Engineer](https://theaccidentalengineer.com/)
+  - <b>Description</b>: Software engineering career advice
+  - <b>Frequency</b>  : Once every week
+
 - [The Bike Shed](http://bikeshed.fm/)
   - <b>Description</b>: Ruby, Rails, Javascript
   - <b>Frequency</b>  : Once every week
