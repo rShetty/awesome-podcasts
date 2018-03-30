@@ -36,6 +36,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: An Android Developer Podcast
   - <b>Frequency</b>  : Weekly once or twice
+  
+## Angular
+
+- [Adventures in Angular](https://devchat.tv/adv-in-angular)
+
+  - <b>Description</b>: Developments in the Angular community, tools, techniques, and ecosystem.
+  - <b>Frequency</b>  : Once every week
 
 ## C++
 
