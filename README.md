@@ -8,6 +8,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: Show about all things related to programming in .NET.
   - <b>Frequency</b>: Once every week
+  
+- [HERDING CODE](http://herdingcode.com)
+
+  - <b>Description</b>: show covering a broad range of .NET-related topics in considerable technical depth.
+  - <b>Frequency</b>: Monthly once 
 
 ## Android
 
