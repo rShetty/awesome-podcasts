@@ -8,12 +8,12 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: Show about all things related to programming in .NET.
   - <b>Frequency</b>: Once every week
-  
+
 - [HERDING CODE](http://herdingcode.com)
 
   - <b>Description</b>: show covering a broad range of .NET-related topics in considerable technical depth.
-  - <b>Frequency</b>: Monthly once 
-  
+  - <b>Frequency</b>: Monthly once
+
 ## Agile
 - [Agile For Humans](https://ryanripley.com/agile-for-humans/)
 
@@ -26,16 +26,16 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: Podcast interviewing Google engineers about the latest Android APIs
   - <b>Frequency</b>  : Monthly once
-  
+
 - [Android Snacks](http://androidsnacks.com)
 
   - <b>Description</b>: The TL;DR of last weeks Android developer news
   - <b>Frequency</b>  : Weekly once
-  
+
 - [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/)
 
   - <b>Description</b>: An Android Developer Podcast
-  - <b>Frequency</b>  : Weekly once or twice 
+  - <b>Frequency</b>  : Weekly once or twice
 
 ## C++
 
@@ -61,7 +61,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Data Skeptic](https://dataskeptic.com/podcast)
   - <b>Description</b>: High level concepts in data science, and longer interview with researchers and practitioners
   - <b>Frequency</b>: Weekly
-  
+
 - [Linear Digressions](http://lineardigressions.com/)
   - <b>Description</b>: Data science, machine learning, artificial intelligence
   - <b>Frequency</b>: Weekly
@@ -87,14 +87,14 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Arrested DevOps](https://www.arresteddevops.com/)
 
-  - <b>Description</b>: ADO helps you understand and develop good DevOps practices. 
+  - <b>Description</b>: ADO helps you understand and develop good DevOps practices.
   - <b>Frequency</b>  : Varies
 
 
 ## Functional Programming
 
 - Elixir Talk ([Soundcloud](https://soundcloud.com/elixirtalk) | [iTunes](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048))
-  - <b>Description</b>: Titillating discussion about Elixir application design and ecosystem state.  
+  - <b>Description</b>: Titillating discussion about Elixir application design and ecosystem state.
   - <b>Frequency</b>  : Twice per month
 
 - [Elm Town](https://elmtown.audio/)
@@ -120,15 +120,15 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Monthly once
 
 - [Code Newbie](https://www.codenewbie.org/podcast)
-  - <b>Description</b>: Stories from people on their coding journey.  
+  - <b>Description</b>: Stories from people on their coding journey.
   - <b>Frequency</b>  : every Monday
-  
+
 - [Coding Blocks](https://www.codingblocks.net/)
 
 - [Developer On Fire](http://developeronfire.com/episodes)
-  - <b>Description</b>: Inspiring software developers tell their stories.  
+  - <b>Description</b>: Inspiring software developers tell their stories.
   - <b>Frequency</b>  : Once or twice every week
- 
+
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
 - [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
@@ -166,15 +166,15 @@ List of podcasts which are helpful for software engineers/programmers.
 - [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast)
   - <b>Description</b>: Podcasts on technical software topics, interviewes with some of the top                           CTOs, engineers and technology directors.
   - <b>Frequency</b>  : Once every week
-  
+
 - [The raywenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
-  - <b>Description</b>: discuss every aspect of app development.Primarily focusing on Apple technology.  
+  - <b>Description</b>: discuss every aspect of app development.Primarily focusing on Apple technology.
   - <b>Frequency</b>  : Once per month
-  
+
 - Toolsday ([By Spec](https://spec.fm/podcasts/toolsday) | [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
-  - <b>Description</b>:the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong).  
+  - <b>Description</b>:the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong).
   - <b>Frequency</b>  : Once every week
-  
+
 - [The New Stack](https://thenewstack.io/podcasts/)
 
 
@@ -189,10 +189,16 @@ List of podcasts which are helpful for software engineers/programmers.
 ## Python
 
 - [Podcast.__init__](https://pythonpodcast.com/)
+  - <b>Description</b>: The Podcast About Python and the People Who Make It Great
+  - <b>Frequency</b>  : Once every week
 
 - [Python Bytes](https://pythonbytes.fm/)
+  - <b>Description</b>: Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don't have time to scour reddit, twitter, and other news sources, just subscribe and you'll get the best picks delivered weekly.
+  - <b>Frequency</b>  : Once every week
 
 - [Talk Python To Me](https://talkpython.fm/)
+  - <b>Description</b>: Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
+  - <b>Frequency</b>  : Once every week
 
 ## ReasonML
 
@@ -213,7 +219,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: conversation about Ruby on Rails,open source software, and the programming profession.
   - <b>Frequency</b>  : Once every month.
-  
+
 - [RubyTapas](https://www.rubytapas.com)
 
   - <b>Description</b>: for the busy Ruby or Rails developer who is ready to reach the next level of code mastery.
@@ -223,7 +229,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: A weekly exploration into the people who make Ruby what it is.
   - <b>Frequency</b>  : Once every week
-  
+
 ## Kotlin
 
 - [Talking kotlin](http://talkingkotlin.com)
@@ -237,18 +243,18 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: covers the latest headlines in the world of enterprise software development.
   - <b>Frequency</b>  : Approximately once a month
-  
+
 - [Java Pub House](http://www.javapubhouse.com)
 
   - <b>Description</b>: podcast talks about how to program in Java.
   - <b>Frequency</b>  : Approximately once a month
-  
-  
+
+
 ## Swift
 
 - Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
 
-  - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.  
+  - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
   - <b>Frequency</b>  : Once every week
 
 
@@ -282,13 +288,13 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>: Approximately once a month
 
 - Does Not Compute ([By Spec](https://spec.fm/podcasts/does-not-compute) | [iTunes](https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2))
-  - <b>Description</b>: A weekly chat about the lives and workflows of modern web developers.  
+  - <b>Description</b>: A weekly chat about the lives and workflows of modern web developers.
   - <b>Frequency</b>  : Once every week
 
 - [Front End Happy Hour](http://frontendhappyhour.com/)
 
 - [Frontend Weekend](https://soundcloud.com/frontend-weekend)
-  - <b>Description</b>: An interview podcast with famous Russian web developers.  
+  - <b>Description</b>: An interview podcast with famous Russian web developers.
   - <b>Frequency</b>  : Once every week
 
 - [Full Stack Radio](http://www.fullstackradio.com/)
