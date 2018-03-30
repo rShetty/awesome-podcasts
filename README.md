@@ -16,7 +16,8 @@ List of podcasts which are helpful for software engineers/programmers.
   
 ## Agile
 - [Agile For Humans](https://ryanripley.com/agile-for-humans/)
-  -<b>Description</b>: Interviews people about Agile and becoming better at Agile
+
+  - <b>Description</b>: Interviews people about Agile and becoming better at Agile
   - <b>Frequency</b>: Once a week
 
 ## Android
