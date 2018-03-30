@@ -289,12 +289,12 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Full Stack Radio](http://www.fullstackradio.com/)
 
+- [HTTP203](https://developers.google.com/web/shows/http203/podcast/)
+  - <b>Description</b>: A podcast by Google Chrome developer advocates covering all things web.
+  - <b>Frequency</b>: Approximately once a month
+
 - [Javascript Jabber](https://devchat.tv/js-jabber)
 
 - [NodeUp](http://nodeup.com/)
 
 - [Syntax](https://syntax.fm/)
-
-- [HTTP203](https://developers.google.com/web/shows/http203/podcast/)
-  - <b>Description</b>: A podcast by Google Chrome developer advocates covering all things web.
-  - <b>Frequency</b>: Approximately once a month
