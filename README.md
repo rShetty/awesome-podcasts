@@ -197,6 +197,10 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Enterprise software development, distributed systems and whatever our guests find interesting.
   - <b>Frequency</b>  : Once every Thursday
 
+- [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
+  - <b>Description</b>: Interviews with members of the Open Source and Free Software community.
+  - <b>Frequency</b>  : Once every week 
+
 - [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
