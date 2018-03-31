@@ -101,6 +101,16 @@ List of podcasts which are helpful for software engineers/programmers.
   - **Description**: Snarky take on devops topics
   - **Frequency**: Weekly-ish.
 
+## FreeBSD
+
+- [FreeBSDNow](http://www.bsdnow.tv/)
+  - **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
+  - **Frequency**: Weekly (Wednesday US Eastern)
+  - **RSS**
+    - [MP3](http://feeds.feedburner.com/BsdNowMp3)
+    - [Video](http://feeds.feedburner.com/BsdNowMobile)
+    - [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
+
 ## Functional Programming
 
 - Elixir Talk ([Soundcloud](https://soundcloud.com/elixirtalk) | [iTunes](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048))
