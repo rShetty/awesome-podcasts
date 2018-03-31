@@ -177,6 +177,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [The New Stack](https://thenewstack.io/podcasts/)
 
+- [The Women in Tech Show](https://thewomenintechshow.com)
+  - <b>Description</b>: Technical interviews with prominent women in tech.
+  - <b>Frequency</b>  : Once every week
+
 
 ## Go Programming Language
 
