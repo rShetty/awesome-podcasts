@@ -142,6 +142,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
+- [Five Nines of Downtime](https://soundcloud.com/fiveninesofdowntime)
+  - <b>Description</b>: Enterprise software development, distributed systems and whatever our guests find interesting.
+  - <b>Frequency</b>  : Once every Thursday
+
 - [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
