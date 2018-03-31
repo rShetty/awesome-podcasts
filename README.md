@@ -170,6 +170,10 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Lambdacast](https://soundcloud.com/lambda-cast)
   - <b>Description</b>: Functional programming core concepts
   - <b>Frequency</b>  : Once in 2 months
+ 
+- [The Elixir Fountain](https://soundcloud.com/elixirfountain)
+  - <b>Description</b>: Podcasts for news & interviews from around the @Elixirlang Community
+  - <b>Frequency</b>  : Varies
 
 ## General software
 
