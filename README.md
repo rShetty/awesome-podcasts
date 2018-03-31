@@ -84,6 +84,12 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Interviews with leaders and folks of the Clojure and ClojureScript community.
   - <b>Frequency</b>  : Every other week
 
+- [Cognicast](http://blog.cognitect.com/cognicast)
+
+  - <b>Description</b>: Interviews with leaders and folks of the Clojure and ClojureScript community.
+  - <b>Frequency</b>  : Monthly twice
+
+
 ## Data Science/Machine Learning
 
 - [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
