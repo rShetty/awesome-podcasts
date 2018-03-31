@@ -123,6 +123,10 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Stories from people on their coding journey.
   - <b>Frequency</b>  : every Monday
 
+- [Coder Radio](http://coder.show)
+  - <b>Description</b>: A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies.
+  - <b>Frequency</b>  : Weekly
+
 - [Coding Blocks](https://www.codingblocks.net/)
 
 - [Developer On Fire](http://developeronfire.com/episodes)
