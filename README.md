@@ -90,6 +90,9 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: ADO helps you understand and develop good DevOps practices.
   - <b>Frequency</b>  : Varies
 
+- [Screaming in the Cloud](https://www.screaminginthecloud.com/)
+  - **Description**: Snarky take on devops topics
+  - **Frequency**: Weekly-ish.
 
 ## Functional Programming
 
