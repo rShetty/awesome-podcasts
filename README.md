@@ -363,7 +363,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Scalalaz](https://scalalaz.ru/)
 
   - <b>Description</b>: Russian-speaking podcast about Scala, functional programming and software development
-  - <b>Frequency</b>  : Once in 2 weeks
+  - <b>Frequency</b>: Once in 2 weeks
 
 ## Swift
 
