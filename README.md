@@ -22,6 +22,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Ruby/Rails](#rubyrails)
 - [Kotlin](#kotlin)
 - [Java](#java)
+- [Scala](#scala)
 - [Swift](#swift)
 - [Rust Programming Language](#rust-programming-language)
 - [Security](#security)
