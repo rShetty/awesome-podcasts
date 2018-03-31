@@ -2,6 +2,28 @@
 
 List of podcasts which are helpful for software engineers/programmers.
 
+## Table of Contents
+
+- [.NET](#net)
+- [Agile](#agile)
+- [Android](#android)
+- [Angular](#angular)
+- [C++](#c)
+- [Data Science/Machine Learning](#data-sciencemachine-learning)
+- [Devops](#devops)
+- [Functional Programming](#functional-programming)
+- [General Software](#general-software)
+- [Go Programming Language](#go-programming-language)
+- [Python](#python)
+- [ReasonML](#reasonml)
+- [Ruby/Rails](#rubyrails)
+- [Kotlin](#kotlin)
+- [Java](#java)
+- [Swift](#swift)
+- [Rust Programming Language](#rust-programming-language)
+- [Security](#security)
+- [Web development](#web-development)
+
 ## .NET
 
 - [.NET Rocks](https://www.dotnetrocks.com/)
