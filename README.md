@@ -207,7 +207,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Python
 
-- [Podcast.__init__](https://pythonpodcast.com/)
+- [Podcast.\_\_init\_\_](https://pythonpodcast.com/)
   - <b>Description</b>: The Podcast About Python and the People Who Make It Great
   - <b>Frequency</b>  : Once every week
 
