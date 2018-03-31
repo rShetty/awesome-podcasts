@@ -12,6 +12,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Data Science/Machine Learning](#data-sciencemachine-learning)
 - [Devops](#devops)
 - [Functional Programming](#functional-programming)
+- [Free BSD](#freebsd)
 - [General Software](#general-software)
 - [Go Programming Language](#go-programming-language)
 - [Python](#python)
