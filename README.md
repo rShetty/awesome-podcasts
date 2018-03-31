@@ -16,6 +16,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Free BSD](#freebsd)
 - [General Software](#general-software)
 - [Go Programming Language](#go-programming-language)
+- [iOS](#ios)
 - [Python](#python)
 - [ReasonML](#reasonml)
 - [Ruby/Rails](#rubyrails)
@@ -262,6 +263,24 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: Everything connected with Go Programming language
   - <b>Frequency</b>  : Once every week
+
+
+## iOS
+
+- [iPhreaks](https://devchat.tv/iphreaks)
+
+  - <b>Description</b>: Weekly panel discussion podcast about all things iOS programming.
+  - <b>Frequency</b>: Once every week
+
+- [Under the Radar](https://www.relay.fm/radar)
+
+  - <b>Description</b>: From development and design to marketing and support, Under the Radar is all about independent app development.
+  - <b>Frequency</b>: Once every week
+
+- [Waiting for Review](https://waitingforreview.com/)
+
+  - <b>Description</b>: A weekly podcast that follows the journeys of two iOS developers.
+  - <b>Frequency</b>: Once every week
 
 
 ## Python
