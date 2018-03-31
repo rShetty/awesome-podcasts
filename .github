@@ -1,1 +1,10 @@
+Before raising a PR and it getting merged, make sure you have completed the following:
 
+### Things to do:
+
+- [ ] Add podcasts in appropriate categories in ascending order of podcast name
+- [ ] If there is no matching category, add a new category to the list in ascending order of category name
+- [ ] Add a brief description of the podcast
+- [ ] Add the frequency of episodes (Check the list for examples)
+
+Thanks for your contributions and being awesome :) Cheers.
