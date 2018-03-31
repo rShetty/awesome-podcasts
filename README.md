@@ -342,10 +342,20 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Swift
 
+- [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
+
+  - <b>Description</b>: A show on which John Sundell & special guests from the community answer your questions about Swift development.
+  - <b>Frequency</b>: Once every week
+
+- [Swift Coders](https://itunes.apple.com/us/podcast/swiftcoders-weekly-interviews-with-swift-developers/id1082937962?mt=2)
+
+  - <b>Description</b>: Weekly interviews with Swift developers about their experience with Apple’s new open source programming language.
+  - <b>Frequency</b>: Once every week
+
 - Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
 
   - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
-  - <b>Frequency</b>  : Once every week
+  - <b>Frequency</b>: Once every week
 
 
 ## Rust programming language
