@@ -25,6 +25,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Swift](#swift)
 - [Rust Programming Language](#rust-programming-language)
 - [Security](#security)
+- [Vue.js](#vuejs)
 - [Web development](#web-development)
 
 
@@ -397,6 +398,14 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Security Now](https://twit.tv/shows/security-now)
   - <b>Description</b>: Deep dive into Security concepts and news
+  - <b>Frequency</b>  : Once every week
+
+
+## Vue.js
+
+- [The Official Vue News](https://news.vuejs.org/)
+
+  - <b>Description</b>: We cover the latest Vue news and tutorials in about 5 minutes. Our goal is to give you the information you need to stay on top of your game as a Vue developer.
   - <b>Frequency</b>  : Once every week
 
 
