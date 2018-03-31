@@ -193,6 +193,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
+- [Embedded FM](https://www.embedded.fm/)
+  - <b>Description</b>: Interviews and discussions related to embedded software.
+  - <b>Frequency</b>  : Once every week
+
 - [Five Nines of Downtime](https://soundcloud.com/fiveninesofdowntime)
   - <b>Description</b>: Enterprise software development, distributed systems and whatever our guests find interesting.
   - <b>Frequency</b>  : Once every Thursday
