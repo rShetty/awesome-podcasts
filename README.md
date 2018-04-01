@@ -203,6 +203,10 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Software Design Patterns, Architecture, and Best Practices.
   - <b>Frequency</b> : Twice per month
 
+- [Complete Developer Podcast](http://completedeveloperpodcast.com)
+  - <b>Description</b>: Listen to a senior developer and a junior developer discuss topics about all aspects of software development from the highly technical, to patterns and principles, to soft skills.
+  - <b>Frequency</b>: Every Thursday
+
 - [Developer On Fire](http://developeronfire.com/episodes)
   - <b>Description</b>: Inspiring software developers tell their stories.
   - <b>Frequency</b>  : Once or twice every week
@@ -230,6 +234,10 @@ List of podcasts which are helpful for software engineers/programmers.
 - [HanselMinutes](https://hanselminutes.com/)
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
+
+- [Junior Developer Toolbox](http://juniordevelopertoolbox.com)
+  - <b>Description</b>: Real talk from the trenches about everyday life as a junior developer: building, maintaining, and surviving a career in software engineering.
+  - <b>Frequency</b>: Every Other Week
 
 - [MS Dev Show](https://msdevshow.com/)
   - <b>Description</b>: A podcast for developers covering topics such as Azure/cloud, .NET, Visual Studio, Node.js, ML/AI and more! Hosted by Jason Young and Carl Schweitzer.
