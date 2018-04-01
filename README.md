@@ -63,7 +63,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: An Android Developer Podcast
   - <b>Frequency</b>  : Weekly once or twice
-  
+
 ## Angular
 
 - [Adventures in Angular](https://devchat.tv/adv-in-angular)
@@ -128,6 +128,8 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
 
+- [ocdlevel Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+
 
 ## Devops
 
@@ -171,7 +173,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Lambdacast](https://soundcloud.com/lambda-cast)
   - <b>Description</b>: Functional programming core concepts
   - <b>Frequency</b>  : Once in 2 months
- 
+
 - [The Elixir Fountain](https://soundcloud.com/elixirfountain)
   - <b>Description</b>: Podcasts for news & interviews from around the @Elixirlang Community
   - <b>Frequency</b>  : Varies
@@ -208,7 +210,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
   - <b>Description</b>: Interviews with members of the Open Source and Free Software community.
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 - [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
   - <b>Description</b>: Anything and everything related to software
@@ -219,7 +221,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [HanselMinutes](https://hanselminutes.com/)
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
-  
+
 - [MS Dev Show](https://msdevshow.com/)
   - <b>Description</b>: A podcast for developers covering topics such as Azure/cloud, .NET, Visual Studio, Node.js, ML/AI and more! Hosted by Jason Young and Carl Schweitzer.
   - <b>Frequency</b>  : Once every week
@@ -423,11 +425,11 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>: Approximately once a month
 
 - [Javascript Jabber](https://devchat.tv/js-jabber)
-  
+
 - [Multiplex](https://www.multiplexpodcast.com/)
 
   - <b>Description</b>: General software development and devops discussion.
-  - <b>Frequency</b>: Every other week 
+  - <b>Frequency</b>: Every other week
 
 - [NodeUp](http://nodeup.com/)
 
