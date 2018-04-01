@@ -179,6 +179,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## General software
 
+- [CaSE](http://www.case-podcast.org/)
+  - <b>Description</b>: CaSE is an interview podcast for software developers and architects about Software Engineering and related topics.
+  - <b>Frequency</b>  : Every three weeks.
+
 - [Code](https://codepodcast.com/)
   - <b>Description</b>: Code Podcast is about ideas that shape the way we build software
   - <b>Frequency</b>  : Monthly once
