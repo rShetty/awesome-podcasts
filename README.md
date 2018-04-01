@@ -177,6 +177,10 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Podcasts for news & interviews from around the @Elixirlang Community
   - <b>Frequency</b>  : Varies
 
+- [CoRecursive](https://corecursive.com/)
+  - <b>Description</b>: Interviews with functional programming devs & researchers covering a variety of languages. Language focus is approx. 50% Scala, 50% Haskell/Idris/Everything else.
+  - <b>Frequency</b>  : Varies
+
 ## General software
 
 - [CaSE](http://www.case-podcast.org/)
