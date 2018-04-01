@@ -432,3 +432,8 @@ List of podcasts which are helpful for software engineers/programmers.
 - [NodeUp](http://nodeup.com/)
 
 - [Syntax](https://syntax.fm/)
+
+- [DevNaEstrada](https://devnaestrada.com.br/)
+
+  - <b>Description</b>: General software web development, bitcoin, devops, machine learning and more.
+  - <b>Frequency</b>: Every Friday
