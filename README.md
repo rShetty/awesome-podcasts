@@ -406,6 +406,11 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: A podcast about raising children, web development, remote work, and health.
   - <b>Frequency</b>: Approximately once a month
 
+- [DevNaEstrada](https://devnaestrada.com.br/)
+
+  - <b>Description</b>: General software web development, bitcoin, devops, machine learning and more.
+  - <b>Frequency</b>: Every Friday
+
 - Does Not Compute ([By Spec](https://spec.fm/podcasts/does-not-compute) | [iTunes](https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2))
   - <b>Description</b>: A weekly chat about the lives and workflows of modern web developers.
   - <b>Frequency</b>  : Once every week
@@ -432,8 +437,3 @@ List of podcasts which are helpful for software engineers/programmers.
 - [NodeUp](http://nodeup.com/)
 
 - [Syntax](https://syntax.fm/)
-
-- [DevNaEstrada](https://devnaestrada.com.br/)
-
-  - <b>Description</b>: General software web development, bitcoin, devops, machine learning and more.
-  - <b>Frequency</b>: Every Friday
