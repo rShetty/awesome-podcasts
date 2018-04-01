@@ -16,6 +16,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Free BSD](#freebsd)
 - [General Software](#general-software)
 - [Go Programming Language](#go-programming-language)
+- [iOS](#ios)
 - [Python](#python)
 - [ReasonML](#reasonml)
 - [Ruby/Rails](#rubyrails)
@@ -197,9 +198,17 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
+- [Embedded FM](https://www.embedded.fm/)
+  - <b>Description</b>: Interviews and discussions related to embedded software.
+  - <b>Frequency</b>  : Once every week
+
 - [Five Nines of Downtime](https://soundcloud.com/fiveninesofdowntime)
   - <b>Description</b>: Enterprise software development, distributed systems and whatever our guests find interesting.
   - <b>Frequency</b>  : Once every Thursday
+
+- [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
+  - <b>Description</b>: Interviews with members of the Open Source and Free Software community.
+  - <b>Frequency</b>  : Once every week 
 
 - [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
   - <b>Description</b>: Anything and everything related to software
@@ -268,6 +277,24 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week
 
 
+## iOS
+
+- [iPhreaks](https://devchat.tv/iphreaks)
+
+  - <b>Description</b>: Weekly panel discussion podcast about all things iOS programming.
+  - <b>Frequency</b>: Once every week
+
+- [Under the Radar](https://www.relay.fm/radar)
+
+  - <b>Description</b>: From development and design to marketing and support, Under the Radar is all about independent app development.
+  - <b>Frequency</b>: Once every week
+
+- [Waiting for Review](https://waitingforreview.com/)
+
+  - <b>Description</b>: A weekly podcast that follows the journeys of two iOS developers.
+  - <b>Frequency</b>: Once every week
+
+
 ## Python
 
 - [Podcast.\_\_init\_\_](https://pythonpodcast.com/)
@@ -334,10 +361,20 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Swift
 
+- [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
+
+  - <b>Description</b>: A show on which John Sundell & special guests from the community answer your questions about Swift development.
+  - <b>Frequency</b>: Once every week
+
+- [Swift Coders](https://itunes.apple.com/us/podcast/swiftcoders-weekly-interviews-with-swift-developers/id1082937962?mt=2)
+
+  - <b>Description</b>: Weekly interviews with Swift developers about their experience with Apple’s new open source programming language.
+  - <b>Frequency</b>: Once every week
+
 - Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
 
   - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
-  - <b>Frequency</b>  : Once every week
+  - <b>Frequency</b>: Once every week
 
 
 ## Rust programming language
