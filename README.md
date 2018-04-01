@@ -22,6 +22,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Ruby/Rails](#rubyrails)
 - [Kotlin](#kotlin)
 - [Java](#java)
+- [Scala](#scala)
 - [Swift](#swift)
 - [Rust Programming Language](#rust-programming-language)
 - [Security](#security)
@@ -357,7 +358,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: podcast talks about how to program in Java.
   - <b>Frequency</b>  : Approximately once a month
+  
+## Scala
 
+- [Scalalaz](https://scalalaz.ru/)
+
+  - <b>Description</b>: Russian-speaking podcast about Scala, functional programming and software development
+  - <b>Frequency</b>: Once in 2 weeks
 
 ## Swift
 
