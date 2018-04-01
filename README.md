@@ -130,6 +130,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [ocdlevel Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
   - <b>Description</b>: Podcast that teaches high level fundamentals of Machine Learning with exercises
+  - <b>Frequency</b>: Varies
 
 
 ## Devops
