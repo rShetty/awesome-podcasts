@@ -33,7 +33,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## .NET
 
-- [.NET Rocks](https://www.dotnetrocks.com/)
+- [.NET Rocks](https://www.dotnetrocks.com/)([Stitcher](https://www.stitcher.com/podcast/net-rocks))
 
   - <b>Description</b>: .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
   - <b>Frequency</b>: Two episodes every week
