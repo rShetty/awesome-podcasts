@@ -4,9 +4,6 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Table of Contents
 
-
-
-
 - [.NET](#net)
 - [Agile](#agile)
 - [Android](#android)
