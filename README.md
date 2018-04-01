@@ -197,7 +197,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Coding Blocks](https://www.codingblocks.net/)
   - <b>Description</b>: Software Design Patterns, Architecture, and Best Practices.
-  - <b>Frequency<b> : Twice per month
+  - <b>Frequency</b> : Twice per month
 
 - [Developer On Fire](http://developeronfire.com/episodes)
   - <b>Description</b>: Inspiring software developers tell their stories.
