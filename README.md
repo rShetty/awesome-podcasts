@@ -186,6 +186,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## General software
 
+- [Base.cs](https://www.codenewbie.org/basecs)
+  - <b>Description</b>: CodeNewbie teams up with Vaidehi Joshi to turn her base.cs blog series into an awesome podcast.
+  - <b>Frequency</b>  : Weekly
+
 - [CaSE](http://www.case-podcast.org/)
   - <b>Description</b>: CaSE is an interview podcast for software developers and architects about Software Engineering and related topics.
   - <b>Frequency</b>  : Every three weeks.
