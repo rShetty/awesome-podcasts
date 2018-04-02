@@ -7,7 +7,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - [.NET](#net)
 - [Agile](#agile)
 - [Android](#android)
-- [Angular](#angular)
 - [C++](#c)
 - [Clojure](#clojure)
 - [Community/Inspiration](#communityinspiration)
@@ -23,6 +22,9 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Ruby/Rails](#rubyrails)
 - [Kotlin](#kotlin)
 - [Java](#java)
+- [JavaScript](#javascript)
+  - [Angular](#angular)
+  - [Vue.js](#vuejs)
 - [Scala](#scala)
 - [Swift](#swift)
 - [Rust Programming Language](#rust-programming-language)
@@ -66,12 +68,6 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: An Android Developer Podcast
   - <b>Frequency</b>  : Weekly once or twice
 
-## Angular
-
-- [Adventures in Angular](https://devchat.tv/adv-in-angular)
-
-  - <b>Description</b>: Developments in the Angular community, tools, techniques, and ecosystem.
-  - <b>Frequency</b>  : Once every week
 
 ## C++
 
@@ -388,12 +384,32 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: podcast talks about how to program in Java.
   - <b>Frequency</b>  : Approximately once a month
 
+
+## JavaScript
+
+#### Angular
+
+- [Adventures in Angular](https://devchat.tv/adv-in-angular)
+
+  - <b>Description</b>: Developments in the Angular community, tools, techniques, and ecosystem.
+  - <b>Frequency</b>  : Once every week
+
+
+#### Vue.js
+
+- [The Official Vue News](https://news.vuejs.org/)
+
+  - <b>Description</b>: We cover the latest Vue news and tutorials in about 5 minutes. Our goal is to give you the information you need to stay on top of your game as a Vue developer.
+  - <b>Frequency</b>  : Once every week
+
+
 ## Scala
 
 - [Scalalaz](https://scalalaz.ru/)
 
   - <b>Description</b>: Russian-speaking podcast about Scala, functional programming and software development
   - <b>Frequency</b>: Once in 2 weeks
+
 
 ## Swift
 
