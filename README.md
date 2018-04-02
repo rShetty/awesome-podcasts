@@ -473,3 +473,5 @@ List of podcasts which are helpful for software engineers/programmers.
 - [NodeUp](http://nodeup.com/)
 
 - [Syntax](https://syntax.fm/)
+  - <b>Description</b>: A Tasty Treats Podcast for Web Developers.
+  - <b>Frequency</b>: Once every week
