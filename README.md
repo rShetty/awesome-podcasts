@@ -9,6 +9,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Android](#android)
 - [C++](#c)
 - [Clojure](#clojure)
+- [Community/Inspiration](#communityinspiration)
 - [Data Science/Machine Learning](#data-sciencemachine-learning)
 - [Devops](#devops)
 - [Functional Programming](#functional-programming)
@@ -34,7 +35,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## .NET
 
-- [.NET Rocks](https://www.dotnetrocks.com/)
+- [.NET Rocks](https://www.dotnetrocks.com/) ([Stitcher](https://www.stitcher.com/podcast/net-rocks))
 
   - <b>Description</b>: .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
   - <b>Frequency</b>: Two episodes every week
@@ -67,6 +68,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: An Android Developer Podcast
   - <b>Frequency</b>  : Weekly once or twice
 
+
 ## C++
 
 - [CppCast](http://cppcast.com/)
@@ -86,6 +88,12 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Interviews with leaders and folks of the Clojure and ClojureScript community.
   - <b>Frequency</b>  : Monthly twice
 
+## Community/Inspiration
+
+- [Learn To Code With Me](https://learntocodewith.me/podcast/) ([Soundcloud](https://soundcloud.com/laurence-bradford) | [iTunes](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Stitcher](https://www.stitcher.com/podcast/learn-to-code-with-me))
+
+  - <b>Description</b>: For aspiring techies and self-taught coders looking to transition into the tech industry.
+  - <b>Frequency</b>  : Once a week
 
 ## Data Science/Machine Learning
 
@@ -167,9 +175,13 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Lambdacast](https://soundcloud.com/lambda-cast)
   - <b>Description</b>: Functional programming core concepts
   - <b>Frequency</b>  : Once in 2 months
- 
+
 - [The Elixir Fountain](https://soundcloud.com/elixirfountain)
   - <b>Description</b>: Podcasts for news & interviews from around the @Elixirlang Community
+  - <b>Frequency</b>  : Varies
+
+- [CoRecursive](https://corecursive.com/)
+  - <b>Description</b>: Interviews with functional programming devs & researchers covering a variety of languages. Language focus is approx. 50% Scala, 50% Haskell/Idris/Everything else.
   - <b>Frequency</b>  : Varies
 
 ## General software
@@ -194,6 +206,10 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Software Design Patterns, Architecture, and Best Practices.
   - <b>Frequency</b> : Twice per month
 
+- [Complete Developer Podcast](http://completedeveloperpodcast.com)
+  - <b>Description</b>: Listen to a senior developer and a junior developer discuss topics about all aspects of software development from the highly technical, to patterns and principles, to soft skills.
+  - <b>Frequency</b>: Every Thursday
+
 - [Developer On Fire](http://developeronfire.com/episodes)
   - <b>Description</b>: Inspiring software developers tell their stories.
   - <b>Frequency</b>  : Once or twice every week
@@ -210,7 +226,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
   - <b>Description</b>: Interviews with members of the Open Source and Free Software community.
-  - <b>Frequency</b>  : Once every week 
+  - <b>Frequency</b>  : Once every week
 
 - [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
   - <b>Description</b>: Anything and everything related to software
@@ -221,7 +237,11 @@ List of podcasts which are helpful for software engineers/programmers.
 - [HanselMinutes](https://hanselminutes.com/)
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
-  
+
+- [Junior Developer Toolbox](http://juniordevelopertoolbox.com)
+  - <b>Description</b>: Real talk from the trenches about everyday life as a junior developer: building, maintaining, and surviving a career in software engineering.
+  - <b>Frequency</b>: Every Other Week
+
 - [MS Dev Show](https://msdevshow.com/)
   - <b>Description</b>: A podcast for developers covering topics such as Azure/cloud, .NET, Visual Studio, Node.js, ML/AI and more! Hosted by Jason Young and Carl Schweitzer.
   - <b>Frequency</b>  : Once every week
@@ -278,6 +298,10 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Everything connected with Go Programming language
   - <b>Frequency</b>  : Once every week
 
+- [Go Gab](https://www.briefs.fm/go-gab)
+
+  - <b>Description</b>: Hosted by Nick Cox. A podcast about everything Go. We'll explore syntax, new libraries, its concurrency model, and what makes it unique. Anything Go-related is on the table!
+  - <b>Frequency</b>  : Once every week
 
 ## iOS
 
@@ -456,12 +480,14 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>: Approximately once a month
 
 - [Javascript Jabber](https://devchat.tv/js-jabber)
-  
+
 - [Multiplex](https://www.multiplexpodcast.com/)
 
   - <b>Description</b>: General software development and devops discussion.
-  - <b>Frequency</b>: Every other week 
+  - <b>Frequency</b>: Every other week
 
 - [NodeUp](http://nodeup.com/)
 
 - [Syntax](https://syntax.fm/)
+  - <b>Description</b>: A Tasty Treats Podcast for Web Developers.
+  - <b>Frequency</b>: Once every week
