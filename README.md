@@ -387,6 +387,8 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## JavaScript
 
+- [Javascript Jabber](https://devchat.tv/js-jabber)
+
 #### Angular
 
 - [Adventures in Angular](https://devchat.tv/adv-in-angular)
@@ -478,8 +480,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - [HTTP203](https://developers.google.com/web/shows/http203/podcast/)
   - <b>Description</b>: A podcast by Google Chrome developer advocates covering all things web.
   - <b>Frequency</b>: Approximately once a month
-
-- [Javascript Jabber](https://devchat.tv/js-jabber)
 
 - [Multiplex](https://www.multiplexpodcast.com/)
 
