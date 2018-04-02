@@ -10,6 +10,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Angular](#angular)
 - [C++](#c)
 - [Clojure](#clojure)
+- [Community/Inspiration](#communityinspiration)
 - [Data Science/Machine Learning](#data-sciencemachine-learning)
 - [Devops](#devops)
 - [Functional Programming](#functional-programming)
@@ -32,7 +33,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## .NET
 
-- [.NET Rocks](https://www.dotnetrocks.com/)
+- [.NET Rocks](https://www.dotnetrocks.com/) ([Stitcher](https://www.stitcher.com/podcast/net-rocks))
 
   - <b>Description</b>: .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
   - <b>Frequency</b>: Two episodes every week
@@ -91,6 +92,12 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Interviews with leaders and folks of the Clojure and ClojureScript community.
   - <b>Frequency</b>  : Monthly twice
 
+## Community/Inspiration
+
+- [Learn To Code With Me](https://learntocodewith.me/podcast/) ([Soundcloud](https://soundcloud.com/laurence-bradford) | [iTunes](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Stitcher](https://www.stitcher.com/podcast/learn-to-code-with-me))
+
+  - <b>Description</b>: For aspiring techies and self-taught coders looking to transition into the tech industry.
+  - <b>Frequency</b>  : Once a week
 
 ## Data Science/Machine Learning
 
