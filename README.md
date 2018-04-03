@@ -48,6 +48,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>: Monthly once
 
 ## Agile
+
 - [Agile For Humans](https://ryanripley.com/agile-for-humans/)
 
   - <b>Description</b>: Interviews people about Agile and becoming better at Agile
@@ -304,6 +305,11 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week
 
 - [The New Stack](https://thenewstack.io/podcasts/)
+
+- [Weekly Dev Tips](http://weeklydevtips.com)
+
+  - <b>Description</b>: Short (5-10 min) episodes overing a single practical developer tip.
+  - <b>Frequency</b>: Once a week (roughly)
 
 - [The Women in Tech Show](https://thewomenintechshow.com)
   - <b>Description</b>: Technical interviews with prominent women in tech.
