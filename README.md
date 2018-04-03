@@ -97,6 +97,11 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: For aspiring techies and self-taught coders looking to transition into the tech industry.
   - <b>Frequency</b>  : Once a week
 
+- [Request For Commits](https://changelog.com/rfc)
+
+  - <b>Description</b>: Exploring different perspectives in open source sustainability.
+  - <b>Frequency</b>  : Retired
+
 ## Data Science/Machine Learning
 
 - [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
@@ -122,6 +127,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
+- [Practical AI](https://changelog.com/practicalai)
+
+  - <b>Description</b>: Making artificial intelligence practical, productive, and accessible to everyone.
+  - <b>Frequency</b>  : Once a week
+
 - [Super DataScience](https://www.superdatascience.com/podcast/)
   - <b>Description</b>: Podcast that interviews various people in the data science industry.
   - <b>Frequency</b>: Once every week
@@ -133,7 +143,6 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Every other week
 
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
-
 
 ## Devops
 
@@ -279,7 +288,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week
 
 - [The Changelog](https://changelog.com/)
-  - <b>Description</b>: Anything and everything related to software
+  - <b>Description</b>: Conversations with the hackers, leaders, and innovators of open source.
   - <b>Frequency</b>  : Once every week
 
 - [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast)
@@ -315,7 +324,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [GoTime](https://changelog.com/gotime)
 
-  - <b>Description</b>: Everything connected with Go Programming language
+  - <b>Description</b>: A panel of Go experts and special guests discuss the Go programming language, the community, and everything in between.
   - <b>Frequency</b>  : Once every week
 
 - [Go Gab](https://www.briefs.fm/go-gab)
@@ -416,6 +425,15 @@ List of podcasts which are helpful for software engineers/programmers.
 ## JavaScript
 
 - [Javascript Jabber](https://devchat.tv/js-jabber)
+
+- [JS Party](https://changelog.com/jsparty)
+
+  - <b>Description</b>: A community celebration of JavaScript and the web.
+  - <b>Frequency</b>  : Once every week
+  
+- [The React Podcast](https://changelog.com/reactpodcast)
+
+  - <b>Description</b>: Interviews and news about React hosted by Michael Jackson.
 
 #### Angular
 
