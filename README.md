@@ -15,6 +15,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Functional Programming](#functional-programming)
 - [Free BSD](#freebsd)
 - [General Software](#general-software)
+- [Git](#git)
 - [Go Programming Language](#go-programming-language)
 - [Groovy](#groovy)
 - [iOS](#ios)
@@ -295,6 +296,16 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Technical interviews with prominent women in tech.
   - <b>Frequency</b>  : Once every week
 
+
+## Git
+
+- [All things git](https://www.allthingsgit.com)
+  - <b>Description</b>: Interviews with people who build Git, who create tools for it and who teach people how to use it. 
+  - <b>Frequency</b>  : Every two weeks
+
+- [GitMinutes](https://www.gitminutes.com/)
+  - <b>Description</b>: A podcast made by Thomas Ferris Nicolaisen for proficient Git users that features stories, discussions, ideas, demos and other things useful for those using Git today.
+  - <b>Frequency</b>  : Podcast ended in 2017.
 
 ## Go Programming Language
 
