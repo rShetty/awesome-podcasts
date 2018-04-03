@@ -16,6 +16,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Free BSD](#freebsd)
 - [General Software](#general-software)
 - [Go Programming Language](#go-programming-language)
+- [Groovy](#groovy)
 - [iOS](#ios)
 - [Python](#python)
 - [ReasonML](#reasonml)
@@ -306,6 +307,14 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: Hosted by Nick Cox. A podcast about everything Go. We'll explore syntax, new libraries, its concurrency model, and what makes it unique. Anything Go-related is on the table!
   - <b>Frequency</b>  : Once every week
+
+
+## Groovy
+
+- [Groovy Podcast](https://groovypodcast.podbean.com)
+  
+  - <b>Description</b>: A podcast dedicated to the Groovy programming language and its ecosystem.
+  - <b>Frequency</b>: Approximately once a month
 
 ## iOS
 
