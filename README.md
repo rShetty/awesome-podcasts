@@ -204,7 +204,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : every Monday
   
 - [CodePen Radio](https://blog.codepen.io/radio/)
-  - <b>Description</b>: The guys (and girls) behind Codepen.io talk business, tech and more!
+  - <b>Description</b>: The people behind Codepen.io talk business, tech and more!
   - <b>Frequency</b>  : Weekly
 
 - [Coder Radio](http://coder.show)
