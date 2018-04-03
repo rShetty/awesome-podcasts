@@ -99,6 +99,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Request For Commits](https://changelog.com/rfc)
 
   - <b>Description</b>: Exploring different perspectives in open source sustainability.
+  - <b>Frequency</b>  : Retired
 
 ## Data Science/Machine Learning
 
@@ -128,6 +129,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Practical AI](https://changelog.com/practicalai)
 
   - <b>Description</b>: Making artificial intelligence practical, productive, and accessible to everyone.
+  - <b>Frequency</b>  : Once a week
 
 - [Super DataScience](https://www.superdatascience.com/podcast/)
   - <b>Description</b>: Podcast that interviews various people in the data science industry.
