@@ -384,7 +384,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast)
 
-  * **Description**: Podcasts on technical software topics, interviewes with some of the top CTOs, engineers and technology directors.
+  * **Description**: Podcasts on technical software topics, interviews with some of the top CTOs, engineers and technology directors.
   * **Frequency** : Once every week
 
 * [The MousePaw'dCast](https://mousepawmedia.com/news/podcast) ([iTunes](https://itunes.apple.com/us/podcast/mousepawdcast/id1242557040) | [Overcast](https://overcast.fm/itunes1242557040/mousepawdcast) | [Android](https://subscribeonandroid.com/mousepawmedia.com/rss/mousepawdcast.xml) | [iHeartRadio](https://www.iheart.com/podcast/428-MousePawdCast-28198080/) | [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/MousePawdCast-p1002800/))
@@ -396,7 +396,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [The Rabbit Hole](http://therabbithole.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-rabbit-hole-an-inside-look-into-software-development/id1223811385) | [Overcast](https://overcast.fm/itunes1223811385/the-rabbit-hole-an-inside-look-into-software-development) | [Android](https://subscribeonandroid.com/therabbithole.libsyn.com/rss))
 
-  * **Description**: Welcome to The Rabbit Hole, the definitive developers podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you.
+  * **Description**: Welcome to The Rabbit Hole, the definitive developers' podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you.
   * **Frequency**: Once every week
 
 * [The raywenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
@@ -416,7 +416,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * Toolsday ([By Spec](https://spec.fm/podcasts/toolsday) | [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
 
-  * **Description**:the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong).
+  * **Description**: the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong).
   * **Frequency** : Once every week
 
 * [Weekly Dev Tips](http://weeklydevtips.com)
