@@ -556,8 +556,6 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: A podcast by Google Chrome developer advocates covering all things web.
   - <b>Frequency</b>: Approximately once a month
 
-- [Javascript Jabber](https://devchat.tv/js-jabber)
-
 - [Multiplex](https://www.multiplexpodcast.com/)
 
   - <b>Description</b>: General software development and devops discussion.
