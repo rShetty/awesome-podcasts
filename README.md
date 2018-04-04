@@ -218,7 +218,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Code Newbie](https://www.codenewbie.org/podcast)
   - <b>Description</b>: Stories from people on their coding journey.
   - <b>Frequency</b>  : every Monday
-  
+
 - [CodePen Radio](https://blog.codepen.io/radio/)
   - <b>Description</b>: The people behind Codepen.io talk business, tech and more!
   - <b>Frequency</b>  : Weekly
@@ -234,6 +234,10 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Complete Developer Podcast](http://completedeveloperpodcast.com)
   - <b>Description</b>: Listen to a senior developer and a junior developer discuss topics about all aspects of software development from the highly technical, to patterns and principles, to soft skills.
   - <b>Frequency</b>: Every Thursday
+
+- [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
+  - <b>Description</b>: Command Line Heroes tells the epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.
+  - <b>Frequency</b>: Twice per month
 
 - [Developer On Fire](http://developeronfire.com/episodes)
   - <b>Description</b>: Inspiring software developers tell their stories.
@@ -324,7 +328,7 @@ List of podcasts which are helpful for software engineers/programmers.
 ## Git
 
 - [All things git](https://www.allthingsgit.com)
-  - <b>Description</b>: Interviews with people who build Git, who create tools for it and who teach people how to use it. 
+  - <b>Description</b>: Interviews with people who build Git, who create tools for it and who teach people how to use it.
   - <b>Frequency</b>  : Every two weeks
 
 - [GitMinutes](https://www.gitminutes.com/)
@@ -347,7 +351,7 @@ List of podcasts which are helpful for software engineers/programmers.
 ## Groovy
 
 - [Groovy Podcast](https://groovypodcast.podbean.com)
-  
+
   - <b>Description</b>: A podcast dedicated to the Groovy programming language and its ecosystem.
   - <b>Frequency</b>: Approximately once a month
 
@@ -441,7 +445,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: A community celebration of JavaScript and the web.
   - <b>Frequency</b>  : Once every week
-  
+
 - [The React Podcast](https://changelog.com/reactpodcast)
 
   - <b>Description</b>: Interviews and news about React hosted by Michael Jackson.
