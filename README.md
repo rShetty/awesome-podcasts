@@ -70,7 +70,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   - <b>Description</b>: An Android Developer Podcast
   - <b>Frequency</b>  : Weekly once or twice
-
+  
 
 ## C++
 
@@ -126,6 +126,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
+- [ocdlevel Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+  - <b>Description</b>: Podcast that teaches high level fundamentals of Machine Learning with exercises
+  - <b>Frequency</b>  : Varies
+
 - [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
 - [Practical AI](https://changelog.com/practicalai)
@@ -144,7 +148,7 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Every other week
 
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
-
+  
 ## Devops
 
 - [Arrested DevOps](https://www.arresteddevops.com/)
@@ -551,6 +555,8 @@ List of podcasts which are helpful for software engineers/programmers.
 - [HTTP203](https://developers.google.com/web/shows/http203/podcast/)
   - <b>Description</b>: A podcast by Google Chrome developer advocates covering all things web.
   - <b>Frequency</b>: Approximately once a month
+
+- [Javascript Jabber](https://devchat.tv/js-jabber)
 
 - [Multiplex](https://www.multiplexpodcast.com/)
 
