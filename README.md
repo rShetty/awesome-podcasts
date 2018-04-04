@@ -27,6 +27,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [JavaScript](#javascript)
   - [Angular](#angular)
   - [Vue.js](#vuejs)
+  - [React.js](#reactjs)
 - [Scala](#scala)
 - [Swift](#swift)
 - [Rust Programming Language](#rust-programming-language)
@@ -175,6 +176,10 @@ List of podcasts which are helpful for software engineers/programmers.
   - **Description**: Snarky take on devops topics
   - **Frequency**: Weekly-ish.
 
+- [To Be Continuous](https://www.heavybit.com/library/podcasts/to-be-continuous/) ([iTunes](https://itunes.apple.com/us/podcast/to-be-continuous/id1107185328) | [Overcast](https://overcast.fm/itunes1107185328/to-be-continuous) | [Android](https://www.subscribeonandroid.com/www.heavybit.com/category/library/podcasts/to-be-continuous/feed/))
+  - **Description**: A show all about continuous delivery and software development.
+  - **Frequency**: Once per month
+
 ## FreeBSD
 
 - [FreeBSDNow](http://www.bsdnow.tv/)
@@ -217,10 +222,14 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## General software
 
+- [Away from keyboard](http://awayfromthekeyboard.com/) ([Soundcloud](https://soundcloud.com/awayfromthekeyboardpodcast) | [iTunes](https://itunes.apple.com/us/podcast/away-from-the-keyboard/id987544504))
+  - **Description**: Away From The Keyboard is a podcast that talks to technologists and tells their stories. Stories about how they started, how they grew, how they learned, and how they unwind.
+  - **Frequency**: Once a week
+
 - [Base.cs](https://www.codenewbie.org/basecs)
   - <b>Description</b>: CodeNewbie teams up with Vaidehi Joshi to turn her base.cs blog series into an awesome podcast.
   - <b>Frequency</b>  : Weekly
-
+  
 - [CaSE](http://www.case-podcast.org/)
   - <b>Description</b>: CaSE is an interview podcast for software developers and architects about Software Engineering and related topics.
   - <b>Frequency</b>  : Every three weeks.
@@ -244,6 +253,10 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Coding Blocks](https://www.codingblocks.net/)
   - <b>Description</b>: Software Design Patterns, Architecture, and Best Practices.
   - <b>Frequency</b> : Twice per month
+
+- [#codepunk](https://codepunk.io/tag/podcast/) ([iTunes](https://itunes.apple.com/gd/podcast/codepunk/id1114040323) | [Overcast](https://overcast.fm/itunes1114040323/codepunk) | [Android](https://subscribeonandroid.com/codepunk.io/tag/podcast/rss/))
+  - **Description**: A cyberculture and futurist podcast from Bill Ahern and Michael Szul that looks at the intersection of programming, advancing technology, and society.
+  - **Frequency**: Twice per month
 
 - [Complete Developer Podcast](http://completedeveloperpodcast.com)
   - <b>Description</b>: Listen to a senior developer and a junior developer discuss topics about all aspects of software development from the highly technical, to patterns and principles, to soft skills.
@@ -285,6 +298,14 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Real talk from the trenches about everyday life as a junior developer: building, maintaining, and surviving a career in software engineering.
   - <b>Frequency</b>: Every Other Week
 
+- [Legacy Code Rocks](https://www.legacycode.rocks/) ([iTunes](https://itunes.apple.com/us/podcast/legacy-code-rocks/id1146634772?mt=2) | [Player.fm](https://player.fm/series/legacy-code-rocks) | [Stitcher](https://www.stitcher.com/podcast/corgibytes-2/legacy-code-rocks) | [SoundCloud](https://soundcloud.com/andrea-goulet-651190405) | [Overcast](https://overcast.fm/itunes1146634772/legacy-code-rocks) | [Android](https://subscribeonandroid.com/legacycoderocks.libsyn.com/rss))
+  - **Description**: Legacy Code Rocks explores the world of modernizing existing software applications. Hosts Andrea Goulet and M. Scott Ford of Corgibytes are out to change the way you think about legacy code. If you’re like a lot of people, when you hear the words “legacy code” it conjures up images of big mainframes and archaic punch card machines. While that’s true — it only tells a small part of the story. The truth is, the code you leave behind is your legacy, so let's make it a good one.
+  - **Frequency**: Approximately once a month
+
+- [Modern Web](https://www.moderndotweb.com/modern-web-podcast) ([iTunes](https://itunes.apple.com/us/podcast/modern-web/id1084236187) | [Overcast](https://overcast.fm/itunes1084236187/modern-web) | [Android](https://www.subscribeonandroid.com/modernweb.podbean.com/feed/) | [PodBean](https://modernweb.podbean.com/))
+  - **Description**: Modern Web is a podcast that covers the latest news on topics such as EmberJS, ReactJS, AngularJS, ES2015, RxJS, Functional Reactive Programming, and more.
+  - **Frequency**: 2/3 episodes per month
+
 - [MS Dev Show](https://msdevshow.com/)
   - <b>Description</b>: A podcast for developers covering topics such as Azure/cloud, .NET, Visual Studio, Node.js, ML/AI and more! Hosted by Jason Young and Carl Schweitzer.
   - <b>Frequency</b>  : Once every week
@@ -295,6 +316,14 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>: Once per month
 
+- [Relative Paths](https://relativepaths.uk/) ([iTunes](https://itunes.apple.com/gb/podcast/relative-paths-web-development/id914858338?mt=2&ign-mpt=uo%3D4) | [SoundCloud](https://soundcloud.com/relativepaths) | [Stitcher](https://www.stitcher.com/podcast/relative-paths) | [Android](https://subscribeonandroid.com/relativepaths.uk/feeds/cast.xml))
+  - **Description**: A podcast about web design, web development, music, and that kind of thing. With Ben Hutchings and Mark Phoenix.
+  - **Frequency**: Approximately once a month
+
+- [Request For Commits](https://changelog.com/rfc) ([iTunes](https://itunes.apple.com/us/podcast/request-for-commits/id1141345001) | [Overcast](https://overcast.fm/itunes1141345001/request-for-commits) | [Android](http://www.subscribeonandroid.com/changelog.com/rfc/feed))
+  - **Description**: Request For Commits explores different perspectives in open source sustainability. Hosts Nadia Eghbal and Mikeal Rogers dive deep into the trials and tribulations of being an open source maintainer, building communities, and navigating the business side of software. Common topics include software licensing, copyright, documentation, governance models, funding platforms such as Open Collective, Kickstarter, etc., measuring success, and more.
+  - **Frequency**: Approximately twice a month
+
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
   - <b>Description</b>: Podcasts on technical software topics
   - <b>Frequency</b>  : Multiple episodes every week
@@ -302,6 +331,14 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Software Engineering Radio](http://www.se-radio.net/)
   - <b>Description</b>: Anything and everything related to software
   - <b>Frequency</b>  : Once every week
+
+- [Soft Skills Engineering](https://softskills.audio/) ([iTunes](https://itunes.apple.com/us/podcast/soft-skills-engineering/id1091341048?mt=2) | [Overcast](https://overcast.fm/itunes1091341048/soft-skills-engineering) | [Android](https://subscribeonandroid.com/feeds.feedburner.com/SoftSkillsEngineering))
+  - **Description**: It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly question and answer podcast where software developer hosts answer questions about all of the non-technical things that go along with being a software developer.
+  - **Frequency**: Once every week
+
+- [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) ([iTunes](https://itunes.apple.com/us/podcast/the-stack-overflow-podcast/id1033688462?mt=2) | [Overcast](https://overcast.fm/itunes1033688462/the-stack-overflow-podcast) | [Android](http://subscribeonandroid.com/blog.stackexchange.com/feed/podcast/) | [SoundCloud](https://soundcloud.com/stack-exchange))
+  - **Description**: The Stack Overflow Podcast lets you listen in on what’s new with the world’s largest developer community.
+  - **Frequency**: Once every week
 
 - [The Accidental Engineer](https://theaccidentalengineer.com/)
   - <b>Description</b>: Software engineering career advice
@@ -315,9 +352,21 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Conversations with the hackers, leaders, and innovators of open source.
   - <b>Frequency</b>  : Once every week
 
+- [The Cynical Developer](https://cynicaldeveloper.com/) ([iTunes](https://itunes.apple.com/gb/podcast/the-cynical-developer/id1169160766) | [Overcast](https://overcast.fm/itunes1169160766/the-cynical-developer) | [Stitcher](https://www.stitcher.com/podcast/the-cynical-developer) | [Podchaster](https://www.podchaser.com/podcasts/the-cynical-developer-227715) | [Player.fm](https://player.fm/series/series-1580340) | [Pocket Casts](http://pca.st/w8FN) | [PodBean](https://www.podbean.com/start-unlimited-podcast))
+  - **Description**: The UK based, podcast that helps you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.
+  - **Frequency**: Once every week
+
 - [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast)
   - <b>Description</b>: Podcasts on technical software topics, interviewes with some of the top                           CTOs, engineers and technology directors.
   - <b>Frequency</b>  : Once every week
+
+- [The MousePaw'dCast](https://mousepawmedia.com/news/podcast) ([iTunes](https://itunes.apple.com/us/podcast/mousepawdcast/id1242557040) | [Overcast](https://overcast.fm/itunes1242557040/mousepawdcast) | [Android](https://subscribeonandroid.com/mousepawmedia.com/rss/mousepawdcast.xml) | [iHeartRadio](https://www.iheart.com/podcast/428-MousePawdCast-28198080/) | [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/MousePawdCast-p1002800/))
+  - **Description**: The official podcast of MousePaw Media, discussing game development, open source programming, and education.
+  - **Frequency**: Once per month
+
+- [The Rabbit Hole](http://therabbithole.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-rabbit-hole-an-inside-look-into-software-development/id1223811385) | [Overcast](https://overcast.fm/itunes1223811385/the-rabbit-hole-an-inside-look-into-software-development) | [Android](https://subscribeonandroid.com/therabbithole.libsyn.com/rss))
+  - **Description**: Welcome to The Rabbit Hole, the definitive developers podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you.
+  - **Frequency**: Once every week
 
 - [The raywenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
   - <b>Description</b>: discuss every aspect of app development.Primarily focusing on Apple technology.
@@ -337,7 +386,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - [The Women in Tech Show](https://thewomenintechshow.com)
   - <b>Description</b>: Technical interviews with prominent women in tech.
   - <b>Frequency</b>  : Once every week
-
 
 ## Git
 
@@ -453,7 +501,12 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## JavaScript
 
-- [Javascript Jabber](https://devchat.tv/js-jabber)
+- [Javascript Jabber](https://devchat.tv/js-jabber) ([iTunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2) | [Stitcher](https://www.stitcher.com/podcast/ruby-rogues/javascript-jabber))
+  - **Frequency**: Once every week
+
+- [JavaScript Air](https://javascriptair.com/) ([Youtube](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q) | [iTunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588) | [Pocket Cast](http://pca.st/javaair))
+  - **Description**: The live broadcast podcast all about JavaScript. The episodes run over Hangouts on Air live and get uploaded to YouTube and an audio podcast afterward. Topics include all things around JavaScript and Web Development.
+  - **Frequency**: Once every week
 
 - [JS Party](https://changelog.com/jsparty)
 
@@ -471,7 +524,6 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Developments in the Angular community, tools, techniques, and ecosystem.
   - <b>Frequency</b>  : Once every week
 
-
 #### Vue.js
 
 - [The Official Vue News](https://news.vuejs.org/)
@@ -479,6 +531,15 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: We cover the latest Vue news and tutorials in about 5 minutes. Our goal is to give you the information you need to stay on top of your game as a Vue developer.
   - <b>Frequency</b>  : Once every week
 
+#### React.js
+
+- [The React podcast](https://changelog.com/reactpodcast) ([iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432) | [Overcast](https://overcast.fm/itunes1341969432/the-react-podcast) | [Android](http://www.subscribeonandroid.com/changelog.com/reactpodcast/feed))
+  - **Description**: Interviews and news about React hosted by Michael Jackson.
+  - **Frequency**: Once every week
+
+- [React Native Radio](https://devchat.tv/react-native-radio) ([iTunes](https://itunes.apple.com/us/podcast/react-native-radio/id1058647602?mt=2) | [Stitcher](https://www.stitcher.com/podcast/ruby-rogues/react-native-radio?refid=stpr))
+  - **Description**: React Native Radio Podcast
+  - **Frequency**: Once every week
 
 ## Scala
 
@@ -533,6 +594,9 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Deep dive into Security concepts and news
   - <b>Frequency</b>  : Once every week
 
+- [The Secure Developer](https://www.heavybit.com/library/podcasts/the-secure-developer/) ([iTunes](https://itunes.apple.com/us/podcast/the-secure-developer/id1156317989?mt=2) | [Overcast](https://overcast.fm/itunes1156317989/the-secure-developer) | [Android](https://www.subscribeonandroid.com/www.heavybit.com/category/library/podcasts/the-secure-developer/feed/) | [SoundCloud](https://soundcloud.com/heavybit/sets/the-secure-developer))
+  - **Description**: A podcast about security for developers, covering tools and best practices.
+  - **Frequency**: Once every 2/3 month
 
 ## Web development
 
@@ -549,7 +613,11 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: A weekly chat about the lives and workflows of modern web developers.
   - <b>Frequency</b>  : Once every week
 
-- [Front End Happy Hour](http://frontendhappyhour.com/)
+- [Friends Talk Frontend](https://friendstalkfrontend.com/) ([iTunes](https://itunes.apple.com/us/podcast/friends-talk-frontend/id1190447982) | [Overcast](https://overcast.fm/itunes1190447982/friends-talk-frontend) | [Android](https://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:278649100/sounds.rss))
+  - **Description**: Talking to amazing people about their habits, how they got to where they are now, and what their day-to-day life is like. We also talk about random shit.
+  - **Frequency**: Approximately once a month
+
+- [Front End Happy Hour](http://frontendhappyhour.com/) ([iTunes](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2) | [SoundCloud](https://soundcloud.com/front-end-happy-hour))
 
 - [Frontend Weekend](https://soundcloud.com/frontend-weekend)
   - <b>Description</b>: An interview podcast with famous Russian web developers.
@@ -561,12 +629,20 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: A podcast by Google Chrome developer advocates covering all things web.
   - <b>Frequency</b>: Approximately once a month
 
+- [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) ([iTunes](https://itunes.apple.com/us/podcast/jamstack-radio/id1148797643) | [Overcast](https://overcast.fm/itunes1148797643/jamstack-radio) | [Android](https://subscribeonandroid.com/www.heavybit.com/category/library/podcasts/jamstack-radio/feed))
+  - **Description**: A show all about the JAMstack, a new way to build fast & secure apps or websites.
+  - **Frequency**: Once every week
+
 - [Multiplex](https://www.multiplexpodcast.com/)
 
   - <b>Description</b>: General software development and devops discussion.
   - <b>Frequency</b>: Every other week
 
 - [NodeUp](http://nodeup.com/)
+
+- [Shop Talk Show](http://shoptalkshow.com/) ([iTunes](https://itunes.apple.com/us/podcast/shoptalk/id493890455) | [Overcast](https://overcast.fm/itunes493890455/shoptalk) | [Android](https://subscribeonandroid.com/shoptalkshow.com/feed/podcast/))
+  - **Description**: ShopTalk is a podcast about front end web design, development and UX. Each week Chris Coyier and Dave Rupert are joined by a special guest to talk shop and answer listener submitted questions.
+  - **Frequency**: Once every week
 
 - [Syntax](https://syntax.fm/)
   - <b>Description</b>: A Tasty Treats Podcast for Web Developers.
