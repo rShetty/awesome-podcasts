@@ -235,6 +235,10 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Listen to a senior developer and a junior developer discuss topics about all aspects of software development from the highly technical, to patterns and principles, to soft skills.
   - <b>Frequency</b>: Every Thursday
 
+- [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
+  - <b>Description</b>: Command Line Heroes tells the epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.
+  - <b>Frequency</b>: Twice per month
+
 - [Developer On Fire](http://developeronfire.com/episodes)
   - <b>Description</b>: Inspiring software developers tell their stories.
   - <b>Frequency</b>  : Once or twice every week
