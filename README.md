@@ -47,6 +47,11 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: show covering a broad range of .NET-related topics in considerable technical depth.
   - <b>Frequency</b>: Monthly once
 
+- [Merge Conflict](http://www.mergeconflict.fm/)
+
+  - <b>Description</b>: Join Frank & James for a weekly discussion on the world of technology and development including C#, F#, .NET, web, mobile, and more.
+  - <b>Frequency</b>: Weekly
+  
 ## Agile
 
 - [Agile For Humans](https://ryanripley.com/agile-for-humans/)
