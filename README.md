@@ -424,6 +424,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Short (5-10 min) episodes overing a single practical developer tip.
   * **Frequency**: Once a week (roughly)
 
+* [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
+
+  * **Description**: Lambda3 Podcast is a podcast about technology that focuses on software development, engineering practices, DevOps, agile, and related subjects. It alternates between technical episodes and non technical, more relaxed episodes. Those talk about different things like diversity, culture, and other fun subjects - In Brazilian Portuguese.
+  * **Frequency**: Every Friday
+
 ## Git
 
 * [All things git](https://www.allthingsgit.com)
@@ -666,6 +671,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: An interview podcast with famous Russian web developers.
   * **Frequency**: Once every week
+
+* [ZOFE](http://zofe.com.br/)
+
+  * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
+  * **Frequency**: Apparently podcast ended in 2016
 
 * [Full Stack Radio](http://www.fullstackradio.com/)
 
