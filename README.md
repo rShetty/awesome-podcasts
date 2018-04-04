@@ -152,6 +152,11 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: ADO helps you understand and develop good DevOps practices.
   - <b>Frequency</b>  : Varies
 
+- [Hashicast](https://www.hashicorp.com/blog/introducing-hashicast)
+
+  - <b>Description</b>: A podcast about the world of infrastructure
+  - <b>Frequency</b>  : Monthly once
+
 - [SANS Internet Storm Center StormCast](https://isc.sans.edu/podcast.html)
 
   - <b>Description</b>: Stormcasts are daily 5-10 minute information security threat updates.
