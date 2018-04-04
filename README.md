@@ -472,6 +472,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Swift
 
+- [Fireside Swift](https://itunes.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
+
+- <b>Description</b>: Two buddies, Zack and Steve, discuss a new Swift topic each week. They try to stay informal while also conveying the information they know about each topic with bits of humor sprinkled throughout.
+- <b>Frequency</b>: Once every week
+
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 
   - <b>Description</b>: A show on which John Sundell & special guests from the community answer your questions about Swift development.
