@@ -318,6 +318,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Real talk from the trenches about everyday life as a junior developer: building, maintaining, and surviving a career in software engineering.
   * **Frequency**: Every Other Week
 
+* [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
+
+  * **Description**: Lambda3 Podcast is a podcast about technology that focuses on software development, engineering practices, DevOps, agile, and related subjects. It alternates between technical episodes and non technical, more relaxed episodes. Those talk about different things like diversity, culture, and other fun subjects - In Brazilian Portuguese.
+  * **Frequency**: Every Friday
+
 * [Legacy Code Rocks](https://www.legacycode.rocks/) ([iTunes](https://itunes.apple.com/us/podcast/legacy-code-rocks/id1146634772?mt=2) | [Player.fm](https://player.fm/series/legacy-code-rocks) | [Stitcher](https://www.stitcher.com/podcast/corgibytes-2/legacy-code-rocks) | [SoundCloud](https://soundcloud.com/andrea-goulet-651190405) | [Overcast](https://overcast.fm/itunes1146634772/legacy-code-rocks) | [Android](https://subscribeonandroid.com/legacycoderocks.libsyn.com/rss))
 
   * **Description**: Legacy Code Rocks explores the world of modernizing existing software applications. Hosts Andrea Goulet and M. Scott Ford of Corgibytes are out to change the way you think about legacy code. If you’re like a lot of people, when you hear the words “legacy code” it conjures up images of big mainframes and archaic punch card machines. While that’s true — it only tells a small part of the story. The truth is, the code you leave behind is your legacy, so let's make it a good one.
@@ -423,11 +428,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Short (5-10 min) episodes overing a single practical developer tip.
   * **Frequency**: Once a week (roughly)
-
-* [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
-
-  * **Description**: Lambda3 Podcast is a podcast about technology that focuses on software development, engineering practices, DevOps, agile, and related subjects. It alternates between technical episodes and non technical, more relaxed episodes. Those talk about different things like diversity, culture, and other fun subjects - In Brazilian Portuguese.
-  * **Frequency**: Every Friday
+  
 
 ## Git
 
@@ -671,12 +672,6 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: An interview podcast with famous Russian web developers.
   * **Frequency**: Once every week
-
-* [ZOFE](http://zofe.com.br/)
-
-  * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
-  * **Frequency**: Apparently podcast ended in 2016
-
 * [Full Stack Radio](http://www.fullstackradio.com/)
 
 * [HTTP203](https://developers.google.com/web/shows/http203/podcast/)
@@ -702,3 +697,8 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: A Tasty Treats Podcast for Web Developers.
   * **Frequency**: Once every week
+
+* [ZOFE](http://zofe.com.br/)
+
+  * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
+  * **Frequency**: Apparently podcast ended in 2016
