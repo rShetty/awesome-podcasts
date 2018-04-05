@@ -161,10 +161,10 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Podcast with John Willis and Damon Edwards.
   * **Frequency** : Varies
 
-* [Hashicast](https://www.hashicorp.com/blog/introducing-hashicast)
+* [HashiCast](https://www.hashicorp.com/blog/introducing-hashicast)
 
   * **Description**: A podcast about the world of infrastructure
-  * **Frequency** : Monthly once
+  * **Frequency** : Bi-Weekly
 
 * [SANS Internet Storm Center StormCast](https://isc.sans.edu/podcast.html)
 
