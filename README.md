@@ -43,15 +43,18 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
   * **Frequency**: Two episodes every week
+  * **Runtime**: 45 - 60 mins, regularly ~60 mins
 
 * [HERDING CODE](http://herdingcode.com)
 
   * **Description**: show covering a broad range of .NET-related topics in considerable technical depth.
   * **Frequency**: Monthly once
+  * **Runtime**: 15 - 60 mins, regularly ~55 mins
 
 * [Merge Conflict](http://www.mergeconflict.fm/)
   * **Description**: Join Frank & James for a weekly discussion on the world of technology and development including C#, F#, .NET, web, mobile, and more.
   * **Frequency**: Weekly
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
 ## Agile
 
@@ -59,6 +62,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Interviews people about Agile and becoming better at Agile
   * **Frequency**: Once a week
+  * **Runtime**: 25 - 60 mins, regularly ~45 mins
 
 ## Android
 
@@ -66,11 +70,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Podcast interviewing Google engineers about the latest Android APIs
   * **Frequency** : Monthly once
+  * **Runtime**: 30 - 60 mins, regularly ~55 mins
 
 * [Android Snacks](http://androidsnacks.com)
 
   * **Description**: The TL;DR of last weeks Android developer news
   * **Frequency** : Weekly once
+  * **Runtime**: 5 - 10 mins, regularly 5 mins
 
 * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
@@ -81,6 +87,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: An Android Developer Podcast
   * **Frequency** : Weekly once or twice
+  * **Runtime**: 20 - 60 mins, regularly ~50 mins
 
 ## C++
 
@@ -88,6 +95,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: All about C++ and many great interviews with prominent library and tool authors.
   * **Frequency** : Once every week
+  * **Runtime**: 40 - 60 mins, regularly ~55 mins
 
 ## Clojure
 
@@ -95,11 +103,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Interviews with leaders and folks of the Clojure and ClojureScript community.
   * **Frequency** : Every other week
+  * **Runtime**: 50 - 105 mins, regularly ~75 mins
 
 * [Cognicast](http://blog.cognitect.com/cognicast)
 
   * **Description**: Interviews with leaders and folks of the Clojure and ClojureScript community.
   * **Frequency** : Monthly twice
+  * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
 ## Community/Inspiration
 
@@ -117,10 +127,12 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: For aspiring techies and self-taught coders looking to transition into the tech industry.
   * **Frequency** : Once a week
+  * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
 ## Data Science/Machine Learning
 
 * [Data Driven](http://datadriven.tv/)
+  * **Runtime**: 5 - 60 mins, regularly ~5 mins
 
   * **Description**: Exploring the field of data science, software engineering, machine learning, and AI.
   * **Frequency**: Weekly
@@ -134,11 +146,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: High level concepts in data science, and longer interview with researchers and practitioners
   * **Frequency**: Weekly
+  * **Runtime**: 15 - 45 mins, regularly ~25 mins
 
 * [Linear Digressions](http://lineardigressions.com/)
 
   * **Description**: Data science, machine learning, artificial intelligence
   * **Frequency**: Weekly
+  * **Runtime**: 10 - 20 mins, regularly ~15 mins
   
 * [Learning Machines 101](http://www.learningmachines101.com/)
 
@@ -154,27 +168,32 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Podcast that teaches high level fundamentals of Machine Learning with exercises
   * **Frequency** : Varies
+  * **Runtime**: 20 - 60 mins, regularly ~50 mins
 
 * [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
   * **Description**: Podcast that explores opportunities and techniques driving big data, data science, and AI through interviews and analysis.
   * **Frequency** : Varies
+  * **Runtime**: 20 - 50 mins, regularly ~35 mins
 
 * [Practical AI](https://changelog.com/practicalai)
 
   * **Description**: Making artificial intelligence practical, productive, and accessible to everyone.
   * **Frequency** : Once a week
+  * **Runtime**: _unknown_
 
 * [Super DataScience](https://www.superdatascience.com/podcast/)
 
   * **Description**: Podcast that interviews various people in the data science industry.
   * **Frequency**: Once every week
+  * **Runtime**: Alternates between ~5 and ~60 mins
 
 * [Talking Machines](https://www.thetalkingmachines.com)
 
   * **Description**: Conversations with experts in the field, discussions
     of industry news, and answers to questions.
   * **Frequency** : Every other week
+  * **Runtime**: 35 - 60 mins, regularly ~40 mins
 
 * [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
 
@@ -183,12 +202,14 @@ List of podcasts which are helpful for software engineers/programmers.
     evolving, and how it intersects with every facet of
     human endeavor, from art to science.
   * **Frequency** : Weekly
+  * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
 * [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
   
   * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
   * **Frequency** : Twice a week
-  
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
+
 
 ## Devops
 
@@ -196,6 +217,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: ADO helps you understand and develop good DevOps practices.
   * **Frequency** : Varies
+  * **Runtime**: 40 - 70 mins, regularly ~55 mins
 
 * [DevOps Cafe](http://devopscafe.org/)
 
@@ -206,21 +228,25 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: A podcast about the world of infrastructure
   * **Frequency** : Bi-Weekly
+  * **Runtime**: Regularly 45 mins
 
 * [SANS Internet Storm Center StormCast](https://isc.sans.edu/podcast.html)
 
   * **Description**: Stormcasts are daily 5-10 minute information security threat updates.
   * **Frequency** : Daily
+  * **Runtime**: Regularly 5 mins
 
 * [Screaming in the Cloud](https://www.screaminginthecloud.com/)
 
   * **Description**: Snarky take on devops topics
   * **Frequency**: Weekly-ish.
+  * **Runtime**: 25 - 35 mins, regularly ~35 mins
 
 * [To Be Continuous](https://www.heavybit.com/library/podcasts/to-be-continuous/) ([iTunes](https://itunes.apple.com/us/podcast/to-be-continuous/id1107185328) | [Overcast](https://overcast.fm/itunes1107185328/to-be-continuous) | [Android](https://www.subscribeonandroid.com/www.heavybit.com/category/library/podcasts/to-be-continuous/feed/))
 
   * **Description**: A show all about continuous delivery and software development.
   * **Frequency**: Once per month
+  * **Runtime**: 25 - 60 mins, regularly ~40 mins
 
 ## FreeBSD
 
@@ -228,6 +254,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
   * **Frequency**: Weekly (Wednesday US Eastern)
+  * **Runtime**: 60 - 120 mins, regularly ~90 mins
   * **RSS**
     * [MP3](http://feeds.feedburner.com/BsdNowMp3)
     * [Video](http://feeds.feedburner.com/BsdNowMobile)
