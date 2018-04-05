@@ -562,11 +562,6 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: The live broadcast podcast all about JavaScript. The episodes run over Hangouts on Air live and get uploaded to YouTube and an audio podcast afterward. Topics include all things around JavaScript and Web Development.
   * **Frequency**: Once every week
 
-* [JavaScript Air](https://javascriptair.com/) ([Youtube](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q) | [iTunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588) | [Pocket Cast](http://pca.st/javaair))
-
-  * **Description**: The live broadcast podcast all about JavaScript. The episodes run over Hangouts on Air live and get uploaded to YouTube and an audio podcast afterward. Topics include all things around JavaScript and Web Development.
-  * **Frequency**: Once every week
-
 * [JS Party](https://changelog.com/jsparty)
 
   * **Description**: A community celebration of JavaScript and the web.
