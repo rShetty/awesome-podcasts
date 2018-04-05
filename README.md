@@ -20,6 +20,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Groovy](#groovy)
 * [iOS](#ios)
 * [Python](#python)
+* [R](#R)
 * [ReasonML](#reasonml)
 * [Ruby/Rails](#rubyrails)
 * [Kotlin](#kotlin)
@@ -502,6 +503,14 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Talk Python To Me](https://talkpython.fm/)
   * **Description**: Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
   * **Frequency** : Once every week
+
+## R
+
+* [The R-Podcast](https://r-podcast.org/)
+
+  * **Description**: Podcast about giving practical advice on how to use R for powerful and innovative data analyses.
+  * **Frequency** : Once every week
+
 
 ## ReasonML
 
