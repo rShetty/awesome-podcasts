@@ -104,6 +104,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Data Driven](http://datadriven.tv/)
 
+* [DataFramed](https://www.datacamp.com/community/podcast)
+
+  * **Description**: Interviews with industry experts on what data science is, what problems it tries to solve and what it looks like in practice.
+  * **Frequency**: Weekly
+
 * [Data Skeptic](https://dataskeptic.com/podcast)
 
   * **Description**: High level concepts in data science, and longer interview with researchers and practitioners
