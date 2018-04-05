@@ -9,6 +9,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Android](#android)
 - [Angular](#angular)
 - [C++](#c)
+- [Community](#community)
 - [Data Science/Machine Learning](#data-sciencemachine-learning)
 - [Devops](#devops)
 - [Functional Programming](#functional-programming)
@@ -76,6 +77,12 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: All about C++ and many great interviews with prominent library and tool authors.
   - <b>Frequency</b>  : Once every week
 
+## Community
+
+- [Greater than Code](https://www.greaterthancode.com/)
+
+  - <b>Description</b>: Interviews and discussions about where code and people meet and why #PeopleMatter
+  - <b>Frequency</b>  : Once every week
 
 ## Data Science/Machine Learning
 
