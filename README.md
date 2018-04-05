@@ -156,6 +156,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: ADO helps you understand and develop good DevOps practices.
   * **Frequency** : Varies
 
+* [DevOps Cafe](http://devopscafe.org/)
+
+  * **Description**: Podcast with John Willis and Damon Edwards.
+  * **Frequency** : Varies
+
 * [Hashicast](https://www.hashicorp.com/blog/introducing-hashicast)
 
   * **Description**: A podcast about the world of infrastructure
