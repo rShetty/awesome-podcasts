@@ -13,27 +13,27 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Community/Inspiration](#communityinspiration)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
 * [Devops](#devops)
-* [Functional Programming](#functional-programming)
 * [Free BSD](#freebsd)
+* [Functional Programming](#functional-programming)
 * [General Software](#general-software)
 * [Git](#git)
 * [Go Programming Language](#go-programming-language)
 * [Groovy](#groovy)
 * [iOS](#ios)
+* [Java](#java)
+* [JavaScript](#javascript)
+  * [Angular](#angular)
+  * [React.js](#reactjs)
+  * [Vue.js](#vuejs)
+* [Kotlin](#kotlin)
 * [Python](#python)
 * [R](#R)
 * [ReasonML](#reasonml)
 * [Ruby/Rails](#rubyrails)
-* [Kotlin](#kotlin)
-* [Java](#java)
-* [JavaScript](#javascript)
-  * [Angular](#angular)
-  * [Vue.js](#vuejs)
-  * [React.js](#reactjs)
-* [Scala](#scala)
-* [Swift](#swift)
 * [Rust Programming Language](#rust-programming-language)
+* [Scala](#scala)
 * [Security](#security)
+* [Swift](#swift)
 * [Web development](#web-development)
 
 ## .NET
@@ -503,66 +503,6 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: A weekly podcast that follows the journeys of two iOS developers.
   * **Frequency**: Once every week
 
-## Python
-
-* [Podcast.\_\_init\_\_](https://pythonpodcast.com/)
-
-  * **Description**: The Podcast About Python and the People Who Make It Great
-  * **Frequency** : Once every week
-
-* [Python Bytes](https://pythonbytes.fm/)
-
-  * **Description**: Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don't have time to scour reddit, twitter, and other news sources, just subscribe and you'll get the best picks delivered weekly.
-  * **Frequency** : Once every week
-
-* [Talk Python To Me](https://talkpython.fm/)
-  * **Description**: Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
-  * **Frequency** : Once every week
-
-## R
-
-* [The R-Podcast](https://r-podcast.org/)
-
-  * **Description**: Podcast about giving practical advice on how to use R for powerful and innovative data analyses.
-  * **Frequency** : Once every week
-
-
-## ReasonML
-
-* [Reason Town](https://reason.town/)
-
-  * **Description**: A podcast about the ReasonML language
-  * **Frequency** : Approximately once a month
-
-## Ruby/Rails
-
-* My Ruby Story ([By devchat](https://devchat.tv/my-ruby-story) | [iTunes](https://itunes.apple.com/us/podcast/my-ruby-story/id1237404328?mt=2))
-
-  * **Description**: A weekly exploration into the people who make Ruby what it is.
-  * **Frequency** : Once every week
-
-* [Ruby Rogues](https://devchat.tv/ruby-rogues)
-
-  * **Description**: Ruby and Rails
-  * **Frequency** : Once every week
-
-* [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
-
-  * **Description**: conversation about Ruby on Rails,open source software, and the programming profession.
-  * **Frequency** : Once every month.
-
-* [RubyTapas](https://www.rubytapas.com)
-
-  * **Description**: for the busy Ruby or Rails developer who is ready to reach the next level of code mastery.
-  * **Frequency** : Once every week.
-
-## Kotlin
-
-* [Talking kotlin](http://talkingkotlin.com)
-
-  * **Description**: Kotlin and more
-  * **Frequency** : Approximately once a month
-
 ## Java
 
 * [Enterprise Java Newscast](http://www.enterprisejavanews.com)
@@ -598,13 +538,6 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Developments in the Angular community, tools, techniques, and ecosystem.
   * **Frequency** : Once every week
 
-### Vue.js
-
-* [The Official Vue News](https://news.vuejs.org/)
-
-  * **Description**: We cover the latest Vue news and tutorials in about 5 minutes. Our goal is to give you the information you need to stay on top of your game as a Vue developer.
-  * **Frequency** : Once every week
-
 ### React.js
 
 * [The React podcast](https://changelog.com/reactpodcast) ([iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432) | [Overcast](https://overcast.fm/itunes1341969432/the-react-podcast) | [Android](http://www.subscribeonandroid.com/changelog.com/reactpodcast/feed))
@@ -616,12 +549,106 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: React Native Radio Podcast
   * **Frequency**: Once every week
 
+### Vue.js
+
+* [The Official Vue News](https://news.vuejs.org/)
+
+  * **Description**: We cover the latest Vue news and tutorials in about 5 minutes. Our goal is to give you the information you need to stay on top of your game as a Vue developer.
+  * **Frequency** : Once every week
+
+## Kotlin
+
+* [Talking kotlin](http://talkingkotlin.com)
+
+  * **Description**: Kotlin and more
+  * **Frequency** : Approximately once a month
+
+## Python
+
+* [Podcast.\_\_init\_\_](https://pythonpodcast.com/)
+
+  * **Description**: The Podcast About Python and the People Who Make It Great
+  * **Frequency** : Once every week
+
+* [Python Bytes](https://pythonbytes.fm/)
+
+  * **Description**: Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don't have time to scour reddit, twitter, and other news sources, just subscribe and you'll get the best picks delivered weekly.
+  * **Frequency** : Once every week
+
+* [Talk Python To Me](https://talkpython.fm/)
+  * **Description**: Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
+  * **Frequency** : Once every week
+
+## R
+
+* [The R-Podcast](https://r-podcast.org/)
+
+  * **Description**: Podcast about giving practical advice on how to use R for powerful and innovative data analyses.
+  * **Frequency** : Once every week
+
+## ReasonML
+
+* [Reason Town](https://reason.town/)
+
+  * **Description**: A podcast about the ReasonML language
+  * **Frequency** : Approximately once a month
+
+## Ruby/Rails
+
+* My Ruby Story ([By devchat](https://devchat.tv/my-ruby-story) | [iTunes](https://itunes.apple.com/us/podcast/my-ruby-story/id1237404328?mt=2))
+
+  * **Description**: A weekly exploration into the people who make Ruby what it is.
+  * **Frequency** : Once every week
+
+* [Ruby Rogues](https://devchat.tv/ruby-rogues)
+
+  * **Description**: Ruby and Rails
+  * **Frequency** : Once every week
+
+* [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
+
+  * **Description**: conversation about Ruby on Rails,open source software, and the programming profession.
+  * **Frequency** : Once every month.
+
+* [RubyTapas](https://www.rubytapas.com)
+
+  * **Description**: for the busy Ruby or Rails developer who is ready to reach the next level of code mastery.
+  * **Frequency** : Once every week.
+
+## Rust programming language
+
+* [New Rustacean](https://newrustacean.com/)
+
+* [The Rusty Spike](https://rusty-spike.blubrry.net/)
+
 ## Scala
 
 * [Scalalaz](https://scalalaz.ru/)
 
   * **Description**: Russian-speaking podcast about Scala, functional programming and software development
   * **Frequency**: Once in 2 weeks
+
+## Security
+
+* [Defensive Security Podcast](https://defensivesecurity.org/)
+
+* [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
+
+* [Paul's Security Weekly](https://securityweekly.com/)
+
+  * **Description**: All news on Security
+  * **Frequency** : Once every week
+
+* [Risky Business](https://risky.biz/netcasts/risky-business/)
+
+* [Security Now](https://twit.tv/shows/security-now)
+
+  * **Description**: Deep dive into Security concepts and news
+  * **Frequency** : Once every week
+
+* [The Secure Developer](https://www.heavybit.com/library/podcasts/the-secure-developer/) ([iTunes](https://itunes.apple.com/us/podcast/the-secure-developer/id1156317989?mt=2) | [Overcast](https://overcast.fm/itunes1156317989/the-secure-developer) | [Android](https://www.subscribeonandroid.com/www.heavybit.com/category/library/podcasts/the-secure-developer/feed/) | [SoundCloud](https://soundcloud.com/heavybit/sets/the-secure-developer))
+  * **Description**: A podcast about security for developers, covering tools and best practices.
+  * **Frequency**: Once every 2/3 month
 
 ## Swift
 
@@ -645,33 +672,6 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
   * **Frequency**: Once every week
 
-## Rust programming language
-
-* [New Rustacean](https://newrustacean.com/)
-
-* [The Rusty Spike](https://rusty-spike.blubrry.net/)
-
-## Security
-
-* [Defensive Security Podcast](https://defensivesecurity.org/)
-
-* [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
-
-* [Paul's Security Weekly](https://securityweekly.com/)
-
-  * **Description**: All news on Security
-  * **Frequency** : Once every week
-
-* [Risky Business](https://risky.biz/netcasts/risky-business/)
-
-* [Security Now](https://twit.tv/shows/security-now)
-
-  * **Description**: Deep dive into Security concepts and news
-  * **Frequency** : Once every week
-
-* [The Secure Developer](https://www.heavybit.com/library/podcasts/the-secure-developer/) ([iTunes](https://itunes.apple.com/us/podcast/the-secure-developer/id1156317989?mt=2) | [Overcast](https://overcast.fm/itunes1156317989/the-secure-developer) | [Android](https://www.subscribeonandroid.com/www.heavybit.com/category/library/podcasts/the-secure-developer/feed/) | [SoundCloud](https://soundcloud.com/heavybit/sets/the-secure-developer))
-  * **Description**: A podcast about security for developers, covering tools and best practices.
-  * **Frequency**: Once every 2/3 month
 
 ## Web development
 
