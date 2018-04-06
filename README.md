@@ -71,6 +71,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: The TL;DR of last weeks Android developer news
   * **Frequency** : Weekly once
 
+* [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast)
+
+  * **Description**: Podcast that discusses on various frameworks and tools available in Android Community
+  * **Frequency** : Monthly Once  
+
 * [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/)
 
   * **Description**: An Android Developer Podcast
@@ -310,6 +315,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Interviews and discussions related to embedded software.
   * **Frequency** : Once every week
+
+* [FreeCode Camp](http://freecodecamp.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#))
+  * **Description**:  A weekly talk that gives insights, people who started to code from non-technical background and successfully kickstarted thier carrers, as well as interviews with experts on how to get started in new hot topics in tech
+  * **Frequency** : Weekly Once
 
 * [Five Nines of Downtime](https://soundcloud.com/fiveninesofdowntime)
 
