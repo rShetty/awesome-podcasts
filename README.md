@@ -4,6 +4,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Table of Contents
 
+
 * [.NET](#net)
 * [Agile](#agile)
 * [Android](#android)
@@ -95,6 +96,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency** : Monthly twice
 
 ## Community/Inspiration
+
+* [Greater than Code](https://www.greaterthancode.com/)
+
+  * <b>Description</b>: Interviews and discussions about where code and people meet and why #PeopleMatter
+  * <b>Frequency</b>  : Once every week
 
 * [Learn To Code With Me](https://learntocodewith.me/podcast/) ([Soundcloud](https://soundcloud.com/laurence-bradford) | [iTunes](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Stitcher](https://www.stitcher.com/podcast/learn-to-code-with-me))
 
