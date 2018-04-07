@@ -26,6 +26,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
+* [PHP](#php)
 * [Python](#python)
 * [R](#R)
 * [ReasonML](#reasonml)
@@ -562,6 +563,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Kotlin and more
   * **Frequency** : Approximately once a month
+
+## PHP
+
+* [PHPUgly](https://phpugly.simplecast.fm/)
+
+  * **Description**: The podcast your mother warned you about. Ramblings of a few overworked PHP Developers.
+  * **Frequency** : Once every week
 
 ## Python
 
