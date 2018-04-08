@@ -444,6 +444,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: The Stack Overflow Podcast lets you listen in on what’s new with the world’s largest developer community.
   * **Frequency**: Once every week
 
+* [The Standup](http://www.standup.fm/)
+
+  * **Description**: A podcast that delves into the obstacles and successes involved in creating, running, and sustaining successful software side projects.
+  * **Frequency**: Twice every month
+
 * [The Women in Tech Show](https://thewomenintechshow.com)
 
   * **Description**: Technical interviews with prominent women in tech.
