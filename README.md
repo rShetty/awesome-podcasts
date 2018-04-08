@@ -75,7 +75,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
   * **Description**: Podcast that discusses on various frameworks and tools available in Android Community
-  * **Frequency** : Monthly Once  
+  * **Frequency** : Monthly Once
 
 * [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/)
 
@@ -458,7 +458,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Short (5-10 min) episodes overing a single practical developer tip.
   * **Frequency**: Once a week (roughly)
-  
+
 
 ## Git
 
@@ -640,6 +640,16 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency**: Once in 2 weeks
 
 ## Security
+
+* [The Cyber Wire](https://www.thecyberwire.com/)
+
+  * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
+  * **Frequency** : Daily
+
+* [Darknet Diaries](https://defensivesecurity.org/)
+
+  * **Description**: True stories from the dark side of the Internet.
+  * **Frequency** : Bi-Monthly
 
 * [Defensive Security Podcast](https://defensivesecurity.org/)
 
