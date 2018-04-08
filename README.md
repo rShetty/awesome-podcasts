@@ -686,6 +686,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Web development
 
+* [Chance the Developer](https://chancethedev.com/)
+
+  * **Description**: No idea where I'm going with this. Join me as I ramble on about web development and talk to people who are much more talented than I am.
+  * **Frequency** : Once every week
+
 * [Dads in Development](http://www.dadsindev.com/)
 
   * **Description**: A podcast about raising children, web development, remote work, and health.
