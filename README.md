@@ -542,6 +542,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Developments in the Angular community, tools, techniques, and ecosystem.
   * **Frequency** : Once every week
 
+* [AngularAir](https://angularair.com/)
+
+  * **Description**: All about Angular
+  * **Frequency** : Once every week
+
 ### React.js
 
 * [The React podcast](https://changelog.com/reactpodcast) ([iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432) | [Overcast](https://overcast.fm/itunes1341969432/the-react-podcast) | [Android](http://www.subscribeonandroid.com/changelog.com/reactpodcast/feed))
