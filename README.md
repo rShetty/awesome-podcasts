@@ -594,6 +594,11 @@ List of podcasts which are helpful for software engineers/programmers.
 * [React Native Radio](https://devchat.tv/react-native-radio) ([iTunes](https://itunes.apple.com/us/podcast/react-native-radio/id1058647602?mt=2) | [Stitcher](https://www.stitcher.com/podcast/ruby-rogues/react-native-radio?refid=stpr))
   * **Description**: React Native Radio Podcast
   * **Frequency**: Once every week
+  
+
+* [5 minutes of React podcast](https://5minreact.audio/) ([iTunes](https://itunes.apple.com/ru/podcast/5-minutes-of-react/id1232187990?mt=2&at=1010lwCk&l=en) | [Android](http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:304879382/sounds.rss) | [SoundCloud](https://soundcloud.com/5minreact_audio) | [YouTube](https://www.youtube.com/channel/UC43OeCrRbp6hSEnNZWIHOGg/videos?flow=list&live_view=500&view=0&sort=dd))
+  * **Description**: Podcast about React hot topics and JavaScript ecosystem.
+  * **Frequency**: Few times in a quarter
 
 ### Vue.js
 
