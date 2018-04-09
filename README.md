@@ -103,6 +103,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Community/Inspiration
 
+* [Bad Voltage](https://www.badvoltage.org/)
+
+  * **Description**: Technology with a free software / open source slant, crossing over into related political topics. Evolution of the now-defunct [LugRadio](https://en.wikipedia.org/wiki/LugRadio) podcast.
+  * **Frequency** : Monthly twice
+
 * [Greater than Code](https://www.greaterthancode.com/)
 
   * <b>Description</b>: Interviews and discussions about where code and people meet and why #PeopleMatter
