@@ -117,6 +117,9 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Data Driven](http://datadriven.tv/)
 
+  * **Description**: Exploring the field of data science, software engineering, machine learning, and AI.
+  * **Frequency**: Weekly
+
 * [DataFramed](https://www.datacamp.com/community/podcast)
 
   * **Description**: Interviews with industry experts on what data science is, what problems it tries to solve and what it looks like in practice.
@@ -144,6 +147,9 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
+  * **Description**: Podcast that explores opportunities and techniques driving big data, data science, and AI through interviews and analysis.
+  * **Frequency** : Varies
+
 * [Practical AI](https://changelog.com/practicalai)
 
   * **Description**: Making artificial intelligence practical, productive, and accessible to everyone.
@@ -169,6 +175,9 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency** : Weekly
 
 * [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
+  
+  * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
+  * **Frequency** : Twice a week
 
 ## Devops
 
