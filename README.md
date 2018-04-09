@@ -117,6 +117,9 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Data Driven](http://datadriven.tv/)
 
+  * **Description**: Exploring the field of data science, software engineering, machine learning, and AI.
+  * **Frequency**: Weekly
+
 * [DataFramed](https://www.datacamp.com/community/podcast)
 
   * **Description**: Interviews with industry experts on what data science is, what problems it tries to solve and what it looks like in practice.
@@ -144,6 +147,9 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
+  * **Description**: Podcast that explores opportunities and techniques driving big data, data science, and AI through interviews and analysis.
+  * **Frequency** : Varies
+
 * [Practical AI](https://changelog.com/practicalai)
 
   * **Description**: Making artificial intelligence practical, productive, and accessible to everyone.
@@ -169,6 +175,9 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency** : Weekly
 
 * [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
+  
+  * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
+  * **Frequency** : Twice a week
 
 ## Devops
 
@@ -315,6 +324,9 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
+  * **Description**: Podcast to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence.
+  * **Frequency**: Every Monday, Wednesday and Friday
+
 * [Embedded FM](https://www.embedded.fm/)
 
   * **Description**: Interviews and discussions related to embedded software.
@@ -335,8 +347,14 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency** : Once every week
 
 * [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
+  
+  * **Description**: Podcast discussing the design, development, and business of great software with a rotating cast of fellow developers, designers, and entrepreneurs.
+  * **Frequency** : Weekly
 
 * [HAK5](https://www.hak5.org/)
+
+  * **Description**: A podcast covering everything from open source software and network infrastructure to penetration testing.
+  * **Frequency**: Weekly
 
 * [HanselMinutes](https://hanselminutes.com/)
 
@@ -370,6 +388,9 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Programming and Performance with Cliff Click](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 
+  * **Description**:  Various issues with Programming, Programmers, and Computer Performance.
+  * **Frequency**: Weekly
+
 * [Programming Throwdown](http://www.programmingthrowdown.com/)
 
   * **Description**: Anything and everything related to software
@@ -391,6 +412,9 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency** : Multiple episodes every week
 
 * [Software Engineering Radio](http://www.se-radio.net/)
+
+  * **Description**: Targeted at the professional software developer, aiming to be a lasting educational resource, not a newscast. Talks from experts from the software engineering world about the full range of topics that matter to professional developers.
+  * **Frequency**: Three to four times a month
 
 * [Soft Skills Engineering](https://softskills.audio/) ([iTunes](https://itunes.apple.com/us/podcast/soft-skills-engineering/id1091341048?mt=2) | [Overcast](https://overcast.fm/itunes1091341048/soft-skills-engineering) | [Android](https://subscribeonandroid.com/feeds.feedburner.com/SoftSkillsEngineering))
 
@@ -428,6 +452,9 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency**: Once per month
 
 * [The New Stack](https://thenewstack.io/podcasts/)
+
+  * **Description**: Analysis and explanations about application development and management at scale. Roundtable discussion with technologists, analysts and journalists, interviews with practitioners, demonstrations of software and services.
+  * **Frequency**: Various
 
 * [The Rabbit Hole](http://therabbithole.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-rabbit-hole-an-inside-look-into-software-development/id1223811385) | [Overcast](https://overcast.fm/itunes1223811385/the-rabbit-hole-an-inside-look-into-software-development) | [Android](https://subscribeonandroid.com/therabbithole.libsyn.com/rss))
 
@@ -640,7 +667,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [New Rustacean](https://newrustacean.com/)
 
+  * **Description**: A podcast about learning Rust—from scratch.
+  * **Frequency**: Various
+
 * [The Rusty Spike](https://rusty-spike.blubrry.net/)
+
+  * **Description**: A podcast for Rust and Servo
+  * **Frequency**: Every Wednesday
 
 ## Scala
 
@@ -663,7 +696,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Defensive Security Podcast](https://defensivesecurity.org/)
 
+  * **Description**: A cyber security podcast covering breaches and strategies for defense. An attempt to look at recent security news and pick out lessons to apply organizations we are charged with keeping secure. 
+  * **Frequency**: Various
+
 * [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
+
+  * **Description**: Discussions with project leads within OWASP. Discussions on new projects that have come on board, updates to existing projects and interesting bits of trivia that come across our desk.
+  * **Frequency**: Weekly
 
 * [Paul's Security Weekly](https://securityweekly.com/)
 
@@ -671,6 +710,9 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency** : Once every week
 
 * [Risky Business](https://risky.biz/netcasts/risky-business/)
+
+  * **Description**: Information security podcast featuring news and in-depth interviews with industry luminaries.
+  * **Frequency**: Weekly
 
 * [Security Now](https://twit.tv/shows/security-now)
 
@@ -733,11 +775,18 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Front End Happy Hour](http://frontendhappyhour.com/) ([iTunes](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2) | [SoundCloud](https://soundcloud.com/front-end-happy-hour))
 
+  * **Description**: A podcast featuring panelists of engineers from Netflix, Evernote & LinkedIn talking over drinks about all things Front End development.
+  * **Frequency**: At least once a month
+
 * [Frontend Weekend](https://soundcloud.com/frontend-weekend)
 
   * **Description**: An interview podcast with famous Russian web developers.
   * **Frequency**: Once every week
+
 * [Full Stack Radio](http://www.fullstackradio.com/)
+
+  * **Description**: A podcast for developers interested in building great software products. Topics include product design and user experience to unit testing and system administration.
+  * **Frequency**: Twice and month
 
 * [HTTP203](https://developers.google.com/web/shows/http203/podcast/)
 
@@ -756,7 +805,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [NodeUp](http://nodeup.com/)
 
+  * **Description**: Podcast about Node.js
+  * **Frequency**: Various
+
 * [Shop Talk Show](http://shoptalkshow.com/) ([iTunes](https://itunes.apple.com/us/podcast/shoptalk/id493890455) | [Overcast](https://overcast.fm/itunes493890455/shoptalk) | [Android](https://subscribeonandroid.com/shoptalkshow.com/feed/podcast/))
+
+  * **Description**: Podcast about front end web design, development and UX.
+  * **Frequency**: Weekly
 
 * [Syntax](https://syntax.fm/)
 
