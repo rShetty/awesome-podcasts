@@ -667,7 +667,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [New Rustacean](https://newrustacean.com/)
 
+  * **Description**: A podcast about learning Rust—from scratch.
+  * **Frequency**: Various
+
 * [The Rusty Spike](https://rusty-spike.blubrry.net/)
+
+  * **Description**: A podcast for Rust and Servo
+  * **Frequency**: Every Wednesday
 
 ## Scala
 
@@ -690,7 +696,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Defensive Security Podcast](https://defensivesecurity.org/)
 
+  * **Description**: A cyber security podcast covering breaches and strategies for defense. An attempt to look at recent security news and pick out lessons to apply organizations we are charged with keeping secure. 
+  * **Frequency**: Various
+
 * [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
+
+  * **Description**: Discussions with project leads within OWASP. Discussions on new projects that have come on board, updates to existing projects and interesting bits of trivia that come across our desk.
+  * **Frequency**: Weekly
 
 * [Paul's Security Weekly](https://securityweekly.com/)
 
@@ -698,6 +710,9 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency** : Once every week
 
 * [Risky Business](https://risky.biz/netcasts/risky-business/)
+
+  * **Description**: Information security podcast featuring news and in-depth interviews with industry luminaries.
+  * **Frequency**: Weekly
 
 * [Security Now](https://twit.tv/shows/security-now)
 
