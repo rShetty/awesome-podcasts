@@ -775,11 +775,18 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Front End Happy Hour](http://frontendhappyhour.com/) ([iTunes](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2) | [SoundCloud](https://soundcloud.com/front-end-happy-hour))
 
+  * **Description**: A podcast featuring panelists of engineers from Netflix, Evernote & LinkedIn talking over drinks about all things Front End development.
+  * **Frequency**: At least once a month
+
 * [Frontend Weekend](https://soundcloud.com/frontend-weekend)
 
   * **Description**: An interview podcast with famous Russian web developers.
   * **Frequency**: Once every week
+
 * [Full Stack Radio](http://www.fullstackradio.com/)
+
+  * **Description**: A podcast for developers interested in building great software products. Topics include product design and user experience to unit testing and system administration.
+  * **Frequency**: Twice and month
 
 * [HTTP203](https://developers.google.com/web/shows/http203/podcast/)
 
@@ -798,7 +805,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [NodeUp](http://nodeup.com/)
 
+  * **Description**: Podcast about Node.js
+  * **Frequency**: Various
+
 * [Shop Talk Show](http://shoptalkshow.com/) ([iTunes](https://itunes.apple.com/us/podcast/shoptalk/id493890455) | [Overcast](https://overcast.fm/itunes493890455/shoptalk) | [Android](https://subscribeonandroid.com/shoptalkshow.com/feed/podcast/))
+
+  * **Description**: Podcast about front end web design, development and UX.
+  * **Frequency**: Weekly
 
 * [Syntax](https://syntax.fm/)
 
