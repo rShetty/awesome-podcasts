@@ -12,7 +12,10 @@
 
 * [Frontend Weekend](https://soundcloud.com/frontend-weekend)
 
+  * **Описание**: Еженедельный подкаст о новостях мира frontend-разработки и индустрии web-технологий изнутри. Обсуждаем всё: от JavaScript и CSS до митапов, конференций и работы в IT-сфере.
+  * **Регулярность** : Время от времени
+
 * [RadioJS](https://radiojs.ru/)
 
-  * **Description**: Подкаст о веб-разработке, Javascript, фронтенде и Client-Side
-  * **Frequency** : Время от времени
+  * **Описание**: Подкаст о веб-разработке, Javascript, фронтенде и Client-Side
+  * **Регулярность** : Время от времени
