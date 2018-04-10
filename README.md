@@ -140,11 +140,6 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Data science, machine learning, artificial intelligence
   * **Frequency**: Weekly
 
-* [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
-
-  * **Description**: This series aims to teach you the high level fundamentals of machine learning from A to Z. I'll teach you the basic intuition, algorithms, and math. We'll discuss languages and frameworks, deep learning, and more. Audio may be an inferior medium to task; but with all our exercise, commute, and chores hours of the day, not having an audio supplementary education would be a missed opportunity. And where your other resources will provide you the machine learning trees, I’ll provide the forest. Additionally, consider me your syllabus. At the end of every episode I’ll provide the best-of-the-best resources curated from around the web for you to learn each episode’s details.
-  * **Frequency** : Varies
-
 * [ocdlevel Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
   * **Description**: Podcast that teaches high level fundamentals of Machine Learning with exercises
@@ -302,7 +297,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies.
   * **Frequency** : Weekly
 
-* [Coding Blocks](https://www.codingblocks.net/)
+* [Coding Blocks](https://www.codingblocks.net/category/podcast/)
 
   * **Description**: Software Design Patterns, Architecture, and Best Practices.
   * **Frequency** : Twice per month
@@ -698,11 +693,6 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
   * **Frequency** : Daily
-
-* [Darknet Diaries](https://defensivesecurity.org/)
-
-  * **Description**: True stories from the dark side of the Internet.
-  * **Frequency** : Bi-Monthly
 
 * [Defensive Security Podcast](https://defensivesecurity.org/)
 
