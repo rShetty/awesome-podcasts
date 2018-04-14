@@ -445,6 +445,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Podcasts on technical software topics, interviews with some of the top CTOs, engineers and technology directors.
   * **Frequency** : Once every week
+  
+* [The Manifest](https://manifest.fm/)
+
+  * **Description**: A podcast all about package management. Each episode is a conversation with someone from the world of package management, covering how they got into the field, the architectural details of their work, and the communities around the tools.
+  * **Frequency**: Sporadic, but no more than once a fortnight.
 
 * [The MousePaw'dCast](https://mousepawmedia.com/news/podcast) ([iTunes](https://itunes.apple.com/us/podcast/mousepawdcast/id1242557040) | [Overcast](https://overcast.fm/itunes1242557040/mousepawdcast) | [Android](https://subscribeonandroid.com/mousepawmedia.com/rss/mousepawdcast.xml) | [iHeartRadio](https://www.iheart.com/podcast/428-MousePawdCast-28198080/) | [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/MousePawdCast-p1002800/))
 
