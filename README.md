@@ -262,10 +262,6 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## General software
 
-* [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/)
-  * **Description**: Security podcast targeting developers. Excellent insight into what we can do as developers to secure our software.
-  * **Frequency** :  Weekly
-
 * [Away from keyboard](http://awayfromthekeyboard.com/) ([Soundcloud](https://soundcloud.com/awayfromthekeyboardpodcast) | [iTunes](https://itunes.apple.com/us/podcast/away-from-the-keyboard/id987544504))
 
   * **Description**: Away From The Keyboard is a podcast that talks to technologists and tells their stories. Stories about how they started, how they grew, how they learned, and how they unwind.
@@ -697,6 +693,10 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency**: Once in 2 weeks
 
 ## Security
+
+* [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/)
+  * **Description**: Security podcast targeting developers. Excellent insight into what we can do as developers to secure our software.
+  * **Frequency** :  Weekly
 
 * [The Cyber Wire](https://www.thecyberwire.com/)
 
