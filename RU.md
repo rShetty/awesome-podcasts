@@ -41,12 +41,12 @@
   * **Описание**: Подкаст Питерского сообщества SPB Frontend о фронтенде в целом, с регулярной ротацией ведущих
   * **Регулярность** : Время от времени
   
-* [Фронтенд Юность](http://youknow.st/) ([Soundcloud](https://soundcloud.com/frontend_u) | [iTunes]https://itunes.apple.com/ru/podcast/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C-18/id1247192730))
+* [Фронтенд Юность](http://youknow.st/) ([SoundCloud](https://soundcloud.com/frontend_u) | [iTunes](https://itunes.apple.com/ru/podcast/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C-18/id1247192730))
 
   * **Описание**: Самый честный подкаст о фронтенде
   * **Регулярность** : Время от времени
   
-* [Фронтёрки](http://fronterki.fm/) ([Fireside](https://fronterki.fireside.fm/) | [Soundcloud](https://soundcloud.com/fronterki) | [iTunes](https://itunes.apple.com/ru/podcast/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D1%91%D1%80%D0%BA%D0%B8/id1215522954))
+* [Фронтёрки](http://fronterki.fm/) ([Fireside](https://fronterki.fireside.fm/) | [SoundCloud](https://soundcloud.com/fronterki) | [iTunes](https://itunes.apple.com/ru/podcast/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D1%91%D1%80%D0%BA%D0%B8/id1215522954))
 
   * **Описание**: Подкаст про фронтенд и людей. Интервью с интересными людьми, которые занимаются фронтендом
   * **Регулярность** : Время от времени
