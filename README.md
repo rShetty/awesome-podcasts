@@ -616,10 +616,41 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## PHP
 
+
+* [php[podcast]](https://www.phparch.com/podcast/feed/episodes/)
+
+  * **Description**: The site for PHP professionals, Magazine, Training, Books, Conferences.
+  * **Frequency** : Once or twice every month
+
+
 * [PHPUgly](https://phpugly.simplecast.fm/)
 
   * **Description**: The podcast your mother warned you about. Ramblings of a few overworked PHP Developers.
   * **Frequency** : Once every week
+
+
+* [Sound of Symfony](http://feed.soundofsymfony.com/rss)
+
+  * **Description**: The unofficial Symfony podcast.
+  * **Frequency** : Various
+
+
+* [That Podcast](https://thatpodcast.io/itunes.rss)
+
+  * **Description**: Beau and Dave talking about life as dads, programmers, and entrepreneurs.
+  * **Frequency** : Once every week.
+
+
+* [The PHP Roundtable](http://feeds.feedburner.com/PhpRoundtable)
+
+  * **Description**: The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about.
+  * **Frequency** : About once every month.
+
+
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com/feed/podcast/)
+
+  * **Description**: Interviews with the people that are making the PHP community special.
+  * **Frequency** : Once every month
 
 ## Python
 
