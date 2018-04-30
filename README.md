@@ -139,6 +139,16 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Data science, machine learning, artificial intelligence
   * **Frequency**: Weekly
+  
+* [Learning Machines 101](http://www.learningmachines101.com/)
+
+  * **Description**: In this podcast series, we examine such questions as:
+                      How do these devices work?
+                      Where do they come from?
+                      How can we make them even smarter?
+                      And how can we make them even more human-like?
+                  Learning Machines 101 is committed to providing an accessible introduction to the complex and fascinating world of                       Artificial Intelligence which now has an impact on everyday life throughout the world!
+  * **Frequency**: Once a month
 
 * [ocdlevel Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
@@ -178,6 +188,7 @@ List of podcasts which are helpful for software engineers/programmers.
   
   * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
   * **Frequency** : Twice a week
+  
 
 ## Devops
 
