@@ -269,6 +269,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Podcasts for news & interviews from around the @Elixirlang Community
   * **Frequency** : Varies
+  
+* [Indielixer](https://indielixer.com)
+
+  * **Description**: A new solo podcast about independent side projects built in the Elixir language. Right now it focuses on the hosts projects, but will include other community members in the future.
+  * **Frequency** : Varies - Usually once or twice a month, sometimes more
 
 
 ## General software
