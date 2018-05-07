@@ -1,4 +1,5 @@
 # Awesome list of Important Podcasts for software engineers
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 List of podcasts which are helpful for software engineers/programmers.
 
@@ -873,3 +874,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
   * **Frequency**: Apparently podcast ended in 2016
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Rajeev N Bharshetty](https://github.com/rShetty) has waived all copyright and related or neighboring rights to this work.
