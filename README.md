@@ -279,6 +279,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## General software
 
+* [The 6 Figure Developer Podcast](https://6figuredev.com/)
+
+  * **Description**: The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.
+  * **Frequency**: Weekly
+  
 * [Away from keyboard](http://awayfromthekeyboard.com/) ([Soundcloud](https://soundcloud.com/awayfromthekeyboardpodcast) | [iTunes](https://itunes.apple.com/us/podcast/away-from-the-keyboard/id987544504))
 
   * **Description**: Away From The Keyboard is a podcast that talks to technologists and tells their stories. Stories about how they started, how they grew, how they learned, and how they unwind.
