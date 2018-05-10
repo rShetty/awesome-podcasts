@@ -745,6 +745,11 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/)
   * **Description**: Security podcast targeting developers. Excellent insight into what we can do as developers to secure our software.
   * **Frequency** :  Weekly
+  
+* [Breach](https://www.carbonite.com/podcasts/breach/) 
+  * **Description**: A podcast exploring data breaches and cybersecurity by Carbonite.
+  * **Frequency** : Every 2/3 Months
+
 
 * [The Cyber Wire](https://www.thecyberwire.com/)
 
