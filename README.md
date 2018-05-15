@@ -2,6 +2,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 List of podcasts which are helpful for software engineers/programmers.
+[<img src="logo.svg" align="right" >](https://github.com/rShetty/awesome-podcasts)
 
 ## Table of Contents
 
