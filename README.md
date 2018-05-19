@@ -227,6 +227,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Podcast with John Willis and Damon Edwards.
   * **Frequency** : Varies
+  * **Runtime**: 45 - 75 mins, regularly ~55 mins
 
 * [HashiCast](https://www.hashicorp.com/blog/introducing-hashicast)
 
@@ -270,37 +271,43 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Interviews with functional programming devs & researchers covering a variety of languages. Language focus is approx. 50% Scala, 50% Haskell/Idris/Everything else.
   * **Frequency** : Varies
+  * **Runtime**: 50 - 70 mins, regularly ~55 mins
 
 * Elixir Talk ([Soundcloud](https://soundcloud.com/elixirtalk) | [iTunes](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048))
 
   * **Description**: Titillating discussion about Elixir application design and ecosystem state.
   * **Frequency** : Twice per month
+  * **Runtime**: 30 - 65 mins, regularly ~40 mins
 
 * [Elm Town](https://elmtown.audio/)
 
   * **Description**: About the people making and using the Elm language.
   * **Frequency** : Varies
+  * **Runtime**: 30 - 75 mins, regularly ~60 mins
 
 * [FunctionalGeekery](https://www.functionalgeekery.com/)
 
   * **Description**: All functional programming languages
   * **Frequency** : Monthly once
+  * **Runtime**: 40 - 70 mins, regularly ~55 mins
 
 * [Haskell Cast](https://www.haskellcast.com/)
 
   * **Description**: Core haskell concepts
   * **Frequency** : Monthly once
+  * **Runtime**: 50 - 65 mins, regularly ~55 mins
 
 * [Lambdacast](https://soundcloud.com/lambda-cast)
 
   * **Description**: Functional programming core concepts
   * **Frequency** : Once in 2 months
+  * **Runtime**: 45 - 100 mins, regularly ~60 mins
 
 * [The Elixir Fountain](https://soundcloud.com/elixirfountain)
 
   * **Description**: Podcasts for news & interviews from around the @Elixirlang Community
   * **Frequency** : Varies
-
+  * **Runtime**: 30 - 60 mins, regularly ~55 mins
 
 ## General software
 
@@ -308,236 +315,282 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Away From The Keyboard is a podcast that talks to technologists and tells their stories. Stories about how they started, how they grew, how they learned, and how they unwind.
   * **Frequency**: Once a week
+  * **Runtime**: 30 - 70 mins, regularly ~50 mins
 
 * [Base.cs](https://www.codenewbie.org/basecs)
 
   * **Description**: CodeNewbie teams up with Vaidehi Joshi to turn her base.cs blog series into an awesome podcast.
   * **Frequency** : Weekly
+  * **Runtime**: 15 - 30 mins, regularly ~25 mins
 
 * [CaSE](http://www.case-podcast.org/)
 
   * **Description**: CaSE is an interview podcast for software developers and architects about Software Engineering and related topics.
   * **Frequency** : Every three weeks.
+  * **Runtime**: 50 - 65 mins, regularly ~55 mins
 
 * [Code](https://codepodcast.com/)
 
   * **Description**: Code Podcast is about ideas that shape the way we build software
   * **Frequency** : Monthly once
+  * **Runtime**: 20 - 50 mins, regularly ~40 mins
 
 * [Code Newbie](https://www.codenewbie.org/podcast)
 
   * **Description**: Stories from people on their coding journey.
   * **Frequency** : every Monday
+  * **Runtime**: 30 - 70 mins, regularly ~55 mins
 
 * [CodePen Radio](https://blog.codepen.io/radio/)
 
   * **Description**: The people behind Codepen.io talk business, tech and more!
   * **Frequency** : Weekly
+  * **Runtime**: 25 - 40 mins, regularly ~30 mins
 
 * [Coder Radio](http://coder.show)
 
   * **Description**: A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies.
   * **Frequency** : Weekly
+  * **Runtime**: 35 - 75 mins, regularly ~55 mins
 
 * [Coding Blocks](https://www.codingblocks.net/category/podcast/)
 
   * **Description**: Software Design Patterns, Architecture, and Best Practices.
   * **Frequency** : Twice per month
+  * **Runtime**: 65 - 150 mins, regularly ~120 mins
 
 * [#codepunk](https://codepunk.io/tag/podcast/) ([iTunes](https://itunes.apple.com/gd/podcast/codepunk/id1114040323) | [Overcast](https://overcast.fm/itunes1114040323/codepunk) | [Android](https://subscribeonandroid.com/codepunk.io/tag/podcast/rss/))
 
   * **Description**: A cyberculture and futurist podcast from Bill Ahern and Michael Szul that looks at the intersection of programming, advancing technology, and society.
   * **Frequency**: Twice per month
+  * **Runtime**: 30 - 60 mins, regularly ~40 mins
 
 * [Complete Developer Podcast](http://completedeveloperpodcast.com)
 
   * **Description**: Listen to a senior developer and a junior developer discuss topics about all aspects of software development from the highly technical, to patterns and principles, to soft skills.
   * **Frequency**: Every Thursday
+  * **Runtime**: 40 - 65 mins, regularly ~60 mins
 
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 
   * **Description**: Command Line Heroes tells the epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.
   * **Frequency**: Twice per month
+  * **Runtime**: 25 - 30 mins, regularly ~30 mins
 
 * [Developer On Fire](http://developeronfire.com/episodes)
 
   * **Description**: Inspiring software developers tell their stories.
   * **Frequency** : Once or twice every week
+  * **Runtime**: 40 - 60 mins, regularly ~50 mins
 
 * [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
   * **Description**: Podcast to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence.
   * **Frequency**: Every Monday, Wednesday and Friday
+  * **Runtime**: 10 - 50 mins, regularly ~20 mins
 
 * [Embedded FM](https://www.embedded.fm/)
 
   * **Description**: Interviews and discussions related to embedded software.
   * **Frequency** : Once every week
+  * **Runtime**: 45 - 80 mins, regularly ~65 mins
 
 * [FreeCode Camp](http://freecodecamp.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#))
   * **Description**:  A weekly talk that gives insights, people who started to code from non-technical background and successfully kickstarted thier carrers, as well as interviews with experts on how to get started in new hot topics in tech
   * **Frequency** : Weekly Once
+  * **Runtime**: 10 - 30 mins, regularly ~15 mins
 
 * [Five Nines of Downtime](https://soundcloud.com/fiveninesofdowntime)
 
   * **Description**: Enterprise software development, distributed systems and whatever our guests find interesting.
   * **Frequency** : Once every Thursday
+  * **Runtime**: 55 - 70 mins, regularly ~60 mins
 
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
 
   * **Description**: Interviews with members of the Open Source and Free Software community.
   * **Frequency** : Once every week
+  * **Runtime**: 45 - 70 mins, regularly ~55 mins
 
 * [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
   
   * **Description**: Podcast discussing the design, development, and business of great software with a rotating cast of fellow developers, designers, and entrepreneurs.
   * **Frequency** : Weekly
+  * **Runtime**: _unknown_
 
 * [HAK5](https://www.hak5.org/)
 
   * **Description**: A podcast covering everything from open source software and network infrastructure to penetration testing.
   * **Frequency**: Weekly
+  * **Runtime**: 5 - 30 mins, regularly ~15 mins
 
 * [HanselMinutes](https://hanselminutes.com/)
 
   * **Description**: Anything and everything related to software
   * **Frequency** : Once every week
+  * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
 * [Junior Developer Toolbox](http://juniordevelopertoolbox.com)
 
   * **Description**: Real talk from the trenches about everyday life as a junior developer: building, maintaining, and surviving a career in software engineering.
   * **Frequency**: Every Other Week
+  * **Runtime**: 35 - 60 mins, regularly ~45 mins
 
 * [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
 
   * **Description**: Lambda3 Podcast is a podcast about technology that focuses on software development, engineering practices, DevOps, agile, and related subjects. It alternates between technical episodes and non technical, more relaxed episodes. Those talk about different things like diversity, culture, and other fun subjects - In Brazilian Portuguese.
   * **Frequency**: Every Friday
+  * **Runtime**: 35 - 90 mins, regularly ~60 mins
 
 * [Legacy Code Rocks](https://www.legacycode.rocks/) ([iTunes](https://itunes.apple.com/us/podcast/legacy-code-rocks/id1146634772?mt=2) | [Player.fm](https://player.fm/series/legacy-code-rocks) | [Stitcher](https://www.stitcher.com/podcast/corgibytes-2/legacy-code-rocks) | [SoundCloud](https://soundcloud.com/andrea-goulet-651190405) | [Overcast](https://overcast.fm/itunes1146634772/legacy-code-rocks) | [Android](https://subscribeonandroid.com/legacycoderocks.libsyn.com/rss))
 
   * **Description**: Legacy Code Rocks explores the world of modernizing existing software applications. Hosts Andrea Goulet and M. Scott Ford of Corgibytes are out to change the way you think about legacy code. If you’re like a lot of people, when you hear the words “legacy code” it conjures up images of big mainframes and archaic punch card machines. While that’s true — it only tells a small part of the story. The truth is, the code you leave behind is your legacy, so let's make it a good one.
   * **Frequency**: Approximately once a month
+  * **Runtime**: 30 - 70 mins, regularly ~45 mins
 
 * [Modern Web](https://www.moderndotweb.com/modern-web-podcast) ([iTunes](https://itunes.apple.com/us/podcast/modern-web/id1084236187) | [Overcast](https://overcast.fm/itunes1084236187/modern-web) | [Android](https://www.subscribeonandroid.com/modernweb.podbean.com/feed/) | [PodBean](https://modernweb.podbean.com/))
 
   * **Description**: Modern Web is a podcast that covers the latest news on topics such as EmberJS, ReactJS, AngularJS, ES2015, RxJS, Functional Reactive Programming, and more.
   * **Frequency**: 2/3 episodes per month
+  * **Runtime**: 20 - 70 mins, regularly ~50 mins
 
 * [MS Dev Show](https://msdevshow.com/)
 
   * **Description**: A podcast for developers covering topics such as Azure/cloud, .NET, Visual Studio, Node.js, ML/AI and more! Hosted by Jason Young and Carl Schweitzer.
   * **Frequency** : Once every week
+  * **Runtime**: 30 - 90 mins, regularly ~60 mins
 
 * [Programming and Performance with Cliff Click](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 
   * **Description**:  Various issues with Programming, Programmers, and Computer Performance.
   * **Frequency**: Weekly
+  * **Runtime**: 10 - 30 mins, regularly ~20 mins
 
 * [Programming Throwdown](http://www.programmingthrowdown.com/)
 
   * **Description**: Anything and everything related to software
   * **Frequency**: Once per month
+  * **Runtime**: 50 - 90 mins, regularly ~70 mins
 
 * [Relative Paths](https://relativepaths.uk/) ([iTunes](https://itunes.apple.com/gb/podcast/relative-paths-web-development/id914858338?mt=2&ign-mpt=uo%3D4) | [SoundCloud](https://soundcloud.com/relativepaths) | [Stitcher](https://www.stitcher.com/podcast/relative-paths) | [Android](https://subscribeonandroid.com/relativepaths.uk/feeds/cast.xml))
 
   * **Description**: A podcast about web design, web development, music, and that kind of thing. With Ben Hutchings and Mark Phoenix.
   * **Frequency**: Approximately once a month
+  * **Runtime**: 35 - 80 mins, regularly ~50 mins
 
 * [Request For Commits](https://changelog.com/rfc) ([iTunes](https://itunes.apple.com/us/podcast/request-for-commits/id1141345001) | [Overcast](https://overcast.fm/itunes1141345001/request-for-commits) | [Android](http://www.subscribeonandroid.com/changelog.com/rfc/feed))
 
   * **Description**: Request For Commits explores different perspectives in open source sustainability. Hosts Nadia Eghbal and Mikeal Rogers dive deep into the trials and tribulations of being an open source maintainer, building communities, and navigating the business side of software. Common topics include software licensing, copyright, documentation, governance models, funding platforms such as Open Collective, Kickstarter, etc., measuring success, and more.
   * **Frequency**: Approximately twice a month
+  * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
 
   * **Description**: Podcasts on technical software topics
   * **Frequency** : Multiple episodes every week
+  * **Runtime**: 45 - 80 mins, regularly ~55 mins
 
 * [Software Engineering Radio](http://www.se-radio.net/)
 
   * **Description**: Targeted at the professional software developer, aiming to be a lasting educational resource, not a newscast. Talks from experts from the software engineering world about the full range of topics that matter to professional developers.
   * **Frequency**: Three to four times a month
+  * **Runtime**: 45 - 90 mins, regularly ~60 mins
 
 * [Soft Skills Engineering](https://softskills.audio/) ([iTunes](https://itunes.apple.com/us/podcast/soft-skills-engineering/id1091341048?mt=2) | [Overcast](https://overcast.fm/itunes1091341048/soft-skills-engineering) | [Android](https://subscribeonandroid.com/feeds.feedburner.com/SoftSkillsEngineering))
 
   * **Description**: It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly question and answer podcast where software developer hosts answer questions about all of the non-technical things that go along with being a software developer.
   * **Frequency**: Once every week
+  * **Runtime**: 25 - 45 mins, regularly ~30 mins
 
 * [The Accidental Engineer](https://theaccidentalengineer.com/)
 
   * **Description**: Anything and everything related to software
   * **Frequency** : Once every week
+  * **Runtime**: 20 - 55 mins, regularly ~40 mins
 
 * [The Bike Shed](http://bikeshed.fm/)
 
   * **Description**: Ruby, Rails, Javascript
   * **Frequency** : Once every week
+  * **Runtime**: 30 - 50 mins, regularly ~35 mins
 
 * [The Changelog](https://changelog.com/)
 
   * **Description**: Conversations with the hackers, leaders, and innovators of open source.
   * **Frequency** : Once every week
+  * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
 * [The Cynical Developer](https://cynicaldeveloper.com/) ([iTunes](https://itunes.apple.com/gb/podcast/the-cynical-developer/id1169160766) | [Overcast](https://overcast.fm/itunes1169160766/the-cynical-developer) | [Stitcher](https://www.stitcher.com/podcast/the-cynical-developer) | [Podchaster](https://www.podchaser.com/podcasts/the-cynical-developer-227715) | [Player.fm](https://player.fm/series/series-1580340) | [Pocket Casts](http://pca.st/w8FN) | [PodBean](https://www.podbean.com/start-unlimited-podcast))
 
   * **Description**: The UK based, podcast that helps you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.
   * **Frequency**: Once every week
+  * **Runtime**: 10 - 55 mins, regularly ~40 mins
 
 * [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast)
 
   * **Description**: Podcasts on technical software topics, interviews with some of the top CTOs, engineers and technology directors.
   * **Frequency** : Once every week
-  
+  * **Runtime**: 25 - 45 mins, regularly ~30 mins
+
 * [The Manifest](https://manifest.fm/)
 
   * **Description**: A podcast all about package management. Each episode is a conversation with someone from the world of package management, covering how they got into the field, the architectural details of their work, and the communities around the tools.
   * **Frequency**: Sporadic, but no more than once a fortnight.
+  * **Runtime**: 50 - 70 mins, regularly ~55 mins
 
 * [The MousePaw'dCast](https://mousepawmedia.com/news/podcast) ([iTunes](https://itunes.apple.com/us/podcast/mousepawdcast/id1242557040) | [Overcast](https://overcast.fm/itunes1242557040/mousepawdcast) | [Android](https://subscribeonandroid.com/mousepawmedia.com/rss/mousepawdcast.xml) | [iHeartRadio](https://www.iheart.com/podcast/428-MousePawdCast-28198080/) | [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/MousePawdCast-p1002800/))
 
   * **Description**: The official podcast of MousePaw Media, discussing game development, open source programming, and education.
   * **Frequency**: Once per month
+  * **Runtime**: 40 - 70 mins, regularly ~65 mins
 
 * [The New Stack](https://thenewstack.io/podcasts/)
 
   * **Description**: Analysis and explanations about application development and management at scale. Roundtable discussion with technologists, analysts and journalists, interviews with practitioners, demonstrations of software and services.
   * **Frequency**: Various
+  * **Runtime**: _unknown_
 
 * [The Rabbit Hole](http://therabbithole.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-rabbit-hole-an-inside-look-into-software-development/id1223811385) | [Overcast](https://overcast.fm/itunes1223811385/the-rabbit-hole-an-inside-look-into-software-development) | [Android](https://subscribeonandroid.com/therabbithole.libsyn.com/rss))
 
   * **Description**: Welcome to The Rabbit Hole, the definitive developers' podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you.
   * **Frequency**: Once every week
+  * **Runtime**: 15 - 45 mins, regularly ~25 mins
 
 * [The raywenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
 
   * **Description**: discuss every aspect of app development.Primarily focusing on Apple technology.
   * **Frequency** : Once per month
+  * **Runtime**: 15 - 60 mins, regularly ~40 mins
 
 * [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) ([iTunes](https://itunes.apple.com/us/podcast/the-stack-overflow-podcast/id1033688462?mt=2) | [Overcast](https://overcast.fm/itunes1033688462/the-stack-overflow-podcast) | [Android](http://subscribeonandroid.com/blog.stackexchange.com/feed/podcast/) | [SoundCloud](https://soundcloud.com/stack-exchange))
 
   * **Description**: The Stack Overflow Podcast lets you listen in on what’s new with the world’s largest developer community.
   * **Frequency**: Once every week
+  * **Runtime**: 50 - 80 mins, regularly ~65 mins
 
 * [The Standup](http://www.standup.fm/)
 
   * **Description**: A podcast that delves into the obstacles and successes involved in creating, running, and sustaining successful software side projects.
   * **Frequency**: Twice every month
+  * **Runtime**: 20 - 35 mins, regularly ~25 mins
 
 * [The Women in Tech Show](https://thewomenintechshow.com)
 
   * **Description**: Technical interviews with prominent women in tech.
   * **Frequency** : Once every week
+  * **Runtime**: 20 - 55 mins, regularly ~30 mins
 
 * Toolsday ([By Spec](https://spec.fm/podcasts/toolsday) | [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
 
   * **Description**: the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong).
   * **Frequency** : Once every week
+  * **Runtime**: 20 - 35 mins, regularly ~25 mins
 
 * [Weekly Dev Tips](http://weeklydevtips.com)
 
   * **Description**: Short (5-10 min) episodes overing a single practical developer tip.
   * **Frequency**: Once a week (roughly)
-
+  * **Runtime**: 5 - 10 mins, regularly ~5 mins
 
 ## Git
 
@@ -545,10 +598,12 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Interviews with people who build Git, who create tools for it and who teach people how to use it.
   * **Frequency** : Every two weeks
+  * **Runtime**: 35 - 55 mins, regularly ~45 mins
 
 * [GitMinutes](https://www.gitminutes.com/)
   * **Description**: A podcast made by Thomas Ferris Nicolaisen for proficient Git users that features stories, discussions, ideas, demos and other things useful for those using Git today.
   * **Frequency** : Podcast ended in 2017.
+  * **Runtime**: 20 - 90 mins, regularly ~65 mins
 
 ## Go Programming Language
 
@@ -556,11 +611,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: A panel of Go experts and special guests discuss the Go programming language, the community, and everything in between.
   * **Frequency** : Once every week
+  * **Runtime**: 45 - 80 mins, regularly ~70 mins
 
 * [Go Gab](https://www.briefs.fm/go-gab)
 
   * **Description**: Hosted by Nick Cox. A podcast about everything Go. We'll explore syntax, new libraries, its concurrency model, and what makes it unique. Anything Go-related is on the table!
   * **Frequency** : Once every week
+  * **Runtime**: 2 - 5 mins, regularly ~3 mins
 
 ## Groovy
 
@@ -568,6 +625,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: A podcast dedicated to the Groovy programming language and its ecosystem.
   * **Frequency**: Approximately once a month
+  * **Runtime**: 20 - 70 mins, regularly ~50 mins
 
 ## iOS
 
