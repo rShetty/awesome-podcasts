@@ -69,24 +69,25 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
 
   * **Description**: Podcast interviewing Google engineers about the latest Android APIs
-  * **Frequency** : Monthly once
+  * **Frequency**: Monthly once
   * **Runtime**: 30 - 60 mins, regularly ~55 mins
 
 * [Android Snacks](http://androidsnacks.com)
 
   * **Description**: The TL;DR of last weeks Android developer news
-  * **Frequency** : Weekly once
+  * **Frequency**: Weekly once
   * **Runtime**: 5 - 10 mins, regularly 5 mins
 
 * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
   * **Description**: Podcast that discusses on various frameworks and tools available in Android Community
-  * **Frequency** : Monthly Once
+  * **Frequency**: Monthly Once
+  * **Runtime**: 35 - 100 mins, regularly ~50 mins
 
 * [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/)
 
   * **Description**: An Android Developer Podcast
-  * **Frequency** : Weekly once or twice
+  * **Frequency**: Weekly once or twice
   * **Runtime**: 20 - 60 mins, regularly ~50 mins
 
 ## C++
@@ -94,7 +95,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [CppCast](http://cppcast.com/)
 
   * **Description**: All about C++ and many great interviews with prominent library and tool authors.
-  * **Frequency** : Once every week
+  * **Frequency**: Once every week
   * **Runtime**: 40 - 60 mins, regularly ~55 mins
 
 ## Clojure
@@ -102,13 +103,13 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Defn](https://defn.audio/)
 
   * **Description**: Interviews with leaders and folks of the Clojure and ClojureScript community.
-  * **Frequency** : Every other week
+  * **Frequency**: Every other week
   * **Runtime**: 50 - 105 mins, regularly ~75 mins
 
 * [Cognicast](http://blog.cognitect.com/cognicast)
 
   * **Description**: Interviews with leaders and folks of the Clojure and ClojureScript community.
-  * **Frequency** : Monthly twice
+  * **Frequency**: Monthly twice
   * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
 ## Community/Inspiration
@@ -116,31 +117,34 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Bad Voltage](https://www.badvoltage.org/)
 
   * **Description**: Technology with a free software / open source slant, crossing over into related political topics. Evolution of the now-defunct [LugRadio](https://en.wikipedia.org/wiki/LugRadio) podcast.
-  * **Frequency** : Monthly twice
+  * **Frequency**: Monthly twice
+  * **Runtime**: 50 - 80 mins, regularly ~70 mins
 
 * [Greater than Code](https://www.greaterthancode.com/)
 
   * <b>Description</b>: Interviews and discussions about where code and people meet and why #PeopleMatter
   * <b>Frequency</b>  : Once every week
+  * **Runtime**: 45 - 75 minutes, regularly ~55 mins
 
 * [Learn To Code With Me](https://learntocodewith.me/podcast/) ([Soundcloud](https://soundcloud.com/laurence-bradford) | [iTunes](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Stitcher](https://www.stitcher.com/podcast/learn-to-code-with-me))
 
   * **Description**: For aspiring techies and self-taught coders looking to transition into the tech industry.
-  * **Frequency** : Once a week
+  * **Frequency**: Once a week
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
 ## Data Science/Machine Learning
 
 * [Data Driven](http://datadriven.tv/)
-  * **Runtime**: 5 - 60 mins, regularly ~5 mins
 
   * **Description**: Exploring the field of data science, software engineering, machine learning, and AI.
   * **Frequency**: Weekly
+  * **Runtime**: 5 - 60 mins, regularly ~5 mins
 
 * [DataFramed](https://www.datacamp.com/community/podcast)
 
   * **Description**: Interviews with industry experts on what data science is, what problems it tries to solve and what it looks like in practice.
   * **Frequency**: Weekly
+  * **Runtime**: 50 - 60 mins
 
 * [Data Skeptic](https://dataskeptic.com/podcast)
 
@@ -163,23 +167,24 @@ List of podcasts which are helpful for software engineers/programmers.
                       And how can we make them even more human-like?
                   Learning Machines 101 is committed to providing an accessible introduction to the complex and fascinating world of                       Artificial Intelligence which now has an impact on everyday life throughout the world!
   * **Frequency**: Once a month
+  * **Runtime**: 20 - 35 mins, regularly ~30 mins
 
 * [ocdlevel Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
   * **Description**: Podcast that teaches high level fundamentals of Machine Learning with exercises
-  * **Frequency** : Varies
+  * **Frequency**: Varies
   * **Runtime**: 20 - 60 mins, regularly ~50 mins
 
 * [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
   * **Description**: Podcast that explores opportunities and techniques driving big data, data science, and AI through interviews and analysis.
-  * **Frequency** : Varies
+  * **Frequency**: Varies
   * **Runtime**: 20 - 50 mins, regularly ~35 mins
 
 * [Practical AI](https://changelog.com/practicalai)
 
   * **Description**: Making artificial intelligence practical, productive, and accessible to everyone.
-  * **Frequency** : Once a week
+  * **Frequency**: Once a week
   * **Runtime**: _unknown_
 
 * [Super DataScience](https://www.superdatascience.com/podcast/)
@@ -192,7 +197,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Conversations with experts in the field, discussions
     of industry news, and answers to questions.
-  * **Frequency** : Every other week
+  * **Frequency**: Every other week
   * **Runtime**: 35 - 60 mins, regularly ~40 mins
 
 * [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
@@ -201,15 +206,14 @@ List of podcasts which are helpful for software engineers/programmers.
     learning to explain how it works, how it’s
     evolving, and how it intersects with every facet of
     human endeavor, from art to science.
-  * **Frequency** : Weekly
+  * **Frequency**: Weekly
   * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
 * [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
-  
-  * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
-  * **Frequency** : Twice a week
-  * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
+  * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
+  * **Frequency**: Twice a week
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
 ## Devops
 
