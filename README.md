@@ -644,16 +644,19 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Weekly panel discussion podcast about all things iOS programming.
   * **Frequency**: Once every week
+  * **Runtime**: 30 - 70 mins, regularly ~50 mins
 
 * [Under the Radar](https://www.relay.fm/radar)
 
   * **Description**: From development and design to marketing and support, Under the Radar is all about independent app development.
   * **Frequency**: Once every week
+  * **Runtime**: 25 - 30 mins, regularly ~28 mins
 
 * [Waiting for Review](https://waitingforreview.com/)
 
   * **Description**: A weekly podcast that follows the journeys of two iOS developers.
   * **Frequency**: Once every week
+  * **Runtime**: 20 - 60 mins, regularly ~40 mins
 
 ## Java
 
@@ -661,27 +664,32 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: covers the latest headlines in the world of enterprise software development.
   * **Frequency** : Approximately once a month
+  * **Runtime**: 50 - 105 mins, regularly ~70 mins
 
 * [Java Pub House](http://www.javapubhouse.com)
 
   * **Description**: podcast talks about how to program in Java.
   * **Frequency** : Approximately once a month
+  * **Runtime**: 25 - 70 mins, regularly ~50 mins
 
 ## JavaScript
 
 * [Javascript Jabber](https://devchat.tv/js-jabber) ([iTunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2) | [Stitcher](https://www.stitcher.com/podcast/ruby-rogues/javascript-jabber))
 
   * **Frequency**: Once every week
+  * **Runtime**: 20 - 65 mins, regularly ~50 mins
 
 * [JavaScript Air](https://javascriptair.com/) ([Youtube](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q) | [iTunes](https://itunes.apple.com/us/podcast/javascript-air/id1066446588) | [Pocket Cast](http://pca.st/javaair))
 
   * **Description**: The live broadcast podcast all about JavaScript. The episodes run over Hangouts on Air live and get uploaded to YouTube and an audio podcast afterward. Topics include all things around JavaScript and Web Development.
   * **Frequency**: Once every week
+  * **Runtime**: 30 - 70 mins, regularly ~60 mins
 
 * [JS Party](https://changelog.com/jsparty)
 
   * **Description**: A community celebration of JavaScript and the web.
   * **Frequency** : Once every week
+  * **Runtime**: 30 - 70 mins, regularly ~55 mins
 
 ### Angular
 
@@ -689,11 +697,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Developments in the Angular community, tools, techniques, and ecosystem.
   * **Frequency** : Once every week
+  * **Runtime**: 25 - 85 mins, regularly ~50 mins
 
 * [AngularAir](https://angularair.com/)
 
   * **Description**: All about Angular
   * **Frequency** : Once every week
+  * **Runtime**: 35 - 75 mins, regularly ~60 mins
 
 ### React.js
 
@@ -701,14 +711,17 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Interviews and news about React hosted by Michael Jackson.
   * **Frequency**: Once every week
+  * **Runtime**: 35 - 60 mins, regularly ~40 mins
 
 * [React Native Radio](https://devchat.tv/react-native-radio) ([iTunes](https://itunes.apple.com/us/podcast/react-native-radio/id1058647602?mt=2) | [Stitcher](https://www.stitcher.com/podcast/ruby-rogues/react-native-radio?refid=stpr))
   * **Description**: React Native Radio Podcast
   * **Frequency**: Once every week
+  * **Runtime**: 25 - 60 mins, regularly ~45 mins
 
 * [5 minutes of React podcast](https://5minreact.audio/) ([iTunes](https://itunes.apple.com/ru/podcast/5-minutes-of-react/id1232187990?mt=2&at=1010lwCk&l=en) | [Android](http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:304879382/sounds.rss) | [SoundCloud](https://soundcloud.com/5minreact_audio) | [YouTube](https://www.youtube.com/channel/UC43OeCrRbp6hSEnNZWIHOGg/videos?flow=list&live_view=500&view=0&sort=dd))
   * **Description**: Podcast about React hot topics and JavaScript ecosystem.
   * **Frequency**: Few times in a quarter
+  * **Runtime**: 2 - 15 mins, regularly ~5 mins
 
 ### Vue.js
 
@@ -716,6 +729,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: We cover the latest Vue news and tutorials in about 5 minutes. Our goal is to give you the information you need to stay on top of your game as a Vue developer.
   * **Frequency** : Once every week
+  * **Runtime**: 4 - 10 mins, regularly ~5 mins
 
 ## Kotlin
 
@@ -723,6 +737,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Kotlin and more
   * **Frequency** : Approximately once a month
+  * **Runtime**: 30 - 50 mins, regularly ~35 mins
 
 ## PHP
 
@@ -730,31 +745,37 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: The site for PHP professionals, Magazine, Training, Books, Conferences.
   * **Frequency** : Once or twice every month
+  * **Runtime**: 35 - 70 mins, regularly ~50 mins
 
 * [PHPUgly](https://phpugly.simplecast.fm/)
 
   * **Description**: The podcast your mother warned you about. Ramblings of a few overworked PHP Developers.
   * **Frequency** : Once every week
+  * **Runtime**: 35 - 80 mins, regularly ~60 mins
 
 * [Sound of Symfony](http://feed.soundofsymfony.com/rss)
 
   * **Description**: The unofficial Symfony podcast.
   * **Frequency** : Various
+  * **Runtime**: 55 - 90 mins, regularly ~65 mins
 
 * [That Podcast](https://thatpodcast.io/itunes.rss)
 
   * **Description**: Beau and Dave talking about life as dads, programmers, and entrepreneurs.
   * **Frequency** : Once every week.
+  * **Runtime**: 55 - 90 mins, regularly ~65 mins
 
 * [The PHP Roundtable](http://feeds.feedburner.com/PhpRoundtable)
 
   * **Description**: The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about.
   * **Frequency** : About once every month.
+  * **Runtime**: 25 - 120 mins, regularly ~65 mins
 
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/feed/podcast/)
 
   * **Description**: Interviews with the people that are making the PHP community special.
   * **Frequency** : Once every month
+  * **Runtime**: 10 - 85 mins, regularly ~20 mins
 
 ## Python
 
@@ -762,15 +783,18 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: The Podcast About Python and the People Who Make It Great
   * **Frequency** : Once every week
+  * **Runtime**: 20 - 70 mins, regularly ~45 mins
 
 * [Python Bytes](https://pythonbytes.fm/)
 
   * **Description**: Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don't have time to scour reddit, twitter, and other news sources, just subscribe and you'll get the best picks delivered weekly.
   * **Frequency** : Once every week
+  * **Runtime**: 15 - 30 mins, regularly ~20 mins
 
 * [Talk Python To Me](https://talkpython.fm/)
   * **Description**: Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
   * **Frequency** : Once every week
+  * **Runtime**: 35 - 80 mins, regularly ~55 mins
 
 ## R
 
@@ -778,6 +802,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Podcast about giving practical advice on how to use R for powerful and innovative data analyses.
   * **Frequency** : Once every week
+  * **Runtime**: 30 - 90 mins, regularly ~60 mins
 
 ## ReasonML
 
@@ -785,6 +810,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: A podcast about the ReasonML language
   * **Frequency** : Approximately once a month
+  * **Runtime**: 15 - 40 mins, regularly ~40 mins
 
 ## Ruby/Rails
 
