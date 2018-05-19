@@ -1,6 +1,8 @@
 # Awesome list of Important Podcasts for software engineers
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 List of podcasts which are helpful for software engineers/programmers.
+[<img src="logo.svg" align="right" >](https://github.com/rShetty/awesome-podcasts)
 
 ## Table of Contents
 
@@ -308,6 +310,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency** : Varies
   * **Runtime**: 30 - 60 mins, regularly ~55 mins
 
+* [Indielixer](http://indielixer.com)
+
+  * **Description**: A new solo podcast about independent side projects built in the Elixir language. Right now it focuses on the hosts projects, but will include other community members in the future.
+  * **Frequency** : Varies - Usually once or twice a month, sometimes more
+
 ## General software
 
 * [Away from keyboard](http://awayfromthekeyboard.com/) ([Soundcloud](https://soundcloud.com/awayfromthekeyboardpodcast) | [iTunes](https://itunes.apple.com/us/podcast/away-from-the-keyboard/id987544504))
@@ -500,6 +507,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly question and answer podcast where software developer hosts answer questions about all of the non-technical things that go along with being a software developer.
   * **Frequency**: Once every week
   * **Runtime**: 25 - 45 mins, regularly ~30 mins
+
+* [The 6 Figure Developer Podcast](https://6figuredev.com/)
+
+  * **Description**: The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.
+  * **Frequency**: Weekly  
 
 * [The Accidental Engineer](https://theaccidentalengineer.com/)
 
@@ -820,6 +832,11 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/)
   * **Description**: Security podcast targeting developers. Excellent insight into what we can do as developers to secure our software.
   * **Frequency** :  Weekly
+  
+* [Breach](https://www.carbonite.com/podcasts/breach/) 
+  * **Description**: A podcast exploring data breaches and cybersecurity by Carbonite.
+  * **Frequency** : Every 2/3 Months
+
 
 * [The Cyber Wire](https://www.thecyberwire.com/)
 
@@ -953,3 +970,10 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
   * **Frequency**: Apparently podcast ended in 2016
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Rajeev N Bharshetty](https://github.com/rShetty) has waived all copyright and related or neighboring rights to this work.
