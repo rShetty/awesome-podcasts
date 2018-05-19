@@ -4,7 +4,6 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Table of Contents
 
-
 * [.NET](#net)
 * [Agile](#agile)
 * [Android](#android)
@@ -122,8 +121,8 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Greater than Code](https://www.greaterthancode.com/)
 
-  * <b>Description</b>: Interviews and discussions about where code and people meet and why #PeopleMatter
-  * <b>Frequency</b>  : Once every week
+  * **Description**: Interviews and discussions about where code and people meet and why #PeopleMatter
+  * **Frequency**: Once every week
   * **Runtime**: 45 - 75 minutes, regularly ~55 mins
 
 * [Learn To Code With Me](https://learntocodewith.me/podcast/) ([Soundcloud](https://soundcloud.com/laurence-bradford) | [iTunes](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Stitcher](https://www.stitcher.com/podcast/learn-to-code-with-me))
@@ -157,7 +156,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Data science, machine learning, artificial intelligence
   * **Frequency**: Weekly
   * **Runtime**: 10 - 20 mins, regularly ~15 mins
-  
+
 * [Learning Machines 101](http://www.learningmachines101.com/)
 
   * **Description**: In this podcast series, we examine such questions as:
@@ -413,7 +412,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Runtime**: 45 - 70 mins, regularly ~55 mins
 
 * [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
-  
+
   * **Description**: Podcast discussing the design, development, and business of great software with a rotating cast of fellow developers, designers, and entrepreneurs.
   * **Frequency** : Weekly
   * **Runtime**: _unknown_
@@ -694,7 +693,6 @@ List of podcasts which are helpful for software engineers/programmers.
 * [React Native Radio](https://devchat.tv/react-native-radio) ([iTunes](https://itunes.apple.com/us/podcast/react-native-radio/id1058647602?mt=2) | [Stitcher](https://www.stitcher.com/podcast/ruby-rogues/react-native-radio?refid=stpr))
   * **Description**: React Native Radio Podcast
   * **Frequency**: Once every week
-  
 
 * [5 minutes of React podcast](https://5minreact.audio/) ([iTunes](https://itunes.apple.com/ru/podcast/5-minutes-of-react/id1232187990?mt=2&at=1010lwCk&l=en) | [Android](http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:304879382/sounds.rss) | [SoundCloud](https://soundcloud.com/5minreact_audio) | [YouTube](https://www.youtube.com/channel/UC43OeCrRbp6hSEnNZWIHOGg/videos?flow=list&live_view=500&view=0&sort=dd))
   * **Description**: Podcast about React hot topics and JavaScript ecosystem.
@@ -716,36 +714,30 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## PHP
 
-
 * [php[podcast]](https://www.phparch.com/podcast/feed/episodes/)
 
   * **Description**: The site for PHP professionals, Magazine, Training, Books, Conferences.
   * **Frequency** : Once or twice every month
-
 
 * [PHPUgly](https://phpugly.simplecast.fm/)
 
   * **Description**: The podcast your mother warned you about. Ramblings of a few overworked PHP Developers.
   * **Frequency** : Once every week
 
-
 * [Sound of Symfony](http://feed.soundofsymfony.com/rss)
 
   * **Description**: The unofficial Symfony podcast.
   * **Frequency** : Various
-
 
 * [That Podcast](https://thatpodcast.io/itunes.rss)
 
   * **Description**: Beau and Dave talking about life as dads, programmers, and entrepreneurs.
   * **Frequency** : Once every week.
 
-
 * [The PHP Roundtable](http://feeds.feedburner.com/PhpRoundtable)
 
   * **Description**: The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about.
   * **Frequency** : About once every month.
-
 
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/feed/podcast/)
 
@@ -836,7 +828,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Defensive Security Podcast](https://defensivesecurity.org/)
 
-  * **Description**: A cyber security podcast covering breaches and strategies for defense. An attempt to look at recent security news and pick out lessons to apply organizations we are charged with keeping secure. 
+  * **Description**: A cyber security podcast covering breaches and strategies for defense. An attempt to look at recent security news and pick out lessons to apply organizations we are charged with keeping secure.
   * **Frequency**: Various
 
 * [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
@@ -884,7 +876,6 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
   * **Frequency**: Once every week
-
 
 ## Web development
 
