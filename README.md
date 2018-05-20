@@ -511,7 +511,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [The 6 Figure Developer Podcast](https://6figuredev.com/)
 
   * **Description**: The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.
-  * **Frequency**: Weekly  
+  * **Frequency**: Weekly
 
 * [The Accidental Engineer](https://theaccidentalengineer.com/)
 
@@ -818,21 +818,25 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: A weekly exploration into the people who make Ruby what it is.
   * **Frequency** : Once every week
+  * **Runtime**: 25 - 60 mins, regularly ~40 mins
 
 * [Ruby Rogues](https://devchat.tv/ruby-rogues)
 
   * **Description**: Ruby and Rails
   * **Frequency** : Once every week
+  * **Runtime**: 25 - 110 mins, regularly ~60 mins
 
 * [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
 
   * **Description**: conversation about Ruby on Rails,open source software, and the programming profession.
   * **Frequency** : Once every month.
+  * **Runtime**: 5 - 110 mins, regularly ~45 mins
 
 * [RubyTapas](https://www.rubytapas.com)
 
   * **Description**: for the busy Ruby or Rails developer who is ready to reach the next level of code mastery.
   * **Frequency** : Once every week.
+  * **Runtime**: _unknown_
 
 ## Rust programming language
 
@@ -840,11 +844,13 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: A podcast about learning Rust—from scratch.
   * **Frequency**: Various
+  * **Runtime**: 5 - 30 mins, regularly ~20 mins
 
 * [The Rusty Spike](https://rusty-spike.blubrry.net/)
 
   * **Description**: A podcast for Rust and Servo
   * **Frequency**: Every Wednesday
+  * **Runtime**: 3 - 6 mins, regularly ~5 mins
 
 ## Scala
 
@@ -852,51 +858,60 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Russian-speaking podcast about Scala, functional programming and software development
   * **Frequency**: Once in 2 weeks
+  * **Runtime**: 50 - 120 mins, regularly ~90 mins
 
 ## Security
 
 * [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/)
   * **Description**: Security podcast targeting developers. Excellent insight into what we can do as developers to secure our software.
   * **Frequency** :  Weekly
-  
-* [Breach](https://www.carbonite.com/podcasts/breach/) 
+  * **Runtime**: 25 - 40 mins, regularly ~30 mins
+
+* [Breach](https://www.carbonite.com/podcasts/breach/)
   * **Description**: A podcast exploring data breaches and cybersecurity by Carbonite.
   * **Frequency** : Every 2/3 Months
-
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
 * [The Cyber Wire](https://www.thecyberwire.com/)
 
   * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
   * **Frequency** : Daily
+  * **Runtime**: 5 - 45 mins, regularly ~15 mins
 
 * [Defensive Security Podcast](https://defensivesecurity.org/)
 
   * **Description**: A cyber security podcast covering breaches and strategies for defense. An attempt to look at recent security news and pick out lessons to apply organizations we are charged with keeping secure.
   * **Frequency**: Various
+  * **Runtime**: 20 - 105 mins, regularly ~50 mins
 
 * [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
 
   * **Description**: Discussions with project leads within OWASP. Discussions on new projects that have come on board, updates to existing projects and interesting bits of trivia that come across our desk.
   * **Frequency**: Weekly
+  * **Runtime**: 5 - 60 mins, regularly ~20 mins
 
 * [Paul's Security Weekly](https://securityweekly.com/)
 
   * **Description**: All news on Security
   * **Frequency** : Once every week
+  * **Runtime**: _various_
 
 * [Risky Business](https://risky.biz/netcasts/risky-business/)
 
   * **Description**: Information security podcast featuring news and in-depth interviews with industry luminaries.
   * **Frequency**: Weekly
+  * **Runtime**: 30 - 70 mins, regularly ~60 mins
 
 * [Security Now](https://twit.tv/shows/security-now)
 
   * **Description**: Deep dive into Security concepts and news
   * **Frequency** : Once every week
+  * **Runtime**: 100 - 130 mins, regularly ~110 mins
 
 * [The Secure Developer](https://www.heavybit.com/library/podcasts/the-secure-developer/) ([iTunes](https://itunes.apple.com/us/podcast/the-secure-developer/id1156317989?mt=2) | [Overcast](https://overcast.fm/itunes1156317989/the-secure-developer) | [Android](https://www.subscribeonandroid.com/www.heavybit.com/category/library/podcasts/the-secure-developer/feed/) | [SoundCloud](https://soundcloud.com/heavybit/sets/the-secure-developer))
   * **Description**: A podcast about security for developers, covering tools and best practices.
   * **Frequency**: Once every 2/3 month
+  * **Runtime**: 25 - 45 mins, regularly ~35 mins
 
 ## Swift
 
@@ -904,21 +919,25 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: Two buddies, Zack and Steve, discuss a new Swift topic each week. They try to stay informal while also conveying the information they know about each topic with bits of humor sprinkled throughout.
   * **Frequency**: Once every week
+  * **Runtime**: 25 - 90 mins, regularly ~50 mins
 
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 
   * **Description**: A show on which John Sundell & special guests from the community answer your questions about Swift development.
   * **Frequency**: Once every week
+  * **Runtime**: 40 - 60 mins, regularly ~55 mins
 
 * [Swift Coders](https://itunes.apple.com/us/podcast/swiftcoders-weekly-interviews-with-swift-developers/id1082937962?mt=2)
 
   * **Description**: Weekly interviews with Swift developers about their experience with Apple’s new open source programming language.
   * **Frequency**: Once every week
+  * **Runtime**: 35 - 145 mins, regularly ~70 mins
 
 * Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
 
   * **Description**: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
   * **Frequency**: Once every week
+  * **Runtime**: 15 - 50 mins, regularly ~30 mins
 
 ## Web development
 
@@ -926,77 +945,91 @@ List of podcasts which are helpful for software engineers/programmers.
 
   * **Description**: No idea where I'm going with this. Join me as I ramble on about web development and talk to people who are much more talented than I am.
   * **Frequency** : Once every week
+  * **Runtime**: 25 - 65 mins, regularly ~30 mins
 
 * [Dads in Development](http://www.dadsindev.com/)
 
   * **Description**: A podcast about raising children, web development, remote work, and health.
   * **Frequency**: Approximately once a month
+  * **Runtime**: 25 - 75 mins, regularly ~50 mins
 
 * [DevNaEstrada](https://devnaestrada.com.br/)
 
   * **Description**: General software web development, bitcoin, devops, machine learning and more.
   * **Frequency**: Every Friday
+  * **Runtime**: 30 - 75 mins, regularly ~50 mins
 
 * Does Not Compute ([By Spec](https://spec.fm/podcasts/does-not-compute) | [iTunes](https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2))
 
   * **Description**: A weekly chat about the lives and workflows of modern web developers.
   * **Frequency** : Once every week
+  * **Runtime**: 20 - 45 mins, regularly ~30 mins
 
 * [Friends Talk Frontend](https://friendstalkfrontend.com/) ([iTunes](https://itunes.apple.com/us/podcast/friends-talk-frontend/id1190447982) | [Overcast](https://overcast.fm/itunes1190447982/friends-talk-frontend) | [Android](https://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:278649100/sounds.rss))
 
   * **Description**: Talking to amazing people about their habits, how they got to where they are now, and what their day-to-day life is like. We also talk about random shit.
   * **Frequency**: Approximately once a month
+  * **Runtime**: 30 - 80 mins, regularly ~55 mins
 
 * [Front End Happy Hour](http://frontendhappyhour.com/) ([iTunes](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2) | [SoundCloud](https://soundcloud.com/front-end-happy-hour))
 
   * **Description**: A podcast featuring panelists of engineers from Netflix, Evernote & LinkedIn talking over drinks about all things Front End development.
   * **Frequency**: At least once a month
+  * **Runtime**: 30 - 70 mins, regularly ~55 mins
 
 * [Frontend Weekend](https://soundcloud.com/frontend-weekend)
 
   * **Description**: An interview podcast with famous Russian web developers.
   * **Frequency**: Once every week
+  * **Runtime**: 30 - 95 mins, regularly ~55 mins
 
 * [Full Stack Radio](http://www.fullstackradio.com/)
 
   * **Description**: A podcast for developers interested in building great software products. Topics include product design and user experience to unit testing and system administration.
   * **Frequency**: Twice and month
+  * **Runtime**: 30 - 90 mins, regularly ~55 mins
 
 * [HTTP203](https://developers.google.com/web/shows/http203/podcast/)
 
   * **Description**: A podcast by Google Chrome developer advocates covering all things web.
   * **Frequency**: Approximately once a month
+  * **Runtime**: 15 - 70 mins, regularly ~50 mins
 
 * [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) ([iTunes](https://itunes.apple.com/us/podcast/jamstack-radio/id1148797643) | [Overcast](https://overcast.fm/itunes1148797643/jamstack-radio) | [Android](https://subscribeonandroid.com/www.heavybit.com/category/library/podcasts/jamstack-radio/feed))
 
   * **Description**: A show all about the JAMstack, a new way to build fast & secure apps or websites.
   * **Frequency**: Once every week
+  * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
 * [Multiplex](https://www.multiplexpodcast.com/)
 
   * **Description**: General software development and devops discussion.
   * **Frequency**: Every other week
+  * **Runtime**: 40 - 50 mins, regularly ~45 mins
 
 * [NodeUp](http://nodeup.com/)
 
   * **Description**: Podcast about Node.js
   * **Frequency**: Various
+  * **Runtime**: 20 - 100 mins, regularly ~60 mins
 
 * [Shop Talk Show](http://shoptalkshow.com/) ([iTunes](https://itunes.apple.com/us/podcast/shoptalk/id493890455) | [Overcast](https://overcast.fm/itunes493890455/shoptalk) | [Android](https://subscribeonandroid.com/shoptalkshow.com/feed/podcast/))
 
   * **Description**: Podcast about front end web design, development and UX.
   * **Frequency**: Weekly
+  * **Runtime**: 45 - 80 mins, regularly ~60 mins
 
 * [Syntax](https://syntax.fm/)
 
   * **Description**: A Tasty Treats Podcast for Web Developers.
   * **Frequency**: Once every week
+  * **Runtime**: 20 - 80 mins, regularly ~60 mins
 
 * [ZOFE](http://zofe.com.br/)
 
   * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
   * **Frequency**: Apparently podcast ended in 2016
-
+  * **Runtime**: 15 - 90 mins, regularly ~40 mins
 
 ## License
 
