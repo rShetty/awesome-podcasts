@@ -62,9 +62,27 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Agile For Humans](https://ryanripley.com/agile-for-humans/)
 
   * **Description**: Interviews people about Agile and becoming better at Agile
-  * **Frequency**: Once a week
+  * **Frequency**: Once a fornight
   * **Runtime**: 25 - 60 mins, regularly ~45 mins
 
+* [Agile In 3 Minutes](https://agilein3minut.es/)
+
+  * **Description**: A micropodcast about thinking and doing business effectively.
+  * **Frequency**: Once a quarter
+  * **Runtime**: 3 mins, regularly ~3 mins
+
+* [Meta-Cast](http://feeds.feedburner.com/meta-cast)
+
+  * **Description**: Bob Galen and Josh Anderson use their decades of agile coaching experience to power your organizations need for agility and scale
+  * **Frequency**: Once a week
+  * **Runtime**: 40 - 60 mins, regularly ~40 mins
+  
+  * [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
+
+  * **Description**:  A daily podcast for Scrum Masters and Agile Coaches
+  * **Frequency**: daily
+  * **Runtime**: 5 - 20 mins, regularly ~10 mins
+  
 ## Android
 
 * [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
