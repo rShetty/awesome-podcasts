@@ -10,6 +10,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Agile](#agile)
 * [Android](#android)
 * [C++](#c)
+* [Career](#career)
 * [Clojure](#clojure)
 * [Community/Inspiration](#communityinspiration)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
@@ -116,6 +117,14 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: All about C++ and many great interviews with prominent library and tool authors.
   * **Frequency**: Once every week
   * **Runtime**: 40 - 60 mins, regularly ~55 mins
+
+## Career
+
+* [Using Reflection](http://www.usingreflection.com/)
+
+  * **Description**: Engineers reflect on what they've learned about being effective professionals, working in teams and themselves.
+  * **Frequency**: About twice a month
+  * **Runtime**: 35-50 minutes
 
 ## Clojure
 
