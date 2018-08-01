@@ -80,7 +80,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a fortnight
   * **Runtime**: 40 - 60 mins, regularly ~40 mins
   
-  * [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
+* [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
 
   * **Description**:  A daily podcast for Scrum Masters and Agile Coaches
   * **Frequency**: Daily
