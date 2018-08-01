@@ -57,6 +57,8 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Join Frank & James for a weekly discussion on the world of technology and development including C#, F#, .NET, web, mobile, and more.
   * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
+  
+More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Agile
 
