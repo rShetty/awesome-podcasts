@@ -760,6 +760,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 4 - 10 mins, regularly ~5 mins
 
+* [Views on Vue](https://devchat.tv/views-on-vue/)
+
+  * **Description**: Views on Vue
+  * **Frequency** : Once every week
+  * **Runtime**: 25 - 85 mins, regularly ~60 mins
+
 ## Kotlin
 
 * [Talking kotlin](http://talkingkotlin.com)
