@@ -358,6 +358,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Weekly
   * **Runtime**: 15 - 30 mins, regularly ~25 mins
 
+* [BookBytes](https://www.orbit.fm/bookbytes/)
+
+  * **Description**: A book club for developers.
+  * **Frequency** : Once a fortnight
+  * **Runtime**: 40 - 60 mins, regularly ~60 mins
+
 * [CaSE](http://www.case-podcast.org/)
 
   * **Description**: CaSE is an interview podcast for software developers and architects about Software Engineering and related topics.
