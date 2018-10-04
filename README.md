@@ -625,6 +625,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Technical interviews with prominent women in tech.
   * **Frequency** : Once every week
   * **Runtime**: 20 - 55 mins, regularly ~30 mins
+  
+* [ThoughtWorks Podcasts](https://www.thoughtworks.com/podcasts) ([Soundcloud](https://soundcloud.com/thoughtworks)|[iTunes](https://itunes.apple.com/gb/podcast/thoughtworks/id881136697?mt=2)|[stitcher](https://www.stitcher.com/podcast/thoughtworks-podcast)|[RSS](https://thoughtworks.libsyn.com/rss))
+
+  * **Description**: The ThoughtWorks podcast plunges deep into the latest tech topics that have captured our imagination. Join our panel of senior technologists to explore the most important trends in tech today, get frontline insights into our work developing cutting-edge tech and hear more about how today’s tech megatrends will impact you.
+  * **Frequency** : Various
+  * **Runtime**: 6 - 70 mins, regularly ~25 mins
 
 * Toolsday ([By Spec](https://spec.fm/podcasts/toolsday) | [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
 
