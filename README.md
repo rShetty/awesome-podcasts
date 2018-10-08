@@ -122,6 +122,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Career
 
+* [Founders Talk](https://changelog.com/founderstalk) (by [Changelog](https://changelog.com))
+
+  * **Description**: In-depth, one on one conversations with founders, CEOs, and makers. The journey, lessons learned, and the struggles.
+  * **Frequency**: Weekly(ish)
+  * **Runtime**: 60 - 80 mins
+
 * [Using Reflection](http://www.usingreflection.com/)
 
   * **Description**: Engineers reflect on what they've learned about being effective professionals, working in teams and themselves.
@@ -143,6 +149,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
 ## Community/Inspiration
+
+* [Away from Keyboard](https://changelog.com/afk) (by [Changelog](https://changelog.com))
+
+  * **Description**: A podcast exploring the human side of creative work. Life, mistakes, burnout, and finding balance while creating satisfying work. 
+  * **Frequency**: Every other Wednesday
+  * **Runtime**: ~30 mins
 
 * [Bad Voltage](https://www.badvoltage.org/)
 
@@ -211,11 +223,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Varies
   * **Runtime**: 20 - 50 mins, regularly ~35 mins
 
-* [Practical AI](https://changelog.com/practicalai)
+* [Practical AI](https://changelog.com/practicalai) (by [Changelog](https://changelog.com))
 
   * **Description**: Making artificial intelligence practical, productive, and accessible to everyone.
   * **Frequency**: Once a week
-  * **Runtime**: _unknown_
+  * **Runtime**: ~45 minutes
 
 * [Super DataScience](https://www.superdatascience.com/podcast/)
 
@@ -560,9 +572,9 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 30 - 50 mins, regularly ~35 mins
 
-* [The Changelog](https://changelog.com/)
+* [The Changelog](https://changelog.com/podcast)
 
-  * **Description**: Conversations with the hackers, leaders, and innovators of open source.
+  * **Description**: Conversations with the hackers, leaders, and innovators of software development.
   * **Frequency** : Once every week
   * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
@@ -653,7 +665,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Go Programming Language
 
-* [GoTime](https://changelog.com/gotime)
+* [Go Time](https://changelog.com/gotime) (by [Changelog](https://changelog.com))
 
   * **Description**: A panel of Go experts and special guests discuss the Go programming language, the community, and everything in between.
   * **Frequency** : Once every week
@@ -720,7 +732,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every week
   * **Runtime**: 30 - 70 mins, regularly ~60 mins
 
-* [JS Party](https://changelog.com/jsparty)
+* [JS Party](https://changelog.com/jsparty) (by [Changelog](https://changelog.com))
 
   * **Description**: A community celebration of JavaScript and the web.
   * **Frequency** : Once every week
@@ -742,7 +754,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ### React.js
 
-* [The React podcast](https://changelog.com/reactpodcast) ([iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432) | [Overcast](https://overcast.fm/itunes1341969432/the-react-podcast) | [Android](http://www.subscribeonandroid.com/changelog.com/reactpodcast/feed))
+* [The React podcast](https://reactpodcast.simplecast.fm) ([iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432) | [Overcast](https://overcast.fm/itunes1341969432/the-react-podcast) | [Android](http://www.subscribeonandroid.com/changelog.com/reactpodcast/feed))
 
   * **Description**: Interviews and news about React hosted by Michael Jackson.
   * **Frequency**: Once every week
