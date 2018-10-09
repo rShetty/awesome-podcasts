@@ -861,6 +861,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 35 - 80 mins, regularly ~55 mins
 
+* [Test and Code](https://testandcode.com/)
+  * **Description**: Test and Code is a podcast that focuses on testing in particular and Python in general.
+  * **Frequency** : Various
+  * **Runtime**: 15 - 60 mins, regularly ~30 mins
+
 ## R
 
 * [The R-Podcast](https://r-podcast.org/)
