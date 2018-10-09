@@ -692,6 +692,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Weekly panel discussion podcast about all things iOS programming.
   * **Frequency**: Once every week
   * **Runtime**: 30 - 70 mins, regularly ~50 mins
+  
+* [More Than Just Code](http://mtjc.fm/)
+
+  * **Description**: A show about mobile development (& for those of you driving at home.)
+  * **Frequency**: Once every week
+  * **Runtime**: 45 - 90 mins, regularly ~60 mins
 
 * [Under the Radar](https://www.relay.fm/radar)
 
