@@ -856,6 +856,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 15 - 30 mins, regularly ~20 mins
 
+* [Test and Code](https://testandcode.com)
+
+  * **Description**: Podcast on Python testing, hosted by Brian Okken.
+  * **Frequency** : About once or twice every month.
+  * **Runtime**: 10 - 60 mins, regularly ~30 mins
+
 * [Talk Python To Me](https://talkpython.fm/)
   * **Description**: Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
   * **Frequency** : Once every week
