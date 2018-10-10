@@ -114,6 +114,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## C++
 
+* [Cpp.chat](http://slashslash.info/cppchat/)
+
+  * **Description**: A round-table chat with guests from the C++ community.
+  * **Frequency**: Varies
+  * **Runtime**: 50 - 70 minutes
+
 * [CppCast](http://cppcast.com/)
 
   * **Description**: All about C++ and many great interviews with prominent library and tool authors.
