@@ -46,6 +46,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
   * **Frequency**: Two episodes every week
   * **Runtime**: 45 - 60 mins, regularly ~60 mins
+  
+* [Gone Mobile](https://www.gonemobile.io/)
+  * **Description**: A podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS & Windows development to mobile marketing and design.
+  * **Frequency**: Varies
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
 * [HERDING CODE](http://herdingcode.com)
 
@@ -56,11 +61,6 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Merge Conflict](http://www.mergeconflict.fm/)
   * **Description**: Join Frank & James for a weekly discussion on the world of technology and development including C#, F#, .NET, web, mobile, and more.
   * **Frequency**: Weekly
-  * **Runtime**: 30 - 60 mins, regularly ~45 mins
-  
-* [Gone Mobile](https://www.gonemobile.io/)
-  * **Description**: A podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS & Windows development to mobile marketing and design.
-  * **Frequency**: Varies
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
   
 More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
@@ -186,6 +186,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
 ## Data Science/Machine Learning
+  
+* [Concerning AI](https://concerning.ai)
+
+  * **Description**: Talking about, Is there an existential risk from Human-level (and beyond) Artificial Intelligence? If so, what can we do about it?
+  * **Frequency**: Every two weeks
+  * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
 * [Data Driven](http://datadriven.tv/)
 
@@ -267,12 +273,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
   * **Frequency**: Twice a week
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
-  
-* [Concerning AI](https://concerning.ai)
-
-  * **Description**: Talking about, Is there an existential risk from Human-level (and beyond) Artificial Intelligence? If so, what can we do about it?
-  * **Frequency**: Every two weeks
-  * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
 ## Devops
 
