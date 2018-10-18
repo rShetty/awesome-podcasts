@@ -58,6 +58,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
   
+* [Gone Mobile](https://www.gonemobile.io/)
+  * **Description**: A podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS & Windows development to mobile marketing and design.
+  * **Frequency**: Varies
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
+  
 More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Agile
@@ -262,6 +267,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
   * **Frequency**: Twice a week
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
+  
+* [Concerning AI](https://concerning.ai)
+
+  * **Description**: Talking about, Is there an existential risk from Human-level (and beyond) Artificial Intelligence? If so, what can we do about it?
+  * **Frequency**: Every two weeks
+  * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
 ## Devops
 
@@ -755,6 +766,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A community celebration of JavaScript and the web.
   * **Frequency** : Once every week
   * **Runtime**: 30 - 70 mins, regularly ~55 mins
+  
+* [ScriptCast](https://scriptconf.org/)
+
+  * **Description**: A podcast about JavaScript, stories from people who shape the world of JavaScript, hosted by the creators and organisers of ScriptConf.
+  * **Frequency**: Varies
+  * **Runtime**: 25 - 50 mins, regularly ~40 mins
 
 ### Angular
 
