@@ -710,6 +710,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A show about mobile development (& for those of you driving at home.)
   * **Frequency**: Once every week
   * **Runtime**: 45 - 90 mins, regularly ~60 mins
+  
+* [Stacktrace](https://stacktracepodcast.fm)
+
+  * **Description**: Apple news & rumors from a developer’s perspective.
+  * **Frequency**: Once every week
+  * **Runtime**: 60 - 90 mins, regularly ~75 mins
 
 * [Under the Radar](https://www.relay.fm/radar)
 
