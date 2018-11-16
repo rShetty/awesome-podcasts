@@ -62,7 +62,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Join Frank & James for a weekly discussion on the world of technology and development including C#, F#, .NET, web, mobile, and more.
   * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
-  
+
 More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Agile
@@ -84,13 +84,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Bob Galen and Josh Anderson use their decades of agile coaching experience to power your organizations need for agility and scale
   * **Frequency**: Once a fortnight
   * **Runtime**: 40 - 60 mins, regularly ~40 mins
-  
+
 * [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
 
   * **Description**:  A daily podcast for Scrum Masters and Agile Coaches
   * **Frequency**: Daily
   * **Runtime**: 5 - 20 mins, regularly ~10 mins
-  
+
 ## Android
 
 * [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
@@ -163,7 +163,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [Away from Keyboard](https://changelog.com/afk) (by [Changelog](https://changelog.com))
 
-  * **Description**: A podcast exploring the human side of creative work. Life, mistakes, burnout, and finding balance while creating satisfying work. 
+  * **Description**: A podcast exploring the human side of creative work. Life, mistakes, burnout, and finding balance while creating satisfying work.
   * **Frequency**: Every other Wednesday
   * **Runtime**: ~30 mins
 
@@ -654,7 +654,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Technical interviews with prominent women in tech.
   * **Frequency** : Once every week
   * **Runtime**: 20 - 55 mins, regularly ~30 mins
-  
+
 * [ThoughtWorks Podcasts](https://www.thoughtworks.com/podcasts) ([Soundcloud](https://soundcloud.com/thoughtworks)|[iTunes](https://itunes.apple.com/gb/podcast/thoughtworks/id881136697?mt=2)|[stitcher](https://www.stitcher.com/podcast/thoughtworks-podcast)|[RSS](https://thoughtworks.libsyn.com/rss))
 
   * **Description**: The ThoughtWorks podcast plunges deep into the latest tech topics that have captured our imagination. Join our panel of senior technologists to explore the most important trends in tech today, get frontline insights into our work developing cutting-edge tech and hear more about how today’s tech megatrends will impact you.
@@ -715,7 +715,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Weekly panel discussion podcast about all things iOS programming.
   * **Frequency**: Once every week
   * **Runtime**: 30 - 70 mins, regularly ~50 mins
-  
+
 * [More Than Just Code](http://mtjc.fm/)
 
   * **Description**: A show about mobile development (& for those of you driving at home.)
@@ -1057,6 +1057,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: General software web development, bitcoin, devops, machine learning and more.
   * **Frequency**: Every Friday
   * **Runtime**: 30 - 75 mins, regularly ~50 mins
+  * Language: pt-BR
 
 * Does Not Compute ([By Spec](https://spec.fm/podcasts/does-not-compute) | [iTunes](https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2))
 
