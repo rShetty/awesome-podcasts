@@ -46,6 +46,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
   * **Frequency**: Two episodes every week
   * **Runtime**: 45 - 60 mins, regularly ~60 mins
+  
+* [Gone Mobile](https://www.gonemobile.io/)
+  * **Description**: A podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS & Windows development to mobile marketing and design.
+  * **Frequency**: Varies
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
 * [HERDING CODE](http://herdingcode.com)
 
@@ -181,6 +186,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
 ## Data Science/Machine Learning
+  
+* [Concerning AI](https://concerning.ai)
+
+  * **Description**: Talking about, Is there an existential risk from Human-level (and beyond) Artificial Intelligence? If so, what can we do about it?
+  * **Frequency**: Every two weeks
+  * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
 * [Data Driven](http://datadriven.tv/)
 
@@ -755,6 +766,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A community celebration of JavaScript and the web.
   * **Frequency** : Once every week
   * **Runtime**: 30 - 70 mins, regularly ~55 mins
+  
+* [ScriptCast](https://scriptconf.org/)
+
+  * **Description**: A podcast about JavaScript, stories from people who shape the world of JavaScript, hosted by the creators and organisers of ScriptConf.
+  * **Frequency**: Varies
+  * **Runtime**: 25 - 50 mins, regularly ~40 mins
 
 ### Angular
 
