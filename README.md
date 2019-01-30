@@ -15,7 +15,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Community/Inspiration](#communityinspiration)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
 * [Devops](#devops)
-* [Free BSD](#freebsd)
+* [BSD](#bsd)
 * [Functional Programming](#functional-programming)
 * [General Software](#general-software)
 * [Git](#git)
@@ -318,9 +318,9 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once per month
   * **Runtime**: 25 - 60 mins, regularly ~40 mins
 
-## FreeBSD
+## BSD
 
-* [FreeBSDNow](http://www.bsdnow.tv/)
+* [BSDNow](http://www.bsdnow.tv/)
 
   * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
   * **Frequency**: Weekly (Wednesday US Eastern)
