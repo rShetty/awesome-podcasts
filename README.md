@@ -33,7 +33,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [R](#R)
 * [ReasonML](#reasonml)
 * [Ruby/Rails](#rubyrails)
-* [Rust Programming Language](#rust-programming-language)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Security](#security)
 * [Swift](#swift)
@@ -949,7 +949,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Various
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
-## Rust programming language
+## Rust
 
 * [New Rustacean](https://newrustacean.com/)
 
