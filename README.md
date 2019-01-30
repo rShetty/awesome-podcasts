@@ -1045,6 +1045,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Two Experienced test directors talk about how testing is changing.  Currently, the primary goal of the podcast is the explanation of Modern Testing Principles.
   * **Frequency**: Approximately twice per month
   * **Runtime**: 40 - 60 mins, regularly ~50 mins
+  
+* [Test Talks](https://www.joecolantonio.com/testtalks/)
+
+  * **Description**: The podcast dedicated to testing automation experts, it goes through a wide variety of subjects - tools, trends, patterns etc.
+  * **Frequency**: Once every week
+  * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
 ## Web development
 
