@@ -37,6 +37,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Scala](#scala)
 * [Security](#security)
 * [Swift](#swift)
+* [Software Testing](#software-testing)
 * [Web development](#web-development)
 
 ## .NET
@@ -1037,6 +1038,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
   * **Frequency**: Once every week
   * **Runtime**: 15 - 50 mins, regularly ~30 mins
+
+## Software Testing
+* [AB Testing](https://www.angryweasel.com/ABTesting/)
+
+  * **Description**: Two Experienced test directors talk about how testing is changing.  Currently, the primary goal of the podcast is the explanation of Modern Testing Principles.
+  * **Frequency**: Approximately twice per month
+  * **Runtime**: 40 - 60 mins, regularly ~50 mins
 
 ## Web development
 
