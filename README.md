@@ -27,6 +27,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * [Angular](#angular)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
+  * [Ember](#ember)
 * [Kotlin](#kotlin)
 * [PHP](#php)
 * [Python](#python)
@@ -830,6 +831,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Views on Vue
   * **Frequency** : Once every week
   * **Runtime**: 25 - 85 mins, regularly ~60 mins
+
+### Ember
+
+* [EmberMap](https://embermap.com/podcast) ([iTunes](https://itunes.apple.com/us/podcast/the-embermap-podcast/id1288274408?mt=2) | [YouTube](https://www.youtube.com/playlist?list=PLc_oqaQ4aMWGLL7iu2IoU30aOC9pykK_L) | [Overcast](https://overcast.fm/itunes1288274408/the-embermap-podcast))
+
+  * **Description** : Join Sam, Ryan and guests to chat about development and design in the world of Ember.js.
+  * **Frequency** : Once every week
+  * **Runtime** : 35 - 70 mins, regularly ~60 mins
 
 ## Kotlin
 
