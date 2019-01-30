@@ -1049,6 +1049,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
   * **Frequency**: Once every week
   * **Runtime**: 15 - 50 mins, regularly ~30 mins
+  
+* [The Swift Community Podcast](https://www.swiftcommunitypodcast.org)
+
+  * **Description**: A podcast for the Swift community, by the Swift community.
+  * **Frequency**: Irregular
+  * **Runtime**: ~60 mins
 
 ## Web development
 
