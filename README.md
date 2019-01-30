@@ -28,6 +28,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
+* [Linux](#linux)
 * [PHP](#php)
 * [Python](#python)
 * [R](#R)
@@ -839,6 +840,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Approximately once a month
   * **Runtime**: 30 - 50 mins, regularly ~35 mins
 
+## Linux
+
+* * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/)
+
+  * **Description**: Weekly Linux news and analysis by Chris and Joe. The show every week we hope you'll go to when you want to hear an informed discussion about what’s happening in Linux.
+  * **Frequency**: Once every week
+  * **Runtime**: 20 - 30 mins, regularly 30 mins
 ## PHP
 
 * [php[podcast]](https://www.phparch.com/podcast/feed/episodes/)
