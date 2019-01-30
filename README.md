@@ -344,7 +344,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Twice per month
   * **Runtime**: 30 - 65 mins, regularly ~40 mins
 
-* [Elm Town](https://elmtown.audio/)
+* [Elm Town](https://elmtown.github.io/)
 
   * **Description**: About the people making and using the Elm language.
   * **Frequency** : Varies
