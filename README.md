@@ -881,7 +881,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [Podcast.\_\_init\_\_](https://pythonpodcast.com/)
 
-  * **Description**: The Podcast About Python and the People Who Make It Great
+  * **Description**: The Podcast About Python and the People Who Make It Great, hosted by Tobias Macey
   * **Frequency** : Once every week
   * **Runtime**: 20 - 70 mins, regularly ~45 mins
 
@@ -897,7 +897,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 35 - 80 mins, regularly ~55 mins
 
 * [Test and Code](https://testandcode.com/)
-  * **Description**: Test and Code is a podcast that focuses on testing in particular and Python in general.
+  * **Description**: Test and Code is a podcast hosted by Brian Okken that focuses on testing in particular and Python in general.
   * **Frequency** : Various
   * **Runtime**: 15 - 60 mins, regularly ~30 mins
 
