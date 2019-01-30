@@ -989,6 +989,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Daily
   * **Runtime**: 5 - 45 mins, regularly ~15 mins
 
+* [Darknet Diaries](https://darknetdiaries.com/)
+
+  * **Description**: Darknet Diaries explores true stories from the dark side of the Internet. Go behind the hack and hear stories from the "cyber" front lines. Whether you're just curious how hacks happen or are a seasoned Infosec pro, you'll learn something new in an entertaining format.
+  * **Frequency**: Bi-weekly
+  * **Runtime**: ~45 mins
+
+
 * [Defensive Security Podcast](https://defensivesecurity.org/)
 
   * **Description**: A cyber security podcast covering breaches and strategies for defense. An attempt to look at recent security news and pick out lessons to apply organizations we are charged with keeping secure.
