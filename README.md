@@ -9,13 +9,13 @@ List of podcasts which are helpful for software engineers/programmers.
 * [.NET](#net)
 * [Agile](#agile)
 * [Android](#android)
+* [BSD](#bsd)
 * [C++](#c)
 * [Career](#career)
 * [Clojure](#clojure)
 * [Community/Inspiration](#communityinspiration)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
 * [Devops](#devops)
-* [BSD](#bsd)
 * [Functional Programming](#functional-programming)
 * [General Software](#general-software)
 * [Git](#git)
@@ -116,6 +116,18 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: An Android Developer Podcast
   * **Frequency**: Weekly once or twice
   * **Runtime**: 20 - 60 mins, regularly ~50 mins
+
+## BSD
+
+* [BSDNow](http://www.bsdnow.tv/)
+
+  * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
+  * **Frequency**: Weekly (Wednesday US Eastern)
+  * **Runtime**: 60 - 120 mins, regularly ~90 mins
+  * **RSS**
+    * [MP3](http://feeds.feedburner.com/BsdNowMp3)
+    * [Video](http://feeds.feedburner.com/BsdNowMobile)
+    * [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
 
 ## C++
 
@@ -317,18 +329,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A show all about continuous delivery and software development.
   * **Frequency**: Once per month
   * **Runtime**: 25 - 60 mins, regularly ~40 mins
-
-## BSD
-
-* [BSDNow](http://www.bsdnow.tv/)
-
-  * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
-  * **Frequency**: Weekly (Wednesday US Eastern)
-  * **Runtime**: 60 - 120 mins, regularly ~90 mins
-  * **RSS**
-    * [MP3](http://feeds.feedburner.com/BsdNowMp3)
-    * [Video](http://feeds.feedburner.com/BsdNowMobile)
-    * [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
 
 ## Functional Programming
 
