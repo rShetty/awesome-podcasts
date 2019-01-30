@@ -847,6 +847,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Weekly Linux news and analysis by Chris and Joe. The show every week we hope you'll go to when you want to hear an informed discussion about what’s happening in Linux.
   * **Frequency**: Once every week
   * **Runtime**: 20 - 30 mins, regularly 30 mins
+
+* [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/)
+
+  * **Description**: The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux.
+  * **Frequency**: Once every week
+  * **Runtime**: 50 - 90 mins, regularly ~60 mins
+
 ## PHP
 
 * [php[podcast]](https://www.phparch.com/podcast/feed/episodes/)
