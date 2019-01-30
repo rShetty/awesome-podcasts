@@ -40,3 +40,19 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: Remote Talks is a podcast by 3 tech enthusiasts talking about latest technology.
   * **Frequency**: Varies
   * **Language**: Turkish
+
+* [Swifthane](https://www.spreaker.com/user/swifthane)
+
+  * **Description**: Turkish podcast about technology. Not just swift.
+  * **Frequency**: Varies
+  * **Language**: Turkish
+  * **Runtime**: 60 - 120 mins, regulary ~100 mins
+
+* [Turuncu Pasaport](https://soundcloud.com/turuncupasaport)
+
+  * **Description**: Technology podcast that describing the work of the OpsGenie team by [Serhat Can](https://twitter.com/srhtcn).
+  * **Frequency**: Twice a month
+  * **Language**: Turkish
+  * **Runtime**: 30 - 50 mins, regulary ~35 mins
+
+
