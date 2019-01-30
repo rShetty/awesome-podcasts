@@ -172,6 +172,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Technology with a free software / open source slant, crossing over into related political topics. Evolution of the now-defunct [LugRadio](https://en.wikipedia.org/wiki/LugRadio) podcast.
   * **Frequency**: Monthly twice
   * **Runtime**: 50 - 80 mins, regularly ~70 mins
+  
+* [Full Stack Cast](https://podcast.fullstackfest.com/)
+
+  * **Description**: Interviews to past and future speakers of the Full Stack Fest conference, focusing on personal experiences and their personal journeys.
+  * **Frequency**: Monthly
+  * **Runtime**: 50 - 80 mins
 
 * [Greater than Code](https://www.greaterthancode.com/)
 
