@@ -943,6 +943,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week.
   * **Runtime**: _unknown_
 
+* [The Ruby Testing Podcast](http://www.rubytestingpodcast.com/)
+
+  * **Description**: On the Ruby Testing Podcast we discuss how to get started with testing as well as how to write better, more effective tests.
+  * **Frequency**: Various
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
+
 ## Rust programming language
 
 * [New Rustacean](https://newrustacean.com/)
