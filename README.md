@@ -992,6 +992,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Darknet Diaries](https://darknetdiaries.com/)
 
   * **Description**: Darknet Diaries explores true stories from the dark side of the Internet. Go behind the hack and hear stories from the "cyber" front lines. Whether you're just curious how hacks happen or are a seasoned Infosec pro, you'll learn something new in an entertaining format.
+  * **Host**: Jack Rhysider
   * **Frequency**: Bi-weekly
   * **Runtime**: ~45 mins
 
