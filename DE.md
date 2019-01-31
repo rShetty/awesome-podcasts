@@ -12,4 +12,9 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
 
   * **Description**: Wöchentlicher News-Podcast für Webdesigner und -entwickler
   * **Frequency** : Einmal in der Woche
-  * **Runtime**: 25 - 70 mins, regularly ~50 mins
+  * **Runtime**: 25 - 70 Minuten, durchschnittlich ca. 50 Minuten
+
+* [PHPDEVRADIO](http://phpdevradio.de/)
+  * **Description** : Der Podcast für PHP
+  * **Frequency** : Einmal in der Woche
+  * **Runtime**: 20 - 75 Minuten
