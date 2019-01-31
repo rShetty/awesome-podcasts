@@ -1158,13 +1158,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Approximately once a month
   * **Runtime**: 25 - 75 mins, regularly ~50 mins
 
-* [DevNaEstrada](https://devnaestrada.com.br/)
-
-  * **Description**: General software web development, bitcoin, devops, machine learning and more.
-  * **Frequency**: Every Friday
-  * **Runtime**: 30 - 75 mins, regularly ~50 mins
-  * Language: pt-BR
-
 * Does Not Compute ([By Spec](https://spec.fm/podcasts/does-not-compute) | [iTunes](https://itunes.apple.com/us/podcast/does-not-compute/id1048731980?mt=2))
 
   * **Description**: A weekly chat about the lives and workflows of modern web developers.
