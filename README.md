@@ -735,31 +735,62 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 20 - 70 mins, regularly ~50 mins
 
 ## InfoSec
-* [Security in Five]()
-  **Description:**: Small pieces about all things cyber-security. 
-  **Frequency**: Almost daily
+
+* [Brakeing Down Security](http://www.brakeingsecurity.com/)
+  * **Description**: A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today's workplace. Co-hosts Bryan Brake, Amanda Berlin, and Brian Boettcher teach concepts that aspiring Information Security Professionals need to know, or refresh the memories of the seasoned veterans.
+  * **Frequency**: Weekly
+  * **Runtime**: Approximately 1 hour
+
+* [Darknet Diaries](https://darknetdiaries.com/)
+  * **Description**: Explore the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of privacy hacks, data breaches, and cyber crime. The masterful criminal hackers who dwell on the dark side show us just how vulnerable we all are.
+  * **Frequency**: Fortnightly
+  * **Runtime**: 20 - 40 mins
+  
+* [Defensive Security](https://defensivesecurity.org/)
+  * **Description**: Defensive Security is a weekly information security podcast which reviews recent high profile cyber security breaches, data breaches, malware infections and intrusions to identify lessons that we can learn and apply to the organizations we protect.
+  * **Frequency**: Fortnightly
+  * **Runtime**: 40 - 60 mins
+
+* [Malicious Life](https://malicious.life/)
+  * **Description**: Tales of cybersecurity. The wildest hacks you can ever imagine, told by people who were actually there. Hosted by cybersecurity expert and book author, Ran Levi, this is not your average talk-show. These are fascinating, unknown tales, slowly unraveled, deeply researched. Think Hardcore History meets Hackable- and come dig into a history you never knew existed.
+  * **Frequency**: Fortnightly
+  * **Runtime**: 30 - 45 mins
+      
+* [Purple Squad Security](https://purplesquadsec.com/)
+  * **Description**: Information Security, InfoSec, CyberSec, Cyber, Security, whatever you call it, we talk about it! From mobiles and desktops to data centers and the cloud, Purple Squad Security is here to help and give back to our community of information security professionals.
+  * **Frequency**: Weekly
+  * **Runtime**: 30 - 60 mins
+  
+* [Risky.Biz](https://risky.biz/)
+  * **Description**: Risky Business is a weekly information security podcast featuring news and in-depth interviews with industry luminaries. Launched in February 2007, Risky Business is a must-listen digest for information security pros. With a running time of approximately 50-60 minutes, Risky Business is pacy; a security podcast without the waffle.
+  * **Frequency**: Weekly
+  * **Runtime**: 40 - 60 mins
+
+* [Security in Five](https://www.binaryblogger.com/)
+  **Description:**: Security In 5 brings you security news, tips and opinions on information IT and general security in about five minutes. Straight and to the point information in a timeframe you can easily listen to in one sitting. Whether you are a security professional or someone that wants to keep personal data safe this podcast will cover everyone. Be aware, be safe, welcome to Security In 5.
+  **Frequency**: Daily
   **Runtime**: 5-10 Minutes
 
-* [Risky.Biz]()
+* [Smashing Security](http://www.smashingsecurity.com/)
+  * **Description**: Join computer security industry veterans Graham Cluley and Carole Theriault as they have a light-hearted chat with guests about cybercrime, hacking, and online privacy. It's not your typical cybersecurity podcast... Winner: "Best Security Podcast 2018." Follow the podcast on Twitter at @SmashinSecurity. New episodes released every Thursday. Bonus "splinter" episodes when we feel like it...
+  * **Frequency**: Weekly
+  * **Runtime**: 45 - 60 mins
 
-* [Smashing Security]()
-
-* [Brakeing Down Security]()
-
-* [Darknet Diaries[()
-
-* [Defensive Security]()
-
-* [Malicious Life]()
-
-* [The Many Hats Club]()
-
-* [Purple Squad Security]()
-
-* [The Social-Engineer Podcast]()
-
-* [Unsupervised Learning]()
- 
+* [The Many Hats Club](https://themanyhats.club/)
+  * **Description**: An information security focused group of individuals from all walks of life
+  * **Frequency**: Irregular
+  * **Runtime**: Approximately 2 hours
+  
+* [The Social-Engineer Podcast](http://www.social-engineer.org/category/podcast/)
+  * **Description**: The Social-Engineer Podcast is about humans. Understanding how we interact, communicate and relay information can help us protect, mitigate and understand social engineering attacks
+  * **Frequency**: Monthly
+  * **Runtime**: Approximately 60 mins
+  
+* [Unsupervised Learning](https://danielmiessler.com/podcast/)
+  * **Description**: I spend between five and twenty hours a week consuming articles, books, and podcasts looking for the most interesting ideas around security, technology, and how they interact with us as humans. Each episode is either a curated summary of what I’ve found in the past week, or a standalone essay that hopefully gives you something to think about.
+  * **Frequency**: Usually 15 - 30 mins, sometimes up to an hour
+  * **Runtime**: Bi-Weekly, Weekly for subscribers
+  
 
 ## iOS
 
