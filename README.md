@@ -400,6 +400,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## General software
 
+* [Art of Product](https://artofproductpodcast.com/)
+
+  * **Description**: The Art of Product is a podcast chronicling the journeys of two software entrepreneurs (Ben Orenstein and Derrick Reimer) building startups. Discussions span from the technical realm to the business side and everything in between.
+  * **Frequency**: Once a week
+  * **Runtime**: 45 - 70 mins, regularly ~55 mins
+
 * [Away from keyboard](http://awayfromthekeyboard.com/) ([Soundcloud](https://soundcloud.com/awayfromthekeyboardpodcast) | [iTunes](https://itunes.apple.com/us/podcast/away-from-the-keyboard/id987544504))
 
   * **Description**: Away From The Keyboard is a podcast that talks to technologists and tells their stories. Stories about how they started, how they grew, how they learned, and how they unwind.
