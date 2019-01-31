@@ -1236,12 +1236,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Twice a week
   * **Runtime**: 20 - 80 mins, regularly ~60 mins
 
-* [ZOFE](http://zofe.com.br/)
-
-  * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
-  * **Frequency**: Apparently podcast ended in 2016
-  * **Runtime**: 15 - 90 mins, regularly ~40 mins
-  
 
 ## License
 
