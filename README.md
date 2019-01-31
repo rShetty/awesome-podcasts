@@ -767,9 +767,9 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 40 - 60 mins
 
 * [Security in Five](https://www.binaryblogger.com/)
-  **Description:**: Security In 5 brings you security news, tips and opinions on information IT and general security in about five minutes. Straight and to the point information in a timeframe you can easily listen to in one sitting. Whether you are a security professional or someone that wants to keep personal data safe this podcast will cover everyone. Be aware, be safe, welcome to Security In 5.
-  **Frequency**: Daily
-  **Runtime**: 5-10 Minutes
+  * **Description:**: Security In 5 brings you security news, tips and opinions on information IT and general security in about five minutes. Straight and to the point information in a timeframe you can easily listen to in one sitting. Whether you are a security professional or someone that wants to keep personal data safe this podcast will cover everyone. Be aware, be safe, welcome to Security In 5.
+  * **Frequency**: Daily
+  * **Runtime**: 5-10 Minutes
 
 * [Smashing Security](http://www.smashingsecurity.com/)
   * **Description**: Join computer security industry veterans Graham Cluley and Carole Theriault as they have a light-hearted chat with guests about cybercrime, hacking, and online privacy. It's not your typical cybersecurity podcast... Winner: "Best Security Podcast 2018." Follow the podcast on Twitter at @SmashinSecurity. New episodes released every Thursday. Bonus "splinter" episodes when we feel like it...
