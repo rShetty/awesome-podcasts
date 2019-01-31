@@ -780,7 +780,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Weekly
   * **Runtime**: 5 - 30 mins, Tips Weekly regularly ~5 mins, Tutorials regularly ~30 mins
 
-* [Learn Ionic channel](https://www.youtube.com/user/saimon1924) | [Devdactic by Simon Grimm](https://devdactic.com) | [Ionic Academy](https://ionicacademy.com)
+* [Learn Ionic](https://www.youtube.com/user/saimon1924) | [Devdactic by Simon Grimm](https://devdactic.com) | [Ionic Academy](https://ionicacademy.com)
 
   * **Description**: A Youtube channel for awesome coding videos on Ionic and learn to build your own cross platform apps.
   * **Frequency** : Varies
