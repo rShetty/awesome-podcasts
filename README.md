@@ -9,13 +9,13 @@ List of podcasts which are helpful for software engineers/programmers.
 * [.NET](#net)
 * [Agile](#agile)
 * [Android](#android)
+* [BSD](#bsd)
 * [C++](#c)
 * [Career](#career)
 * [Clojure](#clojure)
 * [Community/Inspiration](#communityinspiration)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
 * [Devops](#devops)
-* [Free BSD](#freebsd)
 * [Functional Programming](#functional-programming)
 * [General Software](#general-software)
 * [Git](#git)
@@ -29,6 +29,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * [Vue.js](#vuejs)
   * [Ember](#ember)
 * [Kotlin](#kotlin)
+* [Linux](#linux)
 * [PHP](#php)
 * [Python](#python)
 * [R](#R)
@@ -118,6 +119,18 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: An Android Developer Podcast
   * **Frequency**: Weekly once or twice
   * **Runtime**: 20 - 60 mins, regularly ~50 mins
+
+## BSD
+
+* [BSDNow](http://www.bsdnow.tv/)
+
+  * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
+  * **Frequency**: Weekly (Wednesday US Eastern)
+  * **Runtime**: 60 - 120 mins, regularly ~90 mins
+  * **RSS**
+    * [MP3](http://feeds.feedburner.com/BsdNowMp3)
+    * [Video](http://feeds.feedburner.com/BsdNowMobile)
+    * [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
 
 ## C++
 
@@ -325,18 +338,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A show all about continuous delivery and software development.
   * **Frequency**: Once per month
   * **Runtime**: 25 - 60 mins, regularly ~40 mins
-
-## FreeBSD
-
-* [FreeBSDNow](http://www.bsdnow.tv/)
-
-  * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
-  * **Frequency**: Weekly (Wednesday US Eastern)
-  * **Runtime**: 60 - 120 mins, regularly ~90 mins
-  * **RSS**
-    * [MP3](http://feeds.feedburner.com/BsdNowMp3)
-    * [Video](http://feeds.feedburner.com/BsdNowMobile)
-    * [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
 
 ## Functional Programming
 
@@ -854,6 +855,20 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Kotlin and more
   * **Frequency** : Approximately once a month
   * **Runtime**: 30 - 50 mins, regularly ~35 mins
+
+## Linux
+
+* * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/)
+
+  * **Description**: Weekly Linux news and analysis by Chris and Joe. The show every week we hope you'll go to when you want to hear an informed discussion about what’s happening in Linux.
+  * **Frequency**: Once every week
+  * **Runtime**: 20 - 30 mins, regularly 30 mins
+
+* [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/)
+
+  * **Description**: The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux.
+  * **Frequency**: Once every week
+  * **Runtime**: 50 - 90 mins, regularly ~60 mins
 
 ## PHP
 
