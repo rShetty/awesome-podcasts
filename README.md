@@ -792,6 +792,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 30 - 70 mins, regularly ~55 mins
 
+* [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm/)
+
+  * **Description**: A weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications. 
+  * **Frequency**: weekly 
+  * **Runtime**: 60 - 90 mins, regularly ~50 mins
+
 * [ScriptCast](https://scriptconf.org/)
 
   * **Description**: A podcast about JavaScript, stories from people who shape the world of JavaScript, hosted by the creators and organisers of ScriptConf.
