@@ -745,7 +745,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Under the Radar](https://www.relay.fm/radar)
 
   * **Description**: From development and design to marketing and support, Under the Radar is all about independent app development.
-  * **Frequency**: Once every week
+  * **Frequency**: Once every 2 weeks
   * **Runtime**: 25 - 30 mins, regularly ~28 mins
 
 * [Waiting for Review](https://waitingforreview.com/)
