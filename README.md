@@ -882,7 +882,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## PHP
 
-* [RunGeekRadio]](https://rungeekradio.com/feed/)
+* [RunGeekRadio](https://rungeekradio.com/feed/)
 
   * **Description**: Adam Culp talks a few minutes about running, then mostly about something PHP related.
   * **Frequency** : Once a month
