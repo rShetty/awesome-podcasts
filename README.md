@@ -1183,6 +1183,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every week
   * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
+* [Localhost Podcast](https://localhost.fm/)
+
+  * **Description**: A monthly podcast covering hot topics in web development.
+  * **Frequency**: Every month
+  * **Runtime**: 45 - 120 mins, regularly ~60 mins
+
 * [Multiplex](https://www.multiplexpodcast.com/)
 
   * **Description**: General software development and devops discussion.
