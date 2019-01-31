@@ -1152,7 +1152,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Syntax](https://syntax.fm/)
 
   * **Description**: A Tasty Treats Podcast for Web Developers.
-  * **Frequency**: Once every week
+  * **Frequency**: Twice a week
   * **Runtime**: 20 - 80 mins, regularly ~60 mins
 
 * [ZOFE](http://zofe.com.br/)
