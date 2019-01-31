@@ -9,6 +9,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [.NET](#net)
 * [Agile](#agile)
 * [Android](#android)
+* [BSD](#bsd)
 * [C++](#c)
 * [Career](#career)
 * [Clojure](#clojure)
@@ -16,7 +17,6 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
 * [Devops](#devops)
 * [Flutter](#flutter)
-* [Free BSD](#freebsd)
 * [Functional Programming](#functional-programming)
 * [General Software](#general-software)
 * [Git](#git)
@@ -28,16 +28,19 @@ List of podcasts which are helpful for software engineers/programmers.
   * [Angular](#angular)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
+  * [Ember](#ember)
 * [Kotlin](#kotlin)
+* [Linux](#linux)
 * [PHP](#php)
 * [Python](#python)
 * [R](#R)
 * [ReasonML](#reasonml)
 * [Ruby/Rails](#rubyrails)
-* [Rust Programming Language](#rust-programming-language)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Security](#security)
 * [Swift](#swift)
+* [Software Testing](#software-testing)
 * [Web development](#web-development)
 
 ## .NET
@@ -118,6 +121,18 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Weekly once or twice
   * **Runtime**: 20 - 60 mins, regularly ~50 mins
 
+## BSD
+
+* [BSDNow](http://www.bsdnow.tv/)
+
+  * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
+  * **Frequency**: Weekly (Wednesday US Eastern)
+  * **Runtime**: 60 - 120 mins, regularly ~90 mins
+  * **RSS**
+    * [MP3](http://feeds.feedburner.com/BsdNowMp3)
+    * [Video](http://feeds.feedburner.com/BsdNowMobile)
+    * [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
+
 ## C++
 
 * [Cpp.chat](http://slashslash.info/cppchat/)
@@ -133,6 +148,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 40 - 60 mins, regularly ~55 mins
 
 ## Career
+
+* [devpath.fm](https://www.devpath.fm)
+
+  * **Description**: Candid interviews with highly successful software developers covering imposter syndrome, personal triumphs, obstacles, and career advice.
+  * **Frequency**: Weekly
+  * **Runtime**: 30 - 45 mins
 
 * [Founders Talk](https://changelog.com/founderstalk) (by [Changelog](https://changelog.com))
 
@@ -326,18 +347,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description** An ongoing series featuring some of the amazing developers from the Flutter community. In each episode we discuss the developer's background, what got them into Flutter and their thoughts on the platform in general.
   * **Frequency**: Twice a week
   * **Runtime**: 15-30 mins, regularly ~15 mins
-
-## FreeBSD
-
-* [FreeBSDNow](http://www.bsdnow.tv/)
-
-  * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
-  * **Frequency**: Weekly (Wednesday US Eastern)
-  * **Runtime**: 60 - 120 mins, regularly ~90 mins
-  * **RSS**
-    * [MP3](http://feeds.feedburner.com/BsdNowMp3)
-    * [Video](http://feeds.feedburner.com/BsdNowMobile)
-    * [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
 
 ## Functional Programming
 
@@ -746,7 +755,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Under the Radar](https://www.relay.fm/radar)
 
   * **Description**: From development and design to marketing and support, Under the Radar is all about independent app development.
-  * **Frequency**: Once every week
+  * **Frequency**: Once every 2 weeks
   * **Runtime**: 25 - 30 mins, regularly ~28 mins
 
 * [Waiting for Review](https://waitingforreview.com/)
@@ -840,6 +849,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 25 - 85 mins, regularly ~60 mins
 
+### Ember
+
+* [EmberMap](https://embermap.com/podcast) ([iTunes](https://itunes.apple.com/us/podcast/the-embermap-podcast/id1288274408?mt=2) | [YouTube](https://www.youtube.com/playlist?list=PLc_oqaQ4aMWGLL7iu2IoU30aOC9pykK_L) | [Overcast](https://overcast.fm/itunes1288274408/the-embermap-podcast))
+
+  * **Description** : Join Sam, Ryan and guests to chat about development and design in the world of Ember.js.
+  * **Frequency** : Once every week
+  * **Runtime** : 35 - 70 mins, regularly ~60 mins
+
 ## Kotlin
 
 * [Talking kotlin](http://talkingkotlin.com)
@@ -847,6 +864,20 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Kotlin and more
   * **Frequency** : Approximately once a month
   * **Runtime**: 30 - 50 mins, regularly ~35 mins
+
+## Linux
+
+* * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/)
+
+  * **Description**: Weekly Linux news and analysis by Chris and Joe. The show every week we hope you'll go to when you want to hear an informed discussion about what’s happening in Linux.
+  * **Frequency**: Once every week
+  * **Runtime**: 20 - 30 mins, regularly 30 mins
+
+* [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/)
+
+  * **Description**: The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux.
+  * **Frequency**: Once every week
+  * **Runtime**: 50 - 90 mins, regularly ~60 mins
 
 ## PHP
 
@@ -958,13 +989,19 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Various
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
-## Rust programming language
+## Rust
 
 * [New Rustacean](https://newrustacean.com/)
 
   * **Description**: A podcast about learning Rust—from scratch.
   * **Frequency**: Various
   * **Runtime**: 5 - 30 mins, regularly ~20 mins
+
+* [Request for Explanation](https://github.com/request-for-explanation/podcast)
+
+  * **Description**: Each episode discusses a particular Rust RFC in detail.
+  * **Frequency**: Once per week, but no new episodes since 2017.
+  * **Runtime**: 15 - 60 mins, regularly ~30 min
 
 * [The Rusty Spike](https://rusty-spike.blubrry.net/)
 
@@ -997,6 +1034,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
   * **Frequency** : Daily
   * **Runtime**: 5 - 45 mins, regularly ~15 mins
+
+* [Darknet Diaries](https://darknetdiaries.com/)
+
+  * **Description**: Darknet Diaries explores true stories from the dark side of the Internet. Go behind the hack and hear stories from the "cyber" front lines. Whether you're just curious how hacks happen or are a seasoned Infosec pro, you'll learn something new in an entertaining format.
+  * **Host**: Jack Rhysider
+  * **Frequency**: Bi-weekly
+  * **Runtime**: ~45 mins
+
 
 * [Defensive Security Podcast](https://defensivesecurity.org/)
 
@@ -1071,6 +1116,19 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Irregular
   * **Runtime**: ~60 mins
 
+## Software Testing
+* [AB Testing](https://www.angryweasel.com/ABTesting/)
+
+  * **Description**: Two Experienced test directors talk about how testing is changing.  Currently, the primary goal of the podcast is the explanation of Modern Testing Principles.
+  * **Frequency**: Approximately twice per month
+  * **Runtime**: 40 - 60 mins, regularly ~50 mins
+  
+* [Test Talks](https://www.joecolantonio.com/testtalks/)
+
+  * **Description**: The podcast dedicated to testing automation experts, it goes through a wide variety of subjects - tools, trends, patterns etc.
+  * **Frequency**: Once every week
+  * **Runtime**: 20 - 40 mins, regularly ~30 mins
+
 ## Web development
 
 * [Chance the Developer](https://chancethedev.com/)
@@ -1134,6 +1192,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every week
   * **Runtime**: 20 - 40 mins, regularly ~30 mins
 
+* [Localhost Podcast](https://localhost.fm/)
+
+  * **Description**: A monthly podcast covering hot topics in web development.
+  * **Frequency**: Every month
+  * **Runtime**: 45 - 120 mins, regularly ~60 mins
+
 * [Multiplex](https://www.multiplexpodcast.com/)
 
   * **Description**: General software development and devops discussion.
@@ -1155,7 +1219,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Syntax](https://syntax.fm/)
 
   * **Description**: A Tasty Treats Podcast for Web Developers.
-  * **Frequency**: Once every week
+  * **Frequency**: Twice a week
   * **Runtime**: 20 - 80 mins, regularly ~60 mins
 
 * [ZOFE](http://zofe.com.br/)
