@@ -579,6 +579,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Approximately twice a month
   * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
+* [Eat Sleep Code](https://developer.telerik.com/community/eat-sleep-code/)
+
+  * **Description**: The Official Telerik Podcast. They interview "passionate people about a wide range of developer related topics."
+  * **Frequency** : Monthly
+  * **Runtime**: 45 - 55 mins, regularly ~47 mins
+
 * [Software Engineering Daily](https://softwareengineeringdaily.com/)
 
   * **Description**: Podcasts on technical software topics
