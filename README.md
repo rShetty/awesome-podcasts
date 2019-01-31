@@ -963,6 +963,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Various
   * **Runtime**: 5 - 30 mins, regularly ~20 mins
 
+* [Request for Explanation](https://github.com/request-for-explanation/podcast)
+
+  * **Description**: Each episode discusses a particular Rust RFC in detail.
+  * **Frequency**: Once per week, but no new episodes since 2017.
+  * **Runtime**: 15 - 60 mins, regularly ~30 min
+
 * [The Rusty Spike](https://rusty-spike.blubrry.net/)
 
   * **Description**: A podcast for Rust and Servo
