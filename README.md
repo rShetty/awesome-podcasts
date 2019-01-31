@@ -1117,7 +1117,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
   * **Description**: Swift over Coffee is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen.
   * **Frequency**: Every other Monday
-  * **Runtime**: 24 - 30 mins, reguarly ~28 mins
+  * **Runtime**: 24 - 30 mins, regularly ~28 mins
 
 * Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
 
