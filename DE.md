@@ -10,6 +10,6 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
 
 * [Working Draft](https://workingdraft.de/)
 
-  * **Description**: Wöchentlicher News-Podcast für Webdesigner und -entwickler
-  * **Frequency** : Einmal in der Woche
-  * **Runtime**: 25 - 70 mins, regularly ~50 mins
+  * **Beschreibung**: Wöchentlicher News-Podcast für Webdesigner und -entwickler
+  * **Häufigkeit** : Einmal in der Woche
+  * **Laufzeit**: 25 - 70 min, regulär ~50 min
