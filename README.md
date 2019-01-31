@@ -1218,6 +1218,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
   * **Frequency**: Apparently podcast ended in 2016
   * **Runtime**: 15 - 90 mins, regularly ~40 mins
+  
+* [HTML All The Things](https://www.htmlallthethings.com/hub/Podcast)
+
+  * **Description**: The adventures of Matt Lawrence and Mike Karan through the world of web development, web design, and small business management.
+  * **Frequency**: Weekly
+  * **Runtime**: 30 - 90 mins, regularly ~60 mins
 
 ## License
 
