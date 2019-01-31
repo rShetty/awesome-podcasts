@@ -16,6 +16,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Community/Inspiration](#communityinspiration)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
 * [Devops](#devops)
+* [Elixir](#elixir)
 * [Flutter](#flutter)
 * [Functional Programming](#functional-programming)
 * [General Software](#general-software)
@@ -340,6 +341,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A show all about continuous delivery and software development.
   * **Frequency**: Once per month
   * **Runtime**: 25 - 60 mins, regularly ~40 mins
+
+## Elixir
+
+* [ElixirTalk](https://soundcloud.com/elixirtalk) ([iTunes](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048) | [Overcast](https://overcast.fm/itunes1298287048/elixirtalk) | [Discussion & Suggestions](https://github.com/ElixirTalk/elixirtalk))
+  * **Description**: Free-form rambling about the Elixir language, related frameworks and community.
+  * **Frequency**: Twice per month-ish.
+  * **Runtime**: 30-60 minutes. Historically longer but actively working towards shorter.
 
 ## Flutter
 
@@ -1170,7 +1178,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A weekly chat about the lives and workflows of modern web developers.
   * **Frequency** : Once every week
   * **Runtime**: 20 - 45 mins, regularly ~30 mins
-  
+
 * [The Drunken UX Podcast](https://drunkenux.com/) ([Google Play](https://play.google.com/music/listen?u=0#/ps/I24xc7c5pgs76paxxaddd4asigi) | [iTunes](https://itunes.apple.com/us/podcast/the-drunken-ux-podcast/id1335183280?mt=2) | [Overcast](https://overcast.fm/itunes1335183280/the-drunken-ux-podcast) | [Stitcher](https://www.stitcher.com/podcast/fienen/the-drunken-ux-podcast))
 
   * **Description**: Two web development veterans share drinks and experiences while investigating techniques, tools, and technology to help others learn and grow as front end developers.
@@ -1200,7 +1208,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A podcast for developers interested in building great software products. Topics include product design and user experience to unit testing and system administration.
   * **Frequency**: Twice and month
   * **Runtime**: 30 - 90 mins, regularly ~55 mins
-  
+
 * [HTML All The Things](https://www.htmlallthethings.com/hub/Podcast)
 
   * **Description**: The adventures of Matt Lawrence and Mike Karan through the world of web development, web design, and small business management.
@@ -1254,7 +1262,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Podcast with a focus on front-end web development - In Brazilian Portuguese.
   * **Frequency**: Apparently podcast ended in 2016
   * **Runtime**: 15 - 90 mins, regularly ~40 mins
-  
+
 
 ## License
 
