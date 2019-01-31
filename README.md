@@ -1165,7 +1165,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 20 - 45 mins, regularly ~30 mins
   
-* [The Drunken UX Podcast](https://drunkenux.com/) ([Google Play](https://play.google.com/music/listen?u=0#/ps/I24xc7c5pgs76paxxaddd4asigi) | [iTunes](https://itunes.apple.com/us/podcast/the-drunken-ux-podcast/id1335183280?mt=2) | [Overcast](https://overcast.fm/itunes1335183280/the-drunken-ux-podcast) [Stitcher](https://www.stitcher.com/podcast/fienen/the-drunken-ux-podcast))
+* [The Drunken UX Podcast](https://drunkenux.com/) ([Google Play](https://play.google.com/music/listen?u=0#/ps/I24xc7c5pgs76paxxaddd4asigi) | [iTunes](https://itunes.apple.com/us/podcast/the-drunken-ux-podcast/id1335183280?mt=2) | [Overcast](https://overcast.fm/itunes1335183280/the-drunken-ux-podcast) | [Stitcher](https://www.stitcher.com/podcast/fienen/the-drunken-ux-podcast))
 
   * **Description**: Two web development veterans share drinks and experiences while investigating techniques, tools, and technology to help others learn and grow as front end developers.
   * **Frequency** : Every other week for the main segment, additional interviews and roundups about 3 times a month
