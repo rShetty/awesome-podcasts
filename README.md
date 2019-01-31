@@ -133,6 +133,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Career
 
+* [devpath.fm](https://www.devpath.fm)
+
+  * **Description**: Candid interviews with highly successful software developers covering imposter syndrome, personal triumphs, obstacles, and career advice.
+  * **Frequency**: Weekly
+  * **Runtime**: 30 - 45 mins
+
 * [Founders Talk](https://changelog.com/founderstalk) (by [Changelog](https://changelog.com))
 
   * **Description**: In-depth, one on one conversations with founders, CEOs, and makers. The journey, lessons learned, and the struggles.
