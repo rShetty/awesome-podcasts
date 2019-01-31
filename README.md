@@ -1164,6 +1164,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A weekly chat about the lives and workflows of modern web developers.
   * **Frequency** : Once every week
   * **Runtime**: 20 - 45 mins, regularly ~30 mins
+  
+* [The Drunken UX Podcast](https://drunkenux.com/) ([Google Play](https://play.google.com/music/listen?u=0#/ps/I24xc7c5pgs76paxxaddd4asigi) | [iTunes](https://itunes.apple.com/us/podcast/the-drunken-ux-podcast/id1335183280?mt=2) | [Overcast](https://overcast.fm/itunes1335183280/the-drunken-ux-podcast) | [Stitcher](https://www.stitcher.com/podcast/fienen/the-drunken-ux-podcast))
+
+  * **Description**: Two web development veterans share drinks and experiences while investigating techniques, tools, and technology to help others learn and grow as front end developers.
+  * **Frequency** : Every other week for the main segment, additional interviews and roundups about 3 times a month
+  * **Runtime**: 60 - 90 mins, regularly ~80 mins
 
 * [Friends Talk Frontend](https://friendstalkfrontend.com/) ([iTunes](https://itunes.apple.com/us/podcast/friends-talk-frontend/id1190447982) | [Overcast](https://overcast.fm/itunes1190447982/friends-talk-frontend) | [Android](https://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:278649100/sounds.rss))
 
