@@ -531,12 +531,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Every Other Week
   * **Runtime**: 35 - 60 mins, regularly ~45 mins
 
-* [Lambda3 Podcast](https://www.lambda3.com.br/lambda3-podcast/)
-
-  * **Description**: Lambda3 Podcast is a podcast about technology that focuses on software development, engineering practices, DevOps, agile, and related subjects. It alternates between technical episodes and non technical, more relaxed episodes. Those talk about different things like diversity, culture, and other fun subjects - In Brazilian Portuguese.
-  * **Frequency**: Every Friday
-  * **Runtime**: 35 - 90 mins, regularly ~60 mins
-
 * [Legacy Code Rocks](https://www.legacycode.rocks/) ([iTunes](https://itunes.apple.com/us/podcast/legacy-code-rocks/id1146634772?mt=2) | [Player.fm](https://player.fm/series/legacy-code-rocks) | [Stitcher](https://www.stitcher.com/podcast/corgibytes-2/legacy-code-rocks) | [SoundCloud](https://soundcloud.com/andrea-goulet-651190405) | [Overcast](https://overcast.fm/itunes1146634772/legacy-code-rocks) | [Android](https://subscribeonandroid.com/legacycoderocks.libsyn.com/rss))
 
   * **Description**: Legacy Code Rocks explores the world of modernizing existing software applications. Hosts Andrea Goulet and M. Scott Ford of Corgibytes are out to change the way you think about legacy code. If you’re like a lot of people, when you hear the words “legacy code” it conjures up images of big mainframes and archaic punch card machines. While that’s true — it only tells a small part of the story. The truth is, the code you leave behind is your legacy, so let's make it a good one.
