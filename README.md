@@ -32,6 +32,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [PHP](#php)
+  * [Laravel](#laravel)
 * [Python](#python)
 * [R](#R)
 * [ReasonML](#reasonml)
@@ -50,7 +51,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Description**: .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
   * **Frequency**: Two episodes every week
   * **Runtime**: 45 - 60 mins, regularly ~60 mins
-  
+
 * [Gone Mobile](https://www.gonemobile.io/)
   * **Description**: A podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS & Windows development to mobile marketing and design.
   * **Frequency**: Varies
@@ -194,7 +195,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Technology with a free software / open source slant, crossing over into related political topics. Evolution of the now-defunct [LugRadio](https://en.wikipedia.org/wiki/LugRadio) podcast.
   * **Frequency**: Monthly twice
   * **Runtime**: 50 - 80 mins, regularly ~70 mins
-  
+
 * [Full Stack Cast](https://podcast.fullstackfest.com/)
 
   * **Description**: Interviews to past and future speakers of the Full Stack Fest conference, focusing on personal experiences and their personal journeys.
@@ -214,7 +215,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
 ## Data Science/Machine Learning
-  
+
 * [Concerning AI](https://concerning.ai)
 
   * **Description**: Talking about, Is there an existential risk from Human-level (and beyond) Artificial Intelligence? If so, what can we do about it?
@@ -745,7 +746,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A show about mobile development (& for those of you driving at home.)
   * **Frequency**: Once every week
   * **Runtime**: 45 - 90 mins, regularly ~60 mins
-  
+
 * [Stacktrace](https://stacktracepodcast.fm)
 
   * **Description**: Apple news & rumors from a developer’s perspective.
@@ -796,7 +797,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A community celebration of JavaScript and the web.
   * **Frequency** : Once every week
   * **Runtime**: 30 - 70 mins, regularly ~55 mins
-  
+
 * [ScriptCast](https://scriptconf.org/)
 
   * **Description**: A podcast about JavaScript, stories from people who shape the world of JavaScript, hosted by the creators and organisers of ScriptConf.
@@ -916,6 +917,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Interviews with the people that are making the PHP community special.
   * **Frequency** : Once every month
   * **Runtime**: 10 - 85 mins, regularly ~20 mins
+
+### Laravel
+
+* [Laravel News Podcast](https://laravel-news.com/podcast/) ([iTunes](https://itunes.apple.com/us/podcast/laravel-news-podcast/id1051289963?mt=2&at=1l3vuLL))
+
+  * **Description**: The Laravel News Podcast brings you all the latest news and events related to Laravel.
+  * **Frequency** : Every two weeks
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
 ## Python
 
@@ -1097,7 +1106,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Weekly interviews with Swift developers about their experience with Apple’s new open source programming language.
   * **Frequency**: Once every week
   * **Runtime**: 35 - 145 mins, regularly ~70 mins
-  
+
 * [Swift over Coffee](https://anchor.fm/swiftovercoffee)
 
   * **Description**: Swift over Coffee is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen.
@@ -1109,7 +1118,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
   * **Frequency**: Once every week
   * **Runtime**: 15 - 50 mins, regularly ~30 mins
-  
+
 * [The Swift Community Podcast](https://www.swiftcommunitypodcast.org)
 
   * **Description**: A podcast for the Swift community, by the Swift community.
@@ -1122,7 +1131,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Two Experienced test directors talk about how testing is changing.  Currently, the primary goal of the podcast is the explanation of Modern Testing Principles.
   * **Frequency**: Approximately twice per month
   * **Runtime**: 40 - 60 mins, regularly ~50 mins
-  
+
 * [Test Talks](https://www.joecolantonio.com/testtalks/)
 
   * **Description**: The podcast dedicated to testing automation experts, it goes through a wide variety of subjects - tools, trends, patterns etc.
