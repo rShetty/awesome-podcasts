@@ -16,6 +16,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Community/Inspiration](#communityinspiration)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
 * [Devops](#devops)
+* [Flutter](#flutter)
 * [Functional Programming](#functional-programming)
 * [General Software](#general-software)
 * [Git](#git)
@@ -338,6 +339,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A show all about continuous delivery and software development.
   * **Frequency**: Once per month
   * **Runtime**: 25 - 60 mins, regularly ~40 mins
+
+## Flutter
+
+* [It's All Widgets! Flutter Podcast](https://itsallwidgets.com/podcast/) ([RSS, Android](https://itsallwidgets.com/podcast/feed))
+
+  * **Description** An ongoing series featuring some of the amazing developers from the Flutter community. In each episode we discuss the developer's background, what got them into Flutter and their thoughts on the platform in general.
+  * **Frequency**: Twice a week
+  * **Runtime**: 15-30 mins, regularly ~15 mins
 
 ## Functional Programming
 
