@@ -22,6 +22,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Git](#git)
 * [Go Programming Language](#go-programming-language)
 * [Groovy](#groovy)
+* [InfoSec](#infosec)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -732,6 +733,33 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A podcast dedicated to the Groovy programming language and its ecosystem.
   * **Frequency**: Approximately once a month
   * **Runtime**: 20 - 70 mins, regularly ~50 mins
+
+## InfoSec
+* [Security in Five]()
+  **Description:**: Small pieces about all things cyber-security. 
+  **Frequency**: Almost daily
+  **Runtime**: 5-10 Minutes
+
+* [Risky.Biz]()
+
+* [Smashing Security]()
+
+* [Brakeing Down Security]()
+
+* [Darknet Diaries[()
+
+* [Defensive Security]()
+
+* [Malicious Life]()
+
+* [The Many Hats Club]()
+
+* [Purple Squad Security]()
+
+* [The Social-Engineer Podcast]()
+
+* [Unsupervised Learning]()
+ 
 
 ## iOS
 
