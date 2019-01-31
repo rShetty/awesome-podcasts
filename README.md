@@ -23,6 +23,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Go Programming Language](#go-programming-language)
 * [Groovy](#groovy)
 * [iOS](#ios)
+* [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular](#angular)
@@ -764,6 +765,26 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A weekly podcast that follows the journeys of two iOS developers.
   * **Frequency**: Once every week
   * **Runtime**: 20 - 60 mins, regularly ~40 mins
+
+## Ionic
+
+* [Bet on the Web](https://betontheweb.ionicframework.com)
+
+  * **Description**: Chat from the core Ionic team about a variety of topics through the lens of the Open Web.
+  * **Frequency** : Varies
+  * **Runtime**: 15 - 40 mins, regularly ~40 mins
+
+* [Ionic Tips Weekly and Tutorials](https://www.youtube.com/user/LittlejTFS) | [Joshua Morony](https://www.joshmorony.com)
+
+  * **Description**: Tutorials and weekly tips and tricks on Ionic and its ecosystem.
+  * **Frequency** : Weekly
+  * **Runtime**: 5 - 30 mins, Tips Weekly regularly ~5 mins, Tutorials regularly ~30 mins
+
+* [Learn Ionic channel](https://www.youtube.com/user/saimon1924) | [Devdactic by Simon Grimm](https://devdactic.com) | [Ionic Academy](https://ionicacademy.com)
+
+  * **Description**: A Youtube channel for awesome coding videos on Ionic and learn to build your own cross platform apps.
+  * **Frequency** : Varies
+  * **Runtime**: 10 - 40 mins, regularly ~15 mins
 
 ## Java
 
