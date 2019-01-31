@@ -882,6 +882,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## PHP
 
+* [RunGeekRadio]](https://rungeekradio.com/feed/)
+
+  * **Description**: Adam Culp talks a few minutes about running, then mostly about something PHP related.
+  * **Frequency** : Once a month
+  * **Runtime**: 15 - 20 mins, regularly ~20 mins
+
 * [php[podcast]](https://www.phparch.com/podcast/feed/episodes/)
 
   * **Description**: The site for PHP professionals, Magazine, Training, Books, Conferences.
