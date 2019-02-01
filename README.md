@@ -63,6 +63,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [HERDING CODE](http://herdingcode.com)
 
   * **Description**: show covering a broad range of .NET-related topics in considerable technical depth.
+  * **Host**: K. Scott Allen @[OdeToCode](https://twitter.com/OdeToCode), Kevin Dente, Scott Koon, Jon Galloway @[jongalloway](https://twitter.com/jongalloway)
   * **Frequency**: Monthly once
   * **Runtime**: 15 - 60 mins, regularly ~55 mins
 
