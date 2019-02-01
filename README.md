@@ -358,6 +358,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Varies
   * **Runtime**: 50 - 70 mins, regularly ~55 mins
 
+* [Elixir Mix](https://devchat.tv/elixir-mix/)
+
+  * **Description**: Discussions around functional programming topics, the Elixir ecosystem and real-world apps built with Elixir-based tools and frameworks.
+  * **Frequency**: Weekly
+  * **Runtime**: 45-60 minutes
+
 * Elixir Talk ([Soundcloud](https://soundcloud.com/elixirtalk) | [iTunes](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048))
 
   * **Description**: Titillating discussion about Elixir application design and ecosystem state.
