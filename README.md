@@ -69,6 +69,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Merge Conflict](http://www.mergeconflict.fm/)
   * **Description**: Join Frank & James for a weekly discussion on the world of technology and development including C#, F#, .NET, web, mobile, and more.
+  * **Host**: Frank Krueger @[praeclarum](https://twitter.com/praeclarum), James Montemagno @[JamesMontemagno](https://twitter.com/jamesmontemagno)
   * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
