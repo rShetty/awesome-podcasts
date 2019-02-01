@@ -2,13 +2,23 @@
 
 Uma lista de podcasts, em português de Portugal, que podem ser úteis para programadores e engenheiros de software.
 
-## Índice
+* [PHP](#php)
+  * [Laravel](#laravel)
+* [Linux](#linux)
+  
+## PHP
 
-* [Desenvolvimento de Software](#desenvolvimento-de-software)
-
-### Desenvolvimento de Software
+### Laravel
 
 * [Laravel Portugal Live](https://laravel.pt/)
   * **Descrição**: Os nossos membros discutem tópicos da comunidade, em direto, no YouTube. Todas as sextas-feiras, às 21H00!
   * **Frequência**: 1 vez por semana
   * **Duração**: 1 hora
+
+## Linux
+
+* [Ubuntu Portugal](https://ubuntu-pt.org/)
+  * **Descrição**: O Podcast do Ubuntu Portugal
+  * **Frequência**: 1 vez por semana
+  * **Duração**: 1 hora
+
