@@ -1231,7 +1231,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
   * **Description**: Dedicated to the art and science of thoughtfully executed software development.
   * **Frequency**: Once or twice a month
-  * **Runtime**: 30 - 60 mins
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
 * [Full Stack Radio](http://www.fullstackradio.com/)
 
