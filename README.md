@@ -906,6 +906,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Weekly Linux news and analysis by Chris and Joe. The show every week we hope you'll go to when you want to hear an informed discussion about what’s happening in Linux.
   * **Frequency**: Once every week
   * **Runtime**: 20 - 30 mins, regularly 30 mins
+  
+* [Late Night Linux](https://latenightlinux.com/)
+
+  * **Description**: Podcast focusing on opinions and Linux news hosted by Joe, Félim, Graham and Will. Knowledgeable insight and commentary keeps the show fresh and interesting
+  * **Frequency**: Bi-weekly
+  * **Runtime**: 45 mins - 1 hour, regularly 1 hour
 
 * [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/)
 
