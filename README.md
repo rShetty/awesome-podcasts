@@ -1227,6 +1227,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every week
   * **Runtime**: 30 - 95 mins, regularly ~55 mins
 
+* [Frontside Podcast](https://frontside.io/podcast/)
+
+  * **Description**: Dedicated to the art and science of thoughtfully executed software development.
+  * **Frequency**: Once or twice a month
+  * **Runtime**: 30 - 60 mins
+
 * [Full Stack Radio](http://www.fullstackradio.com/)
 
   * **Description**: A podcast for developers interested in building great software products. Topics include product design and user experience to unit testing and system administration.
