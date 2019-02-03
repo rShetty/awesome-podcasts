@@ -496,6 +496,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Podcast to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence.
   * **Frequency**: Every Monday, Wednesday and Friday
   * **Runtime**: 10 - 50 mins, regularly ~20 mins
+  
+* [Eat Sleep Code](https://developer.telerik.com/community/eat-sleep-code/)
+
+  * **Description**: The Official Telerik Podcast. They interview "passionate people about a wide range of developer related topics."
+  * **Frequency** : Monthly
+  * **Runtime**: 45 - 55 mins, regularly ~47 mins
 
 * [Embedded FM](https://www.embedded.fm/)
 
