@@ -14,6 +14,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Career](#career)
 * [Clojure](#clojure)
 * [Community/Inspiration](#communityinspiration)
+* [Data Management](#data-management)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
 * [Devops](#devops)
 * [Flutter](#flutter)
@@ -219,6 +220,33 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
+## Data Management
+
+* [Big Data Beard](https://bigdatabeard.com/subscribe-to-podcast/)
+  * **Description**: Sharing crumbs of knowledge and experience collected from working in the big data ecosystem.
+  * **Frequency**: Once every week
+  * **Host**: Cory Minto, et al.
+  * **Runtime**: 30 - 60 min, regularly ~45 mins
+
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com)
+  * **Description**: A show that digs deep into databases, big data pipelines, data governance, data collection, ETL, building effective data teams, and all of the other challenges faced by technology professionals working on data management.
+  * **Frequency**: Once every week
+  * **Host**: Tobias Macey
+  * **Runtime**: 30-60 mins, regularly ~45 mins
+
+* [Drill To Detail](https://www.drilltodetail.com/)
+  * **Description**: A podcast and accompanying blog on the business and strategy of analytics, big data and distributed processing in the cloud
+  * **Frequency**: Varies
+  * **Host**: Mark Rittman
+  * **Runtime**: 30-60 mins, regularly ~45 mins
+
+* [Roaring Elephant](https://roaringelephant.org/)
+  * **Description**: A weekly community podcast about Apache Hadoop and the surrounding ecosystem for anyone working with or investigating Big Data and Advanced Analytics
+  * **Frequency**: Once every week
+  * **Host**: Jhon Masschelein and Dave Russell
+  * **Runtime**: 15 - 60 mins, regularly ~20 mins
+
+
 ## Data Science/Machine Learning
 
 * [Concerning AI](https://concerning.ai)
@@ -244,6 +272,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: High level concepts in data science, and longer interview with researchers and practitioners
   * **Frequency**: Weekly
   * **Runtime**: 15 - 45 mins, regularly ~25 mins
+
+* [Data Stories](http://datastori.es/)
+
+  * **Description**: A podcast on data visualization
+  * **Frequency**: Weekly
+  * **Host**: Enrico Bertini and Moritz Stefaner
+  * **Runtime**: ~45 mins
 
 * [Linear Digressions](http://lineardigressions.com/)
 
@@ -301,6 +336,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
     human endeavor, from art to science.
   * **Frequency**: Weekly
   * **Runtime**: 20 - 40 mins, regularly ~30 mins
+
+* [The Architecht Show](http://architechtshow.com/)
+
+  * **Description**: A weekly podcast about the business of cloud computing, artificial intelligence and data science.
+  * **Frequency**: Once a week
+  * **Host**: Derrick Harris
+  * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
 * [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
 
