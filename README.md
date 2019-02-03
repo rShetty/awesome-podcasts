@@ -81,24 +81,28 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Agile For Humans](https://ryanripley.com/agile-for-humans/)
 
   * **Description**: Interviews people about Agile and becoming better at Agile
+  * **Host**: Ryan Ripley @[ryanripley](https://twitter.com/ryanripley)
   * **Frequency**: Once a week
   * **Runtime**: 25 - 60 mins, regularly ~45 mins
 
 * [Agile In 3 Minutes](https://agilein3minut.es/)
 
   * **Description**: A micropodcast about thinking and doing business effectively.
+  * **Host**: Amitai Schleier @[schmonz](https://twitter.com/schmonz)
   * **Frequency**: Once a quarter
   * **Runtime**: 3 mins, regularly ~3 mins
 
 * [Meta-Cast](http://feeds.feedburner.com/meta-cast)
 
   * **Description**: Bob Galen and Josh Anderson use their decades of agile coaching experience to power your organizations need for agility and scale
+  * **Host**: Bob Galen, Josh Anderson
   * **Frequency**: Once a fortnight
   * **Runtime**: 40 - 60 mins, regularly ~40 mins
 
 * [Scrum Master Toolbox](https://scrum-master-toolbox.org/)
 
   * **Description**:  A daily podcast for Scrum Masters and Agile Coaches
+  * **Host**: Vasco Duarte @[duarte_vasco](https://twitter.com/duarte_vasco)
   * **Frequency**: Daily
   * **Runtime**: 5 - 20 mins, regularly ~10 mins
 
@@ -107,24 +111,28 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
 
   * **Description**: Podcast interviewing Google engineers about the latest Android APIs
+  * **Host**: Romain Guy @[romainguy](https://twitter.com/romainguy), Chet Haase @[chethasse](https://twitter.com/chethaase), Tor Norbye @[tornorbye](https://twitter.com/tornorbye) 
   * **Frequency**: Monthly once
   * **Runtime**: 30 - 60 mins, regularly ~55 mins
 
 * [Android Snacks](http://androidsnacks.com)
 
   * **Description**: The TL;DR of last weeks Android developer news
+  * **Host**: Mike Scamell @[MikeSamell](https://twitter.com/mikescamell)
   * **Frequency**: Weekly once
   * **Runtime**: 5 - 10 mins, regularly 5 mins
 
 * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
   * **Description**: Podcast that discusses on various frameworks and tools available in Android Community
+  * **Host**: Artem Zinnatullin @[artem_zin](https://twitter.com/artem_zin), Hannes Dorfmann @[sockeqwe](https://twitter.com/sockeqwe) & Artur Dryomov @[arturdryomov](https://twitter.com/arturdryomov)
   * **Frequency**: Monthly Once
   * **Runtime**: 35 - 100 mins, regularly ~50 mins
 
 * [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/)
 
   * **Description**: An Android Developer Podcast
+  * **Host**: Donn Felker @[donnfelker](https://twitter.com/donnfelker), Kaushik Gopal @[kaushikgopal](https://twitter.com/kaushikgopal)
   * **Frequency**: Weekly once or twice
   * **Runtime**: 20 - 60 mins, regularly ~50 mins
 
