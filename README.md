@@ -500,6 +500,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Podcast to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence.
   * **Frequency**: Every Monday, Wednesday and Friday
   * **Runtime**: 10 - 50 mins, regularly ~20 mins
+  
+* [Eat Sleep Code](https://developer.telerik.com/community/eat-sleep-code/)
+
+  * **Description**: The Official Telerik Podcast. They interview "passionate people about a wide range of developer related topics."
+  * **Frequency** : Monthly
+  * **Runtime**: 45 - 55 mins, regularly ~47 mins
 
 * [Embedded FM](https://www.embedded.fm/)
 
@@ -1082,6 +1088,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** :  Weekly
   * **Runtime**: 25 - 40 mins, regularly ~30 mins
 
+* [Brakeing Down Security](http://www.brakeingsecurity.com/)
+  * **Description**: A podcast all about the world of Security, Privacy, Compliance, and Regulatory issues that arise in today's workplace. Co-hosts Bryan Brake, Amanda Berlin, and Brian Boettcher teach concepts that aspiring Information Security Professionals need to know, or refresh the memories of the seasoned veterans.
+  * **Frequency**: Weekly
+  * **Runtime**: Approximately 1 hour
+
 * [Breach](https://www.carbonite.com/podcasts/breach/)
   * **Description**: A podcast exploring data breaches and cybersecurity by Carbonite.
   * **Frequency** : Every 2/3 Months
@@ -1100,12 +1111,16 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Bi-weekly
   * **Runtime**: ~45 mins
 
-
 * [Defensive Security Podcast](https://defensivesecurity.org/)
 
   * **Description**: A cyber security podcast covering breaches and strategies for defense. An attempt to look at recent security news and pick out lessons to apply organizations we are charged with keeping secure.
   * **Frequency**: Various
   * **Runtime**: 20 - 105 mins, regularly ~50 mins
+
+* [Malicious Life](https://malicious.life/)
+  * **Description**: Tales of cybersecurity. The wildest hacks you can ever imagine, told by people who were actually there. Hosted by cybersecurity expert and book author, Ran Levi, this is not your average talk-show. These are fascinating, unknown tales, slowly unraveled, deeply researched. Think Hardcore History meets Hackable- and come dig into a history you never knew existed.
+  * **Frequency**: Fortnightly
+  * **Runtime**: 30 - 45 mins
 
 * [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
 
@@ -1119,11 +1134,22 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: _various_
 
+  
+* [Purple Squad Security](https://purplesquadsec.com/)
+  * **Description**: Information Security, InfoSec, CyberSec, Cyber, Security, whatever you call it, we talk about it! From mobiles and desktops to data centers and the cloud, Purple Squad Security is here to help and give back to our community of information security professionals.
+  * **Frequency**: Weekly
+  * **Runtime**: 30 - 60 mins
+  
 * [Risky Business](https://risky.biz/netcasts/risky-business/)
 
   * **Description**: Information security podcast featuring news and in-depth interviews with industry luminaries.
   * **Frequency**: Weekly
   * **Runtime**: 30 - 70 mins, regularly ~60 mins
+
+* [Security in Five](https://www.binaryblogger.com/)
+  * **Description:**: Security In 5 brings you security news, tips and opinions on information IT and general security in about five minutes. Straight and to the point information in a timeframe you can easily listen to in one sitting. Whether you are a security professional or someone that wants to keep personal data safe this podcast will cover everyone. Be aware, be safe, welcome to Security In 5.
+  * **Frequency**: Daily
+  * **Runtime**: 5-10 Minutes
 
 * [Security Now](https://twit.tv/shows/security-now)
 
@@ -1136,6 +1162,26 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every 2/3 month
   * **Runtime**: 25 - 45 mins, regularly ~35 mins
 
+* [Smashing Security](http://www.smashingsecurity.com/)
+  * **Description**: Join computer security industry veterans Graham Cluley and Carole Theriault as they have a light-hearted chat with guests about cybercrime, hacking, and online privacy. It's not your typical cybersecurity podcast... Winner: "Best Security Podcast 2018." Follow the podcast on Twitter at @SmashinSecurity. New episodes released every Thursday. Bonus "splinter" episodes when we feel like it...
+  * **Frequency**: Weekly
+  * **Runtime**: 45 - 60 mins
+
+* [The Many Hats Club](https://themanyhats.club/)
+  * **Description**: An information security focused group of individuals from all walks of life
+  * **Frequency**: Irregular
+  * **Runtime**: Approximately 2 hours
+  
+* [The Social-Engineer Podcast](http://www.social-engineer.org/category/podcast/)
+  * **Description**: The Social-Engineer Podcast is about humans. Understanding how we interact, communicate and relay information can help us protect, mitigate and understand social engineering attacks
+  * **Frequency**: Monthly
+  * **Runtime**: Approximately 60 mins
+  
+* [Unsupervised Learning](https://danielmiessler.com/podcast/)
+  * **Description**: I spend between five and twenty hours a week consuming articles, books, and podcasts looking for the most interesting ideas around security, technology, and how they interact with us as humans. Each episode is either a curated summary of what I’ve found in the past week, or a standalone essay that hopefully gives you something to think about.
+  * **Frequency**: Usually 15 - 30 mins, sometimes up to an hour
+  * **Runtime**: Bi-Weekly, Weekly for subscribers
+  
 ## Swift
 
 * [Fireside Swift](https://itunes.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
@@ -1230,6 +1276,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: An interview podcast with famous Russian web developers.
   * **Frequency**: Once every week
   * **Runtime**: 30 - 95 mins, regularly ~55 mins
+
+* [Frontside Podcast](https://frontside.io/podcast/)
+
+  * **Description**: Dedicated to the art and science of thoughtfully executed software development.
+  * **Frequency**: Once or twice a month
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
 * [Full Stack Radio](http://www.fullstackradio.com/)
 
