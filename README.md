@@ -141,6 +141,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [BSDNow](http://www.bsdnow.tv/)
 
   * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
+  * **Host**: Benedict Reuschling @[bsdbcr](https://twitter.com/bsdbcr), Allan Jude @[allanjude](https://twitter.com/allanjude), Kris Moore @[pcbsdKris](https://twitter.com/pcbsdkris)
   * **Frequency**: Weekly (Wednesday US Eastern)
   * **Runtime**: 60 - 120 mins, regularly ~90 mins
   * **RSS**
@@ -153,12 +154,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Cpp.chat](http://slashslash.info/cppchat/)
 
   * **Description**: A round-table chat with guests from the C++ community.
+  * **Host**: Jon Kalb @[_JonKalb](https://twitter.com/_jonkalb)
   * **Frequency**: Varies
   * **Runtime**: 50 - 70 minutes
 
 * [CppCast](http://cppcast.com/)
 
   * **Description**: All about C++ and many great interviews with prominent library and tool authors.
+  * **Host**: Rob Irving @[robwirving](https://twitter.com/robwirving), Jason Turner @[lefticus](https://twitter.com/lefticus)
   * **Frequency**: Once every week
   * **Runtime**: 40 - 60 mins, regularly ~55 mins
 
@@ -167,18 +170,21 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [devpath.fm](https://www.devpath.fm)
 
   * **Description**: Candid interviews with highly successful software developers covering imposter syndrome, personal triumphs, obstacles, and career advice.
+  * **Host**: Jacob Herrington @[JakeHerrington](https://twitter.com/jakeherrington)
   * **Frequency**: Weekly
   * **Runtime**: 30 - 45 mins
 
 * [Founders Talk](https://changelog.com/founderstalk) (by [Changelog](https://changelog.com))
 
   * **Description**: In-depth, one on one conversations with founders, CEOs, and makers. The journey, lessons learned, and the struggles.
+  * **Host**: Adam Stacoviak @[adamstac](https://twitter.com/adamstac)
   * **Frequency**: Weekly(ish)
   * **Runtime**: 60 - 80 mins
 
 * [Using Reflection](http://www.usingreflection.com/)
 
   * **Description**: Engineers reflect on what they've learned about being effective professionals, working in teams and themselves.
+  * **Host**: Mark S. Weiss @[marksweiss](https://twitter.com/marksweiss)
   * **Frequency**: About twice a month
   * **Runtime**: 35-50 minutes
 
@@ -187,6 +193,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Defn](https://defn.audio/)
 
   * **Description**: Interviews with leaders and folks of the Clojure and ClojureScript community.
+  * **Host**: Vijay Kiran @[vijaykiran](https://twitter.com/vijaykiran), Ray McDermott @[raymcdermott](https://twitter.com/raymcdermott)
   * **Frequency**: Every other week
   * **Runtime**: 50 - 105 mins, regularly ~75 mins
 
@@ -201,12 +208,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Away from Keyboard](https://changelog.com/afk) (by [Changelog](https://changelog.com))
 
   * **Description**: A podcast exploring the human side of creative work. Life, mistakes, burnout, and finding balance while creating satisfying work.
+  * **Host**: Tim Smith @[smithtimmytim](https://twitter.com/smithtimmytim)
   * **Frequency**: Every other Wednesday
   * **Runtime**: ~30 mins
 
 * [Bad Voltage](https://www.badvoltage.org/)
 
   * **Description**: Technology with a free software / open source slant, crossing over into related political topics. Evolution of the now-defunct [LugRadio](https://en.wikipedia.org/wiki/LugRadio) podcast.
+  * **Host**: Jono Bacon @[jonobacon](https://twitter.com/jonobacon), Jeremy Garcia @[linuxquestions](https://twitter.com/linuxquestions), Stuart Langridge @[sil](https://twitter.com/sil)
   * **Frequency**: Monthly twice
   * **Runtime**: 50 - 80 mins, regularly ~70 mins
 
@@ -225,6 +234,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Learn To Code With Me](https://learntocodewith.me/podcast/) ([Soundcloud](https://soundcloud.com/laurence-bradford) | [iTunes](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Stitcher](https://www.stitcher.com/podcast/learn-to-code-with-me))
 
   * **Description**: For aspiring techies and self-taught coders looking to transition into the tech industry.
+  * **Host**: laurence Bradford @[learncodewithme](https://twitter.com/learncodewithme)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
