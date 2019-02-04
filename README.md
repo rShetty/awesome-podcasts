@@ -496,6 +496,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Code Podcast is about ideas that shape the way we build software
   * **Frequency** : Monthly once
   * **Runtime**: 20 - 50 mins, regularly ~40 mins
+  
+* [Code Cast ZM](https://anchor.fm/code-cast-zm)
+
+   * **Description**: a biweekly podcast that focuses on everything tech (from innovations in AI and machine learning to the latest in data science, from the WWDC to Google IO), and the role developers play in shaping the future of technology, both from a uniquely Zambian perspective to the repercussions on a global scale
+   * **Frequency** : Bi-Weekly
+   * **Runtime**: regulary ~60 mins
 
 * [Code Newbie](https://www.codenewbie.org/podcast)
 
