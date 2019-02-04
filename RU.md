@@ -8,6 +8,7 @@
 * [JavaScript](#javascript)
   * [React.js](#reactjs)
 * [PHP](#php)
+* [Ruby](#ruby)
 * [Веб-разработка](#Веб-разработка)
 
 ## JavaScript
@@ -23,6 +24,13 @@
 * [Пятиминутка PHP](https://5minphp.ru/) ([iTunes](https://itunes.apple.com/ru/podcast/patiminutka-php/id996423650) | [Android](http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss) | [SoundCloud](https://soundcloud.com/5minphp)
   * **Описание**: Подкаст о новостях из мира PHP, интересных постах в блогах и современных подходах к разработке
   * **Регулярность**: Время от времени
+
+## Ruby
+
+* [Rwpod](https://www.rwpod.com/)
+
+  * **Описание**: Еженедельный подкаст о новостях мира ruby и web-разработки
+  * **Регулярность** : Еженедельно
 
 ## Веб-разработка
 
