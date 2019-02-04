@@ -860,6 +860,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## JavaScript
 
+* [iteration](http://www.iterationpodcast.com/) ([iTunes](https://itunes.apple.com/us/podcast/iteration/id1321529167?mt=2) | [Spotify](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1?si=qduPzHGQRcOSSfaLhbrtLA))
+  * **Description**: A weekly podcast about development and design through the lens of amazing books, chapter-by-chapter. We do our best to be code-agnostic but we talk a lot about Rails, JavaScript, React, React Native, design, business and startups.
+  * **Frequency**: Once every week
+  * **Runtime**: 30 - 60 mins, regularly ~40 mins
+  
 * [Javascript Jabber](https://devchat.tv/js-jabber) ([iTunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2) | [Stitcher](https://www.stitcher.com/podcast/ruby-rogues/javascript-jabber))
 
   * **Frequency**: Once every week
