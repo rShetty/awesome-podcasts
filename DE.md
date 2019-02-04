@@ -1,4 +1,4 @@
-# Geniale Liste von wichtigen Podcats für Software Entwickler
+# Geniale Liste von wichtigen Podcasts für Software Entwickler
 
 Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmierer sind.
 
