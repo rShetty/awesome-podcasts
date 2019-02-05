@@ -1175,12 +1175,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Weekly
   * **Runtime**: 15 - 45 mins, regularly ~30 mins
 
-* [The Cyber Wire](https://www.thecyberwire.com/)
-
-  * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
-  * **Frequency** : Daily
-  * **Runtime**: 5 - 45 mins, regularly ~15 mins
-
 * [Darknet Diaries](https://darknetdiaries.com/)
 
   * **Description**: Darknet Diaries explores true stories from the dark side of the Internet. Go behind the hack and hear stories from the "cyber" front lines. Whether you're just curious how hacks happen or are a seasoned Infosec pro, you'll learn something new in an entertaining format.
@@ -1243,6 +1237,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Join computer security industry veterans Graham Cluley and Carole Theriault as they have a light-hearted chat with guests about cybercrime, hacking, and online privacy. It's not your typical cybersecurity podcast... Winner: "Best Security Podcast 2018." Follow the podcast on Twitter at @SmashinSecurity. New episodes released every Thursday. Bonus "splinter" episodes when we feel like it...
   * **Frequency**: Weekly
   * **Runtime**: 45 - 60 mins
+
+* [The Cyber Wire](https://www.thecyberwire.com/)
+
+  * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
+  * **Frequency** : Daily
+  * **Runtime**: 5 - 45 mins, regularly ~15 mins
 
 * [The Many Hats Club](https://themanyhats.club/)
   * **Description**: An information security focused group of individuals from all walks of life
