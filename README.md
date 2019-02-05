@@ -579,10 +579,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 45 - 80 mins, regularly ~65 mins
 
-* [FreeCode Camp](http://freecodecamp.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#))
-  * **Description**:  A weekly talk that gives insights, people who started to code from non-technical background and successfully kickstarted thier carrers, as well as interviews with experts on how to get started in new hot topics in tech
-  * **Frequency** : Weekly Once
-  * **Runtime**: 10 - 30 mins, regularly ~15 mins
+* [The freeCodeCamp Podcast](https://podcast.freecodecamp.org/) ([iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749) | [Spotify](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP) | [Stitcher](https://www.stitcher.com/podcast/freecodecamp-podcast))
+
+  * **Description**: The official podcast of the freeCodeCamp.org community. Learn to code for free with millions of other people. Featuring interviews with developers from around the world, most of whom took nontraditional paths into tech.
+  * **Frequency**: A new episode every Monday during seasons
+  * **Runtime**: 45 - 90 minutes
 
 * [Five Nines of Downtime](https://soundcloud.com/fiveninesofdowntime)
 
