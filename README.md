@@ -1143,6 +1143,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every 2/3 month
   * **Runtime**: 25 - 45 mins, regularly ~35 mins
 
+* [Troy Hunt Weekly Update](https://www.troyhunt.com) ([iTunes](https://itunes.apple.com/au/podcast/troy-hunts-weekly-update-podcast/id1176454699) | [Player.FM](https://player.fm/series/troy-hunts-weekly-update-podcast-2342435) | [OnMyContent (RSS)](https://www.omnycontent.com/d/playlist/1439345f-6152-486d-a9c2-a6bf0067f2b7/3ba9af7f-3bfb-48fd-aae7-a6bf00689c10/fde26e49-9fb8-457d-8f16-a6bf00696676/podcast.rss))
+  * **Description**: The audio version of Troy Hunt's weekly update videos - covering security industry news, information on breeches, and HaveIBeenPwned
+  * **Frequency**: Weekly
+  * **Runtime**: 20 - 60 mins, regularly 25 minutes
+
 ## Swift
 
 * [Fireside Swift](https://itunes.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
