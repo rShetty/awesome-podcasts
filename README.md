@@ -1169,6 +1169,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Every 2/3 Months
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
+* [CYBER](https://motherboard.vice.com/en_us/topic/cyber)
+
+  * **Description**: Hacking. Hackers. Disinformation campaigns. Encryption. The Cyber. This stuff gets complicated really fast, but Motherboard spends its time embedded in the infosec world so you don't have to. Host Ben Makuch talks every week to Motherboard reporters Lorenzo Franceschi-Bicchierai and Joseph Cox about the stories they're breaking and to the industry's most famous hackers and researchers about the biggest news in cybersecurity.
+  * **Frequency** : Weekly
+  * **Runtime**: 15 - 45 mins, regularly ~30 mins
+
 * [The Cyber Wire](https://www.thecyberwire.com/)
 
   * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
