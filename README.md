@@ -69,6 +69,11 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
+* [The .NET Core Podcast](https://dotnetcore.show/)
+  * **Description**: The only podcast devoted podcast which is devoted to. NET Core; ASP.NET Core; EF Core; SignalR; and not forgetting The .NET Core community, itself.
+  * **Frequency**: Fortnightly
+  * **Runtime**: 30 - 60 mins, regularly ~50 mins
+
 More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Agile
