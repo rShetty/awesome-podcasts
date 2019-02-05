@@ -567,6 +567,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 30 - 90 mins, regularly ~60 mins
 
+* [Productivity in Tech](https://feeds.transistor.fm/productivity-in-tech-podcast)
+
+  * **Description**: This is the show where I sit down with people in the tech space and talk about what they are doing and how they get it all done.
+  * **Frequency**: Weekly
+  * **Runtime**: around 30 minutes
+
 * [Programming and Performance with Cliff Click](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 
   * **Description**:  Various issues with Programming, Programmers, and Computer Performance.
