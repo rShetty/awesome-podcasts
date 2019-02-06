@@ -13,5 +13,5 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
   * **Duración**: 30 - 40 min
 * [Sin Humo Podcast](https://anchor.fm/sin-humo)
   * **Descripción**: Un Podcast sobre programación y tecnología. Libre de humo. De la mano de [@esacrosa](https://twitter.com/esacrosa) y [@fernandezpablo](https://twitter.com/fernandezpablo)
-  * **Frecuencia**: Buena pregunta.
+  * **Frecuencia**: No definida.
   * **Duración**: 45 - 90 min
