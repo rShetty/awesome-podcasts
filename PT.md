@@ -37,3 +37,9 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
   * **Descrição**: Tópicos gerais sobre desenvolvimento de software, frontend, javascript
   * **Frequência**: Normalmente 2 vezes por mês
   * **Duração**: 30 - 45 min
+  
+  
+* [Hipsters Ponto Tech](https://hipsters.tech/)
+  * **Descrição**: Tópicos gerais sobre programação, design, ux, gadgets, startups, etc
+  * **Frequência**: Zemanal
+  * **Duração**: 40 - 50 min
