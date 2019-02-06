@@ -32,6 +32,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * [Vue.js](#vuejs)
   * [Ember](#ember)
 * [Kotlin](#kotlin)
+* [Kubernetes and Cloud Native](#kubernetes)
 * [Linux](#linux)
 * [PHP](#php)
   * [Laravel](#laravel)
@@ -73,6 +74,12 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Host**: Frank Krueger @[praeclarum](https://twitter.com/praeclarum), James Montemagno @[JamesMontemagno](https://twitter.com/jamesmontemagno)
   * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
+
+* [The .NET Core Podcast](https://dotnetcore.show/)
+  * **Description**: The only podcast devoted podcast which is devoted to. NET Core; ASP.NET Core; EF Core; SignalR; and not forgetting The .NET Core community, itself.
+  * **Host**: Jamie Taylor @[dotnetcoreshow](https://twitter.com/dotnetcoreshow/)
+  * **Frequency**: Fortnightly
+  * **Runtime**: 30 - 60 mins, regularly ~50 mins
 
 More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
@@ -682,6 +689,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 30 - 90 mins, regularly ~60 mins
 
+* [Productivity in Tech](https://feeds.transistor.fm/productivity-in-tech-podcast)
+
+  * **Description**: This is the show where I sit down with people in the tech space and talk about what they are doing and how they get it all done.
+  * **Host**: K Jay Miller @[kjaymiller](https://twitter.com/kjaymiller)
+  * **Frequency**: Weekly
+  * **Runtime**: around 30 minutes
+
 * [Programming and Performance with Cliff Click](http://cliffc.org/blog/) [iTunes](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 
   * **Description**:  Various issues with Programming, Programmers, and Computer Performance.
@@ -1060,6 +1074,15 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Approximately once a month
   * **Runtime**: 30 - 50 mins, regularly ~35 mins
 
+## Kubernetes
+
+* [Kubernetes Podcast](http://kubernetespodcast.com) ([iTunes](https://itunes.apple.com/us/podcast/kubernetes-podcast-from-google/id1370049232?mt=2) | [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9rdWJlcm5ldGVzcG9kY2FzdC5jb20vZmVlZHMvYXVkaW8ueG1s) | [Overcast](https://overcast.fm/itunes1370049232/kubernetes-podcast-from-google) | [Spotify](https://open.spotify.com/show/0AsnxlMtXRUEeZkIO0ScpJ))
+
+  * **Description**: The Kubernetes Podcast from Google is a weekly news and interview show with insight from the Kubernetes community.  Guests have included project founders, vendor executives, end users, community members and more.
+  * **Frequency** : Weekly
+  * **Host**: Craig Box @[craigbox](http://twitter.com/craigbox) and Adam Glick @[MobileGlick](http://twitter.com/mobileglick)
+  * **Runtime**: 15 - 50 mins, regularly ~25 mins
+
 ## Linux
 
 * * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/)
@@ -1267,11 +1290,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Every 2/3 Months
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
-* [The Cyber Wire](https://www.thecyberwire.com/)
+* [CYBER](https://motherboard.vice.com/en_us/topic/cyber)
 
-  * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
-  * **Frequency** : Daily
-  * **Runtime**: 5 - 45 mins, regularly ~15 mins
+  * **Description**: Hacking. Hackers. Disinformation campaigns. Encryption. The Cyber. This stuff gets complicated really fast, but Motherboard spends its time embedded in the infosec world so you don't have to. Host Ben Makuch talks every week to Motherboard reporters Lorenzo Franceschi-Bicchierai and Joseph Cox about the stories they're breaking and to the industry's most famous hackers and researchers about the biggest news in cybersecurity.
+  * **Frequency** : Weekly
+  * **Runtime**: 15 - 45 mins, regularly ~30 mins
 
 * [Darknet Diaries](https://darknetdiaries.com/)
 
@@ -1342,6 +1365,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Weekly
   * **Runtime**: 45 - 60 mins
 
+* [The Cyber Wire](https://www.thecyberwire.com/)
+
+  * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
+  * **Frequency** : Daily
+  * **Runtime**: 5 - 45 mins, regularly ~15 mins
+
 * [The Many Hats Club](https://themanyhats.club/)
   * **Description**: An information security focused group of individuals from all walks of life
   * **Frequency**: Irregular
@@ -1351,6 +1380,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: The Social-Engineer Podcast is about humans. Understanding how we interact, communicate and relay information can help us protect, mitigate and understand social engineering attacks
   * **Frequency**: Monthly
   * **Runtime**: Approximately 60 mins
+
+* [Troy Hunt Weekly Update](https://www.troyhunt.com) ([iTunes](https://itunes.apple.com/au/podcast/troy-hunts-weekly-update-podcast/id1176454699) | [Player.FM](https://player.fm/series/troy-hunts-weekly-update-podcast-2342435) | [OnMyContent (RSS)](https://www.omnycontent.com/d/playlist/1439345f-6152-486d-a9c2-a6bf0067f2b7/3ba9af7f-3bfb-48fd-aae7-a6bf00689c10/fde26e49-9fb8-457d-8f16-a6bf00696676/podcast.rss))
+  * **Description**: The audio version of Troy Hunt's weekly update videos - covering security industry news, information on breeches, and HaveIBeenPwned
+  * **Host**: Troy Hunt @[troyhunt](https://twitter.com/troyhunt)
+  * **Frequency**: Weekly
+  * **Runtime**: 20 - 60 mins, regularly 25 minutes
   
 * [Unsupervised Learning](https://danielmiessler.com/podcast/)
   * **Description**: I spend between five and twenty hours a week consuming articles, books, and podcasts looking for the most interesting ideas around security, technology, and how they interact with us as humans. Each episode is either a curated summary of what I’ve found in the past week, or a standalone essay that hopefully gives you something to think about.
