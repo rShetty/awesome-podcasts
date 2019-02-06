@@ -75,6 +75,12 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
+* [The .NET Core Podcast](https://dotnetcore.show/)
+  * **Description**: The only podcast devoted podcast which is devoted to. NET Core; ASP.NET Core; EF Core; SignalR; and not forgetting The .NET Core community, itself.
+  * **Host**: Jamie Taylor @[dotnetcoreshow](https://twitter.com/dotnetcoreshow/)
+  * **Frequency**: Fortnightly
+  * **Runtime**: 30 - 60 mins, regularly ~50 mins
+
 More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Agile
@@ -638,6 +644,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A podcast for developers covering topics such as Azure/cloud, .NET, Visual Studio, Node.js, ML/AI and more! Hosted by Jason Young and Carl Schweitzer.
   * **Frequency** : Once every week
   * **Runtime**: 30 - 90 mins, regularly ~60 mins
+
+* [Productivity in Tech](https://feeds.transistor.fm/productivity-in-tech-podcast)
+
+  * **Description**: This is the show where I sit down with people in the tech space and talk about what they are doing and how they get it all done.
+  * **Host**: K Jay Miller @[kjaymiller](https://twitter.com/kjaymiller)
+  * **Frequency**: Weekly
+  * **Runtime**: around 30 minutes
 
 * [Programming and Performance with Cliff Click](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 
@@ -1263,6 +1276,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: The Social-Engineer Podcast is about humans. Understanding how we interact, communicate and relay information can help us protect, mitigate and understand social engineering attacks
   * **Frequency**: Monthly
   * **Runtime**: Approximately 60 mins
+
+* [Troy Hunt Weekly Update](https://www.troyhunt.com) ([iTunes](https://itunes.apple.com/au/podcast/troy-hunts-weekly-update-podcast/id1176454699) | [Player.FM](https://player.fm/series/troy-hunts-weekly-update-podcast-2342435) | [OnMyContent (RSS)](https://www.omnycontent.com/d/playlist/1439345f-6152-486d-a9c2-a6bf0067f2b7/3ba9af7f-3bfb-48fd-aae7-a6bf00689c10/fde26e49-9fb8-457d-8f16-a6bf00696676/podcast.rss))
+  * **Description**: The audio version of Troy Hunt's weekly update videos - covering security industry news, information on breeches, and HaveIBeenPwned
+  * **Host**: Troy Hunt @[troyhunt](https://twitter.com/troyhunt)
+  * **Frequency**: Weekly
+  * **Runtime**: 20 - 60 mins, regularly 25 minutes
   
 * [Unsupervised Learning](https://danielmiessler.com/podcast/)
   * **Description**: I spend between five and twenty hours a week consuming articles, books, and podcasts looking for the most interesting ideas around security, technology, and how they interact with us as humans. Each episode is either a curated summary of what I’ve found in the past week, or a standalone essay that hopefully gives you something to think about.
