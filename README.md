@@ -579,12 +579,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Once every week
   * **Runtime**: 45 - 80 mins, regularly ~65 mins
 
-* [The freeCodeCamp Podcast](https://podcast.freecodecamp.org/) ([iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749) | [Spotify](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP) | [Stitcher](https://www.stitcher.com/podcast/freecodecamp-podcast))
-
-  * **Description**: The official podcast of the freeCodeCamp.org community. Learn to code for free with millions of other people. Featuring interviews with developers from around the world, most of whom took nontraditional paths into tech.
-  * **Frequency**: A new episode every Monday during seasons
-  * **Runtime**: 45 - 90 minutes
-
 * [Five Nines of Downtime](https://soundcloud.com/fiveninesofdowntime)
 
   * **Description**: Enterprise software development, distributed systems and whatever our guests find interesting.
@@ -596,6 +590,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Interviews with members of the Open Source and Free Software community.
   * **Frequency** : Once every week
   * **Runtime**: 45 - 70 mins, regularly ~55 mins
+
+* [The freeCodeCamp Podcast](https://podcast.freecodecamp.org/) ([iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749) | [Spotify](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP) | [Stitcher](https://www.stitcher.com/podcast/freecodecamp-podcast))
+
+  * **Description**: The official podcast of the freeCodeCamp.org community. Learn to code for free with millions of other people. Featuring interviews with developers from around the world, most of whom took nontraditional paths into tech.
+  * **Frequency**: A new episode every Monday during seasons
+  * **Runtime**: 45 - 90 minutes
 
 * [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
 
