@@ -972,7 +972,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## JavaScript
 
-* [iteration](http://www.iterationpodcast.com/) ([iTunes](https://itunes.apple.com/us/podcast/iteration/id1321529167?mt=2) | [Spotify](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1?si=qduPzHGQRcOSSfaLhbrtLA))
+* [iteration](http://www.iterationpodcast.com/) ([iTunes](https://itunes.apple.com/us/podcast/iteration/id1321529167?mt=2) | [Spotify](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1))
   * **Description**: A weekly podcast about development and design through the lens of amazing books, chapter-by-chapter. We do our best to be code-agnostic but we talk a lot about Rails, JavaScript, React, React Native, design, business and startups.
   * **Host**: John Jacob @[johnsalzarulo](https://twitter.com/johnsalzarulo), JP @[jeanpaulsio](https://twitter.com/jeanpaulsio)
   * **Frequency**: Once every week
@@ -1133,7 +1133,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency** : Various
   * **Runtime**: 55 - 90 mins, regularly ~65 mins
 
-* [That Podcast](https://thatpodcast.io) [iTunes](https://thatpodcast.io/itunes.rss)
+* [That Podcast](https://thatpodcast.io) ([iTunes](https://thatpodcast.io/itunes.rss) | [Spotify](https://open.spotify.com/show/3XYrUZnOFi4dV2aM3PxnYc))
 
   * **Description**: Beau and Dave talking about life as dads, programmers, and entrepreneurs.
   * **Host**: Beau Simensen @[beausimensen](https://twitter.com/beausimensen), Dave Marshall @[davedevelopment](https://twitter.com/davedevelopment)
@@ -1395,7 +1395,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   
 ## Swift
 
-* [Fireside Swift](https://itunes.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
+* [Fireside Swift](https://www.firesideswift.com/) ([iTunes](https://itunes.apple.com/us/podcast/fireside-swift/id1269435221?mt=2))
 
   * **Description**: Two buddies, Zack and Steve, discuss a new Swift topic each week. They try to stay informal while also conveying the information they know about each topic with bits of humor sprinkled throughout.
   * **Host**: Zack Falgout@[ZFalgout1](https://twitter.com/ZFalgout1), Steve Berard @[SWBerard](https://twitter.com/SWBerard)
@@ -1409,7 +1409,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every week
   * **Runtime**: 40 - 60 mins, regularly ~55 mins
 
-* [Swift Coders](https://itunes.apple.com/us/podcast/swiftcoders-weekly-interviews-with-swift-developers/id1082937962?mt=2)
+* [Swift Coders](https://swiftcoders.podbean.com/) ([iTunes](https://itunes.apple.com/us/podcast/swiftcoders-weekly-interviews-with-swift-developers/id1082937962?mt=2))
 
   * **Description**: Weekly interviews with Swift developers about their experience with Apple’s new open source programming language.
   * **Frequency**: Once every week
