@@ -626,7 +626,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 45 - 80 mins, regularly ~65 mins
 
 * [FreeCode Camp](http://freecodecamp.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#))
-  * **Description**:  A weekly talk that gives insights, people who started to code from non-technical background and successfully kickstarted thier carrers, as well as interviews with experts on how to get started in new hot topics in tech
+  * **Description**:  A weekly talk that gives insights, people who started to code from non-technical background and successfully kickstarted their careers, as well as interviews with experts on how to get started in new hot topics in tech
   * **Frequency** : Weekly Once
   * **Runtime**: 10 - 30 mins, regularly ~15 mins
 
@@ -1157,7 +1157,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Laravel News Podcast](https://laravel-news.com/podcast/) ([iTunes](https://itunes.apple.com/us/podcast/laravel-news-podcast/id1051289963?mt=2&at=1l3vuLL))
 
   * **Description**: The Laravel News Podcast brings you all the latest news and events related to Laravel.
-  * **Host**: Jacob Bennet @[JacobBennett](https://twitter.com/JacobBennett), Michael Dyrynda @[michaeldyrynda](https://twitter.com/michaeldyrynda)
+  * **Host**: Jacob Bennett @[JacobBennett](https://twitter.com/JacobBennett), Michael Dyrynda @[michaeldyrynda](https://twitter.com/michaeldyrynda)
   * **Frequency** : Every two weeks
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
