@@ -599,6 +599,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Twice per month
   * **Runtime**: 25 - 30 mins, regularly ~30 mins
 
+* [Developer Melange](https://developermelange.github.io)
+
+   * **Description**: A monthly podcast which brings you regular discussions about software engineering topics. All of them, in one way or another, related to building great software products.
+  * **Hosts**: Paul Rohorzka @[paulroho](https://twitter.com/paulroho), David Leitner @[duffleit](https://twitter.com/duffleit), Christian Haas @[dertseha](https://twitter.com/dertseha), Peter Kofler @[codecopkofler](https://twitter.com/codecopkofler)
+  * **Frequency**: Every first of the month
+  * **Runtime**: 45 - 60 mins, regularly ~45 mins
+
 * [Developer On Fire](http://developeronfire.com/episodes)
 
   * **Description**: Inspiring software developers tell their stories.
