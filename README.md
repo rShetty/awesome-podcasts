@@ -1196,6 +1196,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Various
   * **Runtime**: 15 - 60 mins, regularly ~30 mins
 
+* [Friday Afternoon Deploy](https://friday.hirelofty.com/) ([iTunes](https://itunes.apple.com/us/podcast/friday-afternoon-deploy/id1441215128?mt=2&l=en) | [Spotify](https://open.spotify.com/show/61A2PUqpAI4lkdBVeMUjEP?si=lEzrpUfCS-yGNH9lJNkoMw) | [RSS](https://feeds.buzzsprout.com/223293.rss))
+  * **Description**: A podcast about the culture and chaos of software engineering. @LoftyLabs devs make software then discuss our regrets on Fridays.
+  * **Host**:Tyrel Denison @[tyreldenison](https://twitter.com/tyreldenison), Casey Kinsey @[quesokinsey](https://twitter.com/quesokinsey), Alan Fraley and Hayden Luckenbach
+  * **Frequency**: Once every week
+  * **Runtime**: 50 - 70 mins, regularly ~60 mins
+
 ## R
 
 * [The R-Podcast](https://r-podcast.org/)
