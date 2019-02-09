@@ -1085,7 +1085,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Linux
 
-* * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/)
+* [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/)
 
   * **Description**: Weekly Linux news and analysis by Chris and Joe. The show every week we hope you'll go to when you want to hear an informed discussion about what’s happening in Linux.
   * **Frequency**: Once every week
