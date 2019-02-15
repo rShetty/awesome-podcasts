@@ -56,6 +56,12 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency**: Two episodes every week
   * **Runtime**: 45 - 60 mins, regularly ~60 mins
 
+* [The .NET Core Podcast](https://dotnetcore.show/)
+  * **Description**: The only podcast devoted podcast which is devoted to. NET Core; ASP.NET Core; EF Core; SignalR; and not forgetting The .NET Core community, itself.
+  * **Host**: Jamie Taylor @[dotnetcoreshow](https://twitter.com/dotnetcoreshow/)
+  * **Frequency**: Fortnightly
+  * **Runtime**: 30 - 60 mins, regularly ~50 mins
+
 * [Gone Mobile](https://www.gonemobile.io/)
   * **Description**: A podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS & Windows development to mobile marketing and design.
   * **Host**: Greg Shackles @[gshackles](https://twitter.com/gshackles), Jon Dick @[redth.codes](https://twitter.com/redth)
@@ -74,12 +80,6 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Host**: Frank Krueger @[praeclarum](https://twitter.com/praeclarum), James Montemagno @[JamesMontemagno](https://twitter.com/jamesmontemagno)
   * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
-
-* [The .NET Core Podcast](https://dotnetcore.show/)
-  * **Description**: The only podcast devoted podcast which is devoted to. NET Core; ASP.NET Core; EF Core; SignalR; and not forgetting The .NET Core community, itself.
-  * **Host**: Jamie Taylor @[dotnetcoreshow](https://twitter.com/dotnetcoreshow/)
-  * **Frequency**: Fortnightly
-  * **Runtime**: 30 - 60 mins, regularly ~50 mins
 
 More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
@@ -274,6 +274,23 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Data Science/Machine Learning
 
+* [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
+
+  * **Description**: Interviews with the world’s leading experts in artificial intelligence, deep learning, and machine
+    learning to explain how it works, how it’s
+    evolving, and how it intersects with every facet of
+    human endeavor, from art to science.
+  * **Host**: Noah Kravitz @[noahkravitz](https://twitter.com/noahkravitz), Michael Copeland
+  * **Frequency**: Weekly
+  * **Runtime**: 20 - 40 mins, regularly ~30 mins
+
+* [The Architecht Show](http://architechtshow.com/)
+
+  * **Description**: A weekly podcast about the business of cloud computing, artificial intelligence and data science.
+  * **Frequency**: Once a week
+  * **Host**: Derrick Harris @[derrickharris](https://twitter.com/derrickharris)
+  * **Runtime**: 30 - 40 mins, regularly ~35 mins
+
 * [Concerning AI](https://concerning.ai)
 
   * **Description**: Talking about, Is there an existential risk from Human-level (and beyond) Artificial Intelligence? If so, what can we do about it?
@@ -362,23 +379,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Every other week
   * **Runtime**: 35 - 60 mins, regularly ~40 mins
 
-* [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
-
-  * **Description**: Interviews with the world’s leading experts in artificial intelligence, deep learning, and machine
-    learning to explain how it works, how it’s
-    evolving, and how it intersects with every facet of
-    human endeavor, from art to science.
-  * **Host**: Noah Kravitz @[noahkravitz](https://twitter.com/noahkravitz), Michael Copeland
-  * **Frequency**: Weekly
-  * **Runtime**: 20 - 40 mins, regularly ~30 mins
-
-* [The Architecht Show](http://architechtshow.com/)
-
-  * **Description**: A weekly podcast about the business of cloud computing, artificial intelligence and data science.
-  * **Frequency**: Once a week
-  * **Host**: Derrick Harris @[derrickharris](https://twitter.com/derrickharris)
-  * **Runtime**: 30 - 40 mins, regularly ~35 mins
-
 * [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
 
   * **Description**: Stories from the world of machine learning and artificial intelligence. Discussion on the latest developments in research, technology, business, and exploring interesting projects from across the web, including machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, big data and more.
@@ -448,6 +448,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Varies
   * **Runtime**: 50 - 70 mins, regularly ~55 mins
 
+* [The Elixir Fountain](https://soundcloud.com/elixirfountain)
+
+  * **Description**: Podcasts for news & interviews from around the @Elixirlang Community
+  * **Host**: Johnny Winn @[johnny_rugger](https://twitter.com/johnny_rugger)
+  * **Frequency**: Varies
+  * **Runtime**: 30 - 60 mins, regularly ~55 mins
+
 * [Elixir Mix](https://devchat.tv/elixir-mix/)
 
   * **Description**: Discussions around functional programming topics, the Elixir ecosystem and real-world apps built with Elixir-based tools and frameworks.
@@ -488,13 +495,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once in 2 months
   * **Runtime**: 45 - 100 mins, regularly ~60 mins
 
-* [The Elixir Fountain](https://soundcloud.com/elixirfountain)
-
-  * **Description**: Podcasts for news & interviews from around the @Elixirlang Community
-  * **Host**: Johnny Winn @[johnny_rugger](https://twitter.com/johnny_rugger)
-  * **Frequency**: Varies
-  * **Runtime**: 30 - 60 mins, regularly ~55 mins
-
 * [Indielixer](http://indielixer.com)
 
   * **Description**: A new solo podcast about independent side projects built in the Elixir language. Right now it focuses on the hosts projects, but will include other community members in the future.
@@ -503,6 +503,19 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: ~25 mins
 
 ## General software
+
+* [The 6 Figure Developer Podcast](https://6figuredev.com/)
+
+  * **Description**: The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.
+  * **Host**: John Callaway @[matsubonsai](https://twitter.com/matsubonsai ), Clayton Hunt @[ClaytonHunt_104](https://twitter.com/ClaytonHunt_104), Jon Ash @[ashjonm](https://twitter.com/ashjonm)
+  * **Frequency**: Weekly
+  * **Runtime**: ~35 mins
+
+* [The Accidental Engineer](https://theaccidentalengineer.com/)
+
+  * **Description**: Anything and everything related to software
+  * **Frequency**: Once every week
+  * **Runtime**: 20 - 55 mins, regularly ~40 mins
 
 * [Art of Product](https://artofproductpodcast.com/)
 
@@ -525,6 +538,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Weekly
   * **Runtime**: 15 - 30 mins, regularly ~25 mins
 
+* [The Bike Shed](http://bikeshed.fm/)
+
+  * **Description**: Ruby, Rails, Javascript
+  * **Host**: Chris Toomey @[christoomey](https://twitter.com/christoomey)
+  * **Frequency**: Once every week
+  * **Runtime**: 30 - 50 mins, regularly ~35 mins
+
 * [BookBytes](https://www.orbit.fm/bookbytes/)
 
   * **Description**: A book club for developers.
@@ -538,6 +558,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Sven Johann @[kaesfiehs](https://twitter.com/kaesfiehs), Eberhard Wolff @[ewolff](https://twitter.com/ewolff), Joy Heron @[iamjoyheron](https://twitter.com/iamjoyheron), Stefan Tilkov @[stilkov](https://twitter.com/stilkov), Lucas Dohmen @[moonbeamlabs](https://twitter.com/moonbeamlabs)
   * **Frequency**: Every three weeks.
   * **Runtime**: 50 - 65 mins, regularly ~55 mins
+
+* [The Changelog](https://changelog.com/podcast)
+
+  * **Description**: Conversations with the hackers, leaders, and innovators of software development.
+  * **Host**: Adam Stacoviak @[adamstac](https://twitter.com/adamstac), Jerod Santo @[jerodsanto](https://twitter.com/jerodsanto)
+  * **Frequency**: Once every week
+  * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
 * [Code](https://codepodcast.com/)
 
@@ -599,6 +626,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Twice per month
   * **Runtime**: 25 - 30 mins, regularly ~30 mins
 
+* [The Cynical Developer](https://cynicaldeveloper.com/) ([iTunes](https://itunes.apple.com/gb/podcast/the-cynical-developer/id1169160766) | [Overcast](https://overcast.fm/itunes1169160766/the-cynical-developer) | [Stitcher](https://www.stitcher.com/podcast/the-cynical-developer) | [Podchaster](https://www.podchaser.com/podcasts/the-cynical-developer-227715) | [Player.fm](https://player.fm/series/series-1580340) | [Pocket Casts](http://pca.st/w8FN) | [PodBean](https://www.podbean.com/start-unlimited-podcast))
+
+  * **Description**: The UK based, podcast that helps you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.
+  * **Host**: James Studdart @[JamesStuddart](https://twitter.com/JamesStuddart)
+  * **Frequency**: Once every week
+  * **Runtime**: 10 - 55 mins, regularly ~40 mins
+
 * [Developer Melange](https://developermelange.github.io)
 
    * **Description**: A monthly podcast which brings you regular discussions about software engineering topics. All of them, in one way or another, related to building great software products.
@@ -632,11 +666,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every week
   * **Runtime**: 45 - 80 mins, regularly ~65 mins
 
-* [FreeCode Camp](http://freecodecamp.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749#))
-  * **Description**:  A weekly talk that gives insights, people who started to code from non-technical background and successfully kickstarted their careers, as well as interviews with experts on how to get started in new hot topics in tech
-  * **Frequency**: Weekly Once
-  * **Runtime**: 10 - 30 mins, regularly ~15 mins
-
 * [Five Nines of Downtime](https://soundcloud.com/fiveninesofdowntime)
 
   * **Description**: Enterprise software development, distributed systems and whatever our guests find interesting.
@@ -649,6 +678,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Randal Schwartz @[merlyn](https://twitter.com/merlyn), Aaron Newcomb @[aaronnewcomb](https://twitter.com/aaronnewcomb)
   * **Frequency**: Once every week
   * **Runtime**: 45 - 70 mins, regularly ~55 mins
+
+* [The freeCodeCamp Podcast](https://podcast.freecodecamp.org/) ([iTunes](https://itunes.apple.com/us/podcast/the-freecodecamp-podcast/id1313660749) | [Spotify](https://open.spotify.com/show/7CpuEnbCLIXwI6LEcbBOYP) | [Stitcher](https://www.stitcher.com/podcast/freecodecamp-podcast))
+
+  * **Description**: The official podcast of the freeCodeCamp.org community. Learn to code for free with millions of other people. Featuring interviews with developers from around the world, most of whom took nontraditional paths into tech.
+  * **Frequency**: A new episode every Monday during seasons
+  * **Runtime**: 45 - 90 minutes
 
 * [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
 
@@ -669,6 +704,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every week
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
+* [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast)
+
+  * **Description**: Podcasts on technical software topics, interviews with some of the top CTOs, engineers and technology directors.
+  * **Frequency**: Once every week
+  * **Runtime**: 25 - 45 mins, regularly ~30 mins
+
 * [Junior Developer Toolbox](http://juniordevelopertoolbox.com)
 
   * **Description**: Real talk from the trenches about everyday life as a junior developer: building, maintaining, and surviving a career in software engineering.
@@ -683,11 +724,24 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Approximately once a month
   * **Runtime**: 30 - 70 mins, regularly ~45 mins
 
+* [The Manifest](https://manifest.fm/)
+
+  * **Description**: A podcast all about package management. Each episode is a conversation with someone from the world of package management, covering how they got into the field, the architectural details of their work, and the communities around the tools.
+  * **Host**: Alex Pounds @[acreature](https://twitter.com/acreature), Andrew Nesbitt @[teabass](https://twitter.com/teabass)
+  * **Frequency**: Sporadic, but no more than once a fortnight.
+  * **Runtime**: 50 - 70 mins, regularly ~55 mins
+
 * [Modern Web](https://www.moderndotweb.com/modern-web-podcast) ([iTunes](https://itunes.apple.com/us/podcast/modern-web/id1084236187) | [Overcast](https://overcast.fm/itunes1084236187/modern-web) | [Android](https://www.subscribeonandroid.com/modernweb.podbean.com/feed/) | [PodBean](https://modernweb.podbean.com/))
 
   * **Description**: Modern Web is a podcast that covers the latest news on topics such as EmberJS, ReactJS, AngularJS, ES2015, RxJS, Functional Reactive Programming, and more.
   * **Frequency**: 2/3 episodes per month
   * **Runtime**: 20 - 70 mins, regularly ~50 mins
+
+* [The MousePaw'dCast](https://mousepawmedia.com/news/podcast) ([iTunes](https://itunes.apple.com/us/podcast/mousepawdcast/id1242557040) | [Overcast](https://overcast.fm/itunes1242557040/mousepawdcast) | [Android](https://subscribeonandroid.com/mousepawmedia.com/rss/mousepawdcast.xml) | [iHeartRadio](https://www.iheart.com/podcast/428-MousePawdCast-28198080/) | [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/MousePawdCast-p1002800/))
+
+  * **Description**: The official podcast of MousePaw Media, discussing game development, open source programming, and education.
+  * **Frequency**: Once per month
+  * **Runtime**: 40 - 70 mins, regularly ~65 mins
 
 * [MS Dev Show](https://msdevshow.com/)
 
@@ -695,6 +749,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Jason Young @[ytechie](https://twitter.com/ytechie), Carl Schweitzer @[carlschweitzer](https://twitter.com/carlschweitzer)
   * **Frequency**: Once every week
   * **Runtime**: 30 - 90 mins, regularly ~60 mins
+
+* [The New Stack](https://thenewstack.io/podcasts/)
+
+  * **Description**: Analysis and explanations about application development and management at scale. Roundtable discussion with technologists, analysts and journalists, interviews with practitioners, demonstrations of software and services.
+  * **Frequency**: Various
+  * **Runtime**: _unknown_
 
 * [Productivity in Tech](https://feeds.transistor.fm/productivity-in-tech-podcast)
 
@@ -716,6 +776,19 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Patrick Wheeler, Jason Gauci @[NeuralNets4Life](https://twitter.com/NeuralNets4Life)
   * **Frequency**: Once per month
   * **Runtime**: 50 - 90 mins, regularly ~70 mins
+
+* [The Rabbit Hole](http://therabbithole.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-rabbit-hole-an-inside-look-into-software-development/id1223811385) | [Overcast](https://overcast.fm/itunes1223811385/the-rabbit-hole-an-inside-look-into-software-development) | [Android](https://subscribeonandroid.com/therabbithole.libsyn.com/rss))
+
+  * **Description**: Welcome to The Rabbit Hole, the definitive developers' podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you.
+  * **Host**: Dave Anderson @[dvndrsn](https://twitter.com/dvndrsn)
+  * **Frequency**: Once every week
+  * **Runtime**: 15 - 45 mins, regularly ~25 mins
+
+* [The raywenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
+
+  * **Description**: discuss every aspect of app development.Primarily focusing on Apple technology.
+  * **Frequency**: Once per month
+  * **Runtime**: 15 - 60 mins, regularly ~40 mins
 
 * [Relative Paths](https://relativepaths.uk/) ([iTunes](https://itunes.apple.com/gb/podcast/relative-paths-web-development/id914858338?mt=2&ign-mpt=uo%3D4) | [SoundCloud](https://soundcloud.com/relativepaths) | [Stitcher](https://www.stitcher.com/podcast/relative-paths) | [Android](https://subscribeonandroid.com/relativepaths.uk/feeds/cast.xml))
 
@@ -750,78 +823,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every week
   * **Runtime**: 25 - 45 mins, regularly ~30 mins
 
-* [The 6 Figure Developer Podcast](https://6figuredev.com/)
-
-  * **Description**: The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.
-  * **Host**: John Callaway @[matsubonsai](https://twitter.com/matsubonsai ), Clayton Hunt @[ClaytonHunt_104](https://twitter.com/ClaytonHunt_104), Jon Ash @[ashjonm](https://twitter.com/ashjonm)
-  * **Frequency**: Weekly
-  * **Runtime**: ~35 mins
-
-* [The Accidental Engineer](https://theaccidentalengineer.com/)
-
-  * **Description**: Anything and everything related to software
-  * **Frequency**: Once every week
-  * **Runtime**: 20 - 55 mins, regularly ~40 mins
-
-* [The Bike Shed](http://bikeshed.fm/)
-
-  * **Description**: Ruby, Rails, Javascript
-  * **Host**: Chris Toomey @[christoomey](https://twitter.com/christoomey)
-  * **Frequency**: Once every week
-  * **Runtime**: 30 - 50 mins, regularly ~35 mins
-
-* [The Changelog](https://changelog.com/podcast)
-
-  * **Description**: Conversations with the hackers, leaders, and innovators of software development.
-  * **Host**: Adam Stacoviak @[adamstac](https://twitter.com/adamstac), Jerod Santo @[jerodsanto](https://twitter.com/jerodsanto)
-  * **Frequency**: Once every week
-  * **Runtime**: 40 - 80 mins, regularly ~60 mins
-
-* [The Cynical Developer](https://cynicaldeveloper.com/) ([iTunes](https://itunes.apple.com/gb/podcast/the-cynical-developer/id1169160766) | [Overcast](https://overcast.fm/itunes1169160766/the-cynical-developer) | [Stitcher](https://www.stitcher.com/podcast/the-cynical-developer) | [Podchaster](https://www.podchaser.com/podcasts/the-cynical-developer-227715) | [Player.fm](https://player.fm/series/series-1580340) | [Pocket Casts](http://pca.st/w8FN) | [PodBean](https://www.podbean.com/start-unlimited-podcast))
-
-  * **Description**: The UK based, podcast that helps you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.
-  * **Host**: James Studdart @[JamesStuddart](https://twitter.com/JamesStuddart)
-  * **Frequency**: Once every week
-  * **Runtime**: 10 - 55 mins, regularly ~40 mins
-
-* [The InfoQ Podcast](https://www.infoq.com/the-infoq-podcast)
-
-  * **Description**: Podcasts on technical software topics, interviews with some of the top CTOs, engineers and technology directors.
-  * **Frequency**: Once every week
-  * **Runtime**: 25 - 45 mins, regularly ~30 mins
-
-* [The Manifest](https://manifest.fm/)
-
-  * **Description**: A podcast all about package management. Each episode is a conversation with someone from the world of package management, covering how they got into the field, the architectural details of their work, and the communities around the tools.
-  * **Host**: Alex Pounds @[acreature](https://twitter.com/acreature), Andrew Nesbitt @[teabass](https://twitter.com/teabass)
-  * **Frequency**: Sporadic, but no more than once a fortnight.
-  * **Runtime**: 50 - 70 mins, regularly ~55 mins
-
-* [The MousePaw'dCast](https://mousepawmedia.com/news/podcast) ([iTunes](https://itunes.apple.com/us/podcast/mousepawdcast/id1242557040) | [Overcast](https://overcast.fm/itunes1242557040/mousepawdcast) | [Android](https://subscribeonandroid.com/mousepawmedia.com/rss/mousepawdcast.xml) | [iHeartRadio](https://www.iheart.com/podcast/428-MousePawdCast-28198080/) | [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/MousePawdCast-p1002800/))
-
-  * **Description**: The official podcast of MousePaw Media, discussing game development, open source programming, and education.
-  * **Frequency**: Once per month
-  * **Runtime**: 40 - 70 mins, regularly ~65 mins
-
-* [The New Stack](https://thenewstack.io/podcasts/)
-
-  * **Description**: Analysis and explanations about application development and management at scale. Roundtable discussion with technologists, analysts and journalists, interviews with practitioners, demonstrations of software and services.
-  * **Frequency**: Various
-  * **Runtime**: _unknown_
-
-* [The Rabbit Hole](http://therabbithole.libsyn.com/) ([iTunes](https://itunes.apple.com/us/podcast/the-rabbit-hole-an-inside-look-into-software-development/id1223811385) | [Overcast](https://overcast.fm/itunes1223811385/the-rabbit-hole-an-inside-look-into-software-development) | [Android](https://subscribeonandroid.com/therabbithole.libsyn.com/rss))
-
-  * **Description**: Welcome to The Rabbit Hole, the definitive developers' podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you.
-  * **Host**: Dave Anderson @[dvndrsn](https://twitter.com/dvndrsn)
-  * **Frequency**: Once every week
-  * **Runtime**: 15 - 45 mins, regularly ~25 mins
-
-* [The raywenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
-
-  * **Description**: discuss every aspect of app development.Primarily focusing on Apple technology.
-  * **Frequency**: Once per month
-  * **Runtime**: 15 - 60 mins, regularly ~40 mins
-
 * [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) ([iTunes](https://itunes.apple.com/us/podcast/the-stack-overflow-podcast/id1033688462?mt=2) | [Overcast](https://overcast.fm/itunes1033688462/the-stack-overflow-podcast) | [Android](http://subscribeonandroid.com/blog.stackexchange.com/feed/podcast/) | [SoundCloud](https://soundcloud.com/stack-exchange))
 
   * **Description**: The Stack Overflow Podcast lets you listen in on what’s new with the world’s largest developer community.
@@ -835,13 +836,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Jamie Wright @[jwright](https://twitter.com/jwright), Keith Thompson @[keiththomps](https://twitter.com/keiththomps)
   * **Frequency**: Twice every month
   * **Runtime**: 20 - 35 mins, regularly ~25 mins
-
-* [The Women in Tech Show](https://thewomenintechshow.com)
-
-  * **Description**: Technical interviews with prominent women in tech.
-  * **Host**: Edaena Salinas @[edaenas](https://twitter.com/edaenas)
-  * **Frequency**: Once every week
-  * **Runtime**: 20 - 55 mins, regularly ~30 mins
 
 * [ThoughtWorks Podcasts](https://www.thoughtworks.com/podcasts) ([Soundcloud](https://soundcloud.com/thoughtworks)|[iTunes](https://itunes.apple.com/gb/podcast/thoughtworks/id881136697?mt=2)|[stitcher](https://www.stitcher.com/podcast/thoughtworks-podcast)|[RSS](https://thoughtworks.libsyn.com/rss))
 
@@ -862,6 +856,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Steve Smith @[ardalis](https://twitter.com/ardalis)
   * **Frequency**: Once a week (roughly)
   * **Runtime**: 5 - 10 mins, regularly ~5 mins
+  
+* [The Women in Tech Show](https://thewomenintechshow.com)
+
+  * **Description**: Technical interviews with prominent women in tech.
+  * **Host**: Edaena Salinas @[edaenas](https://twitter.com/edaenas)
+  * **Frequency**: Once every week
+  * **Runtime**: 20 - 55 mins, regularly ~30 mins
 
 ## Git
 
@@ -1032,22 +1033,22 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ### React.js
 
-* [The React podcast](https://reactpodcast.simplecast.fm) ([iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432) | [Overcast](https://overcast.fm/itunes1341969432/the-react-podcast) | [Android](http://www.subscribeonandroid.com/changelog.com/reactpodcast/feed))
-
-  * **Description**: Interviews and news about React hosted by Michael Jackson.
-  * **Host**: Michael Jackson @[mjackson](https://twitter.com/mjackson), Michael Chan @[chantastic](https://twitter.com/chantastic)
-  * **Frequency**: Once every week
-  * **Runtime**: 35 - 60 mins, regularly ~40 mins
+* [5 minutes of React podcast](https://5minreact.audio/) ([iTunes](https://itunes.apple.com/ru/podcast/5-minutes-of-react/id1232187990?mt=2&at=1010lwCk&l=en) | [Android](http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:304879382/sounds.rss) | [SoundCloud](https://soundcloud.com/5minreact_audio) | [YouTube](https://www.youtube.com/channel/UC43OeCrRbp6hSEnNZWIHOGg/videos?flow=list&live_view=500&view=0&sort=dd))
+  * **Description**: Podcast about React hot topics and JavaScript ecosystem.
+  * **Frequency**: Few times in a quarter
+  * **Runtime**: 2 - 15 mins, regularly ~5 mins
 
 * [React Native Radio](https://devchat.tv/react-native-radio) ([iTunes](https://itunes.apple.com/us/podcast/react-native-radio/id1058647602?mt=2) | [Stitcher](https://www.stitcher.com/podcast/ruby-rogues/react-native-radio?refid=stpr))
   * **Description**: React Native Radio Podcast
   * **Frequency**: Once every week
   * **Runtime**: 25 - 60 mins, regularly ~45 mins
 
-* [5 minutes of React podcast](https://5minreact.audio/) ([iTunes](https://itunes.apple.com/ru/podcast/5-minutes-of-react/id1232187990?mt=2&at=1010lwCk&l=en) | [Android](http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:304879382/sounds.rss) | [SoundCloud](https://soundcloud.com/5minreact_audio) | [YouTube](https://www.youtube.com/channel/UC43OeCrRbp6hSEnNZWIHOGg/videos?flow=list&live_view=500&view=0&sort=dd))
-  * **Description**: Podcast about React hot topics and JavaScript ecosystem.
-  * **Frequency**: Few times in a quarter
-  * **Runtime**: 2 - 15 mins, regularly ~5 mins
+* [The React podcast](https://reactpodcast.simplecast.fm) ([iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432) | [Overcast](https://overcast.fm/itunes1341969432/the-react-podcast) | [Android](http://www.subscribeonandroid.com/changelog.com/reactpodcast/feed))
+
+  * **Description**: Interviews and news about React hosted by Michael Jackson.
+  * **Host**: Michael Jackson @[mjackson](https://twitter.com/mjackson), Michael Chan @[chantastic](https://twitter.com/chantastic)
+  * **Frequency**: Once every week
+  * **Runtime**: 35 - 60 mins, regularly ~40 mins
 
 ### Vue.js
 
@@ -1074,7 +1075,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Kotlin
 
-* [Talking kotlin](http://talkingkotlin.com)
+* [Talking Kotlin](http://talkingkotlin.com)
 
   * **Description**: Kotlin and more
   * **Host**: Hadi Hariri @[hhariri](https://twitter.com/hhariri)
@@ -1120,6 +1121,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once or twice every month
   * **Runtime**: 35 - 70 mins, regularly ~50 mins
 
+* [The PHP Roundtable](http://feeds.feedburner.com/PhpRoundtable)
+
+  * **Description**: The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about.
+  * **Frequency**: About once every month.
+  * **Runtime**: 25 - 120 mins, regularly ~65 mins
+
 * [PHPUgly](https://phpugly.simplecast.fm/)
 
   * **Description**: The podcast your mother warned you about. Ramblings of a few overworked PHP Developers.
@@ -1146,12 +1153,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Beau Simensen @[beausimensen](https://twitter.com/beausimensen), Dave Marshall @[davedevelopment](https://twitter.com/davedevelopment)
   * **Frequency**: Once every week.
   * **Runtime**: 55 - 90 mins, regularly ~65 mins
-
-* [The PHP Roundtable](http://feeds.feedburner.com/PhpRoundtable)
-
-  * **Description**: The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about.
-  * **Frequency**: About once every month.
-  * **Runtime**: 25 - 120 mins, regularly ~65 mins
 
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/feed/podcast/)
 
@@ -1309,6 +1310,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Weekly
   * **Runtime**: 15 - 45 mins, regularly ~30 mins
 
+* [The Cyber Wire](https://www.thecyberwire.com/)
+
+  * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
+  * **Frequency**: Daily
+  * **Runtime**: 5 - 45 mins, regularly ~15 mins
+
 * [Darknet Diaries](https://darknetdiaries.com/)
 
   * **Description**: Darknet Diaries explores true stories from the dark side of the Internet. Go behind the hack and hear stories from the "cyber" front lines. Whether you're just curious how hacks happen or are a seasoned Infosec pro, you'll learn something new in an entertaining format.
@@ -1329,6 +1336,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Fortnightly
   * **Runtime**: 30 - 45 mins
 
+* [The Many Hats Club](https://themanyhats.club/)
+  * **Description**: An information security focused group of individuals from all walks of life
+  * **Frequency**: Irregular
+  * **Runtime**: Approximately 2 hours
+
 * [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
 
   * **Description**: Discussions with project leads within OWASP. Discussions on new projects that have come on board, updates to existing projects and interesting bits of trivia that come across our desk.
@@ -1340,7 +1352,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: All news on Security
   * **Frequency**: Once every week
   * **Runtime**: _various_
-
   
 * [Purple Squad Security](https://purplesquadsec.com/)
   * **Description**: Information Security, InfoSec, CyberSec, Cyber, Security, whatever you call it, we talk about it! From mobiles and desktops to data centers and the cloud, Purple Squad Security is here to help and give back to our community of information security professionals.
@@ -1378,17 +1389,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Weekly
   * **Runtime**: 45 - 60 mins
 
-* [The Cyber Wire](https://www.thecyberwire.com/)
-
-  * **Description**: Our mission is to provide concise and relevant daily briefings on the critical news happening across the global cyber security domain. In an industry overloaded with information, we also help individuals and organizations rapidly find the news and information that's important to them.
-  * **Frequency**: Daily
-  * **Runtime**: 5 - 45 mins, regularly ~15 mins
-
-* [The Many Hats Club](https://themanyhats.club/)
-  * **Description**: An information security focused group of individuals from all walks of life
-  * **Frequency**: Irregular
-  * **Runtime**: Approximately 2 hours
-  
 * [The Social-Engineer Podcast](http://www.social-engineer.org/category/podcast/)
   * **Description**: The Social-Engineer Podcast is about humans. Understanding how we interact, communicate and relay information can help us protect, mitigate and understand social engineering attacks
   * **Frequency**: Monthly
@@ -1428,6 +1428,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once every week
   * **Runtime**: 35 - 145 mins, regularly ~70 mins
 
+* [The Swift Community Podcast](https://www.swiftcommunitypodcast.org)
+
+  * **Description**: A podcast for the Swift community, by the Swift community.
+  * **Host**: Garric Nahapetian @[garricn](https://twitter.com/garricn), Bas Broek @[BasThomas](https://twitter.com/BasThomas), Chris Lattner @[clattner_llvm](https://twitter.com/clattner_llvm)
+  * **Frequency**: Irregular
+  * **Runtime**: ~60 mins
+
 * [Swift over Coffee](https://anchor.fm/swiftovercoffee)
 
   * **Description**: Swift over Coffee is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen.
@@ -1440,13 +1447,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
   * **Frequency**: Once every week
   * **Runtime**: 15 - 50 mins, regularly ~30 mins
-
-* [The Swift Community Podcast](https://www.swiftcommunitypodcast.org)
-
-  * **Description**: A podcast for the Swift community, by the Swift community.
-  * **Host**: Garric Nahapetian @[garricn](https://twitter.com/garricn), Bas Broek @[BasThomas](https://twitter.com/BasThomas), Chris Lattner @[clattner_llvm](https://twitter.com/clattner_llvm)
-  * **Frequency**: Irregular
-  * **Runtime**: ~60 mins
 
 ## Software Testing
 * [AB Testing](https://www.angryweasel.com/ABTesting/)
