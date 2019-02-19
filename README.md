@@ -1044,11 +1044,17 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Runtime**: 25 - 60 mins, regularly ~45 mins
 
 * [The React podcast](https://reactpodcast.simplecast.fm) ([iTunes](https://itunes.apple.com/us/podcast/the-react-podcast/id1341969432) | [Overcast](https://overcast.fm/itunes1341969432/the-react-podcast) | [Android](http://www.subscribeonandroid.com/changelog.com/reactpodcast/feed))
-
   * **Description**: Interviews and news about React hosted by Michael Jackson.
   * **Host**: Michael Jackson @[mjackson](https://twitter.com/mjackson), Michael Chan @[chantastic](https://twitter.com/chantastic)
   * **Frequency**: Once every week
   * **Runtime**: 35 - 60 mins, regularly ~40 mins
+  
+* [React Roundup](https://devchat.tv/react-round-up/) ([iTunes](https://itunes.apple.com/us/podcast/react-round-up/id1364741140) | [Stitcher](https://www.stitcher.com/podcast/ruby-rogues/react-round-up) | [RSS](http://feeds.feedwrench.com/react-round-up.rss))
+  * **Description**: Discussions and Interviews about React hosted by Charles Max Wood.
+  * **Host**: Charles Max Wood @[cmaxw](https://twitter.com/cmaxw)
+  * **Frequency**: Once every week
+  * **Runtime**: 45 - 75 mins, regularly ~60 mins
+
 
 ### Vue.js
 
