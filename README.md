@@ -856,7 +856,15 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Steve Smith @[ardalis](https://twitter.com/ardalis)
   * **Frequency**: Once a week (roughly)
   * **Runtime**: 5 - 10 mins, regularly ~5 mins
-  
+
+* [While True Talk](https://whiletruetalk.fm/) ([iTunes](https://itunes.apple.com/us/podcast/while-true-talk/id1448237381?mt=2) | [Overcast](https://overcast.fm/itunes1448237381/while-true-talk) | [Android](http://subscribeonandroid.com/feeds.podiant.co/whiletruetalk/rss.xml) | [Youtube](https://www.youtube.com/channel/UCFvBYp-A1l0KCqYtMgTXZNg?view_as=subscriber))
+
+
+  * **Description**:  Two friends who've been coding professionally for a decade discuss what they've learned in the years since they went 'pro'!
+  * **Host**: Jas Rajasansir, Richard Gill
+  * **Frequency**: Fortnightly (roughly)
+  * **Runtime**: 1 - 2 hours, regularly ~1.5 hours
+ 
 * [The Women in Tech Show](https://thewomenintechshow.com)
 
   * **Description**: Technical interviews with prominent women in tech.
