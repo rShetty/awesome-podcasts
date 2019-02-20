@@ -1516,7 +1516,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Approximately once a month
   * **Runtime**: 25 - 75 mins, regularly ~50 mins
   
-* devMode.fm ([iTunes](https://itunes.apple.com/us/podcast/devmode-fm/id1323364824?mt=2) | [Google Play](https://play.google.com/music/m/Ijjc3udlxfsiqqilxxs7k2pqrbu?t=devModefm))
+* [devMode.fm](https://devmode.fm/) ([iTunes](https://itunes.apple.com/us/podcast/devmode-fm/id1323364824?mt=2) | [Google Play](https://play.google.com/music/m/Ijjc3udlxfsiqqilxxs7k2pqrbu?t=devModefm))
 
   * **Description**: a bi-weekly podcast dedicated to the tools, techniques, and technologies used in modern web development.
   * **Host**: Andrew Welch @[nystudio107](https://twitter.com/nystudio107), Patrick Harrington @[p_harrington83](https://twitter.com/p_harrington83), Jonathan Melville @[jonmelville](https://twitter.com/jonmelville), Michael Rog @[michaelrog](https://twitter.com/michaelrog), Earl Johnston, Marion Newlevant @[marionnewlevant](https://twitter.com/marionnewlevant), Lauren Dorman @[laurendorman](https://twitter.com/laurendorman) and Matt Stein @[mattrambles](https://twitter.com/mattrambles)  
