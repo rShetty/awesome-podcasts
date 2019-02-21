@@ -6,7 +6,7 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
 * [Desarrollo y programación](#desarrollo-y-programacion)
 * [Software General](#software-general)
 
-### Desarrollo y programación
+## Desarrollo y programación
 
 * [Code Time](https://itunes.apple.com/us/podcast/code-time/id1086854785?mt=2)
   * **Descripción**: Podcast de programación vista desde un punto de vista más humano para compartir el conocimiento y disfrutar de este gran arte que es el desarrollo de software junto con la comunidad producido por [David Giordana](https://twitter.com/davidgiordana).
@@ -23,7 +23,7 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
   * **Frecuencia**: Semanalmente.
   * **Duración**: 30 - 40 min
 
-### Software General
+## Software General
 
 * [Interfaz Podcast](http://rdiazconcha.com/interfaz-podcast)
   * **Descripción**: Un podcast de arquitectura de software, desarrollo, nuevas tecnologías y soft skills creado por [Rodrigo Díaz Concha](https://twitter.com/rdiazconcha).
