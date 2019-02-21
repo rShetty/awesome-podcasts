@@ -616,13 +616,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Complete Developer Podcast](http://completedeveloperpodcast.com)
 
   * **Description**: Listen to a senior developer and a junior developer discuss topics about all aspects of software development from the highly technical, to patterns and principles, to soft skills.
+  * **Host**: Will Gant @[gantsoftsys](https://twitter.com/gantsoftsys), BJ Burns @[bowtiebeej]
   * **Frequency**: Every Thursday
   * **Runtime**: 40 - 65 mins, regularly ~60 mins
 
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 
   * **Description**: Command Line Heroes tells the epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.
-  * **Host**: Will Gant @[gantsoftsys](https://twitter.com/gantsoftsys), BJ Burns @[bowtiebeej](https://twitter.com/bowtiebeej)
+  * **Host**: Saron Yitbarek @[saronyitbarek]
   * **Frequency**: Twice per month
   * **Runtime**: 25 - 30 mins, regularly ~30 mins
 
