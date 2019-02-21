@@ -3,7 +3,7 @@
 Una lista de podcasts que puede ser útil para programadores e ingenieros de software.
 
 
-* [Desarrollo y programación](#desarrollo-y-programacion)
+* [Desarrollo y programación](#desarrollo-y-programación)
 * [Software General](#software-general)
 
 ## Desarrollo y programación
