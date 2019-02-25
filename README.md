@@ -582,7 +582,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   
 * [Code Cast ZM](https://anchor.fm/code-cast-zm)
 
-   * **Description**: a biweekly podcast that focuses on everything tech (from innovations in AI and machine learning to the latest in data science, from the WWDC to Google IO), and the role developers play in shaping the future of technology, both from a uniquely Zambian perspective to the repercussions on a global scale
+   * **Description**: A biweekly podcast that focuses on everything tech (from innovations in AI and machine learning to the latest in data science, from the WWDC to Google IO), and the role developers play in shaping the future of technology, both from a uniquely Zambian perspective to the repercussions on a global scale
    * **Frequency**: Bi-Weekly
    * **Runtime**: regulary ~60 mins
 
@@ -643,7 +643,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [Developer Melange](https://developermelange.github.io)
 
-   * **Description**: A monthly podcast which brings you regular discussions about software engineering topics. All of them, in one way or another, related to building great software products.
+   * **Description**: A monthly podcast which brings to you regular discussions about software engineering topics. All of them, in one way or another, related to building great software products.
   * **Hosts**: Paul Rohorzka @[paulroho](https://twitter.com/paulroho), David Leitner @[duffleit](https://twitter.com/duffleit), Christian Haas @[dertseha](https://twitter.com/dertseha), Peter Kofler @[codecopkofler](https://twitter.com/codecopkofler)
   * **Frequency**: Every first of the month
   * **Runtime**: 45 - 60 mins, regularly ~45 mins
@@ -657,7 +657,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [Developer Tea](https://spec.fm/podcasts/developer-tea)
 
-  * **Description**: Podcast to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence.
+  * **Description**: Podcast to help driven developers connect with their ultimate purpose and excel at their work so that they can positively impact the people they influence.
   * **Frequency**: Every Monday, Wednesday and Friday
   * **Runtime**: 10 - 50 mins, regularly ~20 mins
   
@@ -691,13 +691,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
   * **Description**: The official podcast of the freeCodeCamp.org community. Learn to code for free with millions of other people. Featuring interviews with developers from around the world, most of whom took nontraditional paths into tech.
   * **Frequency**: A new episode every Monday during seasons
-  * **Runtime**: 45 - 90 minutes
+  * **Runtime**: 10 - 110 minutes, varies
 
-* [Giant Robots Smashing into other giant robots](https://robots.thoughtbot.com/)
+* [Giant Robots Smashing Into Other Giant Robots](http://giantrobots.fm/episodes)
 
   * **Description**: Podcast discussing the design, development, and business of great software with a rotating cast of fellow developers, designers, and entrepreneurs.
   * **Frequency**: Weekly
-  * **Runtime**: _unknown_
+  * **Runtime**: 25 - 50 mins, regularly ~40 mins
 
 * [HAK5](https://www.hak5.org/)
 
@@ -860,7 +860,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [Weekly Dev Tips](http://weeklydevtips.com)
 
-  * **Description**: Short (5-10 min) episodes overing a single practical developer tip.
+  * **Description**: Short (5-10 min) episodes covering a single practical developer tip.
   * **Host**: Steve Smith @[ardalis](https://twitter.com/ardalis)
   * **Frequency**: Once a week (roughly)
   * **Runtime**: 5 - 10 mins, regularly ~5 mins
