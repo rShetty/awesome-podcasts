@@ -187,6 +187,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Adam Stacoviak @[adamstac](https://twitter.com/adamstac)
   * **Frequency**: Weekly(ish)
   * **Runtime**: 60 - 80 mins
+  
+* [Schmidt List](https://www.schmidt-list.com/) (by [Kurt Schmidt](https://krtschmidt.com/))
+
+  * **Description**: Interview series produced to inspire people who manage projects, build digital products, and lead teams in design and technology.
+  * **Host**: Kurt Schmidt @[KRTS](https://twitter.com/KRTS)
+  * **Frequency**: Weekly
+  * **Runtime**: 30 - 45 mins
 
 * [Using Reflection](http://www.usingreflection.com/)
 
