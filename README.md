@@ -174,6 +174,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Career
 
+* [Developer's Journey](http://www.devjourney.info)
+
+  * **Description**: Get inside the head of amazing coders, speakers, architects, thought leaders, agilists and much more, and listen to the fascinating stories of their journeys!
+  * **Host**: Tim Bourguignon @[timothep](https://twitter.com/timothep)
+  * **Frequency**: About twice a month
+  * **Runtime**: 35-50 minutes
+
 * [devpath.fm](https://www.devpath.fm)
 
   * **Description**: Candid interviews with highly successful software developers covering imposter syndrome, personal triumphs, obstacles, and career advice.
