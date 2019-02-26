@@ -4,7 +4,15 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
 
 ## Índice
 
+* [Ciência de Dados/Aprendizado de Máquina](#ciencia-de-dadosaprendizado-de-maquina)
 * [Desenvolvimento de Software](#desenvolvimento-de-software)
+
+### Ciência de Dados/Aprendizado de Máquina
+
+* [Pizza de Dados](https://pizzadedados.com/)
+  * **Descrição**: Entrevistas e discussões sobre ciência de dados
+  * **Frequência**: Esporádica
+  * **Duração**: 60-70 min
 
 ### Desenvolvimento de Software
 
