@@ -6,6 +6,7 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
 
 * [Ciência de Dados/Aprendizado de Máquina](#ciencia-de-dadosaprendizado-de-maquina)
 * [Desenvolvimento de Software](#desenvolvimento-de-software)
+* [DevOps](#devops)
 
 ### Ciência de Dados/Aprendizado de Máquina
 
@@ -45,3 +46,11 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
   * **Descrição**: Tópicos gerais sobre desenvolvimento de software, frontend, javascript
   * **Frequência**: Normalmente 2 vezes por mês
   * **Duração**: 30 - 45 min
+
+### DevOps
+
+* [LinuxTips ON AIR](https://www.linuxtips.com.br/podcast)
+  * **Descrição**: Nem sempre com assuntos técnicos, mas sempre com um assunto relevante para o profissional, seja ele um desenvolvedor, DBA, syadmin, DevOps.
+  **Host**: Jeferson Fernando [@badtux_](https://twitter.com/badtux_)
+  * **Frequência**: Normalmente 1 vez por mês
+  * **Duração**: 80 - 120  min
