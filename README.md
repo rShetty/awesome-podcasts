@@ -858,6 +858,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Jamie Wright @[jwright](https://twitter.com/jwright), Keith Thompson @[keiththomps](https://twitter.com/keiththomps)
   * **Frequency**: Twice a month
   * **Runtime**: 20 - 35 mins, regularly ~25 mins
+  
+* [The Tech Guy](https://techguylabs.com/episodes)
+
+  * **Description**: Tech radio-journalist, Leo Laporte explains everything tech from computers to the internet. This is a great podcast for anyone who wants to gain a high-level understanding of everyday technology.
+  * **Host**: Leo Laporte
+  * **Frequency**: Twice a week
+  * **Runtime**: 110 - 135 mins, regularly ~120 mins
 
 * [ThoughtWorks Podcasts](https://www.thoughtworks.com/podcasts) ([Soundcloud](https://soundcloud.com/thoughtworks)|[iTunes](https://itunes.apple.com/gb/podcast/thoughtworks/id881136697?mt=2)|[stitcher](https://www.stitcher.com/podcast/thoughtworks-podcast)|[RSS](https://thoughtworks.libsyn.com/rss))
 
