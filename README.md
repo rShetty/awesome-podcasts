@@ -866,6 +866,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Leo Laporte
   * **Frequency**: Twice a week
   * **Runtime**: 110 - 135 mins, regularly ~120 mins
+  
+* [Tech Stuff](https://www.techstuffpodcast.com/podcasts)
+
+  * **Description**: TechStuff is a top technology podcast from HowStuffWorks. It tackles topics ranging from basic electronics, 5G, WebAuthn to the Large Hadron Collider and everything in between.
+  * **Host**: Jonathan Strickland @[JonStrickland](https://twitter.com/JonStrickland)
+  * **Frequency**: Thrice a week
+  * **Runtime**: 25 - 60 mins, regularly ~40 mins
 
 * [ThoughtWorks Podcasts](https://www.thoughtworks.com/podcasts) ([Soundcloud](https://soundcloud.com/thoughtworks)|[iTunes](https://itunes.apple.com/gb/podcast/thoughtworks/id881136697?mt=2)|[stitcher](https://www.stitcher.com/podcast/thoughtworks-podcast)|[RSS](https://thoughtworks.libsyn.com/rss))
 
