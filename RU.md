@@ -35,6 +35,11 @@
 
 ## Веб-разработка
 
+* [Веб-стандарты](https://github.com/web-standards-ru/podcast) ([SoundCloud](https://soundcloud.com/web-standards) | [iTunes](https://itunes.apple.com/podcast/id1080500016))
+
+  * **Описание**: Подкаст с новостями фронтенда за минувшую неделю.
+  * **Регулярность** : Каждую неделю
+  
 * [Frontend Weekend](https://soundcloud.com/frontend-weekend)
 
   * **Описание**: Еженедельный подкаст о новостях мира frontend-разработки и индустрии web-технологий изнутри. Обсуждаем всё: от JavaScript и CSS до митапов, конференций и работы в IT-сфере.
@@ -59,7 +64,7 @@
 
   * **Описание**: Подкаст про фронтенд и людей. Интервью с интересными людьми, которые занимаются фронтендом
   * **Регулярность** : Время от времени
-
+  
 ## Обо всем
 
 * [Podlodka Podcast](https://soundcloud.com/podlodka)
