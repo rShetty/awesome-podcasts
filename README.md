@@ -28,9 +28,10 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Java](#java)
 * [JavaScript](#javascript)
   * [Angular](#angular)
+  * [Ember](#ember)
+  * [Node.js](#nodejs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
-  * [Ember](#ember)
 * [Kotlin](#kotlin)
 * [Kubernetes and Cloud Native](#kubernetes)
 * [Linux](#linux)
@@ -1068,6 +1069,23 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 35 - 75 mins, regularly ~60 mins
 
+### Ember
+
+* [EmberMap](https://embermap.com/podcast) ([iTunes](https://itunes.apple.com/us/podcast/the-embermap-podcast/id1288274408?mt=2) | [YouTube](https://www.youtube.com/playlist?list=PLc_oqaQ4aMWGLL7iu2IoU30aOC9pykK_L) | [Overcast](https://overcast.fm/itunes1288274408/the-embermap-podcast))
+
+  * **Description**: Join Sam, Ryan and guests to chat about development and design in the world of Ember.js.
+  * **Host**: Sam Selikoff @[samselikoff](https://twitter.com/samselikoff), Ryan Toronto @[ryantotweets](https://twitter.com/ryantotweets)
+  * **Frequency**: Once a week
+  * **Runtime**: 35 - 70 mins, regularly ~60 mins
+
+### Node.js
+
+* [NodeUp](http://nodeup.com/)
+
+  * **Description**: Podcast about Node.js
+  * **Frequency**: Various
+  * **Runtime**: 20 - 100 mins, regularly ~60 mins
+
 ### React.js
 
 * [5 minutes of React podcast](https://5minreact.audio/) ([iTunes](https://itunes.apple.com/ru/podcast/5-minutes-of-react/id1232187990?mt=2&at=1010lwCk&l=en) | [Android](http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:304879382/sounds.rss) | [SoundCloud](https://soundcloud.com/5minreact_audio) | [YouTube](https://www.youtube.com/channel/UC43OeCrRbp6hSEnNZWIHOGg/videos?flow=list&live_view=500&view=0&sort=dd))
@@ -1106,15 +1124,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Views on Vue
   * **Frequency**: Once a week
   * **Runtime**: 25 - 85 mins, regularly ~60 mins
-
-### Ember
-
-* [EmberMap](https://embermap.com/podcast) ([iTunes](https://itunes.apple.com/us/podcast/the-embermap-podcast/id1288274408?mt=2) | [YouTube](https://www.youtube.com/playlist?list=PLc_oqaQ4aMWGLL7iu2IoU30aOC9pykK_L) | [Overcast](https://overcast.fm/itunes1288274408/the-embermap-podcast))
-
-  * **Description**: Join Sam, Ryan and guests to chat about development and design in the world of Ember.js.
-  * **Host**: Sam Selikoff @[samselikoff](https://twitter.com/samselikoff), Ryan Toronto @[ryantotweets](https://twitter.com/ryantotweets)
-  * **Frequency**: Once a week
-  * **Runtime**: 35 - 70 mins, regularly ~60 mins
 
 ## Kotlin
 
@@ -1628,12 +1637,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Paul Redmond @[paulredmond](https://twitter.com/paulredmond), TJ Miller @[SIXLIV3](https://twitter.com/SIXLIV3)
   * **Frequency**: Every other week
   * **Runtime**: 40 - 50 mins, regularly ~45 mins
-
-* [NodeUp](http://nodeup.com/)
-
-  * **Description**: Podcast about Node.js
-  * **Frequency**: Various
-  * **Runtime**: 20 - 100 mins, regularly ~60 mins
 
 * [Shop Talk Show](http://shoptalkshow.com/) ([iTunes](https://itunes.apple.com/us/podcast/shoptalk/id493890455) | [Overcast](https://overcast.fm/itunes493890455/shoptalk) | [Android](https://subscribeonandroid.com/shoptalkshow.com/feed/podcast/))
 
