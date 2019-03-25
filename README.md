@@ -195,7 +195,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Weekly(ish)
   * **Runtime**: 60 - 80 mins
 
-* [From The Source](http://www.fromsourcepod.com/) ([Spotify](https://open.spotify.com/show/0OpoyHy2U3Ev9n9gpYD3Zr?si=49XE0IRoR3GGB_iCqYSZKw) | [iTunes](https://itunes.apple.com/us/podcast/from-the-source/id1448339160) | [Stitcher](https://www.stitcher.com/podcast/michelle-brenner/from-the-source?refid=stpr))
+* [From The Source](http://www.fromsourcepod.com/) ([Spotify](https://open.spotify.com/show/0OpoyHy2U3Ev9n9gpYD3Zr) | [iTunes](https://itunes.apple.com/us/podcast/from-the-source/id1448339160) | [Stitcher](https://www.stitcher.com/podcast/michelle-brenner/from-the-source?refid=stpr))
 
   * **Description**: From the Source is an interview show that answers the question of what tech jobs are really like, both the good and the boring.
   * **Host**: Michelle Brenner @[michellelynneb](https://twitter.com/michellelynneb)
