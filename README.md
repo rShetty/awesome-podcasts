@@ -740,6 +740,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Every Other Week
   * **Runtime**: 35 - 60 mins, regularly ~45 mins
 
+* [Kernel Panic](https://www.kernelpanicpodcast.com) ([iTunes](https://itunes.apple.com/us/podcast/kernel-panic/id1263370771) | [Google Play](https://play.google.com/music/listen?u=0#/ps/Ixemkridbxxh6gt6clmrewnphw4) | [Overcast](https://overcast.fm/itunes1263370771/kernel-panic) | [Pocket Casts](http://pca.st/X69U) | [Spotify](https://open.spotify.com/show/4nBfCX7pKhkEHOYpEhMq0Z) | [Stitcher](http://www.stitcher.com/podcast/kernel-panic?refid=stpr) | [TuneIn](https://tunein.com/radio/Kernel-Panic-p1015032/))
+
+  * **Description**: Educational podcast where tech topics are discussed by IT veterans. 
+  * **Host**: David Cohen @[tutorialinux](https://twitter.com/tutorialinux), Jeff Morski @[dmbuddy](https://twitter.com/dmbuddy)
+  * **Frequency**: Approximately once a week
+  * **Runtime**: 35 - 75 mins, regularly ~50 mins
+
 * [Legacy Code Rocks](https://www.legacycode.rocks/) ([iTunes](https://itunes.apple.com/us/podcast/legacy-code-rocks/id1146634772?mt=2) | [Player.fm](https://player.fm/series/legacy-code-rocks) | [Stitcher](https://www.stitcher.com/podcast/corgibytes-2/legacy-code-rocks) | [SoundCloud](https://soundcloud.com/andrea-goulet-651190405) | [Overcast](https://overcast.fm/itunes1146634772/legacy-code-rocks) | [Android](https://subscribeonandroid.com/legacycoderocks.libsyn.com/rss))
 
   * **Description**: Legacy Code Rocks explores the world of modernizing existing software applications. Hosts Andrea Goulet and M. Scott Ford of Corgibytes are out to change the way you think about legacy code. If you’re like a lot of people, when you hear the words “legacy code” it conjures up images of big mainframes and archaic punch card machines. While that’s true — it only tells a small part of the story. The truth is, the code you leave behind is your legacy, so let's make it a good one.
