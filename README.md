@@ -1301,6 +1301,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 25 - 110 mins, regularly ~60 mins
 
+* [Remote Ruby](https://remoteruby.transistor.fm/)
+
+  * **Description**: Ruby and Rails
+  * **Host**: Chris Oliver @[excid3](https://twitter.com/excid3) and Jason Charnes @[jmcharnes](https://twitter.com/jmcharnes)
+  * **Frequency**: Once a week
+  * **Runtime**: 34 - 61 mins, regularly ~50 mins
+
 * [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
 
   * **Description**: conversation about Ruby on Rails,open source software, and the programming profession.
