@@ -4,6 +4,16 @@
 List of podcasts which are helpful for software engineers/programmers.
 [<img src="logo.svg" align="right" >](https://github.com/rShetty/awesome-podcasts)
 
+## Supported languages
+
+* [English](README.md)
+* [German](DE.md)
+* [Portuguese](PT.md)
+* [Portuguese (Portugal)](pt_PT.md)
+* [Russian](RU.md)
+* [Spanish](ES.md)
+* [Turkish](TR.md)
+
 ## Table of Contents
 
 * [.NET](#net)
