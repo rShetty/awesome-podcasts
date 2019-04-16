@@ -185,6 +185,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Career
 
+* [CodeNewbie](https://www.codenewbie.org/podcast)
+  * **Description**: Stories from people on their coding journey.
+  * **Host**: Saron Yitbarick @[saronyitbarek](https://twitter.com/saronyitbarek)
+  * **Frequency**: About twice a month
+  * **Runtime**: 30-90 minutes
+
 * [Developer's Journey](http://www.devjourney.info)
 
   * **Description**: Get inside the head of amazing coders, speakers, architects, thought leaders, agilists and much more, and listen to the fascinating stories of their journeys!
@@ -212,6 +218,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Michelle Brenner @[michellelynneb](https://twitter.com/michellelynneb)
   * **Frequency**: Biweekly
   * **Runtime**: 20-40 minutes
+  
+* [Learn to Code With Me](https://learntocodewith.me/podcast/)
+  * **Description**: Conversations with developers at different points in their career, with topics ranging from learning the basics to rebounding from burnout.
+  * **Host**: Laurence Bradford @[learncodewithme](https://twitter.com/learncodewithme)
+  * **Frequency**: Every other week
+  * **Runtime**: 40-60 minutes
   
 * [Schmidt List](https://www.schmidt-list.com/) (by [Kurt Schmidt](https://krtschmidt.com/))
 
