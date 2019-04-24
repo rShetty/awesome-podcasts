@@ -270,6 +270,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Twice a month
   * **Runtime**: 50 - 80 mins, regularly ~70 mins
 
+* [EmacsCast](https://emacscast.org/) ([iTunes](https://itunes.apple.com/fi/podcast/emacscast/id1421123475) | [Google Play](https://play.google.com/music/m/Ibuxcgna6nqgyg7yrolgqu5bi6m?t%3DEmacsCast) | [Pocket Cast](https://pca.st/CxE9) | [Overcast](https://overcast.fm/itunes1421123475/emacscast) | [Youtube](https://www.youtube.com/channel/UCEfFUaIkjbI06PhALdcXNVA))
+
+  * **Description**: Exploring the world of Emacs as a beginner, learning how to grow a wonderful tool out of raw materials and with community's help.
+  * **Host**: Rakhim Davletkaliyev @[freetonik](https://twitter.com/freetonik)
+  * **Frequency**: Once a month
+  * **Runtime**: 20 - 45 mins
+
 * [Full Stack Cast](https://podcast.fullstackfest.com/)
 
   * **Description**: Interviews to past and future speakers of the Full Stack Fest conference, focusing on personal experiences and their personal journeys.
