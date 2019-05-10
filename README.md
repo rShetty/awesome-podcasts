@@ -845,7 +845,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [The raywenderlich Podcast](https://www.raywenderlich.com/rwpodcast)
 
-  * **Description**: discuss every aspect of app development.Primarily focusing on Apple technology.
+  * **Description**: discuss every aspect of app development. Primarily focusing on Apple technology.
   * **Frequency**: Once a month
   * **Runtime**: 15 - 60 mins, regularly ~40 mins
 
@@ -862,10 +862,10 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Approximately twice a month
   * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
-* [Software Engineering Daily](https://softwareengineeringdaily.com/)
+* [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
 
   * **Description**: Podcasts on technical software topics
-  * **Host**: Nadia Eghbal @[nayafia](https://twitter.com/nayafia), Mikeal Rogers @[mikeal](https://twitter.com/mikeal)
+  * **Host**: Jeff Meyerson @[the_prion](https://twitter.com/the_prion)
   * **Frequency**: Multiple episodes every week
   * **Runtime**: 45 - 80 mins, regularly ~55 mins
 
@@ -1062,7 +1062,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 ## JavaScript
 
 * [iteration](http://www.iterationpodcast.com/) ([iTunes](https://itunes.apple.com/us/podcast/iteration/id1321529167?mt=2) | [Spotify](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1))
-  * **Description**: A weekly podcast about development and design through the lens of amazing books, chapter-by-chapter. We do our best to be code-agnostic but we talk a lot about Rails, JavaScript, React, React Native, design, business and startups.
+  * **Description**: A weekly podcast about development and design through the lens of amazing books, chapter-by-chapter. We do our best to be code-agnostic, but we talk a lot about Rails, JavaScript, React, React Native, design, business and startups.
   * **Host**: John Jacob @[johnsalzarulo](https://twitter.com/johnsalzarulo), JP @[jeanpaulsio](https://twitter.com/jeanpaulsio)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 60 mins, regularly ~40 mins
@@ -1196,7 +1196,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   
 * [Late Night Linux](https://latenightlinux.com/)
 
-  * **Description**: Podcast focusing on opinions and Linux news hosted by Joe, Félim, Graham and Will. Knowledgeable insight and commentary keeps the show fresh and interesting
+  * **Description**: Podcast focusing on opinions and Linux news hosted by Joe, Félim, Graham and Will. Knowledgeable insight and commentary keep the show fresh and interesting
   * **Frequency**: Bi-weekly
   * **Runtime**: 45 mins - 1 hour, regularly 1 hour
 
@@ -1332,14 +1332,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
 
-  * **Description**: conversation about Ruby on Rails,open source software, and the programming profession.
+  * **Description**: Conversation about Ruby on Rails, open source software, and the programming profession.
   * **Host**: Brittany Martin @[BrittJMartin](https://twitter.com/BrittJMartin)
   * **Frequency**: Once a month.
   * **Runtime**: 5 - 110 mins, regularly ~45 mins
 
 * [RubyTapas](https://www.rubytapas.com)
 
-  * **Description**: for the busy Ruby or Rails developer who is ready to reach the next level of code mastery.
+  * **Description**: For the busy Ruby or Rails developer who is ready to reach the next level of code mastery.
   * **Host**: Avdi Grimm @[avdi](https://twitter.com/avdi)
   * **Frequency**: Once a week.
   * **Runtime**: _unknown_
@@ -1577,7 +1577,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
 
-  * **Description**: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
+  * **Description**: An audio spinoff of Swift Weekly Brief and discussions on the Swift programming language.
   * **Frequency**: Once a week
   * **Runtime**: 15 - 50 mins, regularly ~30 mins
 
@@ -1612,7 +1612,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   
 * [The Drunken UX Podcast](https://drunkenux.com/) ([Google Play](https://play.google.com/music/listen?u=0#/ps/I24xc7c5pgs76paxxaddd4asigi) | [iTunes](https://itunes.apple.com/us/podcast/the-drunken-ux-podcast/id1335183280?mt=2) | [Overcast](https://overcast.fm/itunes1335183280/the-drunken-ux-podcast) | [Stitcher](https://www.stitcher.com/podcast/fienen/the-drunken-ux-podcast))
 
-  * **Description**: Two web development veterans share drinks and experiences while investigating techniques, tools, and technology to help others learn and grow as front end developers.
+  * **Description**: Two web development veterans share drinks and experiences while investigating techniques, tools, and technology to help others learn and grow as frontend developers.
   * **Host**: Michael Fienen @[fienen](https://twitter.com/fienen), Aaron Hill @[aaronmhill](https://twitter.com/aaronmhill)
   * **Frequency**: Every other week for the main segment, additional interviews and roundups about 3 times a month
   * **Runtime**: 60 - 90 mins, regularly ~80 mins
