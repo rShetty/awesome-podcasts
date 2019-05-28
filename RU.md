@@ -49,6 +49,13 @@
 
   * **Описание**: Подкаст о веб-разработке, Javascript, фронтенде и Client-Side
   * **Регулярность** : Время от времени
+
+* [Сделайте мне красиво](https://front.sexy) ([SoundCloud](https://soundcloud.com/begebot) | [iTunes](https://podcasts.apple.com/ru/podcast/%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%B9%D1%82%D0%B5-%D0%BC%D0%BD%D0%B5-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE/id1447645563))
+
+  * **Описание**: Весело и познавательно о всём многообразии мира фронтенд-разработки: JS, CSS, React и т.д. и т.п.; также слушайте наше [прешоу](https://soundcloud.com/frontsexy-preshow)! (18+)
+  * **Ведущие**: [Денис](https://twitter.com/begebot), [Миша](https://github.com/maxvektor) и [Петя](https://quasiyoke.me)
+  * **Регулярность**: Еженедельно
+  * **Длительность**: Около 60 минут
   
 * [SPB Frontend Drinkcast](https://spb-frontend.ru/podcast/)
 
