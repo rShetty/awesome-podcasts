@@ -302,6 +302,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: laurence Bradford @[learncodewithme](https://twitter.com/learncodewithme)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
+ 
+* [Semaphore Uncut](https://semaphoreci.com/podcast) [iTunes](https://podcasts.apple.com/us/podcast/semaphore-uncut/id1463768812) | [Google Play](https://play.google.com/music/m/Iab47jnyhhd2sxau25rnhmkxdom?t=Semaphore_Uncut) | [Spotify](https://open.spotify.com/show/6Tqtzmt78HtlMeNROHAgzh) 
+
+  * **Description**: Software industry pros discuss problems they’re currently solving with the products they're working on.
+  * **Host**: Darko Fabijan @[darkofabijan](https://twitter.com/darkofabijan)
+  * **Frequency**: At least once every two weeks
+  * **Runtime**:  ~30 mins
 
 ## Data Management
 
