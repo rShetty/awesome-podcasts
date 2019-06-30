@@ -231,6 +231,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Kurt Schmidt @[KRTS](https://twitter.com/KRTS)
   * **Frequency**: Weekly
   * **Runtime**: 30 - 45 mins
+  
+* [Tech Queens](https://techqueenspod.com)
+  * **Description**: Stories and advice shared by women of color in tech
+  * **Frequency**: At least once a month
+  * **Host**: Frances Coronel [@fvcproductions](https://twitter.com/fvcproductions)
+  * **Runtime**: ~1 hour
 
 * [Using Reflection](http://www.usingreflection.com/)
 
