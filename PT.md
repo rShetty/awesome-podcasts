@@ -7,6 +7,8 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
 * [Ciência de Dados/Aprendizado de Máquina](#ciencia-de-dadosaprendizado-de-maquina)
 * [Desenvolvimento de Software](#desenvolvimento-de-software)
 * [DevOps](#devops)
+* [Linux](#linux)
+* [Notícias](#noticias)
 
 ### Ciência de Dados/Aprendizado de Máquina
 
@@ -37,6 +39,11 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
   * **Frequência**: Semanalmente.
   * **Duração**: 60 - 90 min
 
+* [PodProgramar](https://mundopodcast.com.br/podprogramar/)
+  * **Descrição**: Podcast apresentado por desenvolvedoras focado em programação, notícias e histórias, tudo com o toque feminino numa área dominada por homens.
+  * **Frequência**: Quinzenal
+  * **Duração**: 20 - 70 min
+
 * [Totvs Developers](https://developers.totvs.com/)
   * **Descrição**: Tópicos gerais sobre desenvolvimento de software
   * **Frequência**: Mensal
@@ -54,3 +61,17 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
   **Host**: Jeferson Fernando [@badtux_](https://twitter.com/badtux_)
   * **Frequência**: Normalmente 1 vez por mês
   * **Duração**: 80 - 120  min
+
+### Linux
+
+* [Retrocomputaria](http://www.retrocomputaria.com.br/)
+  * **Descrição**: Sobre computadores antigos e o impacto deles no mundo atual.
+  * **Frequência**: Semanal
+  * **Duração**: 20 - 60 min
+  
+### Notícias
+
+* [Área de Transferência](https://areadetransferencia.com.br/)
+  * **Descrição**: Um podcast semanal feito por 3 figuras que já respiram tecnologia diariamente. Bruno Casemiro, Gustavo Faria e Marcus Mendes. Eles comentam tudo sobre a Apple e sobre o mercado de tecnologia em geral, sempre trazendo diferentes pontos-de-vista e experiências à discussão.
+  * **Frequência**: Semanal
+  * **Duração**: 60 - 120 min
