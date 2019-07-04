@@ -939,7 +939,8 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * Toolsday ([By Spec](https://spec.fm/podcasts/toolsday) | [iTunes](https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2))
 
-  * **Description**: the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong).
+  * **Description**: the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our all
+  game is so strong).
   * **Frequency**: Once a week
   * **Runtime**: 20 - 35 mins, regularly ~25 mins
 
@@ -1083,7 +1084,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [iteration](http://www.iterationpodcast.com/) ([iTunes](https://itunes.apple.com/us/podcast/iteration/id1321529167?mt=2) | [Spotify](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1))
   * **Description**: A weekly podcast about development and design through the lens of amazing books, chapter-by-chapter. We do our best to be code-agnostic, but we talk a lot about Rails, JavaScript, React, React Native, design, business and startups.
-  * **Host**: John Jacob @[johnsalzarulo](https://twitter.com/johnsalzarulo), JP @[jeanpaulsio](https://twitter.com/jeanpaulsio)
+  * **Host**: John Jacob @[johnjacobdev](https://twitter.com/johnjacobdev), JP @[jeanpaulsio](https://twitter.com/jeanpaulsio)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 60 mins, regularly ~40 mins
   
