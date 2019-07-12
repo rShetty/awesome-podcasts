@@ -142,7 +142,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
-  * **Description**: Podcast that discusses on various frameworks and tools available in Android 
+  * **Description**: Podcast that discusses on various frameworks and tools available in Android Community 
   
   * **Host**: Artem Zinnatullin @[artem_zin](https://twitter.com/artem_zin), Hannes Dorfmann @[sockeqwe](https://twitter.com/sockeqwe) & Artur Dryomov @[arturdryomov](https://twitter.com/arturdryomov)
   * **Frequency**: Once a month
