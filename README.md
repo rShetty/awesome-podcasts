@@ -142,7 +142,8 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [Context Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast)
 
-  * **Description**: Podcast that discusses on various frameworks and tools available in Android Community
+  * **Description**: Podcast that discusses on various frameworks and tools available in Android Community 
+  
   * **Host**: Artem Zinnatullin @[artem_zin](https://twitter.com/artem_zin), Hannes Dorfmann @[sockeqwe](https://twitter.com/sockeqwe) & Artur Dryomov @[arturdryomov](https://twitter.com/arturdryomov)
   * **Frequency**: Once a month
   * **Runtime**: 35 - 100 mins, regularly ~50 mins
@@ -308,6 +309,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: laurence Bradford @[learncodewithme](https://twitter.com/learncodewithme)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
+
+* [Open source developer podcast](https://anchor.fm/opensourcedeveloperpod) ([iTunes](https://podcasts.apple.com/us/podcast/open-source-developer-podcast/id1460692169?l) | [Google Play](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hOWE2MWE0L3BvZGNhc3QvcnNz) | [Spotify](https://open.spotify.com/show/0i5e94uXJ0t1UPPZKHZdE8))
+
+  * **Description**: Looking at open source including projects, community and people.
+  * **Host**: James Perkins @[james_r_perkins](https://twitter.com/james_r_perkins)
+  * **Frequency**: Once a week
+  * **Runtime**: 10-25mins usually around 15 minutes.
  
 * [Semaphore Uncut](https://semaphoreci.com/podcast) ([iTunes](https://podcasts.apple.com/us/podcast/semaphore-uncut/id1463768812) | [Google Play](https://play.google.com/music/m/Iab47jnyhhd2sxau25rnhmkxdom?t=Semaphore_Uncut) | [Spotify](https://open.spotify.com/show/6Tqtzmt78HtlMeNROHAgzh)) 
 
