@@ -1702,6 +1702,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: A show all about the JAMstack, a new way to build fast & secure apps or websites.
   * **Frequency**: Once a week
   * **Runtime**: 20 - 40 mins, regularly ~30 mins
+  
+* [Ladybug Podcast](https://ladybug.dev/)
+
+  * **Description**: An all lady-hosted tech podcast for all developers.
+  * **Host**: Emma Wedekind @[emmawedekind], Ali Spittel @[aspittel], Kelly Vaughn @[kvlly], Lindsey Kopacz @[littlekope]
+  * **Frequency**: Once a week
+  * **Runtime**: 30 - 50 mins, regularly ~40 mins
 
 * [Localhost Podcast](https://localhost.fm/)
 
