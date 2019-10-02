@@ -5,6 +5,7 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
 ## Übersicht
 
 * [Allgemein](#allgemein)
+* [.NET](#net)
 * [Agile](#agile)
 * [Webentwicklung](#webentwicklung)
 
@@ -27,6 +28,16 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Twitter**: [@repod_at](https://twitter.com/repod_at)
   * **Gastgeber**: [Christian Leo-Pernold](https://twitter.com/mazedlx) und [Franky Luef](https://twitter.com/federic0green)
 
+## .NET
+
+* [DevCouch](https://devcouch.de/) ([RSS](https://devcouch.de/podcast/feed/))
+
+  * **Beschreibung**: Der deutschsprachige Podcast für .NET Entwickler.
+  * **Häufigkeit**: circa alle 14 Tage
+  * **Laufzeit**: 60 - 90 min, regulär ~80 min
+  * **Twitter**: [@_devcouch](https://twitter.com/_devcouch)
+  * **Gastgeber**: Manuel Wenk [@Argbeil](https://twitter.com/Argbeil), Thomas Krause, Oliver Vogel [@heisenbird](https://twitter.com/heisenbird)
+  
 ## Agile
 
 * [Mein Scrum ist kaputt!](https://meinscrumistkaputt.de/)
