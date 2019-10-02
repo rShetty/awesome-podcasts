@@ -1087,6 +1087,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Freddy Guime @[fguime](https://twitter.com/fguime), Bob Paulin @[bobpaulin](https://twitter.com/bobpaulin)
   * **Frequency**: Approximately once a month
   * **Runtime**: 25 - 70 mins, regularly ~50 mins
+  
+* [A Bootiful Podcast](https://soundcloud.com/a-bootiful-podcast)
+
+  * **Description**: podcast covering Spring Boot and general Java world.
+  * **Host**: Josh Long @[starbuxman](https://twitter.com/starbuxman)
+  * **Frequency**: Approximately once a week
+  * **Runtime**: 50 - 100 mins, regularly ~70 mins
 
 ## JavaScript
 
