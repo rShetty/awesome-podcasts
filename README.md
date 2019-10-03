@@ -467,6 +467,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Devops
 
+* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
+
+  * **Description**: Adventures in DevOps is a weekly podcast about everything DevOps.
+  * **Host**: Nell Shamrell-Harrington @[nellshamrell](https://twitter.com/nellshamrell), Scott Nixon @[citadelgrad](https://twitter.com/citadelgrad), and Lee Whalen
+  * **Frequency**: Varies
+  * **Runtime**: 30 - 60 mins
+
 * [Arrested DevOps](https://www.arresteddevops.com/)
 
   * **Description**: ADO helps you understand and develop good DevOps practices.
@@ -1217,11 +1224,31 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Linux
 
+* [Choose Linux](https://chooselinux.show/)
+
+  * **Description**: Every 2 weeks, Joe, Ell, and Drew talk about what they've discovered in the world of Linux and Open Source.
+  * **Host**: Joe Ressington @[joeressington](https://twitter.com/joeressington), Ell Marquez @[Ell_o_Punk], and Drew DeVore @[drewofdoom](https://twitter.com/drewofdoom)
+  * **Frequency**: Once every 2 weeks
+  * **Runtime**: ~30 mins
+
+* [Destination Linux](https://destinationlinux.org/)
+
+  * **Description**: Destination Linux is podcast made by 4 people who love using the Linux platform and want to share our passion for Linux with as many people as possible.
+  * **Frequency**: Every Two Weeks
+  * **Runtime**: 90 - 120 mins
+
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/)
 
   * **Description**: Weekly Linux news and analysis by Chris and Joe. The show every week we hope you'll go to when you want to hear an informed discussion about what’s happening in Linux.
   * **Frequency**: Once a week
   * **Runtime**: 20 - 30 mins, regularly 30 mins
+  
+* [Linux Headlines](https://linuxheadlines.show/)
+
+  * **Description**: Linux and open source headlines every weekday, in under 3 minutes.
+  * **Host**: Chris Fisher @[ChrisLAS](https://twitter.com/chrislas), Wes Payne @[wespayne](https://twitter.com/wespayne), Drew DeVore @[drewofdoom](https://twitter.com/drewofdoom)
+  * **Frequency**: Daily
+  * **Runtime**: 3 mins or less
   
 * [Late Night Linux](https://latenightlinux.com/)
 
@@ -1471,6 +1498,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: An information security focused group of individuals from all walks of life
   * **Frequency**: Irregular
   * **Runtime**: Approximately 2 hours
+  
+* [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/)
+  * **Description**: A security podcast geared towards those looking to better understand security topics of the day.
+  * **Host**: Kurt Seifried @[kurtseifried](https://twitter.com/kurtseifried) and Josh Bressers @[joshbressers](https://twitter.com/joshbressers)
+  * **Frequency**: Weekly
+  * **Runtime**: ~30 mins
 
 * [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
 
@@ -1531,6 +1564,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 20 - 60 mins, regularly 25 minutes
   
+* [Ubuntu Security Podcast](https://ubuntusecuritypodcast.org/)
+  * **Description**: A weekly podcast talking about the latest developments and updates from the Ubuntu Security team. 
+  * **Host**: Alex Murray and Joe McManus
+  * **Frequency**: Weekly
+  * **Runtime**: 15 - 30 mins, regularly 20 mins
+
 * [Unsupervised Learning](https://danielmiessler.com/podcast/)
   * **Description**: I spend between five and twenty hours a week consuming articles, books, and podcasts looking for the most interesting ideas around security, technology, and how they interact with us as humans. Each episode is either a curated summary of what I’ve found in the past week, or a standalone essay that hopefully gives you something to think about.
   * **Host**: Daniel Miessler @[danielmiessler](https://twitter.com/danielmiessler)
