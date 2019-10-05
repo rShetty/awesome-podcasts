@@ -26,6 +26,13 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Laufzeit**: 15 - 60 Minuten
   * **Twitter**: [@repod_at](https://twitter.com/repod_at)
   * **Gastgeber**: [Christian Leo-Pernold](https://twitter.com/mazedlx) und [Franky Luef](https://twitter.com/federic0green)
+  
+* [SoftwareArchitekTOUR](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html) ([RSS](https://www.heise.de/developer/rss/podcast-softwarearchitektour.rss))
+  
+  * **Beschreibung**: Ein Podcast über Softwarearchitektur von bekannten Softwareentwicklern.
+  * **Häufigkeit**: Unregelmäßig
+  * **Laufzeit**: knapp 60 min
+  * **Gastgeber**: heise Developer Redaktion mit [Gastsprechern](https://www.heise.de/developer/SoftwareArchitekTOUR-4076983.html)
 
 ## Agile
 
