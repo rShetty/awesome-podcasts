@@ -126,7 +126,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Android
 
-* [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
+* [Android Developers Backstage](https://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
 
   * **Description**: Podcast interviewing Google engineers about the latest Android APIs
   * **Host**: Romain Guy @[romainguy](https://twitter.com/romainguy), Chet Haase @[chethasse](https://twitter.com/chethaase), Tor Norbye @[tornorbye](https://twitter.com/tornorbye) 
@@ -166,7 +166,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **RSS**
     * [MP3](http://feeds.feedburner.com/BsdNowMp3)
     * [Video](http://feeds.feedburner.com/BsdNowMobile)
-    * [iTunes](http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?entity=podcast&media=all&page=1&restrict=true&startIndex=0&term=Jupiter+Broadcasting)
+    * [Apple Podcasts](https://itunes.apple.com/us/podcast/bsd-now/id701045710)
 
 ## C++
 
