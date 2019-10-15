@@ -29,6 +29,13 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency** : Varies
   * **Language**: Turkish
 
+* [kodpod](https://kodpod.live/)
+
+  * **Description**: [Fatih Kadir Akın](https://github.com/f) and his guests talks about technology, software and design.
+  * **Frequency** : Varies
+  * **Language**: Turkish
+  * **Runtime**: regularly ~1 hr
+
 * [Paraşüt'le Üretim Bandı](https://www.spreaker.com/show/parasutle-uretim-bandi)
 
   * **Description**: Turkish podcast series about product development processes of Turkish technology companies. Podcasts are hosted by parasut.com and presented by [Eran Filiba](https://twitter.com/eranfiliba) and [Andaç Türkmen](https://twitter.com/andac).
@@ -54,5 +61,3 @@ List of podcasts which are helpful for software engineers/programmers.
   * **Frequency**: Twice a month
   * **Language**: Turkish
   * **Runtime**: 30 - 50 mins, regulary ~35 mins
-
-
