@@ -159,7 +159,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [BSDNow](http://www.bsdnow.tv/)
 
-  * **Description** We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
+  * **Description**: We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
   * **Host**: Benedict Reuschling @[bsdbcr](https://twitter.com/bsdbcr), Allan Jude @[allanjude](https://twitter.com/allanjude), Kris Moore @[pcbsdKris](https://twitter.com/pcbsdkris)
   * **Frequency**: Once a week (Wednesday US Eastern)
   * **Runtime**: 60 - 120 mins, regularly ~90 mins
@@ -513,7 +513,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 * [It's All Widgets! Flutter Podcast](https://itsallwidgets.com/podcast/) ([RSS, Android](https://itsallwidgets.com/podcast/feed))
 
-  * **Description** An ongoing series featuring some of the amazing developers from the Flutter community. In each episode we discuss the developer's background, what got them into Flutter and their thoughts on the platform in general.
+  * **Description**: An ongoing series featuring some of the amazing developers from the Flutter community. In each episode we discuss the developer's background, what got them into Flutter and their thoughts on the platform in general.
   * **Host**: Hillel Coren @[hillelcoren](https://twitter.com/hillelcoren)
   * **Frequency**: Twice a week
   * **Runtime**: 15-30 mins, regularly ~15 mins
