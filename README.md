@@ -772,6 +772,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: A new episode every Monday during seasons
   * **Runtime**: 10 - 110 minutes, varies
 
+* [Generative Art - The Podcast](https://generativeartistry.com/episodes/) ([Anchor](https://anchor.fm/generative-art) | [Google Podcasts ](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9lNTg1YzM4L3BvZGNhc3QvcnNz) | [Spotify](https://open.spotify.com/show/0QMwExF5kPn3m9QFCFZ1sw))
+
+  * **Description**: Tim and Ruth talk all things generative art and creative code!
+  * **Host**: Ruth John @[rumyra](https://twitter.com/rumyra), Tim Holman @[twholman](https://twitter.com/twholman)
+  * **Frequency**: Varies
+  * **Runtime**: 35 - 50 mins, regularly ~40 mins
+
 * [Giant Robots Smashing Into Other Giant Robots](http://giantrobots.fm/episodes)
 
   * **Description**: Podcast discussing the design, development, and business of great software with a rotating cast of fellow developers, designers, and entrepreneurs.
@@ -1745,7 +1752,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Ladybug Podcast](https://ladybug.dev/)
 
   * **Description**: An all lady-hosted tech podcast for all developers.
-  * **Host**: Emma Wedekind @[emmawedekind], Ali Spittel @[aspittel], Kelly Vaughn @[kvlly], Lindsey Kopacz @[littlekope]
+  * **Host**: Emma Wedekind @[emmawedekind](https://twitter.com/emmawedekind), Ali Spittel @[aspittel](https://twitter.com/aspittel), Kelly Vaughn @[kvlly](https://twitter.com/kvlly)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 50 mins, regularly ~40 mins
 
