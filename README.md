@@ -225,7 +225,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Laurence Bradford @[learncodewithme](https://twitter.com/learncodewithme)
   * **Frequency**: Every other week
   * **Runtime**: 40-60 minutes
-  
+
+* [Pursuit Podcast](http://pursuit.tech/)
+  * **Description**: Conversations with various people working in tech on their area of expertise - all range of topics related to tech career.
+  * **Host**: Jessica Rose [@jesslynnrose](https://twitter.com/jesslynnrose)
+  * **Frequency**: About once a month
+  * **Runtime**: ~30 minutes
+
 * [Schmidt List](https://www.schmidt-list.com/) (by [Kurt Schmidt](https://krtschmidt.com/))
 
   * **Description**: Interview series produced to inspire people who manage projects, build digital products, and lead teams in design and technology.
