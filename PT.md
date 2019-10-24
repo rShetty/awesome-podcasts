@@ -69,6 +69,11 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
   * **Frequência**: Normalmente 2 vezes por mês
   * **Duração**: 30 - 45 min
 
+* [2Devs](https://2devs.simplecast.com/)
+  * **Descrição**:  Programação, arquitetura, software e tudo o que é relacionado à carreira de engenheiro de software.
+  * **Frequência**: Semanalmente.
+  * **Duração**: 35 - 50 min
+
 ### DevOps
 
 * [LinuxTips ON AIR](https://www.linuxtips.com.br/podcast)
