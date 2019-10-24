@@ -25,6 +25,11 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
   * **Frequência**: Semanal
   * **Duração**: 30 - 50 min
 
+* [Quebradev](https://quebradev.com.br/)
+  * **Descrição**: Um movimento social que tem como objetivo democratizar a informação para a periferia. Representar quem é de quebrada na área de tecnologia.
+  * **Frequência**: Esporádica
+  * **Duração**: 40 - 60 min
+
 ### Ciência de Dados/Aprendizado de Máquina
 
 * [Pizza de Dados](https://pizzadedados.com/)
