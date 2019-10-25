@@ -1770,6 +1770,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 50 mins, regularly ~40 mins
 
+* [The Laracasts Snippet](https://laracasts.com/podcast)
+
+  * **Description**: The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
+  * **Host**: Jeffrey Way @[jeffrey_way](https://twitter.com/jeffrey_way)
+  * **Frequency**: Approximately thrice a month
+  * **Runtime**: 5 - 20 mins, regularly ~10 mins
+
 * [Localhost Podcast](https://localhost.fm/)
 
   * **Description**: A monthly podcast covering hot topics in web development.
