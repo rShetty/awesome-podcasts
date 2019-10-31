@@ -410,7 +410,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Host**: Enrico Bertini @[FILWD](https://twitter.com/FILWD), Moritz Stefaner @[moritz_stefaner](https://twitter.com/moritz_stefaner)
   * **Runtime**: ~45 mins
+ 
+* [Data Viz Today](https://dataviztoday.com/)
 
+  * **Description**: Sharing stories about how awesome and comprehensive data visualizations are made.
+  * **Frequency**: Varies
+  * **Host**: Alli Torban @[AlliTorban](https://twitter.com/allitorban)
+  * **Runtime**: ~20 mins
+  
 * [Linear Digressions](http://lineardigressions.com/)
 
   * **Description**: Data science, machine learning, artificial intelligence
