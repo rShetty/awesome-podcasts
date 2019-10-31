@@ -290,6 +290,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Twice a month
   * **Runtime**: 50 - 80 mins, regularly ~70 mins
 
+* [Brain Science](https://changelog.com/brainscience) (by [Changelog](https://changelog.com))
+
+  * **Description**: We’re exploring the inner-workings of the human brain to understand behavior change, habit formation, mental health, and being human.
+  * **Hosts**: Mireille B. Reece, Psy.D and Adam Stacoviak @[adamstac](https://twitter.com/adamstac)
+  * **Frequency**: Twice a month
+  * **Runtime**: ~30-45 mins
+
 * [EmacsCast](https://emacscast.org/) ([iTunes](https://itunes.apple.com/fi/podcast/emacscast/id1421123475) | [Google Play](https://play.google.com/music/m/Ibuxcgna6nqgyg7yrolgqu5bi6m?t%3DEmacsCast) | [Pocket Cast](https://pca.st/CxE9) | [Overcast](https://overcast.fm/itunes1421123475/emacscast) | [Youtube](https://www.youtube.com/channel/UCEfFUaIkjbI06PhALdcXNVA))
 
   * **Description**: Exploring the world of Emacs as a beginner, learning how to grow a wonderful tool out of raw materials and with community's help.
