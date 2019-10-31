@@ -1699,7 +1699,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: David Hemphil @[davidhemphill](https://twitter.com/davidhemphill), Andrew Del Prete @[AndrewDelPrete](https://twitter.com/AndrewDelPrete)
   * **Frequency**: Approximately once a month
   * **Runtime**: 25 - 75 mins, regularly ~50 mins
-  
+
+* [Developing Up](https://www.developingup.com) ([iTunes](https://itunes.apple.com/us/podcast/developing-up/id1156687172) | [Spotify](https://podcasters.spotify.com/podcast/7MyRmNelPO3mmGQWVkn2mR) | [Stitcher](http://www.stitcher.com/podcast/the-developing-up-podcast/developing-up?refid=stpr))
+
+  * **Description**: A podcast focused on the non-technical side of being a developer, because your career is about more than the code you write.
+  * **Host**: Michael Miles @[mikemiles86](https://twitter.com/mikemiles86)
+  * **Frequency**: Approximately once a month
+  * **Runtime**: 15 - 35 mins, regularly ~25 mins
+
 * [devMode.fm](https://devmode.fm/) ([iTunes](https://itunes.apple.com/us/podcast/devmode-fm/id1323364824?mt=2) | [Google Play](https://play.google.com/music/m/Ijjc3udlxfsiqqilxxs7k2pqrbu?t=devModefm))
 
   * **Description**: a bi-weekly podcast dedicated to the tools, techniques, and technologies used in modern web development.
