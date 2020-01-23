@@ -884,6 +884,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: around 30 minutes
 
+* [Programming](https://podcast.mgechev.com)
+
+  * **Description**: Learn about practical computer science concepts in a brief and accessible way. Excellent for coding interview preparation as well as for growing as a software engineer.
+  * **Host**: Minko Gechev @[mgechev](https://twitter.com/mgechev)
+  * **Frequency**: Once a week
+  * **Runtime**: 10 - 20 mins, regularly ~10 mins
+
 * [Programming and Performance with Cliff Click](http://cliffc.org/blog/) [iTunes](https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919)
 
   * **Description**:  Various issues with Programming, Programmers, and Computer Performance.
