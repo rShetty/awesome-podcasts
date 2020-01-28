@@ -27,6 +27,7 @@ Uma lista de podcasts, em português de Portugal, que podem ser úteis para prog
 
 * [PseudoCódigo](https://pseudocodigo.transistor.fm/)
   * **Descrição**: É uma conversa entre entusiastas do mundo digital, sobre temas da atualidade, projectos interessantes e outros assuntos.
-  * **Frequência**: Variável
+  * **Host**: João Oliveira [@Joao_Oliveira](https://twitter.com/Joao_Oliveira), Pedro Teixeira [@pgte](https://twitter.com/pgte)
+  * **Frequência**: Não definida
   * **Duração**: 90 minutos
 
