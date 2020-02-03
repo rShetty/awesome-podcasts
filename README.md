@@ -232,6 +232,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: About once a month
   * **Runtime**: ~30 minutes
 
+* [Rushing Forward](https://polelo.co/frequencies/zzh9zg1P4Ju)|[Spotify](https://open.spotify.com/show/1on27DhZYOm96mMaqJG9EN?si=d0J1gLkfQZK-NBhIriMHug)
+  * **Description**: Coversations on stuff people go through - juggling adulting and trying to make something of themselves in your career, sharing pit falls, struggles and achievements - We're Icarus and we're trying not to heed to pull of the giant revolving sphere that is life because it. can. burn. you. out.
+  * **Host**: Daniel Madalitso Phiri [@malgamves](https://twitter.com/malgamves)
+  * **Frequency**: About twice a month
+  * **Runtime**: ~45 minutes
+
 * [Schmidt List](https://www.schmidt-list.com/) (by [Kurt Schmidt](https://krtschmidt.com/))
 
   * **Description**: Interview series produced to inspire people who manage projects, build digital products, and lead teams in design and technology.
