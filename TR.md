@@ -38,7 +38,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 * [Paraşüt'le Üretim Bandı](https://www.spreaker.com/show/parasutle-uretim-bandi)
 
-  * **Description**: Turkish podcast series about product development processes of Turkish technology companies. Podcasts are hosted by parasut.com and presented by [Eran Filiba](https://twitter.com/eranfiliba) and [Andaç Türkmen](https://twitter.com/andac).
+  * **Description**: Turkish podcast series about product development processes of Turkish technology companies and interviews with Turkish developers. Podcasts are hosted by parasut.com and product development related episodes are presented by [Eran Filiba](https://twitter.com/eranfiliba) and [Andaç Türkmen](https://twitter.com/andac), interviews with Turkish developers are presented by [Ender Ahmet Yurt](https://github.com/enderahmetyurt). 
   * **Frequency** : Bi-weekly
   * **Language**: Turkish
 
