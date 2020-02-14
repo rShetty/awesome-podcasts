@@ -1,63 +1,82 @@
-# Awesome list of important Turkish podcasts for software engineers
+# Yazılım geliştiriciler için önemli ve harika Türkçe podcastler.
 
-List of podcasts which are helpful for software engineers/programmers.
+Türkçe konuşan yazılım geliştiricileri ve mühendisleri için yardımcı olabilecek sesli yayınlar.
 
-## Table of Contents
+## Kategoriler
 
-* [General Software](#general-software)
+* [Android](#android)
+* [Genel Yazılım](#genel-yazılım)
 
-## General software
+## Android
+
+* [Dört Podcast](https://soundcloud.com/dortpodcast)
+
+  * **Konusu**: Android üzerine [Mert Şimşek](https://github.com/iammert), [Murat Can Bur](https://github.com/muratcanbur) ve [Yusuf Çakmak](https://github.com/yusufcakmak)'ın sohbetleri.
+  * **Yayın Sıklığı**: Değişken
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: Genelde 1 saat
+
+## Genel Yazılım
 
 * [1: 0](https://www.spreaker.com/show/birsifir-podcast)
 
-  * **Description**: Podcasts about learning, experiencing and productivity.
-  * **Frequency** : Varies
+  * **Konusu**: "öğrenmek, deneyimlemek ve üretmek üzerine paylaşımlar"
+  * **Yayın Sıklığı**: Değişken
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: Değişken
 
 * [Codefiction](http://www.codefiction.tech/#podcast)
 
-  * **Description**: Tech talks in Turkish by [Codefiction](https://github.com/codefiction) community founders. 
-  * **Frequency** : Varies
+  * **Konusu**: [Codefiction](https://github.com/codefiction) topluluğu kurucularından Türkçe teknoloji sohbetleri.
+  * **Yayın Sıklığı**: Değişken
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: Değişken
 
 * [Giik FM](http://giik.fm/)
 
-  * **Description**: Great talks for software developers by [Daron Yondem](https://twitter.com/daronyondem) and [Yiğit Özaksut](https://twitter.com/ozaksuty) in Turkish.
-  * **Frequency** : Twice per month
+  * **Konusu**: Geekler geyik yaparsa böyle olur. [Daron Yondem](https://twitter.com/daronyondem) ve [Yiğit Özaksut](https://twitter.com/ozaksuty) her telden çalıyorlar. Yazılımcı geyiği dinlemek isteyenler için biçilmiş kaftan.
+  * **Yayın Sıklığı**: Ayda iki kere
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: Değişken
 
 * [Girişimci Muhabbeti](https://www.spreaker.com/show/girisimci-muhabbeti)
 
-  * **Description**: A podcast in Turkish about entrepreneurship and technology.
-  * **Frequency** : Varies
-  * **Language**: Turkish
+  * **Konusu**: Girişimcilik ve teknoloji üzerine sohbetler.
+  * **Yayın Sıklığı**: Değişken
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: Genelde 1 saatten uzun
 
 * [kodpod](https://kodpod.live/)
 
-  * **Description**: [Fatih Kadir Akın](https://github.com/f) and his guests talks about technology, software and design.
-  * **Frequency** : Varies
-  * **Language**: Turkish
-  * **Runtime**: regularly ~1 hr
+  * **Konusu**: [Fatih Kadir Akın](https://github.com/f) ve konuklarının teknoloji ve yazılım üzerine sohbetler.
+  * **Yayın Sıklığı**: Değişken
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: 1 saat civarı
 
 * [Paraşüt'le Üretim Bandı](https://www.spreaker.com/show/parasutle-uretim-bandi)
 
-  * **Description**: Turkish podcast series about product development processes of Turkish technology companies and interviews with Turkish developers. Podcasts are hosted by parasut.com and product development related episodes are presented by [Eran Filiba](https://twitter.com/eranfiliba) and [Andaç Türkmen](https://twitter.com/andac), interviews with Turkish developers are presented by [Ender Ahmet Yurt](https://github.com/enderahmetyurt). 
-  * **Frequency** : Bi-weekly
-  * **Language**: Turkish
+  * **Konusu**: Parasut.com ev sahipliğinde, [Eran Filiba](https://twitter.com/eranfiliba), [Andaç Türkmen](https://twitter.com/andac) ve [Ender Ahmet Yurt](https://github.com/enderahmetyurt) tarafından iki haftada bir yayınlanan Türkçe podcast.
+  * **Yayın Sıklığı**: Ayda iki kere
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: 1 saat ve üzeri
 
 * [Remote Talks](https://www.spreaker.com/show/remote-talks)
 
-  * **Description**: Remote Talks is a podcast by 3 tech enthusiasts talking about latest technology.
-  * **Frequency**: Varies
-  * **Language**: Turkish
+  * **Konusu**: 3 Teknoloji meraklısının teknoloji üzerine sohbetleri.
+  * **Yayın Sıklığı**: Değişken
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: Genelde yarım saat civarı
 
 * [Swifthane](https://www.spreaker.com/user/swifthane)
 
-  * **Description**: Turkish podcast about technology. Not just swift.
-  * **Frequency**: Varies
-  * **Language**: Turkish
-  * **Runtime**: 60 - 120 mins, regulary ~100 mins
+  * **Konusu**: Swift hakkında çeşitli konuların, çeşitli konuklarla değerlendirilip, tartışıldığı ve Ali Can Batur ile Ahmet Yalçınkaya tarafından yürütülen bir podcast serisi.
+  * **Yayın Sıklığı**: Değişken
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: 1 — 2 saat arası
 
 * [Turuncu Pasaport](https://soundcloud.com/turuncupasaport)
 
-  * **Description**: Technology podcast that describing the work of the OpsGenie team by [Serhat Can](https://twitter.com/srhtcn).
-  * **Frequency**: Twice a month
-  * **Language**: Turkish
-  * **Runtime**: 30 - 50 mins, regulary ~35 mins
+  * **Konusu**: OpsGenie ekibinden işleri anlatan [Serhat Can](https://twitter.com/srhtcn)'ın yayını.
+  * **Yayın Sıklığı**: Ayda iki kere
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: Yarım saatten uzun
