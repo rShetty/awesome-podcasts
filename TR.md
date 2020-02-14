@@ -1,6 +1,6 @@
 # Yazılım geliştiriciler için önemli ve harika Türkçe podcastler
 
-Türkçe konuşan yazılım geliştiricileri ve mühendisleri için yardımcı olabilecek sesli yayınlar.
+Yazılım geliştiricileri ve mühendisleri için yardımcı olabilecek sesli yayınlar.
 
 ## Kategoriler
 
