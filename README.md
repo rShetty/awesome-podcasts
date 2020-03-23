@@ -871,6 +871,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 90 mins, regularly ~60 mins
 
+* [Namespace Podcast](https://www.buzzsprout.com/856720)
+
+  * **Description**: Jordan Cahill and Derek Drummond, programmers, pundits, prophets, pretenders diagnose the current state of software development by injecting a dose of science and engineering to an otherwise chaotic industry.
+  * **Frequency**: Various, but at least twice a month.
+  * **Runtime**: 30-60 minutes
+
 * [The New Stack](https://thenewstack.io/podcasts/)
 
   * **Description**: Analysis and explanations about application development and management at scale. Roundtable discussion with technologists, analysts and journalists, interviews with practitioners, demonstrations of software and services.
