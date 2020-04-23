@@ -1740,7 +1740,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Katherine Shaw @[Katherraptor](https://twitter.com/Katherraptor), Jag Talon @[ftfpod](https://twitter.com/ftfpod)
   * **Frequency**: Approximately once a month
   * **Runtime**: 30 - 80 mins, regularly ~55 mins
+  
+* [The Front End](https://thefrontendpodcast.site/) ([Google Play](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xM2IxMjNhNC9wb2RjYXN0L3Jzcw==) | [iTunes](https://podcasts.apple.com/gb/podcast/the-front-end/id1499349107) | [Overcast](https://overcast.fm/itunes1499349107/the-front-end) | [Anchor](https://anchor.fm/s/13b123a4/podcast/rss))
 
+  * **Description**: Explores the in's and out's of life as a developer. We delve into challenging topics around modern-day development and technology including learning and professional growth, programming languages, frameworks, tools, techniques, UX/UI, and careers.
+  * **Host**: Rob Kendal @[kendalmintcode](https://twitter.com/kendalmintcode)
+  * **Frequency**: Every other week
+  * **Runtime**: 25 - 40 mins, regularly ~30 mins
+  
 * [Front End Happy Hour](http://frontendhappyhour.com/) ([iTunes](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2) | [SoundCloud](https://soundcloud.com/front-end-happy-hour))
 
   * **Description**: A podcast featuring panelists of engineers from Netflix, Evernote & LinkedIn talking over drinks about all things Front End development.
