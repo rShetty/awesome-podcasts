@@ -1257,6 +1257,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Craig Box @[craigbox](http://twitter.com/craigbox) and Adam Glick @[MobileGlick](http://twitter.com/mobileglick)
   * **Runtime**: 15 - 50 mins, regularly ~25 mins
 
+* [Electro Monkeys](https://electro-monkeys.fr/) ([iTunes](https://podcasts.apple.com/fr/podcast/electro-monkeys/id1503255739) | [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS85MjY3OTEucnNz) | [Podcast Addict](https://podplayer.net/?podId=2732553) | [Spotify](https://open.spotify.com/show/3P9JtwxgNJktyemtinMcLe))
+
+  * **Description**: Electro Monkeys is the most offbeat podcast on the planet on cloud native technologies! We talk about all the technologies of the CNCF, Kubernetes of course, but also Serverless, Service Mesh, Harbor, NATS and others...
+  * **Frequency**: Once / Twice a week
+  * **Host**: Stef @[saphoooo](http://twitter.com/saphoooo)
+  * **Runtime**: 55 - 65 mins, regularly ~60 mins
+
 ## Linux
 
 * [Choose Linux](https://chooselinux.show/)
