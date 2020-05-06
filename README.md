@@ -1451,6 +1451,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Rust
 
+* [Are We Podcast Yet?](https://arewepodcastyet.com/)
+
+  * **Description**: A new fn Podcast about all things Rust.
+  * **Host**: Vijay Kiran ([@vijaykiran](https://twitter.com/vijaykiran)) and Wouter Dullaert ([@wouterdullaert](https://twitter.com/wouterdullaert))
+  * **Frequency**: Various
+  * **Runtime**: 60 - 90 mins
+
 * [New Rustacean](https://newrustacean.com/)
 
   * **Description**: A podcast about learning Rust—from scratch.
