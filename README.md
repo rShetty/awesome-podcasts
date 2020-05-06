@@ -1257,6 +1257,27 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Craig Box @[craigbox](http://twitter.com/craigbox) and Adam Glick @[MobileGlick](http://twitter.com/mobileglick)
   * **Runtime**: 15 - 50 mins, regularly ~25 mins
 
+* [Kube Cuddle](https://podcasts.apple.com/us/podcast/kube-cuddle/id1498571321)
+
+  * **Description**: A podcast about Kubernetes, and the people who build and use it.
+  * **Host**: Rich Burroughs [@richburroughs](https://twitter.com/richburroughs)
+  * **Frequency**: Various
+  * **Runtime**: 60 mins
+
+* [PodCTL](https://www.podctl.com/)
+
+  * **Description**: A podcast focused on Containers, Kubernetes and Cloud-native application development.
+  * **Host**: Brian Gracely ([@bgracely](https://twitter.com/bgracely))
+  * **Frequency**: Various
+  * **Runtime**: 10 - 30 mins
+
+* [The Podlets](https://thepodlets.io/)
+
+  * **Description**: Exploring Cloud Native, one buzzword at a time.
+  * **Host**: Carlisia Campos ([@carlisia](https://twitter.com/carlisia)), Josh Rosso ([@joshrosso](https://twitter.com/joshrosso)), Duffie Cooley ([@mauilion](https://twitter.com/mauilion)), Bryan Liles ([@bryanl](https://twitter.com/bryanl)), Patrick Barker, Michael Gasch ([@embano1](https://twitter.com/embano1)), and Olive Power
+  * **Frequency**: Weekly
+  * **Runtime**: 30 - 60 mins
+
 ## Linux
 
 * [Choose Linux](https://chooselinux.show/)
