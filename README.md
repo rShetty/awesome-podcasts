@@ -1806,6 +1806,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Approximately once a month
   * **Runtime**: 15 - 70 mins, regularly ~50 mins
 
+* [Inspect](https://inspect.fm/)
+  * **Description**: A Podcast about Design + Development.
+  * **Host**: Ajay Karwal @[ajaykarwal](https://twitter.com/ajaykarwal/), Kay Mankoo @[weared3lve](https://twitter.com/weared3lve/)
+  * **Frequency**: Once a fortnight
+  * **Runtime**: 30 - 60 mins, regularly ~50 mins
+  
 * [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/) ([iTunes](https://itunes.apple.com/us/podcast/jamstack-radio/id1148797643) | [Overcast](https://overcast.fm/itunes1148797643/jamstack-radio) | [Android](https://subscribeonandroid.com/www.heavybit.com/category/library/podcasts/jamstack-radio/feed))
 
   * **Description**: A show all about the JAMstack, a new way to build fast & secure apps or websites.
