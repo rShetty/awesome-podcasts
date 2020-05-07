@@ -5,7 +5,8 @@ Uma lista de podcasts, em português de Portugal, que podem ser úteis para prog
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Linux](#linux)
-  
+* [Tecnologia](#tecnologia)
+
 ## PHP
 
 ### Laravel
@@ -21,4 +22,12 @@ Uma lista de podcasts, em português de Portugal, que podem ser úteis para prog
   * **Descrição**: O Podcast do Ubuntu Portugal
   * **Frequência**: 1 vez por semana
   * **Duração**: 1 hora
+
+## Tecnologia
+
+* [PseudoCódigo](https://pseudocodigo.transistor.fm/)
+  * **Descrição**: É uma conversa entre entusiastas do mundo digital, sobre temas da atualidade, projectos interessantes e outros assuntos.
+  * **Host**: João Oliveira [@Joao_Oliveira](https://twitter.com/Joao_Oliveira), Pedro Teixeira [@pgte](https://twitter.com/pgte)
+  * **Frequência**: Não definida
+  * **Duração**: 90 minutos
 
