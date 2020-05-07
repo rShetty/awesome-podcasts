@@ -48,6 +48,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Python](#python)
+  * [Django](#django)
 * [R](#R)
 * [ReasonML](#reasonml)
 * [Ruby/Rails](#rubyrails)
@@ -1429,6 +1430,15 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Brian Okken @[brianokken](https://twitter.com/brianokken)
   * **Frequency**: Various
   * **Runtime**: 15 - 60 mins, regularly ~30 mins
+
+### Django
+
+* [Django Chat](https://djangochat.com/) ([iTunes](https://podcasts.apple.com/us/podcast/django-chat/id1451536459))
+
+  * **Description**: A weekly podcast on the Django Web Framework.
+  * **Host**: William Vincent @[wsv3000](https://twitter.com/wsv3000), Carlton Gibson @[carltongibson](https://twitter.com/carltongibson)
+  * **Frequency**: Once a week
+  * **Runtime**: 20 - 60 mins, regularly ~40 mins
 
 ## R
 
