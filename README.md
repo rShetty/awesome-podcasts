@@ -6,6 +6,7 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Supported languages
 
+* [Burmese](MY.md)
 * [English](README.md)
 * [German](DE.md)
 * [Portuguese](PT.md)
