@@ -13,9 +13,8 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Community/Inspiration](#communityinspiration)
 - [Data Science/Machine Learning](#data-sciencemachine-learning)
 - [Devops](#devops)
-- [Flutter](#flutter)
-- [Free BSD](#freebsd)
 - [Functional Programming](#functional-programming)
+- [Free BSD](#freebsd)
 - [General Software](#general-software)
 - [Go Programming Language](#go-programming-language)
 - [iOS](#ios)
@@ -148,11 +147,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Screaming in the Cloud](https://www.screaminginthecloud.com/)
   - **Description**: Snarky take on devops topics
   - **Frequency**: Weekly-ish.
-
-## Flutter
-
-- [It's All Widgets! Flutter Podcast](https://itsallwidgets.com/podcast)
-  - **Description** An ongoing series featuring some of the amazing developers from the Flutter community. In each episode we discuss the developer's background, what got them into Flutter and their thoughts on the platform in general.
 
 ## FreeBSD
 
