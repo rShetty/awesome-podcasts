@@ -378,13 +378,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Jhon Masschelein and Dave Russell
   * **Runtime**: 15 - 60 mins, regularly ~20 mins
 
-## Community/Inspiration
-
-- [Learn To Code With Me](https://learntocodewith.me/podcast/) ([Soundcloud](https://soundcloud.com/laurence-bradford) | [iTunes](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Stitcher](https://www.stitcher.com/podcast/learn-to-code-with-me))
-
-  - <b>Description</b>: For aspiring techies and self-taught coders looking to transition into the tech industry.
-  - <b>Frequency</b>  : Once a week
-
 ## Data Science/Machine Learning
 
 * [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
