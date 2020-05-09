@@ -229,11 +229,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Biweekly
   * **Runtime**: 20-40 minutes
 
-* [Learn to Code With Me](https://learntocodewith.me/podcast/)
+* [Learn To Code With Me](https://learntocodewith.me/podcast/) ([Soundcloud](https://soundcloud.com/laurence-bradford) | [iTunes](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Stitcher](https://www.stitcher.com/podcast/learn-to-code-with-me))
   * **Description**: Conversations with developers at different points in their career, with topics ranging from learning the basics to rebounding from burnout.
   * **Host**: Laurence Bradford @[learncodewithme](https://twitter.com/learncodewithme)
-  * **Frequency**: Every other week
-  * **Runtime**: 40-60 minutes
+  * **Frequency**: Once a week
+  * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
 * [Pursuit Podcast](http://pursuit.tech/)
   * **Description**: Conversations with various people working in tech on their area of expertise - all range of topics related to tech career.
@@ -334,7 +334,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Learn To Code With Me](https://learntocodewith.me/podcast/) ([Soundcloud](https://soundcloud.com/laurence-bradford) | [iTunes](https://itunes.apple.com/us/podcast/learn-to-code-with-me/id1106620664) | [Stitcher](https://www.stitcher.com/podcast/learn-to-code-with-me))
 
   * **Description**: For aspiring techies and self-taught coders looking to transition into the tech industry.
-  * **Host**: laurence Bradford @[learncodewithme](https://twitter.com/learncodewithme)
+  * **Host**: Laurence Bradford @[learncodewithme](https://twitter.com/learncodewithme)
   * **Frequency**: Once a week
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
