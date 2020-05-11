@@ -1297,6 +1297,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Brian Gracely ([@bgracely](https://twitter.com/bgracely))
   * **Frequency**: Various
   * **Runtime**: 10 - 30 mins
+  
+* [Real World Serverless](https://www.realworldserverless.com) ([iTunes](https://podcasts.apple.com/gb/podcast/real-world-serverless-with-theburningmonk/id1499753495) | [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84Nzc3NDcucnNz) | [Overcast](https://overcast.fm/itunes1499753495/real-world-serverless-with-theburningmonk) | [Spotify](https://open.spotify.com/show/4Ts4BGGcQvwtvwF0XXq0nE) | [Stitcher](https://www.stitcher.com/podcast/real-world-serverless-with-theburningmonk))
+
+  * **Description**: A podcast where panelists talk about real-world use of Serverless technologies from engineers who work with them day-to-day. They're discussing use cases, why they chose serverless and the pain points and challenges they face. If you want to know what it's REALLY like to work with serverless, this is the show for you.
+  * **Host**: Yan Cui ([@theburningmonk](https://twitter.com/theburningmonk))
+  * **Frequency**: Weekly
+  * **Runtime**: 20 - 30 mins
 
 * [The Podlets](https://thepodlets.io/)
 
