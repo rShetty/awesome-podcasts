@@ -1600,6 +1600,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Various
   * **Runtime**: 20 - 105 mins, regularly ~50 mins
 
+* [Humans of InfoSec](https://soundcloud.com/humans-of-infosec)
+  * **Description**: A podcast that explores the stories of real people, their work, and its impact on the information security industry. Join security experts, Caroline Wong and Vanessa Sauter, as they focus on the human side of security. 
+  * **Host**: Caroline Wong (@CarolineWMWong) and Vanessa Sauter (@van_sauter)
+  * **Frequency**: Once every 2 weeks
+  * **Runtime**: 25 - 45 mins, regularly ~30 mins
+
 * [Malicious Life](https://malicious.life/)
   * **Description**: Tales of cybersecurity. The wildest hacks you can ever imagine, told by people who were actually there. Hosted by cybersecurity expert and book author, Ran Levi, this is not your average talk-show. These are fascinating, unknown tales, slowly unraveled, deeply researched. Think Hardcore History meets Hackable- and come dig into a history you never knew existed.
   * **Host**: Ran Levi @[ranlevi](https://twitter.com/ranlevi)
