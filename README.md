@@ -1644,6 +1644,12 @@ significant targeted intrusions.
   * **Frequency**: Once a week
   * **Runtime**: _various_
 
+* [Privacy Advisor Podcast](https://iapp.org/news/privacy-advisor-podcast/)
+  * **Description**: Interviews with the privacy world's most interesting voices by Angelique Carson, editor of The Privacy Advisor.
+  * **Host**: Angelique Carson
+  * **Frequency**: Bi-Weekly
+  * **Runtime**: ~40 mins
+
 * [Purple Squad Security](https://purplesquadsec.com/)
   * **Description**: Information Security, InfoSec, CyberSec, Cyber, Security, whatever you call it, we talk about it! From mobiles and desktops to data centers and the cloud, Purple Squad Security is here to help and give back to our community of information security professionals.
   * **Frequency**: Once a week
