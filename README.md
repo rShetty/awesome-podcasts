@@ -1606,6 +1606,15 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a fortnight
   * **Runtime**: 30 - 45 mins
 
+* [State of the Hack](https://www.fireeye.com/current-threats/state-of-the-hack.html)
+  * **Description**: State of the Hack is FireEye’s monthly series, that discusses the 
+latest in information security, digital forensics, incident response, 
+cyber espionage, APT attack trends, and tales from the front lines of 
+significant targeted intrusions.
+  * **Host**: Christopher Glyer (@cglyer) and Nick Carr (@itsreallynick)
+  * **Frequency**: Monthly
+  * **Runtime**: 20 - 60 mins
+
 * [The Many Hats Club](https://themanyhats.club/)
   * **Description**: An information security focused group of individuals from all walks of life
   * **Frequency**: Irregular
