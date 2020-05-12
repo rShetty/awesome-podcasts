@@ -1557,6 +1557,16 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Security
 
+* [7 Minute Security](https://7minsec.com/projects/podcast)
+  * **Description**: 7 Minute Security is a weekly information security podcast focusing on 
+penetration testing, blue teaming and building a career in security.  
+The podcast also features in-depth interviews with industry leaders who 
+share their insights, tools, tips and tricks for being a successful 
+security engineer. See [Github](https://gist.github.com/braimee/2ef29a7732bdb0e77a6779c42a31bf68) too.
+  * **Host**: Brian Johnson
+  * **Frequency**: Once a week
+  * **Runtime**: 7 mins
+
 * [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/)
   * **Description**: Security podcast targeting developers. Excellent insight into what we can do as developers to secure our software.
   * **Frequency**:  Once a week
