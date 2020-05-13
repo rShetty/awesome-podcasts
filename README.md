@@ -1600,6 +1600,15 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Various
   * **Runtime**: 20 - 105 mins, regularly ~50 mins
 
+* [Detections - Find Badness](https://www.detections.org/)
+  * **Description**: Detections is a bi weekly podcast covering all things defensive infosec 
+filled with news, various topics, guests, and a detection of the week 
+that you can take home to find badness. All episode recaps and links can be found in our blog, and we 
+can be found by searching detections on almost all major podcast providers.
+  * **Host**: @ExiledAtraidez and @Understudy77
+  * **Frequency**: Bi-Weekly
+  * **Runtime**: 50 - 60 mins
+
 * [Humans of InfoSec](https://soundcloud.com/humans-of-infosec)
   * **Description**: A podcast that explores the stories of real people, their work, and its impact on the information security industry. Join security experts, Caroline Wong and Vanessa Sauter, as they focus on the human side of security. 
   * **Host**: Caroline Wong (@CarolineWMWong) and Vanessa Sauter (@van_sauter)
