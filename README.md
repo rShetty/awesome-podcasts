@@ -191,7 +191,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [BarCoding](https://www.barcoding.dev/)
 
   * **Description**: At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.
-  * **Hosts**: Paulien van Alst @[PaulienVa], Arnout Rijpkema @[arn008]
+  * **Hosts**: Paulien van Alst @[PaulienVanAlst](https://twitter.com/PaulienVanAlst), Arnout Rijpkema @[coding_bar](https://twitter.com/coding_bar)
   * **Frequency**: Monthly
   * **Runtime**: ~40 mins
 
@@ -315,7 +315,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [BarCoding](https://www.barcoding.dev/)
 
   * **Description**: At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.
-  * **Hosts**: Paulien van Alst @[PaulienVa], Arnout Rijpkema @[arn008]
+  * **Hosts**: Paulien van Alst @[PaulienVanAlst](https://twitter.com/PaulienVanAlst), Arnout Rijpkema @[coding_bar](https://twitter.com/coding_bar)
   * **Frequency**: Monthly
   * **Runtime**: ~40 mins
 
