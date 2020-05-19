@@ -188,6 +188,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Career
 
+* [BarCoding](https://www.barcoding.dev/)
+
+  * **Description**: At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.
+  * **Hosts**: Paulien van Alst @[PaulienVa], Arnout Rijpkema @[arn008]
+  * **Frequency**: Monthly
+  * **Runtime**: ~40 mins
+
 * [CodeNewbie](https://www.codenewbie.org/podcast)
   * **Description**: Stories from people on their coding journey.
   * **Host**: Saron Yitbarick @[saronyitbarek](https://twitter.com/saronyitbarek)
@@ -307,7 +314,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   
 * [BarCoding](https://www.barcoding.dev/)
 
-  * **Description**: At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them. The podcast is made by 
+  * **Description**: At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.
   * **Hosts**: Paulien van Alst @[PaulienVa], Arnout Rijpkema @[arn008]
   * **Frequency**: Monthly
   * **Runtime**: ~40 mins
