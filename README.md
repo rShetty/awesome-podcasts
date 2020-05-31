@@ -1266,6 +1266,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 25 - 85 mins, regularly ~60 mins
 
+
+* [Enjoy the Vue](https://enjoythevue.io)
+
+  * **Description**: panel discussions and guest interviews to keep you up to date with the Vue community and Vue development practices
+  * **Hosts**: [Ari Clark](https://twitter.com/gloomyLumi], [Ben Hong](https://twitter.com/bencodezen), [Chris Fritz](https://twitter.com/chrisvfritz), Tessa
+  * **Frequency**: Once a week
+  * **Runtime**: 40 - 70 mins, regularly ~50 mins
+
 ## Kotlin
 
 * [Talking Kotlin](http://talkingkotlin.com)
