@@ -188,6 +188,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Career
 
+* [BarCoding](https://www.barcoding.dev/)
+
+  * **Description**: At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.
+  * **Hosts**: Paulien van Alst @[PaulienVanAlst](https://twitter.com/PaulienVanAlst), Arnout Rijpkema @[coding_bar](https://twitter.com/coding_bar)
+  * **Frequency**: Monthly
+  * **Runtime**: ~40 mins
+
 * [CodeNewbie](https://www.codenewbie.org/podcast)
   * **Description**: Stories from people on their coding journey.
   * **Host**: Saron Yitbarick @[saronyitbarek](https://twitter.com/saronyitbarek)
@@ -304,6 +311,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Jono Bacon @[jonobacon](https://twitter.com/jonobacon), Jeremy Garcia @[linuxquestions](https://twitter.com/linuxquestions), Stuart Langridge @[sil](https://twitter.com/sil)
   * **Frequency**: Twice a month
   * **Runtime**: 50 - 80 mins, regularly ~70 mins
+  
+* [BarCoding](https://www.barcoding.dev/)
+
+  * **Description**: At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.
+  * **Hosts**: Paulien van Alst @[PaulienVanAlst](https://twitter.com/PaulienVanAlst), Arnout Rijpkema @[coding_bar](https://twitter.com/coding_bar)
+  * **Frequency**: Monthly
+  * **Runtime**: ~40 mins
 
 * [Brain Science](https://changelog.com/brainscience) (by [Changelog](https://changelog.com))
 
@@ -1254,6 +1268,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ### Vue.js
 
+* [Enjoy the Vue](https://enjoythevue.io)
+
+  * **Description**: panel discussions and guest interviews to keep you up to date with the Vue community and Vue development practices
+  * **Hosts**: [Ari Clark](https://twitter.com/gloomyLumi], [Ben Hong](https://twitter.com/bencodezen), [Chris Fritz](https://twitter.com/chrisvfritz), Tessa
+  * **Frequency**: Once a week
+  * **Runtime**: 40 - 70 mins, regularly ~50 mins
+
 * [The Official Vue News](https://news.vuejs.org/)
 
   * **Description**: We cover the latest Vue news and tutorials in about 5 minutes. Our goal is to give you the information you need to stay on top of your game as a Vue developer.
@@ -1557,6 +1578,16 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Security
 
+* [7 Minute Security](https://7minsec.com/projects/podcast)
+  * **Description**: 7 Minute Security is a weekly information security podcast focusing on 
+penetration testing, blue teaming and building a career in security.  
+The podcast also features in-depth interviews with industry leaders who 
+share their insights, tools, tips and tricks for being a successful 
+security engineer. See [Github](https://gist.github.com/braimee/2ef29a7732bdb0e77a6779c42a31bf68) too.
+  * **Host**: Brian Johnson
+  * **Frequency**: Once a week
+  * **Runtime**: 7 mins
+
 * [Application Security Weekly](https://securityweekly.com/category/application-security-weekly/)
   * **Description**: Security podcast targeting developers. Excellent insight into what we can do as developers to secure our software.
   * **Frequency**:  Once a week
@@ -1579,6 +1610,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Hacking. Hackers. Disinformation campaigns. Encryption. The Cyber. This stuff gets complicated really fast, but Motherboard spends its time embedded in the infosec world so you don't have to. Host Ben Makuch talks every week to Motherboard reporters Lorenzo Franceschi-Bicchierai and Joseph Cox about the stories they're breaking and to the industry's most famous hackers and researchers about the biggest news in cybersecurity.
   * **Frequency**: Once a week
   * **Runtime**: 15 - 45 mins, regularly ~30 mins
+  
+* [Cyber Security Sauna](https://www.f-secure.com/en/business/podcasts/cyber-security-sauna)
+  * **Description**: We invite you to Cyber Security Sauna (#CyberSauna), a podcast bringing you expert guests with sizzling insight into the latest information security trends and topics. F-Secure's self-proclaimed "cyber translator" Janne Kauhanen hosts the show to make sure you know all you need to about the hotter-than-ever infosec game.
+  * **Host**: Janne Kauhanen, F-Secure
+  * **Frequency**: Irregular, at least once a month
+  * **Runtime**: 20 - 40 mins
 
 * [The Cyber Wire](https://www.thecyberwire.com/)
 
@@ -1599,6 +1636,15 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Jerry Bell @[maliciouslink](https://twitter.com/maliciouslink), Andrew Kalat @[lerg](https://twitter.com/lerg)
   * **Frequency**: Various
   * **Runtime**: 20 - 105 mins, regularly ~50 mins
+
+* [Detections - Find Badness](https://www.detections.org/)
+  * **Description**: Detections is a bi weekly podcast covering all things defensive infosec 
+filled with news, various topics, guests, and a detection of the week 
+that you can take home to find badness. All episode recaps and links can be found in our blog, and we 
+can be found by searching detections on almost all major podcast providers.
+  * **Host**: @ExiledAtraidez and @Understudy77
+  * **Frequency**: Bi-Weekly
+  * **Runtime**: 50 - 60 mins
 
 * [Humans of InfoSec](https://soundcloud.com/humans-of-infosec)
   * **Description**: A podcast that explores the stories of real people, their work, and its impact on the information security industry. Join security experts, Caroline Wong and Vanessa Sauter, as they focus on the human side of security. 
@@ -1649,6 +1695,13 @@ significant targeted intrusions.
   * **Host**: Angelique Carson
   * **Frequency**: Bi-Weekly
   * **Runtime**: ~40 mins
+
+* [Privacy, Security, & OSINT Show by IntelTechniques](https://inteltechniques.com/podcast.html)
+   * **Description**: This weekly podcast presents ideas to help you become digitally 
+invisible, stay secure from cyber threats, and make you a better online investigator.
+  * **Host**: Michael Bazzell
+  * **Frequency**: Once a week
+  * **Runtime**: 20 - 70 mins 
 
 * [Purple Squad Security](https://purplesquadsec.com/)
   * **Description**: Information Security, InfoSec, CyberSec, Cyber, Security, whatever you call it, we talk about it! From mobiles and desktops to data centers and the cloud, Purple Squad Security is here to help and give back to our community of information security professionals.

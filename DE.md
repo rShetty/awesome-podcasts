@@ -7,8 +7,8 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
 * [Allgemein](#allgemein)
 * [.NET](#net)
 * [Agile](#agile)
+* [Sicherheit](#sicherheit)
 * [Webentwicklung](#webentwicklung)
-
 
 ## Allgemein
 
@@ -52,6 +52,14 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Beschreibung**: Podcast zu agilen Arbeitsweisen und Themen 
   * **Häufigkeit** : Ungefähr 2 - 3 mal im Monat
   * **Laufzeit**: 25 - 80 min, regulär ~50 min
+  
+## Sicherheit
+
+* [Unter4Ohren](https://www.all-about-security.de/unter4ohren/)
+  * **Beschreibung**: Unter4Ohren - IT Security Podcast 
+  * **Häufigkeit**: Wöchentlich
+  * **Laufzeit**: 20 - 25 min
+  * **Gastgeber**: Davor Kolaric mit Gästen
 
 ## Webentwicklung
 
