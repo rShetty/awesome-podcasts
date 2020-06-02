@@ -1690,10 +1690,15 @@ significant targeted intrusions.
   * **Frequency**: Once a week
   * **Runtime**: _various_
 
+* [Privacy Advisor Podcast](https://iapp.org/news/privacy-advisor-podcast/)
+  * **Description**: Interviews with the privacy world's most interesting voices by Angelique Carson, editor of The Privacy Advisor.
+  * **Host**: Angelique Carson
+  * **Frequency**: Bi-Weekly
+  * **Runtime**: ~40 mins
+
 * [Privacy, Security, & OSINT Show by IntelTechniques](https://inteltechniques.com/podcast.html)
    * **Description**: This weekly podcast presents ideas to help you become digitally 
-invisible, stay secure from cyber threats, and make you a better online 
-investigator.
+invisible, stay secure from cyber threats, and make you a better online investigator.
   * **Host**: Michael Bazzell
   * **Frequency**: Once a week
   * **Runtime**: 20 - 70 mins 
