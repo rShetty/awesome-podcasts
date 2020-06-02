@@ -1596,6 +1596,12 @@ security engineer. See [Github](https://gist.github.com/braimee/2ef29a7732bdb0e7
   * **Description**: Hacking. Hackers. Disinformation campaigns. Encryption. The Cyber. This stuff gets complicated really fast, but Motherboard spends its time embedded in the infosec world so you don't have to. Host Ben Makuch talks every week to Motherboard reporters Lorenzo Franceschi-Bicchierai and Joseph Cox about the stories they're breaking and to the industry's most famous hackers and researchers about the biggest news in cybersecurity.
   * **Frequency**: Once a week
   * **Runtime**: 15 - 45 mins, regularly ~30 mins
+  
+* [Cyber Security Sauna](https://www.f-secure.com/en/business/podcasts/cyber-security-sauna)
+  * **Description**: We invite you to Cyber Security Sauna (#CyberSauna), a podcast bringing you expert guests with sizzling insight into the latest information security trends and topics. F-Secure's self-proclaimed "cyber translator" Janne Kauhanen hosts the show to make sure you know all you need to about the hotter-than-ever infosec game.
+  * **Host**: Janne Kauhanen, F-Secure
+  * **Frequency**: Irregular, at least once a month
+  * **Runtime**: 20 - 40 mins
 
 * [The Cyber Wire](https://www.thecyberwire.com/)
 
