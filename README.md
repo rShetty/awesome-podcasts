@@ -188,6 +188,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Career
 
+* [BarCoding](https://www.barcoding.dev/)
+
+  * **Description**: At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.
+  * **Hosts**: Paulien van Alst @[PaulienVanAlst](https://twitter.com/PaulienVanAlst), Arnout Rijpkema @[coding_bar](https://twitter.com/coding_bar)
+  * **Frequency**: Monthly
+  * **Runtime**: ~40 mins
+
 * [CodeNewbie](https://www.codenewbie.org/podcast)
   * **Description**: Stories from people on their coding journey.
   * **Host**: Saron Yitbarick @[saronyitbarek](https://twitter.com/saronyitbarek)
@@ -304,6 +311,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Jono Bacon @[jonobacon](https://twitter.com/jonobacon), Jeremy Garcia @[linuxquestions](https://twitter.com/linuxquestions), Stuart Langridge @[sil](https://twitter.com/sil)
   * **Frequency**: Twice a month
   * **Runtime**: 50 - 80 mins, regularly ~70 mins
+  
+* [BarCoding](https://www.barcoding.dev/)
+
+  * **Description**: At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.
+  * **Hosts**: Paulien van Alst @[PaulienVanAlst](https://twitter.com/PaulienVanAlst), Arnout Rijpkema @[coding_bar](https://twitter.com/coding_bar)
+  * **Frequency**: Monthly
+  * **Runtime**: ~40 mins
 
 * [Brain Science](https://changelog.com/brainscience) (by [Changelog](https://changelog.com))
 
