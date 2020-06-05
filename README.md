@@ -1431,6 +1431,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Every two weeks
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
+* [The Laravel Podcast](https://laravelpodcast.com) 
+
+  * **Description**: The Laravel Podcast brings you Laravel and PHP development news and discussion. Season 4 consists of guest interviews by Matt Stauffer talking about a new topic in the Laravel community for each episode.
+  * **Host**: Matt Stauffer @[stauffermatt](https://twitter.com/stauffermatt)
+  * **Frequency**: Various
+  * **Runtime**: 40 - 90 mins
+
 ## Python
 
 * [Friday Afternoon Deploy](https://friday.hirelofty.com/) ([iTunes](https://itunes.apple.com/us/podcast/friday-afternoon-deploy/id1441215128?mt=2&l=en) | [Spotify](https://open.spotify.com/show/61A2PUqpAI4lkdBVeMUjEP) | [RSS](https://feeds.buzzsprout.com/223293.rss))
