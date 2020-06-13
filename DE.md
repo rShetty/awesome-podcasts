@@ -19,7 +19,13 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Laufzeit**: 1 Getränk (30 - 45 Minuten)
   * **Twitter**: [@codestammtisch](https://twitter.com/codestammtisch)
   * **Gastgeber**: [Maximilian Koch](https://twitter.com/tschaka1904) & [Nathan Mattes](https://twitter.com/zeitschlag)
+
+* [Netzpolitik Podcast](https://netzpolitik.org/podcast/) ([RSS](https://netzpolitik.org/category/netzpolitik-podcast/feed/))
   
+  * **Beschreibung**: Dieser Podcast thematisiert Fragestellungen rund um Internet, Gesellschaft und Politik.
+  * **Häufigkeit**: Ein - zweimal pro Monat
+  * **Laufzeit**: 30 - 60 min 
+
 * [Reflection Podcast](https://repod.at) ([iTunes](https://itunes.apple.com/at/podcast/reflection-podcast-der-podcast-mit-franky-und-christian/id1436854408?mt=2), [Spotify](https://open.spotify.com/show/3hgik8ffwDNNbyt6JO6JCa), [Stitcher](https://www.stitcher.com/podcast/reflection-podcast-der-podcast-mit-franky-und-christian-auf?refid=stpr), [TuneIn](http://tun.in/pjavp), [Overcast](https://overcast.fm/itunes1436854408/reflection-podcast-der-podcast-mit-franky-und-christian-auf-gschert), [RSS](https://repod.at/feed))
 
   * **Beschreibung**: Technik und so.
