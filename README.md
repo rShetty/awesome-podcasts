@@ -965,6 +965,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Approximately twice a month
   * **Runtime**: 40 - 80 mins, regularly ~60 mins
 
+* [Software Defined Talk](https://www.softwaredefinedtalk.com/) ([RSS](https://feeds.fireside.fm/sdt/rss))
+
+  * **Description**: Kubernetes, serverless, cloud, DevOps, & coding. Get the lazy WTF each week, mostly.
+  * **Host**: Brandon Whichard @[bwhichard](https://twitter.com/bwhichard), Matt Ray @[mattray](https://twitter.com/mattray), Coté
+  * **Frequency**: Every Friday
+  * **Runtime**: About an hour
+
 * [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
 
   * **Description**: Podcasts on technical software topics
