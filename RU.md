@@ -4,13 +4,26 @@
 
 ## Содержание
 
-
+* [Android](#android)
+* [Flutter](#flutter)
 * [JavaScript](#javascript)
   * [React.js](#reactjs)
 * [PHP](#php)
 * [Ruby](#ruby)
 * [Веб-разработка](#Веб-разработка)
 * [Обо всем](#Обо-всем)
+
+## Android
+
+* [Android Dev Podcast](apptractor.ru/AndroidDev/) ([iTunes](https://podcasts.apple.com/ru/podcast/android-dev-podkast/id1076856310) | [SoundCloud](https://soundcloud.com/leonid-bogolubov) | [Podster](https://apptractor-podcast.podster.fm/) | [Music.Yandex](https://music.yandex.ru/album/6880291) | [YouTube](https://www.youtube.com/channel/UCC_-Xb4igFqIhuDyXlD0_eA))
+  * **Описание**: Подкаст о разработке под Android и всем, что с этим связано
+  * **Регулярность**: Время от времени
+
+## Flutter
+
+* [Flutter Dev Podcast](https://soundcloud.com/flutterdevpodcast) ([iTunes](https://podcasts.apple.com/ru/podcast/flutter-dev-podcast/id1451068853) | [SoundCloud](https://soundcloud.com/flutterdevpodcast))
+  * **Описание**: Всё что вы хотели узнать про Flutter, но боялись спросить. Мы обсуждаем новости индустрии, делимся продакшн-опытом внедрения и интересными наблюдениями, приглашаем самых разнообразных гостей из различных IT-сфер, чтобы посмотреть на Flutter под разными углами
+  * **Регулярность**: Время от времени
 
 ## JavaScript
 
