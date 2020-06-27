@@ -1479,6 +1479,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Various
   * **Runtime**: 15 - 60 mins, regularly ~30 mins
 
+* [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+  * **Description**: A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community. The show covers a wide range of topics including Python programming best practices, career tips, and related software development topics.
+  * **Host**: Christopher Bailey @[digiglean](https://twitter.com/digiglean)
+  * **Frequency**: Once a week
+  * **Runtime**: 40 - 90 mins, regularly ~60 mins
+
 ### Django
 
 * [Django Chat](https://djangochat.com/) ([iTunes](https://podcasts.apple.com/us/podcast/django-chat/id1451536459))
