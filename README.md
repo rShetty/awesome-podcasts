@@ -1878,6 +1878,13 @@ invisible, stay secure from cyber threats, and make you a better online investig
   * **Frequency**: Approximately once a month
   * **Runtime**: 25 - 75 mins, regularly ~50 mins
 
+* [The Daily Dev](https://the-daily-dev.simplecast.com/) ([iTunes](https://podcasts.apple.com/gb/podcast/the-daily-dev/id1513317218) | [Google Play](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9IREY3ZFAwdQ==) | [Spotify](https://open.spotify.com/show/32RSiOZbJVo9Cpa2LYnJ5n) | [Overcast](https://overcast.fm/itunes1513317218/the-daily-dev-software-development-daily-news) | [Stitcher](https://www.stitcher.com/podcast/the-daily-dev-software-development-daily-news))
+
+  * **Description**: A daily update on the tech industry, developer world and popular articles, blogs and repos. A 5-10 minute update for those who read sites like Hackernews or Slashdot.
+  * **Host**: Robert Clayton @[ClaytRob](https://twitter.com/ClaytRob)
+  * **Frequency**: Weekdays
+  * **Runtime**: 6 - 10 mins, regularly ~8 mins
+
 * [devMode.fm](https://devmode.fm/) ([iTunes](https://itunes.apple.com/us/podcast/devmode-fm/id1323364824?mt=2) | [Google Play](https://play.google.com/music/m/Ijjc3udlxfsiqqilxxs7k2pqrbu?t=devModefm))
 
   * **Description**: a bi-weekly podcast dedicated to the tools, techniques, and technologies used in modern web development.
