@@ -25,6 +25,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Career](#career)
 * [Clojure](#clojure)
 * [Community/Inspiration](#communityinspiration)
+* [Developer Relations](#developer-relations)
 * [Data Management](#data-management)
 * [Data Science/Machine Learning](#data-sciencemachine-learning)
 * [Devops](#devops)
@@ -365,6 +366,16 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Darko Fabijan @[darkofabijan](https://twitter.com/darkofabijan)
   * **Frequency**: At least once every two weeks
   * **Runtime**:  ~30 mins
+
+
+## Developer Relations
+
+* [DevRelChat](http://devrelchat.dev/)
+  * **Description**: Developer Relations Conversations delivered in Audio & Video formats with leading industry specialist for the community.#DevRelChat
+  * **Frequency**: Twice a Month
+  * **Host**: Shodipo Ayomide @[developerayo](https://twitter.com/developerayo)
+  * **Runtime**: 30 - 45 min, regularly ~35 mins
+
 
 ## Data Management
 
