@@ -18,6 +18,9 @@
 * [Android Dev Podcast](apptractor.ru/AndroidDev/) ([iTunes](https://podcasts.apple.com/ru/podcast/android-dev-podkast/id1076856310) | [SoundCloud](https://soundcloud.com/leonid-bogolubov) | [Podster](https://apptractor-podcast.podster.fm/) | [Music.Yandex](https://music.yandex.ru/album/6880291) | [YouTube](https://www.youtube.com/channel/UCC_-Xb4igFqIhuDyXlD0_eA))
   * **Описание**: Подкаст о разработке под Android и всем, что с этим связано
   * **Регулярность**: Время от времени
+* [Android Broadcast](https://soundcloud.com/android_broadcast) ([SoundCloud](https://soundcloud.com/android_broadcast) | [YouTube](https://www.youtube.com/channel/UCKsqMPIIhev3qbMxCL8Emvw))
+  * **Описание**: Подкаст о разработке под Android и всем, что с этим связано
+  * **Регулярность**: Время от времени
 
 ## Flutter
 
