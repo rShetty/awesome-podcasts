@@ -791,6 +791,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 * [Docplanner Tech Talks](https://anchor.fm/docplanner-tech-talks)
 
   * **Description**: Welcome to our Docplanner Tech Talks - podcast, which is our way to share knowledge and become closer to the Tech community.
+  * **Host**: Przemysław Paczoski @[kodziak](https://www.linkedin.com/in/ppaczoski/)
   * **Frequency**: Once a month
   * **Runtime**: 15 - 30 mins, regularly ~20 mins
 
