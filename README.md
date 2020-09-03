@@ -365,6 +365,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Darko Fabijan @[darkofabijan](https://twitter.com/darkofabijan)
   * **Frequency**: At least once every two weeks
   * **Runtime**:  ~30 mins
+  
+* [Stories From the Workshop](https://anvil.works/podcast) ([iTunes](https://podcasts.apple.com/gb/podcast/stories-from-the-workshop/id1464504795) | [Spotify](https://open.spotify.com/show/2b2Sf0xGLvEXRfTeKeMWC9?si=QjZvPXmIRMekyc4u82h4yg))
+  * **Description**: Experts are solving problems in lots of different fields by building web apps. Each episode, an expert from an interesting field talks about what they do, and how they’re building software to solve their problems.  
+  * **Host**: Meredydd Luff @[meredydd](https://twitter.com/meredydd)
+  * **Frequency**: Once a month
+  * **Runtime**:  30 - 45 mins
 
 ## Data Management
 
