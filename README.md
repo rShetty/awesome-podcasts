@@ -366,6 +366,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: At least once every two weeks
   * **Runtime**:  ~30 mins
 
+* [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/)
+
+  * **Description**: Interviews with developers and thought leaders from around the world about how they develop software. Discussion on the best practices, engineering culture, and the mindset that is lived at their companies.
+  * **Host**: Doctor McKayla
+  * **Frequency**: Approximately twice per month
+  * **Runtime**: 30 - 60 minutes
+
 ## Data Management
 
 * [Big Data Beard](https://bigdatabeard.com/subscribe-to-podcast/)
