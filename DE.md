@@ -40,6 +40,13 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Häufigkeit**: Unregelmäßig
   * **Laufzeit**: knapp 60 min
   * **Gastgeber**: heise Developer Redaktion mit [Gastsprechern](https://www.heise.de/developer/SoftwareArchitekTOUR-4076983.html)
+  
+* [INNOQ Podcast](https://www.innoq.com/de/podcast/) ([RSS](https://innoq.podigee.io/feed/aac))
+  
+  * **Beschreibung**: Interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
+  * **Häufigkeit**: Unregelmäßig
+  * **Laufzeit**: knapp 30 - 40 min
+  * **Gastgeber**: [Stefan Tilkov](https://twitter.com/stilkov)
 
 ## .NET
 
