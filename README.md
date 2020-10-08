@@ -1006,6 +1006,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Twice a month
   * **Runtime**: 20 - 35 mins, regularly ~25 mins
 
+* [Teams Products Culture](http://teams.products.culture.buzzsprout.com/606583)
+
+  * **Description**: A podcast about ideas, crafts and behaviors that create the IT universe. 
+  * **Host**: Bartosz Cytrowski ([@cytrowski](https://twitter.com/cytrowski)), Michał Michalczuk ([@michalczukm](https://twitter.com/michalczukm))
+  * **Frequency**: Once a month
+  * **Runtime**: 25 - 55 mins, regularly ~35 mins
+
 * [The Tech Guy](https://techguylabs.com/episodes)
 
   * **Description**: Tech radio-journalist, Leo Laporte explains everything tech from computers to the internet. This is a great podcast for anyone who wants to gain a high-level understanding of everyday technology.
