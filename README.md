@@ -754,6 +754,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Every Thursday
   * **Runtime**: 40 - 65 mins, regularly ~60 mins
 
+* [Composers Play](https://www.youtube.com/playlist?list=PL05Yj9M-fWdJUySLU5fJ8Lg6h6t43_0nf)
+
+  * **Description**: Listen to a video game composer discuss soundtracks of iconic games such as Mass Effect, Duke Nukem II, Doom, and System Shock with their composers, often while playing the game.
+  * **Host**: Scott Tobin @[composersplay](https://twitter.com/composersplay)
+  * **Frequency**: Sporadic
+  * **Runtime**: 10 - 120 mins, regularly ~30 mins
+
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 
   * **Description**: Command Line Heroes tells the epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.
