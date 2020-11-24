@@ -788,6 +788,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Every Monday, Wednesday and Friday
   * **Runtime**: 10 - 50 mins, regularly ~20 mins
 
+* [Docplanner Tech Talks](https://anchor.fm/docplanner-tech-talks)
+
+  * **Description**: Welcome to our Docplanner Tech Talks - podcast, which is our way to share knowledge and become closer to the Tech community.
+  * **Host**: Przemysław Paczoski @[kodziak](https://www.linkedin.com/in/ppaczoski/)
+  * **Frequency**: Once a month
+  * **Runtime**: 15 - 30 mins, regularly ~20 mins
+
 * [Eat Sleep Code](https://developer.telerik.com/community/eat-sleep-code/)
 
   * **Description**: The Official Telerik Podcast. They interview "passionate people about a wide range of developer related topics."
