@@ -40,13 +40,20 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Häufigkeit**: Unregelmäßig
   * **Laufzeit**: knapp 60 min
   * **Gastgeber**: heise Developer Redaktion mit [Gastsprechern](https://www.heise.de/developer/SoftwareArchitekTOUR-4076983.html)
-  
+
 * [Techtiefen](https://techtiefen.de/) ([RSS](https://techtiefen.de/index.php/feed/mp3/))
   
   * **Beschreibung**: Podcast von Nerds, für Nerds. In ausführlichen Gesprächen zu wechselnden, aber stets aktuellen, für Entwickler relevanten IT-Themen gibt Nico Kreiling regelmäßig Einblick in die wichtigsten Trends rund um moderne Softwareentwicklung. Mit Gästen aus der Branche diskutiert er die vielfältigen Entwicklungen bei neuen Programmiersprachen und Tools, über Deployment in der Cloud bis hin zu Machine Learning und Sprachverarbeitung.
   * **Häufigkeit**: Unregelmäßig
   * **Laufzeit**: 60 - 120 min, regulär ~90 min
   * **Gastgeber**: Nico Kreiling [@NicoKreiling](https://twitter.com/nicokreiling) mit Gastsprechern
+
+* [INNOQ Podcast](https://www.innoq.com/de/podcast/) ([RSS](https://innoq.podigee.io/feed/aac))
+  
+  * **Beschreibung**: Interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
+  * **Häufigkeit**: Unregelmäßig
+  * **Laufzeit**: knapp 30 - 40 min
+  * **Gastgeber**: [Stefan Tilkov](https://twitter.com/stilkov)
 
 ## .NET
 
