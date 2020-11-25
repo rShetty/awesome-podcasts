@@ -54,3 +54,8 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
   * **Descripción**: Un podcast de arquitectura de software, desarrollo, nuevas tecnologías y soft skills creado por [Rodrigo Díaz Concha](https://twitter.com/rdiazconcha).
   * **Frecuencia**: Semanalmente.
   * **Duración**: 15 - 50 min
+  
+* [Polémica en /var](https://open.spotify.com/show/4aSX6qCCbNLmOUX4fftc5M) ([Youtube](https://www.youtube.com/channel/UCPE3EUzO58EBHzrJp2Fv7_A))
+  * **Descripción**: Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administracion de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+  * **Frecuencia**: Semanalmente
+  * **Duración**: 45-60 min
