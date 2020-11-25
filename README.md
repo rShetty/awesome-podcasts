@@ -27,6 +27,7 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Career](#career)
 - [Clojure](#clojure)
 - [Community/Inspiration](#communityinspiration)
+- [Developer Relations](#developer-relations)
 - [Data Management](#data-management)
 - [Data Science/Machine Learning](#data-sciencemachine-learning)
 - [Devops](#devops)
@@ -374,6 +375,28 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   - **Host**: Darko Fabijan @[darkofabijan](https://twitter.com/darkofabijan)
   - **Frequency**: At least once every two weeks
   - **Runtime**: ~30 mins
+
+* [Stories From the Workshop](https://anvil.works/podcast) ([iTunes](https://podcasts.apple.com/gb/podcast/stories-from-the-workshop/id1464504795) | [Spotify](https://open.spotify.com/show/2b2Sf0xGLvEXRfTeKeMWC9?si=QjZvPXmIRMekyc4u82h4yg))
+  * **Description**: Experts are solving problems in lots of different fields by building web apps. Each episode, an expert from an interesting field talks about what they do, and how they’re building software to solve their problems.  
+  * **Host**: Meredydd Luff @[meredydd](https://twitter.com/meredydd)
+  * **Frequency**: Once a month
+  * **Runtime**:  30 - 45 mins
+
+* [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/)
+
+  * **Description**: Interviews with developers and thought leaders from around the world about how they develop software. Discussion on the best practices, engineering culture, and the mindset that is lived at their companies.
+  * **Host**: Doctor McKayla
+  * **Frequency**: Approximately twice per month
+  * **Runtime**: 30 - 60 minutes
+
+
+## Developer Relations
+
+* [DevRelChat](http://devrelchat.dev/)
+  * **Description**: Developer Relations Conversations delivered in Audio & Video formats with leading industry specialist for the community.#DevRelChat
+  * **Frequency**: Twice a Month
+  * **Host**: Shodipo Ayomide @[developerayo](https://twitter.com/developerayo)
+  * **Runtime**: 30 - 45 min, regularly ~35 mins
 
 ## Data Management
 
@@ -800,6 +823,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   - **Frequency**: Every Monday, Wednesday and Friday
   - **Runtime**: 10 - 50 mins, regularly ~20 mins
 
+- [Docplanner Tech Talks](https://anchor.fm/docplanner-tech-talks)
+
+  - **Description**: Welcome to our Docplanner Tech Talks - podcast, which is our way to share knowledge and become closer to the Tech community.
+  - **Host**: Przemysław Paczoski @[kodziak](https://www.linkedin.com/in/ppaczoski/)
+  - **Frequency**: Once a month
+  - **Runtime**: 15 - 30 mins, regularly ~20 mins
+
 - [Eat Sleep Code](https://developer.telerik.com/community/eat-sleep-code/)
 
   - **Description**: The Official Telerik Podcast. They interview "passionate people about a wide range of developer related topics."
@@ -1107,6 +1137,26 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   - **Runtime**: 20 - 70 mins, regularly ~50 mins
 
 ## iOS
+* [Inside iOS Dev](https://insideiosdev.com/) ([Apple Podcasts](https://podcasts.apple.com/us/podcast/inside-ios-dev/id1231805301) | [Podyssey Podcasts](https://podyssey.fm/podcast/itunes1231805301-Inside-iOS-Dev))
+
+  * **Description**: A weekly show about real world iOS development for professional iOS developers.
+  * **Host**: Alex Bush @[alex_v_bush](https://twitter.com/alex_v_bush), Andrew Rohn
+  * **Frequency**: Once a month
+  * **Runtime**: 15 - 50 mins, regularly ~30 mins
+
+* [iOS Dev Break with Evan K. Stone – iOS and Swift Development News, Tips, and Advice](https://iosdevbreak.com/) ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ios-dev-break/id1157188242?mt=2) | [Overcast](https://overcast.fm/itunes1157188242/ios-dev-break) | [Podyssey Podcasts](https://podyssey.fm/podcast/itunes1157188242-iOS-Dev-Break-with-Evan-K-Stone-%E2%80%93-iOS-and-Swift-Development-News%2C-Tips%2C-and-Advice))
+
+  * **Description**: 15 minutes of current events, tips, and advice for iOS Developers including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.
+  * **Host**: Evan K. Stone @[evankstone](https://twitter.com/evankstone)
+  * **Frequency**: Once a quarter
+  * **Runtime**: 15 - 20 mins, regularly ~15 mins
+
+* [iOS Dev Discussions - Sean Allen](https://anchor.fm/seanallen/support) ([Apple Podcasts](https://podcasts.apple.com/us/podcast/ios-dev-discussions-sean-allen/id1426167395?ign-mpt=uo%3D4&mt=2) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81OTcxMzc4L3BvZGNhc3QvcnNz) | [Podyssey Podcasts](https://podyssey.fm/podcast/itunes1426167395-iOS-Dev-Discussions---Sean-Allen))
+
+  * **Description**: Discussing the world of iOS Development and the latest news in Swift.
+  * **Host**: Sean Allen @[seanallen_dev](https://twitter.com/seanallen_dev)
+  * **Frequency**: Once a week
+  * **Runtime**: 15 - 90 mins, regularly ~20 mins
 
 - [iPhreaks](https://devchat.tv/iphreaks)
 

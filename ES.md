@@ -8,6 +8,11 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
 
 ## Desarrollo y programación
 
+* [AWS en Español](https://aws-espanol.buzzsprout.com/)
+  * **Descripción**: El podcast de AWS en Español es el podcast definitivo para desarrolladores, devops, sysadmins y profesionales de la nube. En este podcast vamos a hablar sobre las últimas noticias y tendencias de la nube. También vamos a cubrir temas relevantes a la nube para que puedan aprender sobre estos temas.
+  * **Frecuencia**: Quincenal.
+  * **Duración**: 40 - 60 min
+
 * [Code Time](https://itunes.apple.com/us/podcast/code-time/id1086854785?mt=2)
   * **Descripción**: Podcast de programación vista desde un punto de vista más humano para compartir el conocimiento y disfrutar de este gran arte que es el desarrollo de software junto con la comunidad producido por [David Giordana](https://twitter.com/davidgiordana).
   * **Frecuencia**: Semanal.
@@ -17,6 +22,21 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
    * **Descripción**: Un podcast en español conducido por Mario Carballo [@afk_mario](https://twitter.com/afk_mario) en el cual se habla de historias y experiencias detrás del desarrollo de videojuegos.
    * **Frecuencia**: Mensual.
    * **Duración**: 30 - 60 min
+
+* [elDevShow](https://anchor.fm/eldevshow)
+   * **Descripción**: Amamos programar, amamos aprender y nos apasiona enseñar y compartir, por eso entrevistamos a gente bien chida en la comunidad de devs para inspirarnos y aprender de ellos, Si tú también te estas construyendo una carrera como dev; este podcast es para ti.
+   * **Frecuencia**: Mensual.
+   * **Duración**: 40 - 60 min
+
+* [El Podcast DEV](https://elpodcast.dev/)
+   * **Descripción**: [Oscar Swanros](https://twitter.com/Swanros) y [Zero Dragon](https://twitter.com/ZeroDragon) hacen rants sobre nuevas tecnologías, crecimiento profesional, y más temas que le interesan a cualquier desarrollador de software.
+   * **Frecuencia**: Semanalmente.
+   * **Duración**: 50 - 70 min
+
+* [SaaS Product Chat](https://saasproductchat.simplecast.com/)
+   * **Descripción**: SaaS Product Chat es un vídeo podcast de tecnología que se enfoca en la creación, el desarrollo y el lanzamiento de productos Software as a Service (SaaS). Tenemos conversaciones técnicas sobre tópicos de software, a veces también con profesionales de la industria de la tecnología.
+   * **Frecuencia**: Semanalmente.
+   * **Duración**: 20 - 50 min
 
 * [Sin Humo Podcast](https://anchor.fm/sin-humo)
   * **Descripción**: Un Podcast sobre programación y tecnología. Libre de humo. De la mano de [@esacrosa](https://twitter.com/esacrosa) y [@fernandezpablo](https://twitter.com/fernandezpablo)
@@ -34,3 +54,8 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
   * **Descripción**: Un podcast de arquitectura de software, desarrollo, nuevas tecnologías y soft skills creado por [Rodrigo Díaz Concha](https://twitter.com/rdiazconcha).
   * **Frecuencia**: Semanalmente.
   * **Duración**: 15 - 50 min
+  
+* [Polémica en /var](https://open.spotify.com/show/4aSX6qCCbNLmOUX4fftc5M) ([Youtube](https://www.youtube.com/channel/UCPE3EUzO58EBHzrJp2Fv7_A))
+  * **Descripción**: Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administracion de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+  * **Frecuencia**: Semanalmente
+  * **Duración**: 45-60 min
