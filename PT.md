@@ -44,6 +44,11 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
   * **Frequência**: Quinzenal
   * **Duração**: 60 min
 
+* [Laravel Portugal Live](https://laravel.pt/)
+  * **Descrição**: Os membros do Laravel Portugal reunem-se para falar sobre Laravel, PHP, a comunidade Portuguesa, ideias e muito mais.
+  * **Frequência**: Semanal
+  * **Duração**: 60 min
+
 * [DEV Na Estrada](https://devnaestrada.com.br/)
   * **Descrição**: Tópicos gerais sobre desenvolvimento de software, carreira e situações relacionadas ao dia a dia do programador. Além disso conta com algumas entrevistas com profissionais da área.
   * **Frequência**: Semanalmente.
