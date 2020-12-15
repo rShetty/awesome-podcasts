@@ -1633,12 +1633,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Various
   * **Runtime**: 40 - 60 mins
 
-* [The Rusty Spike](https://rusty-spike.blubrry.net/)
-
-  * **Description**: A podcast for Rust and Servo
-  * **Frequency**: Every Wednesday
-  * **Runtime**: 3 - 6 mins, regularly ~5 mins
-
 ## Scala
 
 * [Scalalaz](https://scalalaz.ru/)
