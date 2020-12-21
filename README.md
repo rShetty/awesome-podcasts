@@ -202,11 +202,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: About twice a month
   * **Runtime**: 30-90 minutes
 
-* [Developer's Journey](http://www.devjourney.info)
+* [Developer's Journey](https://www.devjourney.info)
 
-  * **Description**: Get inside the head of amazing coders, speakers, architects, thought leaders, agilists and much more, and listen to the fascinating stories of their journeys!
+  * **Description**: Life and career lessons to influence your software developer's journey
   * **Host**: Tim Bourguignon @[timothep](https://twitter.com/timothep)
-  * **Frequency**: About twice a month
+  * **Frequency**: Weekly
   * **Runtime**: 35-50 minutes
 
 * [Developing Up](https://www.developingup.com) ([iTunes](https://itunes.apple.com/us/podcast/developing-up/id1156687172) | [Spotify](https://podcasters.spotify.com/podcast/7MyRmNelPO3mmGQWVkn2mR) | [Stitcher](http://www.stitcher.com/podcast/the-developing-up-podcast/developing-up?refid=stpr) | [Google Play](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/I237lq4vkdps524gplhriy3zf3q?t%3DDeveloping_Up%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
