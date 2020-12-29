@@ -379,6 +379,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Doctor McKayla
   * **Frequency**: Approximately twice per month
   * **Runtime**: 30 - 60 minutes
+  
+  * [The Stream of Random Podcast](https://anchor.fm/stre)
+
+  * **Description**: A random experimental noise podcast that rambles on about Code, Goedel, life and conspiricy theories not in that order.
+  * **Host**: James Michael DuPont
+  * **Frequency**: Daily
+  * **Runtime**: 20 - 200 minutes
 
 
 ## Developer Relations
