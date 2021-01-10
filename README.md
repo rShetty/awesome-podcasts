@@ -1545,6 +1545,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 20 - 60 mins, regularly ~40 mins
 
+* [Django-Riffs](https://www.mattlayman.com/django-riffs/) ([iTunes](https://podcasts.apple.com/us/podcast/django-riffs/id1497248397))
+
+  * **Description**: Django Riffs is a podcast for learning web application development in Python using the Django web framework. We explore all of Django's features to equip listeners with the knowledge to build a web app.
+  * **Host**: Matt Layman @[@mblayman](https://twitter.com/mblayman))
+  * **Frequency**: Once a month
+  * **Runtime**: 30 - 60 mins, regularly ~40 mins
+  
 ## R
 
 * [The R-Podcast](https://r-podcast.org/)
