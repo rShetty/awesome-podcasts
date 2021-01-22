@@ -456,7 +456,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 50 - 60 mins
 
-* [Data Skeptic](https://dataskeptic.com/podcast)
+* [Data Skeptic](https://dataskeptic.com/)
 
   * **Description**: High level concepts in data science, and longer interview with researchers and practitioners
   * **Host**: Kyle Polich @[DataSkeptic](https://twitter.com/dataskeptic)
