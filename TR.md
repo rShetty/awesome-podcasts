@@ -80,3 +80,27 @@ Yazılım geliştiricileri ve mühendisleri için yardımcı olabilecek sesli ya
   * **Yayın Sıklığı**: Ayda 2 kere
   * **Yayın Dili**: Türkçe
   * **Bölüm Süresi**: Yarım saatten uzun
+
+* [Developer Kahvesi](https://munmis.podbean.com/)
+
+  * **Konusu**: Genel Yazılım Konuları  [Developer Kahvesi - Podcast](https://twitter.com/DevKahvesi)'ın yayını.
+  * **Yayın Sıklığı**: Değişken
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: 1 saat ve üzeri
+
+* [QACAST](https://soundcloud.com/qacast/) 
+([Spotify](https://open.spotify.com/show/0hoFKFrQxV1U2K14TCLq1z)  | [Medium](https://medium.com/qacast)  | [Youtube](https://www.youtube.com/c/SinanErdin%C3%A7/playlists) )
+
+  * **Konusu**: Yazılım Test Otomasyonu ve Tavsiyeler [Sinan Erdinç](https://twitter.com/helloiamsinan) ve Tuğçe Alphan'ın yayını.  
+  * **Yayın Sıklığı**: Değişken
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: 1 saat ve üzeri
+
+* [NULL PODCAST](https://podcasts.apple.com/tr/podcast/null-podcast/id1489042159?l=tr)
+([Spotify](https://open.spotify.com/show/5qk0dHBZDvR0DZ6pgigSH6)  |
+[SoundCloud](https://soundcloud.com/nullpodcast) )
+
+* **Konusu**: Frontend odaklı podcast yayını. [0guzKilic](https://twitter.com/0guzKilic) [oyilmaztekin](https://twitter.com/0guzKilic)'ın yayını.
+  * **Yayın Sıklığı**: Haftada bir
+  * **Yayın Dili**: Türkçe
+  * **Bölüm Süresi**: 40-55 dk
