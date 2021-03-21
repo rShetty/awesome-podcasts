@@ -380,6 +380,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Approximately twice per month
   * **Runtime**: 30 - 60 minutes
 
+* [Working Code](https://workingcode.dev/)
+
+  * **Description**: Water-cooler conversation about web-development. We want to entertain, inspire, and motivate you -- or to put it another way, make your coding career more enjoyable.
+  * **Frequency**: Once a week
+  * **Runtime**: 45 - 60 minutes
 
 ## Developer Relations
 
