@@ -4,6 +4,7 @@
 
 ## Содержание
 
+* [.NET](#.NET)
 * [Android](#android)
 * [Flutter](#flutter)
 * [JavaScript](#javascript)
@@ -12,6 +13,12 @@
 * [Ruby](#ruby)
 * [Веб-разработка](#Веб-разработка)
 * [Обо всем](#Обо-всем)
+
+## .NET
+
+* [RadioDotNet](https://radio.dotnet.ru/) ([Anchor](https://anchor.fm/radiodotnet) | [iTunes](https://podcasts.apple.com/podcast/id1484348948) | [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9mMGMwZWY0L3BvZGNhc3QvcnNz) | [Music.Yandex](https://music.yandex.ru/album/12041961) | [YouTube](https://www.youtube.com/playlist?list=PLbxr_aGL4q3SpQ9GRn2jv-NEpvN23CUC5))
+  * **Описание**: Разговоры на тему .NET во всех его проявлениях, новости, статьи, библиотеки, конференции, личности и прочее интересное из мира IT.
+  * **Регулярность** : Время от времени
 
 ## Android
 
