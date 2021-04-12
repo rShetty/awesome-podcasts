@@ -16,9 +16,21 @@
 
 ## .NET
 
+* [DotNet & More](https://more.dotnet.ru/) ([Anchor](https://anchor.fm/dotnetmore) | [iTunes](https://podcasts.apple.com/us/podcast/dotnet-more/id1448111173) | [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yYWYwNGEyYy9wb2RjYXN0L3Jzcw==) | [SoundCloud](https://soundcloud.com/dotnetmore) | [YouTube](https://www.youtube.com/channel/UCCangFtmypr2MmiULHquf2A))
+  * **Описание**: Подкаст о .NET разработке и не только
+  * **Ведущие**: [Александр Кугушев](https://github.com/kugushev) и [Артём Акуляков](https://github.com/oxffaa)
+  * **Регулярность** : Время от времени
+  * **Длительность**: Около 40-120 минут
+
 * [RadioDotNet](https://radio.dotnet.ru/) ([Anchor](https://anchor.fm/radiodotnet) | [iTunes](https://podcasts.apple.com/podcast/id1484348948) | [Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9mMGMwZWY0L3BvZGNhc3QvcnNz) | [Music.Yandex](https://music.yandex.ru/album/12041961) | [YouTube](https://www.youtube.com/playlist?list=PLbxr_aGL4q3SpQ9GRn2jv-NEpvN23CUC5))
   * **Описание**: Разговоры на тему .NET во всех его проявлениях, новости, статьи, библиотеки, конференции, личности и прочее интересное из мира IT.
   * **Регулярность** : Время от времени
+
+* [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) ([PodFm](https://spbaltnet.podfm.ru/solo) | [iTunes](https://podcasts.apple.com/ru/podcast/solo-on-net/id730081104))
+  * **Описание**: Подкаст про разработку программного обеспечения (программирование). Обсуждаемые темы - C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA и многое другое.
+  * **Ведущий**: [Dmitri Nesteruk](https://nesteruk.wordpress.com) [@nesteruk](https://github.com/nesteruk)
+  * **Регулярность** : Время от времени
+  * **Длительность**: Около 30-70 минут
 
 ## Android
 
