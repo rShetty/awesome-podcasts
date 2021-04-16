@@ -12,6 +12,13 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
 
 ## Allgemein
 
+* [Chaosradio](https://chaosradio.de/) ([RSS](https://chaosradio.de/feed/m4a))
+
+  * **Beschreibung**: Der Podcast des Chaos Computer Club Berlin informiert seit 1995 über technische und gesellschaftliche Themen.
+  * **Häufigkeit**: jeden letzten Donnerstag im Monat
+  * **Laufzeit**: 90 - 120 min
+  * **Gastgeber**: [Marcus Richter](https://twitter.com/monoxyd) u.a.
+
 * [Codestammtisch](https://codestammtis.ch) ([RSS](https://codestammtis.ch/feed/mp3/), [Spotify](https://open.spotify.com/show/1q3dDiYvXHcMaDFopGt3Mh), [iTunes](https://itunes.apple.com/ch/podcast/codestammtisch/id1410854302?l=en&mt=2))
 
   * **Beschreibung**: Ein Getränk lang Irgendwas mit Softwareentwicklung.
@@ -20,11 +27,12 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Twitter**: [@codestammtisch](https://twitter.com/codestammtisch)
   * **Gastgeber**: [Maximilian Koch](https://twitter.com/tschaka1904) & [Nathan Mattes](https://twitter.com/zeitschlag)
 
-* [Netzpolitik Podcast](https://netzpolitik.org/podcast/) ([RSS](https://netzpolitik.org/category/netzpolitik-podcast/feed/))
+* [INNOQ Podcast](https://www.innoq.com/de/podcast/) ([RSS](https://innoq.podigee.io/feed/aac))
   
-  * **Beschreibung**: Dieser Podcast thematisiert Fragestellungen rund um Internet, Gesellschaft und Politik.
-  * **Häufigkeit**: Ein - zweimal pro Monat
-  * **Laufzeit**: 30 - 60 min
+  * **Beschreibung**: Interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
+  * **Häufigkeit**: Unregelmäßig
+  * **Laufzeit**: knapp 30 - 40 min
+  * **Gastgeber**: [Stefan Tilkov](https://twitter.com/stilkov)
 
 * [Logbuch: Netzpolitik](https://logbuch-netzpolitik.de/) ([RSS](https://logbuch-netzpolitik.de/feed/m4a), [iTunes](https://itunes.apple.com/de/podcast/logbuch-netzpolitik/id476856034))
   * **Beschreibung**: kurzfristige Reflektion des netzpolitischen Geschehens, die dem interessierten aber vielleicht nicht immer involvierten Betrachter einen leichten Zugang zu der doch manchmal sehr komplexen Materie bieten soll
@@ -32,6 +40,12 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Laufzeit**: 60 - 120 min
   * **Twitter**: [@me_netzpolitik](https://twitter.com/me_netzpolitik)
   * **Gastgeber**: [Tim Pritlove](https://twitter.com/timpritlove) & [Linus Neumann](https://twitter.com/Linuzifer)
+
+* [Netzpolitik Podcast](https://netzpolitik.org/podcast/) ([RSS](https://netzpolitik.org/category/netzpolitik-podcast/feed/))
+  
+  * **Beschreibung**: Dieser Podcast thematisiert Fragestellungen rund um Internet, Gesellschaft und Politik.
+  * **Häufigkeit**: Ein - zweimal pro Monat
+  * **Laufzeit**: 30 - 60 min
 
 * [Reflection Podcast](https://repod.at) ([iTunes](https://itunes.apple.com/at/podcast/reflection-podcast-der-podcast-mit-franky-und-christian/id1436854408?mt=2), [Spotify](https://open.spotify.com/show/3hgik8ffwDNNbyt6JO6JCa), [Stitcher](https://www.stitcher.com/podcast/reflection-podcast-der-podcast-mit-franky-und-christian-auf?refid=stpr), [TuneIn](http://tun.in/pjavp), [Overcast](https://overcast.fm/itunes1436854408/reflection-podcast-der-podcast-mit-franky-und-christian-auf-gschert), [RSS](https://repod.at/feed))
 
@@ -55,20 +69,6 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Laufzeit**: 60 - 120 min, regulär ~90 min
   * **Gastgeber**: Nico Kreiling [@NicoKreiling](https://twitter.com/nicokreiling) mit Gastsprechern
 
-* [INNOQ Podcast](https://www.innoq.com/de/podcast/) ([RSS](https://innoq.podigee.io/feed/aac))
-  
-  * **Beschreibung**: Interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
-  * **Häufigkeit**: Unregelmäßig
-  * **Laufzeit**: knapp 30 - 40 min
-  * **Gastgeber**: [Stefan Tilkov](https://twitter.com/stilkov)
-
-* [Chaosradio](https://chaosradio.de/) ([RSS](https://chaosradio.de/feed/m4a))
-
-  * **Beschreibung**: Der Podcast des Chaos Computer Club Berlin informiert seit 1995 über technische und gesellschaftliche Themen.
-  * **Häufigkeit**: jeden letzten Donnerstag im Monat
-  * **Laufzeit**: 90 - 120 min
-  * **Gastgeber**: [Marcus Richter](https://twitter.com/monoxyd) u.a.
-
 ## .NET
 
 * [DevCouch](https://devcouch.de/) ([RSS](https://devcouch.de/podcast/feed/))
@@ -89,17 +89,17 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   
 ## Sicherheit
 
-* [Unter4Ohren](https://www.all-about-security.de/unter4ohren/)
-  * **Beschreibung**: Unter4Ohren - IT Security Podcast 
-  * **Häufigkeit**: Wöchentlich
-  * **Laufzeit**: 20 - 25 min
-  * **Gastgeber**: Davor Kolaric mit Gästen
-
 * [Der Datenschutz Podcast](https://www.datenschutz-podcast.net/) ([RSS](https://www.datenschutz-podcast.net/feed/mp3/), [iTunes](https://itunes.apple.com/de/podcast/id1398228289))
   * **Beschreibung**: Datenschutz & Privatsphäre
   * **Häufigkeit**: unregelmäßig
   * **Laufzeit**: 60 - 120 min
   * **Gastgeber**: [Klaudia Zotzmann-Koch](https://twitter.com/kzotzmann)
+
+* [Unter4Ohren](https://www.all-about-security.de/unter4ohren/)
+  * **Beschreibung**: Unter4Ohren - IT Security Podcast 
+  * **Häufigkeit**: Wöchentlich
+  * **Laufzeit**: 20 - 25 min
+  * **Gastgeber**: Davor Kolaric mit Gästen
 
 ## Webentwicklung
 
