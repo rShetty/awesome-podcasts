@@ -62,7 +62,7 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Laufzeit**: knapp 30 - 40 min
   * **Gastgeber**: [Stefan Tilkov](https://twitter.com/stilkov)
 
-* [Chaosradio](https://chaosradio.de/) ([RSS](https://chaosradio.de/))
+* [Chaosradio](https://chaosradio.de/) ([RSS](https://chaosradio.de/feed/m4a))
 
   * **Beschreibung**: Der Podcast des Chaos Computer Club Berlin informiert seit 1995 über technische und gesellschaftliche Themen.
   * **Häufigkeit**: jeden letzten Donnerstag im Monat
