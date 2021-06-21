@@ -397,6 +397,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Data Management
 
+* [The Data Engineering Show](https://www.dataengineeringshow.com/subscribe)
+  * **Description**: The DATA BROS talk to top data engineers from tech-forward brands about how they address their biggest data challenges.
+  * **Frequency**: Once a week
+  * **Host**: Eldad and Boaz Farkash 
+  * **Runtime**: 30 - 60 min, regularly ~45 mins
+
 * [Big Data Beard](https://bigdatabeard.com/subscribe-to-podcast/)
   * **Description**: Sharing crumbs of knowledge and experience collected from working in the big data ecosystem.
   * **Frequency**: Once a week
