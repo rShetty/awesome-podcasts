@@ -427,6 +427,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Jhon Masschelein and Dave Russell
   * **Runtime**: 15 - 60 mins, regularly ~20 mins
 
+* [The MongoDB Podcast](https://www.mongodb.com/podcast)
+  * **Description**: Interviews, and discussions related to software development, data, and all things MongoDB.
+  * **Frequency**: Once a week
+  * **Host**: Michael Lynn 
+  * **Runtime**: 30 - 60 min, regularly ~45 mins
+
 ## Data Science/Machine Learning
 
 * [The AI Podcast](https://blogs.nvidia.com/ai-podcast/)
