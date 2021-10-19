@@ -14,6 +14,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Russian](RU.md)
 * [Spanish](ES.md)
 * [Turkish](TR.md)
+* [French](FR.md)
 
 ## Table of Contents
 
