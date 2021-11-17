@@ -1549,14 +1549,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ### Django
 
-* [Django Chat](https://djangochat.com/) ([iTunes](https://podcasts.apple.com/us/podcast/django-chat/id1451536459))
+* [Django Chat](https://djangochat.com/) ([iTunes](https://podcasts.apple.com/us/podcast/django-chat/id1451536459), [Spotify](https://open.spotify.com/show/4JTUPoJhFKOjbzNbGmIq5l?si=92c19ad7d7cc4bd6))
 
   * **Description**: A weekly podcast on the Django Web Framework.
   * **Host**: William Vincent @[wsv3000](https://twitter.com/wsv3000), Carlton Gibson @[carltongibson](https://twitter.com/carltongibson)
   * **Frequency**: Once a week
   * **Runtime**: 20 - 60 mins, regularly ~40 mins
 
-* [Django-Riffs](https://www.mattlayman.com/django-riffs/) ([iTunes](https://podcasts.apple.com/us/podcast/django-riffs/id1497248397))
+* [Django-Riffs](https://www.mattlayman.com/django-riffs/) ([iTunes](https://podcasts.apple.com/us/podcast/django-riffs/id1497248397), [Spotify](https://open.spotify.com/show/1RtdveQIz5m5MqLKPWbhnD?si=9ae04ec16dda474d))
 
   * **Description**: Django Riffs is a podcast for learning web application development in Python using the Django web framework. We explore all of Django's features to equip listeners with the knowledge to build a web app.
   * **Host**: Matt Layman @[@mblayman](https://twitter.com/mblayman))
