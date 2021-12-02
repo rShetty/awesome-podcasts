@@ -69,6 +69,12 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Laufzeit**: 60 - 120 min, regulär ~90 min
   * **Gastgeber**: Nico Kreiling [@NicoKreiling](https://twitter.com/nicokreiling) mit Gastsprechern
 
+* [binaergewitter](http://blog.binaergewitter.de/)
+  * **Beschreibung**: Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt
+  * **Häufigkeit**: circa alle 14 Tage
+  * **Laufzeit**: 60 - 120 min, selten mehr
+  * **Gastgeber**: [Ingo Ebel](https://twitter.com/ingoebel), [Felix Richter](https://twitter.com/makefoo) und weitere
+
 ## .NET
 
 * [DevCouch](https://devcouch.de/) ([RSS](https://devcouch.de/podcast/feed/))
