@@ -45,6 +45,7 @@ List of podcasts which are helpful for software engineers/programmers.
   * [Node.js](#nodejs)
   * [React.js](#reactjs)
   * [Vue.js](#vuejs)
+  * [Svelte](#svelte)
 * [Kotlin](#kotlin)
 * [Kubernetes and Cloud Native](#kubernetes)
 * [Linux](#linux)
@@ -1362,6 +1363,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Description**: Views on Vue
   * **Frequency**: Once a week
   * **Runtime**: 25 - 85 mins, regularly ~60 mins
+
+### Svelte
+
+* [Svelte Radio](https://www.svelteradio.com/)
+
+  * **Description**: Svelte Radio is a podcast about Svelte. We (Antony, Shawn and Kevin) meet up once every two weeks or so and discuss the latest in Svelte. Sometimes we also have interesting guests on.
+  * **Frequency**: Bi-Weekly
+  * **Runtime**: 40 - 60 mins, regularly ~50 mins
 
 ## Kotlin
 
