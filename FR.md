@@ -68,3 +68,9 @@ Une liste de podcasts pouvant être utile aux développeurs et aux ingénieurs l
   * **Animateur** : [Emmanuel Bernard](https://emmanuelbernard.com/), [Arnaud Héritier](https://twitter.com/aheritier), [Guillaume Laforge](https://twitter.com/glaforge), [Antonio Goncalves](https://twitter.com/agoncal), [Vincent Massol](https://twitter.com/vmassol?lang=fr) [Audrey Neveu](https://twitter.com/Audrey_Neveu)
   * **Site** : [https://lescastcodeurs.com/](https://lescastcodeurs.com/)
   * **Tagline** : Le podcast Java en Français
+
+* Dev Café
+
+  * **Animateur** : [Edouard Marquez](https://twitter.com/g123k)
+  * **Site** : [dev-cafe.fr](https://dev-cafe.fr/)
+  * **Tagline** : Tous les lundis, un condensé de l'actualité tech' mais vu par un développeur !
