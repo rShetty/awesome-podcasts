@@ -57,7 +57,7 @@
 
 ## PHP
 
-* [Пятиминутка PHP](https://5minphp.ru/) ([iTunes](https://itunes.apple.com/ru/podcast/patiminutka-php/id996423650) | [Android](http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss) | [SoundCloud](https://soundcloud.com/5minphp)
+* [Пятиминутка PHP](https://5minphp.ru/) ([iTunes](https://itunes.apple.com/ru/podcast/patiminutka-php/id996423650) | [Android](http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss) | [SoundCloud](https://soundcloud.com/5minphp))
   * **Описание**: Подкаст о новостях из мира PHP, интересных постах в блогах и современных подходах к разработке
   * **Регулярность**: Время от времени
 
@@ -108,6 +108,29 @@
   * **Регулярность** : Время от времени
   
 ## Обо всем
+
+* [#BeardyCast: гаджеты и медиакультура](https://beardycast.libsyn.com/) ([Apple Podcats](https://podcasts.apple.com/ru/podcast/beardycast-%D0%B3%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0/id868222886?ls=1) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9iZWFyZHljYXN0LmxpYnN5bi5jb20vcnNz?sa=X&ved=0CAMQ4aUDahgKEwignbOMsOX1AhUAAAAAHQAAAAAQnwE) | [Spotify](https://open.spotify.com/show/4CcxrhhYE59ntXxiC08Bij?si=MjjIf3L8SMWRaaYYYKk3YA))
+ 
+  * **Описание**:BeardyCast — главный подкаст о технологиях и медиакультуре. Один из Топ-10 подкастов года по версии Apple. Ведущие подкаста: Антон Поздняков, Сергей Епихин, Андрей Барышников.
+  * **Регулярность**: Еженедельно
+  * **Длительность**: 1 - 3 часа
+  
+* [Запуск завтра](https://libolibo.ru/zapuskzavtra) ([Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/id1488945593?l=en) | [Яндекс Музыка](https://music.yandex.ru/album/9294155) | [Spotify](https://open.spotify.com/show/6eZ2zcnLuwcJwKDAit0lY7) | [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly96YXB1c2t6YXZ0cmEubGlic3luLmNvbS9yc3M=))
+ 
+  * **Описание**: Подкаст о технологиях, которые меняют нашу жизнь. Самат Галимов — человек, который решает проблемы. Он работает техническим директором и все время должен находить общий язык с людьми самых разных профессий и помогать им понять друг друга. Хакеры рассказывают ему про безопасность, дата-сайентисты — про машинное обучение и системы распознавания лиц, разработчики — про то, как сделать сервис, которым будут пользоваться миллионы, и не облажаться.
+  * **Регулярность**: Еженедельно
+  * **Длительность**: 40 мин - 1 час
+
+* [IT-Trend](https://it-trend.podster.fm/)
+  * **Описание**: О новых устройствах, it-новостях и трендах
+  * **Регулярность** : Еженедельно
+  * **Длительность** : 1 час
+  
+* [Мы обречены](https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA/about) ([Яндекс Музыка](https://music.yandex.ru/album/10560587) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZTM3YjU2OC9wb2RjYXN0L3Jzcw==))
+
+  * **Описание**: Лучший бесполезный подкаст про ИТ. Журналист Артем Малышев и программист Фил Ранжин ищут смысл в индустрии информационных технологий
+  * **Регулярность** : Еженедельно
+  * **Длительность** : 1 - 2 часа  
 
 * [Podlodka Podcast](https://soundcloud.com/podlodka)
 
