@@ -105,3 +105,10 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
   * **Descrição**: Um podcast semanal feito por 3 figuras que já respiram tecnologia diariamente. Bruno Casemiro, Gustavo Faria e Marcus Mendes. Eles comentam tudo sobre a Apple e sobre o mercado de tecnologia em geral, sempre trazendo diferentes pontos-de-vista e experiências à discussão.
   * **Frequência**: Semanal
   * **Duração**: 60 - 120 min
+ 
+### Segurança
+
+* [Segurança Legal](https://www.segurancalegal.com/)
+  * **Descrição**: Um podcast sobre segurança da informação e direito digital.
+  * **Frequência**: mensal
+  * **Duração**: 45 - 120 min
