@@ -10,6 +10,7 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
 * [DevOps](#devops)
 * [Linux](#linux)
 * [Notícias](#noticias)
+* [Segurança](#seguranca)
 
 ### Carreira
 
