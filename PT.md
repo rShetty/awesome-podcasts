@@ -109,6 +109,7 @@ Uma lista de podcasts que podem ser úteis para programadores e engenheiros de s
 ### Segurança
 
 * [Segurança Legal](https://www.segurancalegal.com/)
-  * **Descrição**: Um podcast sobre segurança da informação e direito digital.
+  * **Descrição**: Um podcast sobre segurança da informação e direito da tecnologia da informação.
+  * **Hosts**: Vinícius Serafim [@vsserafim](https://twitter.com/vsserafim) e Guilherme Damasio Goulart [@DireitodaTI](https://twitter.com/DireitodaTI)
   * **Frequência**: mensal
   * **Duração**: 45 - 120 min
