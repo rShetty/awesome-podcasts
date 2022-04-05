@@ -2082,7 +2082,7 @@ invisible, stay secure from cyber threats, and make you a better online investig
   * **Frequency**: Twice a week
   * **Runtime**: 20 - 80 mins, regularly ~60 mins
 
-* [Cloudcast Basics](https://open.spotify.com/show/4PYyX9P1RnOQOEXdQZtHaK on [Spotify])
+* [Cloudcast Basics] ([Spotify](https://open.spotify.com/show/4PYyX9P1RnOQOEXdQZtHaK))
 
   * **Description**: A podcast for understanding basics of Cloud Computing.
   * **Host**: Aaron Delp @[@aarondelp](https://twitter.com/aarondelp), Brian Gracely @[Brian Gracely](https://twitter.com/bgracely)
