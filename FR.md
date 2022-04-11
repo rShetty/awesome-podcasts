@@ -74,3 +74,9 @@ Une liste de podcasts pouvant être utile aux développeurs et aux ingénieurs l
   * **Animateur** : [Edouard Marquez](https://twitter.com/g123k)
   * **Site** : [dev-cafe.fr](https://dev-cafe.fr/)
   * **Tagline** : Tous les lundis, un condensé de l'actualité tech' mais vu par un développeur !
+
+* Message à Caractère Informatique
+
+  * **Animateur** : [L'équipe de clever-cloud.com](https://www.clever-cloud.com)
+  * **Site** : [clever-cloud.com](https://www.clever-cloud.com/fr/podcast/)
+  * **Tagline** : Toutes les semaines (ou presque), on vous donne nos différents points de vue sur les récentes actualités de notre veille techno.
