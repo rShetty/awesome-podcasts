@@ -33,6 +33,11 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
    * **Frecuencia**: Semanalmente.
    * **Duración**: 50 - 70 min
 
+* [My typeof Radio](https://mytypeof.dev)
+  * **Descripción**: Un podcast de desarrollo web en Español. [Arturo Mosqueda](https://twitter.com/ArturoMChavez) y [Axel Martínez](https://twitter.com/_ackzell) somos Software Devs de México. Platicamos sobre todo de desarrollo web, las tecnologías que existen, los retos a los que nos enfrentamos, nuestros puntos de vista, algunas anécdotas y una que otra entrevista también.
+  * **Frecuencia**: No definida.
+  * **Duración**: 45 - 70 min
+
 * [SaaS Product Chat](https://saasproductchat.simplecast.com/)
    * **Descripción**: SaaS Product Chat es un vídeo podcast de tecnología que se enfoca en la creación, el desarrollo y el lanzamiento de productos Software as a Service (SaaS). Tenemos conversaciones técnicas sobre tópicos de software, a veces también con profesionales de la industria de la tecnología.
    * **Frecuencia**: Semanalmente.
@@ -58,4 +63,4 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
 * [Polémica en /var](https://open.spotify.com/show/4aSX6qCCbNLmOUX4fftc5M) ([Youtube](https://www.youtube.com/channel/UCPE3EUzO58EBHzrJp2Fv7_A))
   * **Descripción**: Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administracion de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
   * **Frecuencia**: Semanalmente
-  * **Duración**: 45-60 min
+  * **Duración**: 45 - 60 min
