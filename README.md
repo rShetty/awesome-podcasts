@@ -811,6 +811,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a week
   * **Runtime**: 10 - 55 mins, regularly ~40 mins
 
+* [The Dev Questions Podcast with Tim Corey](https://iamtimcorey.com/p/podcast) ([Spotify](https://open.spotify.com/show/17OuTS0Fo5iVNeZdkGXhI0?si=656e7bdb14f846c3))
+  * **Description**: In each episode, senior Microsoft MVP developer Tim Corey answers one question coming from some other developers about software engineering topics.
+  * **Host**: Tim Corey @[IAmTimCorey](https://twitter.com/iamtimcorey)
+  * **Frequency**: Once a week
+  * **Runtime**: 10 - 25 mins, regularly ~15 mins
+
 * [Developer Melange](https://developermelange.github.io)
 
    * **Description**: A monthly podcast which brings to you regular discussions about software engineering topics. All of them, in one way or another, related to building great software products.
