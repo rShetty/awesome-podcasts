@@ -27,6 +27,13 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Twitter**: [@codestammtisch](https://twitter.com/codestammtisch)
   * **Gastgeber**: [Maximilian Koch](https://twitter.com/tschaka1904) & [Nathan Mattes](https://twitter.com/zeitschlag)
 
+* [Heiseshow](https://www.heise.de/thema/%23heiseshow) ([RSS](https://heiseshow.podigee.io/feed/mp3), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuaGVpc2UuZGUvaGVpc2VzaG93LnJzcw), [iTunes](https://itunes.apple.com/de/podcast/heiseshow-audio/id1082296572)), [Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
+
+  * **Beschreibung**: Neue Produkte und Trends aus Computertechnik und Telekommunikation: Was bringen uns die neuen Technologien? Was gibt es Spannendes im Netz?
+  * **Häufigkeit** : Donnerstags. 12 Uhr. Live
+  * **Laufzeit**: ca. 60 min
+  * **Gastgeber**: [Kristina Beer](http://twitter.com/bee_k_bee) & [Martin Holland](https://twitter.com/fingolas) & [Jürgen Kuri](http://twitter.com/jkuri)
+
 * [INNOQ Podcast](https://www.innoq.com/de/podcast/) ([RSS](https://innoq.podigee.io/feed/aac))
   
   * **Beschreibung**: Interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
