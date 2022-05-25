@@ -27,6 +27,13 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
   * **Twitter**: [@codestammtisch](https://twitter.com/codestammtisch)
   * **Gastgeber**: [Maximilian Koch](https://twitter.com/tschaka1904) & [Nathan Mattes](https://twitter.com/zeitschlag)
 
+* [Das Computermagazin](https://www.br.de/mediathek/podcast/das-computermagazin/alle/576) ([RSS](https://feeds.br.de/das-computermagazin/feed.xml), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5ici5kZS9kYXMtY29tcHV0ZXJtYWdhemluL2ZlZWQueG1s), [iTunes](https://podcasts.apple.com/de/podcast/id163297644))
+
+  * **Beschreibung**: Neue Produkte und Trends aus Computertechnik und Telekommunikation: Was bringen uns die neuen Technologien? Was gibt es Spannendes im Netz?
+  * **Häufigkeit** : mind. 1 pro Woche
+  * **Laufzeit**: 20 - 50 min
+  * **Gastgeber**: [Christian Sachsinger](https://twitter.com/sachsinger?lang=en) & [Christian Schiffer](https://twitter.com/wurzelbier?lang=en)
+
 * [INNOQ Podcast](https://www.innoq.com/de/podcast/) ([RSS](https://innoq.podigee.io/feed/aac))
   
   * **Beschreibung**: Interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
