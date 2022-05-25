@@ -21,11 +21,18 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
 
 * [Codestammtisch](https://codestammtis.ch) ([RSS](https://codestammtis.ch/feed/mp3/), [Spotify](https://open.spotify.com/show/1q3dDiYvXHcMaDFopGt3Mh), [iTunes](https://itunes.apple.com/ch/podcast/codestammtisch/id1410854302?l=en&mt=2))
 
-  * **Beschreibung**: Ein Getränk lang Irgendwas mit Softwareentwicklung.
+  * **Beschreibung**: Ein Getränk lang eine Unterhaltung über Themen aus der Softwareentwicklung.
   * **Häufigkeit** : Jeden 2. Montag um 19:00 Uhr
   * **Laufzeit**: 1 Getränk (30 - 45 Minuten)
   * **Twitter**: [@codestammtisch](https://twitter.com/codestammtisch)
   * **Gastgeber**: [Maximilian Koch](https://twitter.com/tschaka1904) & [Nathan Mattes](https://twitter.com/zeitschlag)
+
+* [Computer und Kommunikation - Sendung - Deutschlandfunk](https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml) ([RSS](https://www.deutschlandfunk.de/computer-und-kommunikation-100.rss), [Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc?si=d903700bd6754551), [iTunes](https://podcasts.apple.com/de/podcast/computer-und-kommunikation-sendung-deutschlandfunk/id173754605))
+
+  * **Beschreibung**: Das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
+  * **Häufigkeit** : Jeden Samstag
+  * **Laufzeit**: 30 min
+  * **Gastgeber**: [Manfred Kloiber](https://twitter.com/radioklicker?lang=gl)
 
 * [INNOQ Podcast](https://www.innoq.com/de/podcast/) ([RSS](https://innoq.podigee.io/feed/aac))
   
