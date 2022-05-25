@@ -21,7 +21,7 @@ Eine Liste von Podcasts, die hilfreich für Software Entwickler und Programmiere
 
 * [Codestammtisch](https://codestammtis.ch) ([RSS](https://codestammtis.ch/feed/mp3/), [Spotify](https://open.spotify.com/show/1q3dDiYvXHcMaDFopGt3Mh), [iTunes](https://itunes.apple.com/ch/podcast/codestammtisch/id1410854302?l=en&mt=2))
 
-  * **Beschreibung**: 
+  * **Beschreibung**: Ein Getränk lang Irgendwas mit Softwareentwicklung.
   * **Häufigkeit** : Jeden 2. Montag um 19:00 Uhr
   * **Laufzeit**: 1 Getränk (30 - 45 Minuten)
   * **Twitter**: [@codestammtisch](https://twitter.com/codestammtisch)
