@@ -81,7 +81,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Gone Mobile](https://www.gonemobile.io/)
   * **Description**: A podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS & Windows development to mobile marketing and design.
   * **Host**: Greg Shackles @[gshackles](https://twitter.com/gshackles), Jon Dick @[redth.codes](https://twitter.com/redth)
-  * **Frequency**: Varies
+  * **Frequency**: Not updated anymore
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
 * [HERDING CODE](http://herdingcode.com)
