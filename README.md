@@ -25,6 +25,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [C++](#c)
 * [Career](#career)
 * [Clojure](#clojure)
+* [Cloud Computing](#cloud-computing)
 * [Community/Inspiration](#communityinspiration)
 * [Developer Relations](#developer-relations)
 * [Data Management](#data-management)
@@ -298,6 +299,15 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Daniel Compton @[danielwithmusic](https://twitter.com/danielwithmusic)
   * **Frequency**: Once a week
   * **Runtime**: 25 - 95 mins, regularly ~50 mins
+
+## Cloud Computing
+
+* [Cloudcast Basics](https://www.cloudcastbasics.net/) ([Spotify](https://open.spotify.com/show/4PYyX9P1RnOQOEXdQZtHaK))
+
+  * **Description**: A podcast for understanding basics of Cloud Computing.
+  * **Host**: Aaron Delp @[aarondelp](https://twitter.com/aarondelp), Brian Gracely @[bgracely](https://twitter.com/bgracely)
+  * **Frequency**: Once a week
+  * **Runtime**: 10 - 20 mins, regularly ~15 mins
 
 ## Community/Inspiration
 
