@@ -33,6 +33,12 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
    * **Frecuencia**: Semanalmente.
    * **Duración**: 50 - 70 min
 
+* [Entre Dev y Ops](https://www.entredevyops.es/)
+   * **Descripción**: [Ignasi Fosch](https://twitter.com/Swanros), [Javier Arellano Dragon](https://github.com/jare), [Eduardo Bellido](https://github.com/edubxb), y [David Acacio](https://github.com/dacacioa) hablan de la actualidad de la cultura DevOps, con especial atencion a los proyectos Open Source. En muchos de sus episodios invitan a una o más personas expertas en el tema a tratar
+   a modo de entrevista o tertulia.
+   * **Frecuencia**: Mensual.
+   * **Duración**: 30 - 60 min
+
 * [SaaS Product Chat](https://saasproductchat.simplecast.com/)
    * **Descripción**: SaaS Product Chat es un vídeo podcast de tecnología que se enfoca en la creación, el desarrollo y el lanzamiento de productos Software as a Service (SaaS). Tenemos conversaciones técnicas sobre tópicos de software, a veces también con profesionales de la industria de la tecnología.
    * **Frecuencia**: Semanalmente.
@@ -52,7 +58,7 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
 
 * [Interfaz Podcast](http://rdiazconcha.com/interfaz-podcast)
   * **Descripción**: Un podcast de arquitectura de software, desarrollo, nuevas tecnologías y soft skills creado por [Rodrigo Díaz Concha](https://twitter.com/rdiazconcha).
-  * **Frecuencia**: Semanalmente.
+  * **Frecuencia**: Semanalmente. 
   * **Duración**: 15 - 50 min
   
 * [Polémica en /var](https://open.spotify.com/show/4aSX6qCCbNLmOUX4fftc5M) ([Youtube](https://www.youtube.com/channel/UCPE3EUzO58EBHzrJp2Fv7_A))
