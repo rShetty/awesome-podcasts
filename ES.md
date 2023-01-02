@@ -39,6 +39,11 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
    * **Frecuencia**: Mensual.
    * **Duración**: 30 - 60 min
 
+* [Había una vez un algoritmo...](https://algoritmo.buzzsprout.com/)
+   * **Descripción**: [Camilo Chacón Sartori](https://camilochs.github.io/web/) diserta sobre conceptos fundamentales o de vanguardia. Dispone de varios episodios sobre la programación funcional. Ocasionalmente entrevista a ingenieros, matemáticos o programadores.
+   * **Frecuencia**: Mensual.
+   * **Duración**: 20 - 35 min
+
 * [SaaS Product Chat](https://saasproductchat.simplecast.com/)
    * **Descripción**: SaaS Product Chat es un vídeo podcast de tecnología que se enfoca en la creación, el desarrollo y el lanzamiento de productos Software as a Service (SaaS). Tenemos conversaciones técnicas sobre tópicos de software, a veces también con profesionales de la industria de la tecnología.
    * **Frecuencia**: Semanalmente.
