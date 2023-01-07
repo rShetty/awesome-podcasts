@@ -1641,13 +1641,6 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Once a month.
   * **Runtime**: 5 - 110 mins, regularly ~45 mins
 
-* [RubyTapas](https://www.rubytapas.com)
-
-  * **Description**: For the busy Ruby or Rails developer who is ready to reach the next level of code mastery.
-  * **Host**: Avdi Grimm @[avdi](https://twitter.com/avdi)
-  * **Frequency**: Once a week.
-  * **Runtime**: _unknown_
-
 * [The Ruby Testing Podcast](http://www.rubytestingpodcast.com/)
 
   * **Description**: On the Ruby Testing Podcast we discuss how to get started with testing as well as how to write better, more effective tests.
