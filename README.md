@@ -60,6 +60,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Rust](#rust)
 * [Scala](#scala)
 * [Security](#security)
+* [Self-hosting](#self-hosting)
 * [Software Testing](#software-testing)
 * [Swift](#swift)
 * [Web development](#web-development)
@@ -1876,6 +1877,13 @@ invisible, stay secure from cyber threats, and make you a better online investig
   * **Host**: Daniel Miessler @[danielmiessler](https://twitter.com/danielmiessler)
   * **Frequency**: Usually 15 - 30 mins, sometimes up to an hour
   * **Runtime**: Bi-Weekly, Weekly for subscribers
+
+## Self-hosting
+* [Self-hosted](https://selfhosted.show/) 
+  * **Description**: Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you along for the journey as they learn new ones.
+  * **Host**: Alex Kretzschmar and Chris Fisher
+  * **Frequency**: Every two weeks
+  * **Runtime**: Approximately 60 mins
 
 ## Software Testing
 * [AB Testing](https://www.angryweasel.com/ABTesting/)
