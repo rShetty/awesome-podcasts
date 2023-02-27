@@ -74,3 +74,11 @@ Une liste de podcasts pouvant être utile aux développeurs et aux ingénieurs l
   * **Animateur** : [Edouard Marquez](https://twitter.com/g123k)
   * **Site** : [dev-cafe.fr](https://dev-cafe.fr/)
   * **Tagline** : Tous les lundis, un condensé de l'actualité tech' mais vu par un développeur !
+
+* Génération Remote
+
+  * **Animateur** : [Xavier Coiffard](https://xvrc.net)
+  * **Site** : [podcast.remotefr.com/](podcast.remotefr.com/)
+  * **Tagline** : Le podcast sur les nouvelles formes de travail (télétravail, digital nomads…)
+  * **Durée**: 30 - 45 mins, de temps en temps ~60 mins
+
