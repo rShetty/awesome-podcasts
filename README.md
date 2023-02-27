@@ -566,6 +566,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Twice a week
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
+* [Women in Analytics After Hours](https://www.womeninanalytics.com/podcast)
+
+  * **Description**: Connects with women in all areas of data and analytics to talk about what they do in the space, how they got there, where they found data along the way, and more.
+  * **Host**: Lauren Burke @[lauren_e_burke](https://twitter.com/lauren_e_burke)
+  * **Frequency**: Every three weeks
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
+
+
 ## Devops
 
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
