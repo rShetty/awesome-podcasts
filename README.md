@@ -409,6 +409,12 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Data Management
 
+* [Weaviate Vector Search podcast](https://weaviate.io/podcast.html)
+  * **Description**: Connor Shorten interviews [Weaviate](https://github.com/semi-technologies/weaviate) community users, leading machine learning experts, and explores Weaviate vector search use cases.
+  * **Frequency**: Varies
+  * **Host**: Connor Shorten (@CShorten)
+  * **Runtime**: 30 - 60 min, regularly ~45 mins
+
 * [The Data Engineering Show](https://www.dataengineeringshow.com/subscribe)
   * **Description**: The DATA BROS talk to top data engineers from tech-forward brands about how they address their biggest data challenges.
   * **Frequency**: Once a week
