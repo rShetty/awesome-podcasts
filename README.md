@@ -406,6 +406,18 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Shodipo Ayomide @[developerayo](https://twitter.com/developerayo)
   * **Runtime**: 30 - 45 min, regularly ~35 mins
 
+* [Open Source Startup Podcast](https://oss-startup-podcast.launchnotes.io/)
+  * **Description**: Learn how to build an open-source startup from the founders of Chronosphere, Vercel, MongoDB, DBT, mobile.dev and more! 
+  * **Frequency**: Roughly once a week
+  * **Host**: Robby @[amanda_robs](https://twitter.com/amanda_robs) & Timothy Chen @[tnachen](https://twitter.com/tnachen)
+  * **Runtime**: ~45 mins
+
+* [Scaling DevTools](https://podcast.bitreach.io/)
+  * **Description**: Interviews with the people behind the growth of popular Developer Tools such as AssemblyAI, SendGrid & Algolia.
+  * **Frequency**: Once a week
+  * **Host**: Jack Bridger @[jacksbridger](https://twitter.com/jacksbridger)
+  * **Runtime**: ~20 mins
+
 
 ## Data Management
 
