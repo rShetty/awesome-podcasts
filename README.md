@@ -582,6 +582,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Varies
   * **Runtime**: 40 - 70 mins, regularly ~55 mins
 
+* [DevOps Accents](https://mkdev.me/podcast)
+
+  * **Description**: Bi-weekly podcast on everything around DevOps, Public Cloud and Cloud Native topics.
+  * **Host** [Pablo Inigo](https://www.linkedin.com/in/pabloinigo/), [Leo Suschev](https://www.linkedin.com/in/leo-suschev-48b340123/) and [Kirill Shirinkin](https://twitter.com/Fodoj)
+  * **Frequency**: Bi-weekly
+  * **Runtime**: 45 - 75 mins, regularly ~55 mins
+    
 * [DevOps Cafe](http://devopscafe.org/)
 
   * **Description**: A pragmatic look at the technology, tools, and business developments behind the emerging DevOps movement.
