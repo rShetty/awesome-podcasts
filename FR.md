@@ -2,6 +2,24 @@
 
 Une liste de podcasts pouvant être utile aux développeurs et aux ingénieurs logiciels et systèmes.
 
+* Message à caractère informatique ([Deezer](https://www.deezer.com/fr/show/1296342) | [Spotify](https://open.spotify.com/show/42LjM2Dn4ecaUaWe4AqipP) | [iTunes](https://podcasts.apple.com/fr/podcast/message-%C3%A0-caract%C3%A8re-informatique/id1515547030) | [Youtube](https://www.youtube.com/@Clevercloud-platform/podcasts))
+
+  * **Description** : Message à caractère informatique est un podcast qui traite de nombreux sujets de la tech, allant du kernel Linux aux lois qui régissent ce domaine en passant par les actualités des différents langages de programmation (Java, Rust, etc...).
+  * **Site** : [clever-cloud.com/fr/podcast](https://www.clever-cloud.com/fr/podcast/)
+  * **Animateurs** : [Quentin Adam](https://twitter.com/waxzce), [Steven Leroux](https://twitter.com/StevenLeroux20), [Julien Durillon](https://twitter.com/juuduu), [Arnaud Lefebvre](https://twitter.com/blackyoup), [Hubert Sablonnière](https://twitter.com/hsablonniere)
+  * **Durée** : 60 - 90 mins
+  * **Fréquence** : Toutes les semaines (ou presque)
+  * **Tag line** : Toutes les semaines (ou presque), on vous donne nos différents points de vue sur les récentes actualités de notre veille techno.
+
+* NoLimitSecu ([Deezer](https://www.deezer.com/fr/show/8831) | [Spotify](https://open.spotify.com/show/25OSac4B0QLqisXfg4hmyX) | [iTunes](https://itunes.apple.com/fr/podcast/nolimitsecu/id1108965516) | [Youtube](https://www.youtube.com/@NoLimitSecu) | [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubm9saW1pdHNlY3UuZnIvZmVlZC9wb2RjYXN0Lw?hl=fr))
+
+  * **Description** : NoLimitSecu est un podcast dédié à la cyber sécurité, alternant les sujets techniques, organisationnels et juridiques.
+  * **Site** : [nolimitsecu.fr](https://www.nolimitsecu.fr/)
+  * **Animateurs** : Johanne Ulloa @[julloa](https://twitter.com/julloa)
+  * **Durée** : 30 - 40 mins
+  * **Fréquence** : Toutes les semaines
+  * **Tag line** : Podcast dédié à la cyber sécurité.
+
 * Le Podcast Tech !
 
   * **Animateur** : Lilian Alvarez
