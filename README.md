@@ -1870,6 +1870,12 @@ invisible, stay secure from cyber threats, and make you a better online investig
   * **Frequency**: Usually 15 - 30 mins, sometimes up to an hour
   * **Runtime**: Bi-Weekly, Weekly for subscribers
 
+* [The Elephant in AppSec](https://www.youtube.com/@the-elephant-in-appsec)
+  * **Description**: We realized that in the world of Application Security, there are often unspoken challenges and issues that need attention – the "elephants in the room." We wanted to create a space where we could dive into these topics, ask the tough questions, and bring in experts who aren't afraid to challenge the status quo.
+  * **Host**: Tristan Kalos & Alexandra Charikova
+  * **Frequency**: Approximately twice per month
+  * **Runtime**: 30-40 mins
+
 ## Software Testing
 * [AB Testing](https://www.angryweasel.com/ABTesting/)
 
