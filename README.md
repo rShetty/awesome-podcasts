@@ -338,6 +338,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Hosts**: Mireille B. Reece, Psy.D and Adam Stacoviak @[adamstac](https://twitter.com/adamstac)
   * **Frequency**: Twice a month
   * **Runtime**: ~30-45 mins
+ 
+* [Citizen Web3](https://www.citizenweb3.com/episodes) ([iTunes](https://podcasts.apple.com/podcast/citizen-web3/id1510241147) | [Google Play](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZTJkNjcyMC9wb2RjYXN0L3Jzcw==) | [Pocket Cast](https://pca.st/g9vkfbgu) | [Overcast](https://overcast.fm/itunes1510241147/) | [Spotify](https://open.spotify.com/show/4pwsjBsgY1C5XCyRoslbSn))
+
+  * **Description**: Web3-focused podcast, discovering the people that contribute to building the decentralized world and turn code into decentralized applications.
+  * **Host**: Serejandmyself @[serejandmyself](https://twitter.com/serejandmyself)
+  * **Frequency**: Once a week
+  * **Runtime**: 45 - 60 minutes
 
 * [EmacsCast](https://emacscast.org/) ([iTunes](https://itunes.apple.com/fi/podcast/emacscast/id1421123475) | [Google Play](https://play.google.com/music/m/Ibuxcgna6nqgyg7yrolgqu5bi6m?t%3DEmacsCast) | [Pocket Cast](https://pca.st/CxE9) | [Overcast](https://overcast.fm/itunes1421123475/emacscast) | [Youtube](https://www.youtube.com/channel/UCEfFUaIkjbI06PhALdcXNVA))
 
