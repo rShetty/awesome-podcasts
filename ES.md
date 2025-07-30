@@ -33,6 +33,11 @@ Una lista de podcasts que puede ser útil para programadores e ingenieros de sof
    * **Frecuencia**: Semanalmente.
    * **Duración**: 50 - 70 min
 
+* [Enchiladas DevOps](https://open.spotify.com/show/5MO4g48dBOHaiy5xBpttRK?si=a837b7b449e54357) ([Youtube](https://www.youtube.com/@enchiladasdevops))
+  * **Descripción**: El podcast informal de DevOps hecho con amor y picante. Gloria Palma y Ricardo Pérez conversan sobre cultura DevOps, automatización, contenedores, infraestructura, anécdotas laborales y comunidad tech en Latinoamérica, todo con un toque relajado, crítico y sabrosón.
+  * **Frecuencia**: No definida.
+  * **Duración**: 60-90 min
+
 * [Entre Dev y Ops](https://www.entredevyops.es/)
    * **Descripción**: [Ignasi Fosch](https://twitter.com/Swanros), [Javier Arellano Dragon](https://github.com/jare), [Eduardo Bellido](https://github.com/edubxb), y [David Acacio](https://github.com/dacacioa) hablan de la actualidad de la cultura DevOps, con especial atencion a los proyectos Open Source. En muchos de sus episodios invitan a una o más personas expertas en el tema a tratar
    a modo de entrevista o tertulia.
