@@ -384,6 +384,14 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Meredydd Luff @[meredydd](https://twitter.com/meredydd)
   * **Frequency**: Once a month
   * **Runtime**:  30 - 45 mins
+ 
+ * [Soapbox Sessions](https://sessions.soapbox.pub) ([Apple](https://podcasts.apple.com/us/podcast/soapbox-sessions/id1837576097) | [Spotify](https://open.spotify.com/show/1uBFCX46GH0npKB46stxAO) | [Fountain](https://fountain.fm/show/aq7IaS6bdQ6kF6NWDzzc) | [RSS](https://sessions.soapbox.pub/rss.xml))
+
+    * **Description**: Your weekly dose of all things Nostr + AI. It’s our Soapbox about what’s new, what’s cool, and what’s coming—making it easy to understand and keep up with the decentralized future of the Internet.
+    * **Hosts**: Derek Ross ([@derekross](https://njump.me/derekross@grownostr.org)) & Heather Larson ([@heatherlarson](https://njump.me/heatherlarson@nostrplebs.com))
+    * **Frequency**: Weekly, new episodes every Thursday
+    * **Runtime**: ~1 hour
+    * **Social**: [Nostr](https://njump.me/npub1xxzpxp4xvueh8836reda2jyx674tuwvtla927837nuarqh375kqsw4dm62)
 
 * [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/)
 
