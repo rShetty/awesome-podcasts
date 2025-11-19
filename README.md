@@ -568,11 +568,11 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
 
 ## Devops
 
-* [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
+* [Adventures in DevOps](https://adventuresindevops.com)
 
   * **Description**: Adventures in DevOps is a weekly podcast about everything DevOps.
-  * **Host**: Nell Shamrell-Harrington @[nellshamrell](https://twitter.com/nellshamrell), Scott Nixon @[citadelgrad](https://twitter.com/citadelgrad), and Lee Whalen
-  * **Frequency**: Varies
+  * **Host**: Warren Parad @[wparad](https://warrenparad.net) and Will Button @[wbutton](https://www.linkedin.com/in/willbutton)
+  * **Frequency**: Weekly
   * **Runtime**: 30 - 60 mins
 
 * [Arrested DevOps](https://www.arresteddevops.com/)
