@@ -464,6 +464,13 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Derrick Harris @[derrickharris](https://twitter.com/derrickharris)
   * **Runtime**: 30 - 40 mins, regularly ~35 mins
 
+* [Chain of Thought](https://www.chainofthought.dev/)
+
+  * **Description**: Weekly conversations with AI leaders, engineers, and founders exploring the ideas shaping AI development — from inference infrastructure and developer tools to leadership and industry strategy.
+  * **Host**: Conor Bronsdon @[conorbronsdon](https://twitter.com/conorbronsdon)
+  * **Frequency**: Once a week
+  * **Runtime**: 30 - 60 mins, regularly ~45 mins
+
 * [Concerning AI](https://concerning.ai)
 
   * **Description**: Talking about, Is there an existential risk from Human-level (and beyond) Artificial Intelligence? If so, what can we do about it?
