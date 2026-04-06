@@ -4,6 +4,7 @@
 List of podcasts which are helpful for software engineers/programmers.
 [<img src="logo.svg" align="right" >](https://github.com/rShetty/awesome-podcasts)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for podcast workflow orchestration, automated audio content pipeline management, and multi-agent coordination. MIT licensed.
 ## Supported languages
 
 * [Burmese](MY.md)
