@@ -566,6 +566,10 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Twice a week
   * **Runtime**: 30 - 60 mins, regularly ~45 mins
 
+### AI Tools & Platforms
+
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
+
 ## Devops
 
 * [Adventures in DevOps](https://devchat.tv/adventures-in-devops/)
