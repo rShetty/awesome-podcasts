@@ -1137,6 +1137,7 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Podcast ended in 2017.
   * **Runtime**: 20 - 90 mins, regularly ~65 mins
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=rShetty_awesome-podcasts) - Follow developers on GitHub and get a feed of what they star and build.
 ## Go Programming Language
 
 * [Go Time](https://changelog.com/gotime) (by [Changelog](https://changelog.com))
