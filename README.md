@@ -37,6 +37,7 @@ List of podcasts which are helpful for software engineers/programmers.
 * [Git](#git)
 * [Go Programming Language](#go-programming-language)
 * [Groovy](#groovy)
+* [Hardware](#hardware)
 * [iOS](#ios)
 * [Ionic](#ionic)
 * [Java](#java)
@@ -1160,6 +1161,27 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Host**: Kenneth Kousen @[kenkousen](https://twitter.com/kenkousen), Baruch Sadogursky @[jbaruch](https://twitter.com/jbaruch)
   * **Frequency**: Approximately once a month
   * **Runtime**: 20 - 70 mins, regularly ~50 mins
+
+## Hardware
+
+* [Bugged Out](https://blogs.sw.siemens.com/podcasts/bugged-out/)
+
+  * **Description**: Bite-sized conversations on functional verification, from AI-driven tools to coverage closure, from Siemens EDA.
+  * **Host**: Harry Foster
+  * **Frequency**: Twice a month
+  * **Runtime**: 10 - 20 mins, regularly ~15 mins
+* [Computer Architecture Podcast](https://comparchpodcast.podbean.com/)
+
+  * **Description**: Conversations on the cutting edge of computer architecture research and industry.
+  * **Host**: Suvinay Subramanian, Lisa Hsu
+  * **Frequency**: Varies
+  * **Runtime**: 45 - 75 mins, regularly ~60 mins
+* [Wearing Flip-Flops](https://wearing-flip-flops.com)
+
+  * **Description**: Hardware podcast for chip designers: verification, EDA, emulation and the silicon behind AI, with engineers from Cadence, Synopsys, Google and AWS.
+  * **Host**: Ronen Laviv
+  * **Frequency**: Every two weeks
+  * **Runtime**: 25 - 45 mins, regularly ~38 mins
 
 ## iOS
 * [Inside iOS Dev](https://insideiosdev.com/) ([Apple Podcasts](https://podcasts.apple.com/us/podcast/inside-ios-dev/id1231805301) | [Podyssey Podcasts](https://podyssey.fm/podcast/itunes1231805301-Inside-iOS-Dev))
