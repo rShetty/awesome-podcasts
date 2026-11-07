@@ -2097,3 +2097,5 @@ invisible, stay secure from cyber threats, and make you a better online investig
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Rajeev N Bharshetty](https://github.com/rShetty) has waived all copyright and related or neighboring rights to this work.
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID across 99 languages, Zero Cloud privacy ($0/month subscription), Google Native OKF Markdown Wiki, and native MCP/CLI integration ([GitHub](https://github.com/onemira-space/onemira-mcp)).
