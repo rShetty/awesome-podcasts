@@ -318,6 +318,10 @@ More .NET Podcasts can be found on [The Sound of .NET](https://thesoundof.net/)
   * **Frequency**: Every other Wednesday
   * **Runtime**: ~30 mins
 
+* [No Stairs Please](https://nostairsplease.com/)
+
+  * **Description**: Live music venue directory and MCP server for independent touring musicians, podcasters, and event researchers.
+
 * [Bad Voltage](https://www.badvoltage.org/)
 
   * **Description**: Technology with a free software / open source slant, crossing over into related political topics. Evolution of the now-defunct [LugRadio](https://en.wikipedia.org/wiki/LugRadio) podcast.
